@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Meta Tags properties-->
+<meta property="og:title" content="On This Day - 28 October" />
+<meta property="og:description" content="1978: the TV Times featured a two page article in which Lena talked about her eating disorder and how she has managed to overcome it. Contains two black and white photos of her. 1985: Thames News broadcast an interview with Lena, she talked about her recent comeback and her current plans" />
+
+<!-- Meta Tags names-->
+<meta name="title" content="On This Day - 28 October" />
+<meta name="description" content="1978: the TV Times featured a two page article in which Lena talked about her eating disorder and how she has managed to overcome it. Contains two black and white photos of her. 1985: Thames News broadcast an interview with Lena, she talked about her recent comeback and her current plans" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Twitter Card Meta Tags-->
+<meta name="twitter:card" content="summary" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+<!-- CSS-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+<link href="/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<title>On This Day - 28 October</title>
+</head>
+
+<body>
+<nav>
+<div class="nav-wrapper container" style="width:100%">
+<a id="logo-container" href="/index.html" class="brand-logo truncate">Fanz of Lena Zavaroni</a>
+<ul class="right hide-on-med-and-down">
+<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
+<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
+<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
+<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
+<li><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
+<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
+<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
+
+</ul>
+
+<ul id="nav-mobile" class="side-nav">
+<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
+<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
+<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
+<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
+<li><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
+<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
+<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
+
+</ul>
+<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+</div>
+</nav>
+
+<main class="Main-Default">
+<article>
+<div class="row">
+<div class="col s12">
+<div class="card hoverable  Card-Default">
+<div class="card-content flow-text">
+<span class="card-title"><strong>On This Day:</strong> 28 October 1978</span>
+<p><span id="age1"></span> years ago the TV Times featured a two page article in which Lena talked about her eating disorder and how she has managed to overcome it. Contains two black and white photos of her.</p>
+<br/>
+<p>Also a mention of Lena in the Family Scene section of the TV Times, with a small colour photo.</p>
+</div></div></div></div>
+
+<div class="row">
+<div class="col s12">
+<div class="card hoverable  Card-Default">
+<div class="card-content flow-text">
+<span class="card-title"><strong>On This Day:</strong> 28 October 1985</span>
+<p><span id="age2"></span> years ago Thames News broadcast an interview with Lena, she talked about her recent comeback and her current plans <sup><small>[<a href="/news/ThamesNews/1985-10-28.html">1</a>]</small></sup></p>
+</div></div></div></div>
+</article>
+</main>
+<!-- Script for calculating number of years ago -->
+<script>
+var dob = '19781028';
+var year = Number(dob.substr(0, 4));
+var month = Number(dob.substr(4, 2)) - 1;
+var day = Number(dob.substr(6, 2));
+var today = new Date();
+var age1 = today.getFullYear() - year;
+if (today.getMonth() < month || (today.getMonth() == month && today.getDate() < day)) {
+age1--;
+}
+document.getElementById("age1").innerHTML=age1;
+
+var dob = '19851028';
+var year = Number(dob.substr(0, 4));
+var month = Number(dob.substr(4, 2)) - 1;
+var day = Number(dob.substr(6, 2));
+var today = new Date();
+var age2 = today.getFullYear() - year;
+if (today.getMonth() < month || (today.getMonth() == month && today.getDate() < day)) {
+age2--;
+}
+document.getElementById("age2").innerHTML=age2;
+</script>
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="/materialize/js/materialize.min.js"></script>
+<script src="/materialize/js/init.js"></script>
+</body>
+</html>
