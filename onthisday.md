@@ -405,7 +405,7 @@ OnThisDay ='/onthisday/08/08-16.html';
 if (month == '8' && day == '17') {
 OnThisDay ='/theatre/1975/the-lena-zavaroni-show-1975-08-17.html';
 }
-if (month == '8' && day == '18') {
+if (month == '8' && day == '19') {
 OnThisDay ='/onthisday/08/08-19.html';
 }
 if (month == '8' && day == '20') {
