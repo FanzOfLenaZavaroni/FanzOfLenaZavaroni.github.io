@@ -16,7 +16,7 @@ minima:
     github:  FanzOfLenaZavaroni
     rss: rss
     # dribbble: N/A
-    # facebook: fanzoflenazavaroni
+    # facebook: N/A
     # flickr:   N/A
     # instagram: N/A
     # linkedin: N/A
@@ -41,6 +41,7 @@ header_pages:
    - introduction.md
    - biographies.md
    - categories.md
+   - onthisday.md
 
 include: ['biography']
 

@@ -1,3 +1,8 @@
+---
+layout: page
+title: On This Day
+---
+
 <script>
 onload = function (){
 var today = new Date();
