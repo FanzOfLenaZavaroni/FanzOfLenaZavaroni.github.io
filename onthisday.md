@@ -409,7 +409,7 @@ if (month == '8' && day == '19') {
 OnThisDay ='/onthisday/08/08-19.html';
 }
 if (month == '8' && day == '20') {
-OnThisDay ='/theatre/1978/08/20/sunday-all-star-celebrity-concert.html';
+OnThisDay ='/onthisday/08/08-20.html';
 }
 if (month == '8' && day == '21') {
 OnThisDay ='/television/hi-summer/hi-summer-06.html';
