@@ -412,10 +412,10 @@ if (month == '8' && day == '20') {
 OnThisDay ='/onthisday/08/08-20.html';
 }
 if (month == '8' && day == '21') {
-OnThisDay ='/television/hi-summer/hi-summer-06.html';
+OnThisDay ='/onthisday/08/08-21.html';
 }
 if (month == '8' && day == '22') {
-OnThisDay ='/theatre/1976/the-lena-zavaroni-show-1976-08-22.html';
+OnThisDay ='/onthisday/08/08-22.html';
 }
 if (month == '8' && day == '23') {
 OnThisDay ='/onthisday/08/08-23.html';
@@ -423,14 +423,17 @@ OnThisDay ='/onthisday/08/08-23.html';
 if (month == '8' && day == '24') {
 OnThisDay ='/onthisday/08/08-24.html';
 }
+if (month == '8' && day == '25') {
+OnThisDay ='/onthisday/08/08-25.html';
+}
 if (month == '8' && day == '26') {
-OnThisDay ='/publications/emma/1978-08-26.html';
+OnThisDay ='/onthisday/08/08-26.html';
 }
 if (month == '8' && day == '27') {
-OnThisDay ='/theatre/1978/the-lena-zavaroni-show-1978-08-27.html';
+OnThisDay ='/onthisday/08/08-27.html';
 }
 if (month == '8' && day == '28') {
-OnThisDay ='/television/hi-summer/hi-summer-07.html';
+OnThisDay ='/onthisday/08/08-28.html';
 }
 if (month == '8' && day == '29') {
 OnThisDay ='/onthisday/08/08-29.html';
@@ -440,6 +443,9 @@ OnThisDay ='/onthisday/08/08-30.html';
 }
 if (month == '8' && day == '31') {
 OnThisDay ='/onthisday/08/08-31.html';
+}
+if (month == '9' && day == '01') {
+OnThisDay ='/onthisday/09/09-01.html';
 }
 if (month == '9' && day == '02') {
 OnThisDay ='/onthisday/09/09-02.html';
