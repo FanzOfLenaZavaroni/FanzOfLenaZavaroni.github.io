@@ -3,11 +3,11 @@ layout: post
 title: The Lena Zavaroni Show
 subtitle: The Futurist Theatre, Scarborough
 description: Lena Zavaroni stars in her own show at The Futurist Theatre, Scarborough.
-image: /assets/images/locations/
+image: /assets/images/locations/the-futurist-theatre-200x200.png
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
-> [![](/assets/images/locations/geograph-5270508-by-barry-shimmon.jpg){: .full-width}]()
+> ![The Futurist Theatre, Scarborough](/assets/images/locations/the-futurist-theatre.jpg)
 
 <cite>The Futurist Theatre, Scarborough</cite>
 
@@ -21,4 +21,4 @@ categories: [Theatre, The Lena Zavaroni Show]
 <cite>Robcamstone</cite>
 
 **Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.71774129999999%2C-1.8749904000000015&z=19)</span>
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=54.282119500000036%2C-0.39636270000005425&z=19)</span>
