@@ -4,7 +4,7 @@ title: The Herald Scotland
 subtitle: Home town memorial to Lena Zavaroni unveiled
 description: An anorexia sufferer, who has taken the name of a singing star who died of the disease, is fighting for better respite care. Ellie Zavaroni, who took the name of her friend Lena Zavaroni after the singer died in 1999, is battling againt the debilitating disease...
 image: /assets/images/BBC/2002-08-08-bbc-news-200x200.png
-categories: [BBC News]
+categories: [The Herald Scotland]
 ---
 
 > Alison Smith, fund co-ordinator for the memorial on the Isle of Bute, said: &quot;Some friends and I decided that a monument to Lena Zavaroni was needed in Rothesay. The unveiling today marks the culmination of two years' work&quot;.
