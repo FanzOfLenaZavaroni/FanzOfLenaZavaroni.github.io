@@ -39,9 +39,9 @@ categories: [BBC News]
 
 <cite>Robcamstone</cite>
 
-**Large Bronze Garden Statue**
+**eBay:** Large Bronze Garden Statue
 
-![]()
+![](/assets/images/newspapers/Large-Bronze-Garden-Statue-Little-Girl-With-Butterflies.jpg)
 
 [Little Girl With Butterflies](https://www.ebay.com/b/Bronze-Statues-Ornaments/29511/bn_7848396)
 
