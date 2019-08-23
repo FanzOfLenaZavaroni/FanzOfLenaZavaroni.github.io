@@ -1,10 +1,12 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
-subtitle: The Southport Theatre, Southport
+subtitle: The Drake Theatre, Plymouth
 description: Starring Lena Zavaroni
 categories: [Theatre, The Lena Zavaroni Show]
 ---
+
+Songs included Even Now, I Can't Live Without You, Jump Down Jimmy and La Zavaroni.
 
 **Research is on going and hopefully I will be able to add more details**
 > If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
