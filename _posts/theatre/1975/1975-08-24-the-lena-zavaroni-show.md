@@ -17,4 +17,4 @@ categories: [Theatre, The Lena Zavaroni Show]
 <cite>Robcamstone</cite>
 
 **Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.435480399999996%2C-3.559889300000009&z=19)</span>
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=53.65201430000001%2C-3.0062123999999812&z=19)</span>
