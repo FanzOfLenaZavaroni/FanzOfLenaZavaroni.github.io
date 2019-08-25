@@ -15,3 +15,6 @@ categories: [Theatre, The Lena Zavaroni Show]
 > You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or contact me on [Fanz of Lena Zavaroni](https://www.facebook.com/fanzoflenazavaroni) Facebook Page.
 
 <cite>Robcamstone</cite>
+
+**Google Map:**
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=51.0760374%2C1.1733366999999362&z=19)</span>
