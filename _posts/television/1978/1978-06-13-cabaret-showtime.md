@@ -4,7 +4,8 @@ title: Cabaret Showtime
 subtitle: Episode 1
 description: In this episode of the programme Jimmy Logan introduces his special guest Lena Zavaronl also featuring The New Seekers, Danny Street, Andy Cameron and Alex Welsh and His Band.
 image: /assets/images/BBC/1978-06-13-cabaret-showtime.jpg
-categories: [BBC Television]
+categories: [BBC One, BBC Scotland]
+permalink: /BBC/:title:output_ext
 ---
 
 In this episode of the programme Jimmy Logan introduces his special guest Lena Zavaronl also featuring The New Seekers, Danny Street, Andy Cameron and Alex Welsh and His Band.

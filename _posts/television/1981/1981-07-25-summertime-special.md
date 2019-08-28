@@ -4,7 +4,8 @@ title: Summertime Special - Brighton
 subtitle: Episode 1.1
 description: Recorded on 10 July 1981 for broadcast on 25 July 1981. Lena presents the show and performs Roses And Rainbows and Bobby Darin’s Multiplication.
 image: /assets/images/BBC/1981-07-25-summertime-special-200x200.png
-categories: [BBC Television]
+categories: [BBC One]
+permalink: /BBC/:title:output_ext
 ---
 
 ![Screenshot of Programme ID For Summertime Special](/assets/images/BBC/1981-07-25-summertime-special.jpg)

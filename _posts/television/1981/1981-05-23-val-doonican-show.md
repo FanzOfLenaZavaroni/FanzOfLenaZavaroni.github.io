@@ -1,10 +1,11 @@
 ---
 layout: post
 title: The Val Doonican Music Show
-subtitle: Episode 5.7 
+subtitle: Episode 5.7
 description: Starring Val Doonican with special guests Lena Zavaroni Keith Harris with Orville and introducing Canadian Brass, The Saturday Singers featuring Tracey Miller. Click on link for more details.
 image: /assets/images/BBC/lena-zavaroni-publicity-photo-small.jpg
-categories: [BBC Television]
+categories: [BBC One]
+permalink: /BBC/:title:output_ext
 ---
 
 [![Screenshot of Lena Zavaroni on the The Val Doonican Music Show](/assets/images/BBC/screenshots---00551_37053981130_o.png "Screenshot of Lena Zavaroni on the The Val Doonican Music Show"){: .full-width}{: .zoom-out}](/assets/images/BBC/screenshots---00551_37053981130_o.png)

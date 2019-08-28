@@ -4,9 +4,9 @@ title: Lennie And Jerry
 subtitle: Episode 1.2
 description: Lennie Bennett and Jerry Stevens with guests Lena Zavaroni, Frediani (the world's fastest juggler) and (the Boogie-Woogie duo) Che and Ray.
 image: /assets/images/BBC/1978-06-24-lennie-and-jerry-01.jpg
-categories: [BBC Television]
+categories: [BBC One]
+permalink: /BBC/:title:output_ext
 ---
-
 
 ![From left to right: Jerry Stevens, Lena Zavaroni, Lennie Bennett](/assets/images/BBC/1978-06-24-lennie-and-jerry-01.jpg "From left to right: Jerry Stevens, Lena Zavaroni, Lennie Bennett"){: .half-width}
 ![Lena performs as Groucho Marx](/assets/images/BBC/1978-06-24-lennie-and-jerry-02.jpg "Lena performs as Groucho Marx"){: .half-width}

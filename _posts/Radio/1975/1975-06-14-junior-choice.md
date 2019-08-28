@@ -4,7 +4,8 @@ title: Junior Choice
 subtitle: BBC Radio 1 medium wave (also on BBC Radio 2 VHF)
 description: Lena chats on the BBC Radio show presented by Ed Stewart. Click on link for more details and to hear Lena Zavaroni's section of the Radio Show.
 image: /assets/images/radio/radio-tower-200x200.png
-categories: [BBC Radio]
+categories: [BBC Radio 1, BBC Radio 2]
+permalink: /BBC/:title:output_ext
 ---
 
 Lena chats on the BBC Radio show presented by Ed Stewart.
