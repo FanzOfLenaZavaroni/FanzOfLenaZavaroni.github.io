@@ -3,7 +3,7 @@ layout: post
 title: Jerry Lewis MDA Labor Day Telethon
 subtitle: Charity fundraising Telethon for the Muscular Distrophy Association
 description: Charity fundraising Telethon for the Muscular Distrophy Association
-image: /assets/images/US-TV/
+image: /assets/images/US-TV/1974-08-31-jerry-lewis-mda-labor-day-telethon-200x200.png
 categories: [US Television]
 ---
 
