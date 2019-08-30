@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
-subtitle: Winter Gardens, Bournemouth
-description: Lena Zavaroni stars in her own show at The Winter Gardens, Bournemouth.
+subtitle: The Opera House, Blackpool
+description: Lena Zavaroni stars in her own show at The Opera House, Blackpool.
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
@@ -18,7 +18,4 @@ categories: [Theatre, The Lena Zavaroni Show]
 <cite>Robcamstone</cite>
 
 **Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.7177435%2C-1.8815762000000404&z=19)</span>
-
-**BBC News:** 28 November 2018
-[Bournemouth Winter Gardens £150m revamp plans approved](https://www.bbc.co.uk/news/uk-england-dorset-46375045)
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)]()</span>
