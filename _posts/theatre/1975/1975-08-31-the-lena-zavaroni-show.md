@@ -18,22 +18,4 @@ categories: [Theatre, The Lena Zavaroni Show]
 <cite>Robcamstone</cite>
 
 **Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=53.65201430000001%2C-3.0062123999999812&z=19)</span>
-
-
-<div class="col s12 m3">
-<div class="card hoverable Card-Default">
-<div class="card-content">
-<img class="responsive-img" src="https://farm2.staticflickr.com/1877/43583193364_4cb5f9dfbe_o_d.jpg">
-</div>
-<div class="card-action">
-View on <a href="https://www.flickr.com/photos/robcamstone/43583193364">Flickr <sup><i class="fa fa-external-link" aria-hidden="true"></i></sup></a>
-</div></div></div></div>
-</article>
-</main>
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="/materialize/js/materialize.min.js"></script>
-<script src="/materialize/js/init.js"></script>
-</body>
-</html>
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.7177435%2C-1.8815762000000404&z=19)</span>
