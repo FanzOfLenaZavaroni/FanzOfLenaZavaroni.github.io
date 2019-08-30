@@ -6,8 +6,6 @@ description: Lena Zavaroni stars in her own show at The Opera House, Blackpool.
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
-![](/assets/images/locations/1975-08-31-the-lena-zavaroni-show.jpg)
-
 **Research is on going and hopefully I will be able to add more details**
 > If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
 >
