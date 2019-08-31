@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--Enabled DNS prefetching-->
+<meta http-equiv="x-dns-prefetch-control" content="on">
+
+<!-- Meta Tags properties-->
+<meta property="og:title" content="Somewhere South Of Macon" />
+<meta property="og:description" content="Somewhere South Of Macon by Lena Zavaroni.">
+<meta property="og:image" content="https://farm5.staticflickr.com/4635/38660594364_b77ce302a9_o_d.png" />
+
+<!-- Meta Tags names-->
+<meta name="description" content="Somewhere South Of Macon by Lena Zavaroni.">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Twitter Card Meta Tags-->
+<meta name="twitter:card" content="summary" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- CSS-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+<link href="/css/materialize.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="/materialize/css/style.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="/audioplayer/css/style.css" type="text/css" rel="stylesheet" media="screen" />
+
+<title>Somewhere South Of Macon</title>
+</head>
+
+<body>
+<nav>
+<div class="nav-wrapper container" style="width:100%">
+<a id="logo-container" href="/index.html" class="brand-logo truncate">Fanz of Lena Zavaroni</a>
+<ul class="right hide-on-med-and-down">
+<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
+<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
+<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
+<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
+<li class="active"><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
+<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
+<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
+
+</ul>
+
+<ul id="nav-mobile" class="side-nav">
+<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
+<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
+<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
+<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
+<li class="active"><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
+<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
+<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
+
+</ul>
+<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+</div>
+</nav>
+	
+<main class="Main-Default">
+<article>
+<div class="row">
+<div class="col s12 m9">
+<h2>Somewhere South Of Macon</h2>
+<h4>25 September 1981</h4>
+<p class="flow-text">Somewhere South Of Macon by Lena Zavaroni.</p>
+<div class="mediaplayer" id="mediaPlayer">
+	<audio id="audioPlayer" src="https://fanzoflenazavaroni.github.io/audioplayer/media/A13.mp3"></audio>
+	<div class="discarea">
+		<div class="disc">
+		</div>
+		<div class="stylus">
+			<div class="pivot"></div>
+			<div class="arm"></div>
+			<div class="head"></div>
+		</div>
+	</div>
+	<div class="controls">
+		<span class="title" id="songTitleLabel">
+			Somewhere South Of Macon
+		</span>
+		<div class="buttons">
+			<button id="backItem" class="back">
+				<i class="fa fa-backward"></i>
+			</button>
+			<button id="playState" class="playstate">
+				<i class="fa fa-play"></i>
+				<i class="fa fa-pause"></i>
+			</button>
+			<button id="stopItem" class="stop">
+				<i class="fa fa-stop"></i>
+			</button>
+			<button id="nextItem" class="next">
+				<i class="fa fa-forward"></i>
+			</button>
+		</div>
+		<div class="subControls">
+			<span class="duration" id="currentDuration">00:00</span>
+			<input class="volumeSlider" type="range" id="volumeSlider" min="0" max="1" step="0.01"/>
+		</div>
+	</div>
+</div>
+<p>Wooden MP3 Player A PEN BY <a href="https://codepen.io/mujavidb/pen/VmPydM">Mujavid Bukhari <sup><i class="fa fa-external-link"></i></sup></a></p>
+</div>
+
+<div class="col s12 m3">
+<div class="card hoverable Card-Default">
+<div class="card-content">
+<img class="responsive-img" src="https://farm5.staticflickr.com/4635/38660594364_b77ce302a9_o_d.png">
+<ul>
+<li><b>Artist:</b> Lena Zavaroni</li>
+<li><b>A side:</b> Somewhere South Of Macon</li>
+<li><b>B side:</b> Little Things Mean A Lot</li>
+<li><b>Label:</b> President</li>
+<li><b>Country:</b> England</li>
+<li><b>Catalogue:</b> PTZ 496</li>
+<li><b>Released:</b> 25 September 1981</li>
+</ul>
+<a href="http://www.45cat.com/record/pt496">45Cat <sup><i class="fa fa-external-link"></i></sup></a>
+</div></div></div></div>
+</article>
+</main>
+
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="/materialize/js/materialize.min.js"></script>
+<script src="/materialize/js/init.js"></script>
+<script src="/audioplayer/js/single-13.js"></script>
+</body>
+</html>
