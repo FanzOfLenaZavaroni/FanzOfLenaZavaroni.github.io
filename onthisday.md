@@ -466,25 +466,25 @@ if (month == '9' && day == '07') {
 OnThisDay ='/onthisday/09/09-07.html';
 }
 if (month == '9' && day == '09') {
-OnThisDay ='/publications/emma/1978-09-09.html';
+OnThisDay ='/onthisday/09/09-09.html';
 }
 if (month == '9' && day == '11') {
 OnThisDay ='/onthisday/09/09-11.html';
 }
 if (month == '9' && day == '12') {
-OnThisDay ='/theatre/1982/harold-fieldings-sunday-night-at-the-blackpool-opera-house-1982-09-12.html';
+OnThisDay ='/onthisday/09/09-12.html';
 }
 if (month == '9' && day == '14') {
-OnThisDay ='/publications/billboard/1974-09-14.html';
+OnThisDay ='/onthisday/09/09-14.html';
 }
 if (month == '9' && day == '16') {
-OnThisDay ='/publications/emma/1978-09-16.html';
+OnThisDay ='/onthisday/09/09-16.html';
 }
 if (month == '9' && day == '17') {
-OnThisDay ='/theatre/1978/sunday-all-star-celebrity-concert-1978-09-17.html';
+OnThisDay ='/onthisday/09/09-17.html';
 }
 if (month == '9' && day == '18') {
-OnThisDay ='/television/blankety-blank.html';
+OnThisDay ='/onthisday/09/09-18.html';
 }
 if (month == '9' && day == '19') {
 OnThisDay ='/theatre/1982/the-lena-zavaroni-show-1982-09-19.html';
