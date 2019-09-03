@@ -8,9 +8,11 @@ categories: [US Television]
 ---
 
 **Broadcast on US Television in 1974**
-> ![](/assets/images/US-TV/1974-08-31-jerry-lewis-mda-labor-day-telethon.jpg)
+> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/9iLaE-c77M0?start=2172&rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
 >
 > Lena sang "Ma! He's Making Eyes At Me" and "Help Me Make It Through The Night".
+>
+> ![](/assets/images/US-TV/1974-08-31-jerry-lewis-mda-labor-day-telethon.jpg)
 >
 > The following day she returned to the show to chat with Jerry, and performed "Swinging On A Star" and a solo version of "Rock A Bye Your Baby With A Dixie Melody". She then sang a duet of "Rock A Bye" with Jerry before she sang another version of "Ma! He's Making Eyes at Me".
 
