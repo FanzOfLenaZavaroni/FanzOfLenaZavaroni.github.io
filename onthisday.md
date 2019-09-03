@@ -451,10 +451,10 @@ if (month == '9' && day == '02') {
 OnThisDay ='/onthisday/09/09-02.html';
 }
 if (month == '9' && day == '03') {
-OnThisDay ='/publications/look-in.html';
+OnThisDay ='/onthisday/09/09-03.html';
 }
 if (month == '9' && day == '04') {
-OnThisDay ='/television/hi-summer/hi-summer-08.html';
+OnThisDay ='/onthisday/09/09-04.html';
 }
 if (month == '9' && day == '05') {
 OnThisDay ='/onthisday/09/09-05.html';
