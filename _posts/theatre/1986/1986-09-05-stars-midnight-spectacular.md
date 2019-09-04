@@ -37,7 +37,7 @@ categories: [Theatre]
 >
 > If you not worked out the word I meant it is &quot;GAY&quot; which stands for &quot;Good As You&quot;.
 >
-> Anyway back to the word &quot;Spastic&quot; due to the degrading use of the word by So called adults as well as children &quot;The Spastics Society&quot; renamed themselves &quot;<a href="https://www.scope.org.uk/history">Scope <sup><i class="fa fa-external-link"></i></sup></a>&quot; in 1994 and two years later in 1996 &quot;The Scottish Council for the Care of Spastics&quot; became &quot;<a href="http://www.capability-scotland.org.uk/">Capability Scotland <sup><i class="fa fa-external-link"></i></sup></a>&quot;. I have not been able to locate if &quot;Stars Organisation For Spastics&quot; renamed themselves or if they are still an active charity.
+> Anyway back to the word &quot;Spastic&quot; due to the degrading use of the word by So called adults as well as children &quot;The Spastics Society&quot; renamed themselves &quot;<a href="https://www.scope.org.uk/history">Scope</a>&quot; in 1994 and two years later in 1996 &quot;The Scottish Council for the Care of Spastics&quot; became &quot;<a href="http://www.capability-scotland.org.uk/">Capability Scotland</a>&quot;. I have not been able to locate if &quot;Stars Organisation For Spastics&quot; renamed themselves or if they are still an active charity.
 >
 > It's sad that I have had to explain the original meaning of the word because of the high probability that for some only the taboo meaning remains and it's even sadder that people are still capable of taking a harmless word and perverting it.
 
