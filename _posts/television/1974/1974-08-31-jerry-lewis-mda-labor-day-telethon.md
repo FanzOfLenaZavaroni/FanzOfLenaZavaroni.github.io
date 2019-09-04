@@ -19,7 +19,7 @@ categories: [US Television]
 <cite>[Robcamstone](https://github.com/fanzoflenazavaroni)</cite>
 
 **The Telethon broadcast**
-> Based on my research it would seem that Jerry Lewis MDA Labor Day Telethon took place on the weekend leading up to Labor Day and in 1974 Labor day fell on 2 September which would place the boradcast dates for that years Telethon as 31 August 1974 & 1 September 1974.
+> Based on my research it would seem that Jerry Lewis MDA Labor Day Telethon took place on the weekend leading up to Labor Day and in 1974 Labor day fell on 2 September which would place the broadcast dates for that years Telethon as 31 August 1974 & 1 September 1974.
 
 <cite>[Robcamstone](https://github.com/fanzoflenazavaroni)</cite>
 
