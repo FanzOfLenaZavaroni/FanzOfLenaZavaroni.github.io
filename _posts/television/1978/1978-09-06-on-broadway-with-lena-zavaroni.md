@@ -5,7 +5,6 @@ subtitle: One Off Special
 description: The show was chosen for the 1978 Golden Sea Swallow Festival in Knokke, Belgium, where it won the silver award.
 image: /assets/images/BBC/1978-09-06-on-broadway-with-lena-zavaroni-01.png
 categories: [BBC One]
-permalink: /BBC/:title:output_ext
 ---
 
 ![On Broadway with Lena Zavaroni](/assets/images/BBC/1978-09-06-on-broadway-with-lena-zavaroni-01.png "On Broadway with Lena Zavaroni"){: .half-width}
