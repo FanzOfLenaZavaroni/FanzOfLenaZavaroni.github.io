@@ -9,17 +9,6 @@ categories: ATV
 
 Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.3"></script>
-
-<div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=861499267523166&amp;set=p.861499267523166&amp;type=3&amp;av=311829398949967&amp;eav=AfZB-zPm-0G70ljEvQzK4zqYtJucmkKkGmD8GnT_f6vU1dbCa0ADHAEGEBrWgplHwM0&amp;theater" data-width="100" data-show-text="true"><blockquote cite="https://www.facebook.com/photo.php?fbid=861499267523166&amp;set=p.861499267523166&amp;type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/people/Stephen-Molloy/100009893010716">Stephen Molloy</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=861499267523166&amp;set=p.861499267523166&amp;type=3">Monday, 3 June 2019</a></blockquote></div>
-
-<br />
-
-<div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=861499747523118&amp;set=p.861499747523118&amp;type=3&amp;av=311829398949967&amp;eav=AfbQWskHLQ47nvmQ-so8sBiWo8zrc2i-DYg3ofej-jOcPtWW8dkl9OC4N5CzX2DfXFU&amp;theater" data-width="100" data-show-text="true"><blockquote cite="https://www.facebook.com/photo.php?fbid=861499747523118&amp;set=p.861499747523118&amp;type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/people/Stephen-Molloy/100009893010716">Stephen Molloy</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=861499747523118&amp;set=p.861499747523118&amp;type=3">Monday, 3 June 2019</a></blockquote></div>
-
-<br />
-
 **Cast**
 * Host: Des O'connor
 * Guest: Lena Zavaroni
@@ -40,6 +29,11 @@ Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 * Director: Colin Clews
 * Producer: Colin Clews
 * Production Company: ATV
+
+**Repeat**
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0"></script>
+<div class="fb-post" data-href="https://facebook.com/tvark.org/photos/pb.125133210861721.-2207520000.1567679490./2999606830080997/?type=3&amp;theater" data-width="750" data-show-text="true"><blockquote cite="https://developers.facebook.com/tvark.org/photos/a.452266604815045/2999606830080997/?type=3" class="fb-xfbml-parse-ignore"><p>#onthisday LWT repeated this episode of Des O&#039;connor,  It&#039;s still better than the International pop prom</p>Posted by <a href="https://www.facebook.com/tvark.org/">TVARK</a> on&nbsp;<a href="https://developers.facebook.com/tvark.org/photos/a.452266604815045/2999606830080997/?type=3">Tuesday, 3 September 2019</a></blockquote></div>
 
 **Related Website:**
 <span class="post-categories">[IMDB](https://www.imdb.com/title/tt1771143)</span>
