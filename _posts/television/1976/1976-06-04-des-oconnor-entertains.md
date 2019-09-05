@@ -5,6 +5,7 @@ subtitle: Series 1
 description: Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 image: /assets/images/Media-Logos/OnThizDay.jpg
 categories: [ATV, LWT]
+permalink: /atv/1976/06/04/des-oconnor-entertains.html
 ---
 
 Lena appears in a comedy sketch with Des, and performs Some Of These Days.
