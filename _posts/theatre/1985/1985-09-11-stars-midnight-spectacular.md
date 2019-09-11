@@ -9,7 +9,9 @@ categories: [Theatre]
 
 **Charity variety show to raise funds for the Entertainment Artists Benevolent Fund and Blackpool Service Clubs Association**
 
-**Performers:**
+**The Show was sponsored by The Daily Mirror**
+
+**Performers Included:**
 * Cannon and Ball (from the Opera House)
 * Lena Zavaroni (from the Opera House)
 * Dustin Gee and Less Dennis (from the North Pier)
@@ -26,4 +28,3 @@ categories: [Theatre]
 * Jean Bennett (from Stars of Clubland and Cabaret)
 * The Midnite Matinee Orchestra (Under the direction of Ernie Dunstall)
 * Phil Kelsall (at the Mighty Wurlitzer Organ)
-
