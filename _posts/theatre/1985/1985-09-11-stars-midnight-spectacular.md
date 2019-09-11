@@ -11,7 +11,7 @@ categories: [Theatre]
 
 **The Show was sponsored by The Daily Mirror**
 
-> ![](/assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz.jpg){: .half-width}
+> [![](/assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz.jpg){: .half-width}{: .zoom-in}](/assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz.jpg)
 
 <cite>Photo of Lena Zavaroni from the Programme</cite>
 
