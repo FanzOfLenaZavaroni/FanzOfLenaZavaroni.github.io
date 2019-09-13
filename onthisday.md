@@ -477,6 +477,10 @@ OnThisDay ='/onthisday/09/09-11.html';
 if (month == '9' && day == '12') {
 OnThisDay ='/onthisday/09/09-12.html';
 }
+if (month == '9' && day == '13') {
+OnThisDay ='/onthisday/09/09-13.html';
+}
+
 if (month == '9' && day == '14') {
 OnThisDay ='/onthisday/09/09-14.html';
 }
