@@ -484,9 +484,9 @@ if (month == '9' && day == '14') {
 OnThisDay ='/onthisday/09/09-14.html';
 }
 if (month == '9' && day == '15') {
-OnThisDay ='/onthisday/09/09-14.html';
+OnThisDay ='/onthisday/09/09-15.html';
 }
-if (month == '9' && day == '15') {
+if (month == '9' && day == '16') {
 OnThisDay ='/onthisday/09/09-16.html';
 }
 if (month == '9' && day == '17') {
