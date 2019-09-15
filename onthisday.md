@@ -496,22 +496,37 @@ if (month == '9' && day == '18') {
 OnThisDay ='/onthisday/09/09-18.html';
 }
 if (month == '9' && day == '19') {
-OnThisDay ='/theatre/1982/the-lena-zavaroni-show-1982-09-19.html';
+OnThisDay ='/onthisday/09/09-19.html';
+}
+if (month == '9' && day == '20') {
+OnThisDay ='/onthisday/09/09-20.html';
 }
 if (month == '9' && day == '21') {
-OnThisDay ='/theatre/1975/the-lena-zavaroni-show-1975-09-21.html';
+OnThisDay ='/onthisday/09/09-21.html';
+}
+if (month == '9' && day == '22') {
+OnThisDay ='/onthisday/09/09-22.html';
 }
 if (month == '9' && day == '23') {
-OnThisDay ='/theatre/1984/the-lena-zavaroni-club-get-together.html';
+OnThisDay ='/onthisday/09/09-23.html';
+}
+if (month == '9' && day == '24') {
+OnThisDay ='/onthisday/09/09-24.html';
+}
+if (month == '9' && day == '25') {
+OnThisDay ='/onthisday/09/09-25.html';
 }
 if (month == '9' && day == '26') {
-OnThisDay ='/theatre/1982/the-lena-zavaroni-show-1982-09-26.html';
+OnThisDay ='/onthisday/09/09-26.html';
 }
 if (month == '9' && day == '27') {
-OnThisDay ='/theatre/1981/harold-fieldings-sunday-night-at-the-blackpool-opera-house-1981-09-27.html';
+OnThisDay ='/onthisday/09/09-27.html';
 }
 if (month == '9' && day == '28') {
 OnThisDay ='/onthisday/09/09-28.html';
+}
+if (month == '9' && day == '29') {
+OnThisDay ='/onthisday/09/09-29.html';
 }
 if (month == '9' && day == '30') {
 OnThisDay ='/onthisday/09/09-30.html';
