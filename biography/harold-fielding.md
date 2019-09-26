@@ -8,7 +8,7 @@ image-caption: Harold Fielding
 categories: [Biography]
 ---
 
-> [![Harold Fielding](/assets/images/harold-fielding.jpg){:.left}{: .zoom-in}](/assets/images/harold-fielding.jpg)
+> ![Harold Fielding](/assets/images/harold-fielding.jpg){:.left}
 > **Harold Fielding** was one of Britain's foremost theatrical producers who produced several musicals, including ''Mame'', ''Charlie Girl'', ''Half a Sixpence'', ''Show Boat'', ''Scarlett'', ''Barnum'', ''Sweet Charity'', ''The Biograph Girl'', and ''Ziegfeld''. He also produced &quot;Music for the Millions&quot;, a touring variety show.
 >
 > The son of a stockbroker, Fielding was born in Woking, Surrey and educated privately. As a child prodigy, he studied violin with Josef Szigeti. He also handled Tommy Steele's early career, and commissioned ''Half a Sixpence'' for him.
@@ -27,10 +27,10 @@ categories: [Biography]
 * **Died:** 27 September 2003 (aged 86)
 * **Genres:** Musical theatre
 * **Occupation:** Theatre producer
- 
+
 Harold Fielding played a large part in the career of Lena Zavaroni by providing her with regular appearances to headline his Sunday night shows at the Blackpool Opera House.
 
-See Category: [Harold Fielding](/categories/#Harold%20Fielding) for the list of Harold Fielding's Sunday Night at the Blackpool Opera House in which Lena Zavaroni appeared. 
+See Category: [Harold Fielding](/categories/#Harold%20Fielding) for the list of Harold Fielding's Sunday Night at the Blackpool Opera House in which Lena Zavaroni appeared.
 
 **Related Website:**
 <span class="post-categories">
