@@ -1,0 +1,28 @@
+---
+layout: post
+title: Live From Her Majesty's
+subtitle: Her Majesty's Theatre, London
+description:
+categories: [Theatres, London Weekend Television]
+---
+
+![](/assets/images/ITV/1986-09-28-live-from-her-majestys.png)
+
+**Episode 4.1:** Lena performs Don't Leave Me This Way, and joins the rest of the cast at the end, for a chorus of There's No Business Like Showbusiness.
+
+**Cast**
+* **Host:** Jimmy Tarbuck
+* The Alyn Ainsworth Orchestra
+* Stan Boardman
+* Mike Osman
+* Suzi Quatro
+* Tavares
+* Lena Zavaroni
+* Billy Dainty
+
+**Crew**
+* **Director:** Alasdair Macmillan
+* **Producer:** David Bell
+
+**Related Website:**
+<span class="post-categories">[IMDb](https://www.imdb.com/title/tt1793009)</span>

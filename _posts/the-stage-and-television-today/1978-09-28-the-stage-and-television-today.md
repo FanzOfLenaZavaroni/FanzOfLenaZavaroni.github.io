@@ -6,7 +6,7 @@ description: The Stage and Television Today featured a small article on Lena's p
 categories: [The Stage and Television Today]
 ---
 
-The Stage and Television Today featured a small article on Lena's planned week long run at the London Palladium, starting on 2 October 1978.
+The Stage and Television Today featured a small article on Lena's planned week long run at the London Palladium, starting on [2 October 1978](/theatre/the%20lena%20zavaroni%20show/1978/10/02/the-lena-zavaroni-show.html).
 
 **About**
 > In 1959 The Stage was relaunched as The Stage and Television Today, incorporating a pull-out supplement dedicated to broadcasting news and features. Derek Hoddinott, the main paper's TV editor, became editor of the new supplement.
