@@ -6,8 +6,6 @@ description: Lena performs Don't Leave Me This Way, and joins the rest of the ca
 categories: [Theatres, London Weekend Television]
 ---
 
-![](/assets/images/ITV/1986-09-28-live-from-her-majestys.png)
-
 **Episode 4.1:** Lena performs Don't Leave Me This Way, and joins the rest of the cast at the end, for a chorus of There's No Business Like Showbusiness.
 
 **Cast**
