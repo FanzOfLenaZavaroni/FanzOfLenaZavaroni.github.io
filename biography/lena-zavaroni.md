@@ -125,6 +125,17 @@ Time goes by and Lena&#8217;s new record album is overdue for delivery and we ar
 
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
 
+## Peter Wiltshire
+Lena Zavaroni and Peter Wiltshire were married in St Mary's Church, Finchley, Greater London on the 30 September 1989.
+
+## Screenshots from their Wedding Video
+[![](/assets/images/wedding/St-Marys-Church-Finchley.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/St-Marys-Church-Finchley.jpg)
+[![](/assets/images/wedding/Peter-Wiltshire-Lena-Zavaroni-01.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/Peter-Wiltshire-Lena-Zavaroni-01.jpg)
+[![](/assets/images/wedding/Victor-Lena-Zavaroni-01.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/Victor-Lena-Zavaroni-01.jpg)
+[![](/assets/images/wedding/Hilda-Lena-Zavaroni-01.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/Hilda-Lena-Zavaroni-01.jpg)
+
+The Marriage would only last 18 months.
+
 # Treatments
 ## Electroconvulsive Therapy (ECT)
 Lena had to travel to Canada for the Electroconvulsive Therapy.
@@ -253,3 +264,7 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 > * Why has there never been a full investigation into the life and death of Lena Zavaroni?
 
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
+
+<style>
+.adjust-width {width:180px; height:auto;}
+</style>
