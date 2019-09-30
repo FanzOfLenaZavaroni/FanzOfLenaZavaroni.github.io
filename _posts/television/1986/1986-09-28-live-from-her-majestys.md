@@ -6,6 +6,10 @@ description: Lena performs Don't Leave Me This Way, and joins the rest of the ca
 categories: [Theatres, London Weekend Television]
 ---
 
+<div class="responsive-video">
+<iframe width="640px" height="480px" src="https://www.youtube.com/embed/jNQDWIum-J4?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<br />
 **Episode 4.1:** Lena performs Don't Leave Me This Way, and joins the rest of the cast at the end, for a chorus of There's No Business Like Showbusiness.
 
 **Cast**
