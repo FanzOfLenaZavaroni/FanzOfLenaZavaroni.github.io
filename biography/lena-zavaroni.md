@@ -218,7 +218,7 @@ Prior to her death Lena was admitted to University Hospital of Wales in Cardiff 
 
 The operation took place on 7 September 1999. After the operation she contracted Pneumonia and her weight drop to less than five stone (70 lb, 32 kg), just three weeks later she was dead.
 
-On Lena's <a href="/public-records/death-certificates.html">death certificate <sup><i class="fa fa-link" aria-hidden="true"></i></sup></a> it states she died from Bronchopneumonia  on 1 October 1999.
+On Lena's <a href="/public%20records/1999/12/15/death-certificates.html">death certificate <sup><i class="fa fa-link" aria-hidden="true"></i></sup></a> it states she died from Bronchopneumonia  on 1 October 1999.
 
 But the reality of her death is not as straightforward as her death certificate implies. The description of her death as one of natural causes is as far from reality as you could get.
 
