@@ -255,7 +255,7 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 > All we can say is there is a lot of unknowns:
 > * How did Lena Zavaroni contract Bronchopneumonia  while in a hospital?
 > * How was the hospital treating the Bronchopneumonia .
-> * Did the coroner ask way the surgical procedure Neurosurgery for Mental Disorder (NMD) was done considering the weight of Lena Zavaroni?
+> * Did the coroner ask way the surgical procedure [Neurosurgery for Mental Disorder (NMD)](http://127.0.0.1:4000/biography/lena-zavaroni#neurosurgery-for-mental-disorder-nmd) was done considering the weight of Lena Zavaroni?
 > * Did the coroner ask if the hospital considered what if any were the dangers of post-operative infection and how they planed to deal with such an outcome?
 > * Did the coroner request an autopsy?
 > * Did the coroner look at her brain and see where the holes and cuts were made for the NMD or did the coroner just look into the effects of the Bronchopneumonia  on her lungs.
