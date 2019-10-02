@@ -1,12 +1,12 @@
 ---
 layout: page
-title: On This Day
+title: Full listing of On This Days
 ---
 
 {% for page in site.pages %}
-  {% if page.categories contains 'On This Day' %}
+{% if page.categories contains 'On This Day' %}
 
-[{{ page.title }} - {{page.subtitle}}]({{ page.url }})
-  {% endif %}
+* [{{ page.title }} - {{page.subtitle}}]({{ page.url }})
+{% endif %}
 {% endfor %}
 
