@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Full listing of On This Days
+title: Full List Of On This Days
 ---
 
 {% for page in site.pages %}
