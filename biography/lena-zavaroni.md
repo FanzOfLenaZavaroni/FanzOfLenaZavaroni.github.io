@@ -224,7 +224,7 @@ But the reality of her death is not as straightforward as her death certificate 
 
 > Reports of Lena Zavaroni&#8217;s death, described as one of natural causes, is littered with failures and nebulous explanations about the treatment she received during the years leading up to her death. Many give mere justifications why the treatments did not work and emphasise the &#8220;huge problems faced in attempting to treat her illness.&#8221;
 
-<cite>Citizens Commission on Human Rights</cite>
+<cite>[Citizens Commission on Human Rights](/deleted%20online%20articles/2011/10/05/cchr-lena-zavaroni.html)</cite>
 
 # Lena Zavaroni's Funeral - Friday, 15 October 1999
 
