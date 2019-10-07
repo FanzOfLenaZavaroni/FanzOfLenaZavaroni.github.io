@@ -242,7 +242,9 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 ![Hoddesdon Cemetery, Lena Zavaroni's Grave.](/assets/images/locations/8402392_1511825377.jpg){: .full-width}
 <cite>Hoddesdon Cemetery, Lena Zavaroni's Grave</cite>
 
-# Inquest: A judicial inquiry to ascertain the facts relating to an incident, such as a death
+# Inquest:
+**A judicial inquiry to ascertain the facts relating to an incident, such as a death**
+* [See ITN Source.](/itn/1999/10/08/ITN-source-lena-zavaroni-inguest-due-to-end.html)
 
 ## Zavaroni Operation Was Not A New Technique
 
