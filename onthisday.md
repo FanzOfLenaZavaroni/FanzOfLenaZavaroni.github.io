@@ -555,6 +555,9 @@ OnThisDay ='/onthisday/10/10-07.html';
 if (month == '10' && day == '08') {
 OnThisDay ='/onthisday/10/10-08.html';
 }
+if (month == '10' && day == '09') {
+OnThisDay ='/onthisday/10/10-09.html';
+}
 if (month == '10' && day == '10') {
 OnThisDay ='/onthisday/10/10-10.html';
 }
