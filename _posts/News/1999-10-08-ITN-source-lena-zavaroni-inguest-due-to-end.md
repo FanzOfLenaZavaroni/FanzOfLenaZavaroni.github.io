@@ -3,7 +3,7 @@ layout: post
 title: ITN Source
 subtitle: Lena Zavaroni Inguest Due To End
 description:
-image: /assets/images/ITN/
+image: /assets/media/LENA ZAVARONI INQUEST DUE TO END.jpg
 categories: [ITN]
 ---
 
