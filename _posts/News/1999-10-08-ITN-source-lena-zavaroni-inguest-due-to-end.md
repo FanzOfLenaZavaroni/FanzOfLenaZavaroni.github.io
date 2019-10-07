@@ -2,7 +2,7 @@
 layout: post
 title: ITN Source
 subtitle: Lena Zavaroni Inguest Due To End
-description:
+description: An inquest into the death of former child sensation Lena Zavaroni was told about the final weeks of her life today.
 image: /assets/media/LENA ZAVARONI INQUEST DUE TO END.jpg
 categories: [ITN]
 ---
