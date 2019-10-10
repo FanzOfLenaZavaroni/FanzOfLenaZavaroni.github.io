@@ -561,8 +561,14 @@ OnThisDay ='/onthisday/10/10-09.html';
 if (month == '10' && day == '10') {
 OnThisDay ='/onthisday/10/10-10.html';
 }
+if (month == '10' && day == '11') {
+OnThisDay ='/onthisday/10/10-11.html';
+}
 if (month == '10' && day == '12') {
-OnThisDay ='http://news.bbc.co.uk/1/hi/entertainment/472294.stm';
+OnThisDay ='/onthisday/10/10-12.html';
+}
+if (month == '10' && day == '13') {
+OnThisDay ='/onthisday/10/10-13.html';
 }
 if (month == '10' && day == '14') {
 OnThisDay ='/onthisday/10/10-14.html';
@@ -577,9 +583,12 @@ if (month == '10' && day == '17') {
 OnThisDay ='/onthisday/10/10-17.html';
 }
 if (month == '10' && day == '18') {
-OnThisDay ='/theatre/1976/fireworks-safety-campaign.html';
+OnThisDay ='/onthisday/10/10-18.html';
 }
-if (month == '10' && day == '20') {
+if (month == '10' && day == '19') {
+OnThisDay ='/onthisday/10/10-10.html';
+}
+if (month == '10' && day == '29') {
 OnThisDay ='/theatre/1980/the-lena-zavaroni-show-1980-10-20.html';
 }
 if (month == '10' && day == '21') {
@@ -588,11 +597,17 @@ OnThisDay ='/theatre/1978/the-lena-zavaroni-show-1978-10-21.html';
 if (month == '10' && day == '22') {
 OnThisDay ='/onthisday/10/10-22.html';
 }
+if (month == '10' && day == '23') {
+OnThisDay ='/onthisday/10/10-23.html';
+}
+if (month == '10' && day == '24') {
+OnThisDay ='/onthisday/10/10-24.html';
+}
 if (month == '10' && day == '25') {
-OnThisDay ='/television/the-morecambe-and-wise-show.html';
+OnThisDay ='/onthisday/10/10-25.html';
 }
 if (month == '10' && day == '26') {
-OnThisDay ='/publications/hello.html';
+OnThisDay ='/onthisday/10/10-26.html';
 }
 if (month == '10' && day == '27') {
 OnThisDay ='/onthisday/10/10-27.html';
@@ -601,13 +616,22 @@ if (month == '10' && day == '28') {
 OnThisDay ='/onthisday/10/10-28.html';
 }
 if (month == '10' && day == '29') {
-OnThisDay ='/television/this-morning/1992-10-29.html';
+OnThisDay ='/onthisday/10/10-29.html';
+}
+if (month == '10' && day == '30') {
+OnThisDay ='/onthisday/10/10-30.html';
 }
 if (month == '10' && day == '31') {
-OnThisDay ='/theatre/1984/grand-order-of-water-rats-celebration-dinner.html';
+OnThisDay ='/onthisday/10/10-31.html';
+}
+if (month == '11' && day == '01') {
+OnThisDay ='/onthisday/11/11-01.html';
 }
 if (month == '11' && day == '02') {
 OnThisDay ='/onthisday/11/11-02.html';
+}
+if (month == '11' && day == '03') {
+OnThisDay ='/onthisday/11/11-03.html';
 }
 if (month == '11' && day == '04') {
 OnThisDay ='/biography/happy-birthday-lena.html';
