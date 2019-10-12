@@ -12,8 +12,8 @@ In this Christmas edition of the children's show, Lena helps a young contestant 
 * **Host:** Stu Francis
 * **Regular:** Leigh Miles
 * **Regular:** Sally Ann Triplett
-* **The Krankies:** Janette Krankie and Ian Tough
-* **special surprise guest** Lena Zavaroni
+* **The Krankies:** Janette Tough and Ian Tough
+* **Special Surprise Guest** Lena Zavaroni
 
 **Crew**
 * **script:** Colin Bostock-Smith
