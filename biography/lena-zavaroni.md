@@ -226,15 +226,19 @@ But the reality of her death is not as straightforward as her death certificate 
 
 <cite>[Citizens Commission on Human Rights](/deleted%20online%20articles/2011/10/05/cchr-lena-zavaroni.html)</cite>
 
-# Lena Zavaroni's Funeral - Friday, 15 October 1999
+# Lena Zavaroni's Funeral
 
-The service took place at The [Roman Catholic Church of St Augustine](https://hertfordshirechurches.wordpress.com/2013/04/21/st-augustine-hoddesdon-roman-catholic), Presbytery, High Street, Hoddesdon, Herts, EN11&nbsp;8DS.
+The service took place at The [Roman Catholic Church of St Augustine](https://hertfordshirechurches.wordpress.com/2013/04/21/st-augustine-hoddesdon-roman-catholic), Presbytery, High Street, Hoddesdon, Herts, EN11&nbsp;8DS on Friday, 15 October 1999.
+
+* [Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=51.758631099999995%2C-0.011412100000029568&z=19)
 
 ![The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS](/assets/images/locations/hoddesdon_st_augustine_rc200413_21.jpg){: .full-width}
 <cite>The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS</cite>
 
 ![Farewell to star Lena](/assets/images/475922_zavaroni_coffin300.jpg){: .full-width}
 <cite>[BBC News | Wales | Farewell to star Lena](http://news.bbc.co.uk/1/hi/wales/476065.stm)</cite>
+
+# RIP
 
 ![Hoddesdon Cemetery, Lena Zavaroni's Grave.](/assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg){: .full-width}
 <cite>Hoddesdon Cemetery, Lena Zavaroni's Grave</cite>
