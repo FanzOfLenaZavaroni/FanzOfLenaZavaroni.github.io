@@ -574,7 +574,7 @@ if (month == '10' && day == '14') {
 OnThisDay ='/onthisday/10/10-14.html';
 }
 if (month == '10' && day == '15') {
-OnThisDay ='/biography/biography.html#016';
+OnThisDay ='/onthisday/10/10-15.html';
 }
 if (month == '10' && day == '16') {
 OnThisDay ='/onthisday/10/10-16.html';
