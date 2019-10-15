@@ -26,3 +26,6 @@ Des then interviews her about her previous health problems, and her hopes for th
 * **Singer:** Lena Zavaroni
 * **Rock Duo:** The Everly Brothers
 * **American Football Player:** Mickey Marvin
+
+**Publicity Photos**
+* [Des O'Connor Tonight](/publicity%20photos/getty%20images/1984/10/14/getty-images.html)
