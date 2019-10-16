@@ -1,14 +1,18 @@
 ---
 layout: post
 title: Des O'Connor Tonight
-subtitle: Publicity Photos
+subtitle: Publicity
 description: Publicity Photos of Des O'Connor and Lena Zavaroni.
 image: /assets/images/publicity/gettyimages-106417122-594x594.jpg
-categories: [Publicity Photos, Getty Images]
+categories: [Publicity, Getty Images]
 ---
 
 **Filmed at Thames Television Studios in London, England on 14 October 1984 for broadcast on 16 October 1984.**
 * [Des O'Connor Tonight](/thames%20television/1984/10/16/des-oconnor-tonight.html)
+
+> [![](/assets/images/newspapers/0FFO-1984-OCT16-035.png){: .full-width}{: .zoom-in}](/assets/images/newspapers/0FFO-1984-OCT16-035.png)
+
+<cite>The Times (London, England), Tuesday, October 16, 1984, Issue 61963, p.35.</cite>
 
 <a id='iaYE6KMgScltnw0KrNOAoA' class='gie-single' href='http://www.gettyimages.co.uk/detail/106417116' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'iaYE6KMgScltnw0KrNOAoA',sig:'zWfd-1cPFwpPz3hc_NlMY2lijVhi4YbADTiuKfDwp9c=',w:'394px',h:'594px',items:'106417116',caption: true ,tld:'co.uk',is360: false })});</script>
 
