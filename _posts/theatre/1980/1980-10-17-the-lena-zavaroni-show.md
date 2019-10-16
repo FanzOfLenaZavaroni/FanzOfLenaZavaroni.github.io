@@ -20,3 +20,6 @@ Lena later sued the Hotel group that owned the venue, due to alleged non-payment
 > You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
 <cite>Robcamstone</cite>
+
+**Google Map:**
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=51.2960239%2C-2.8869929999999613&z=19)</span>
