@@ -3,7 +3,7 @@ layout: post
 title: Des O'Connor Tonight
 subtitle: Publicity
 description: Publicity Photos of Des O'Connor and Lena Zavaroni.
-image: /assets/images/publicity/gettyimages-106417122-594x594.jpg
+image: /assets/images/ITV/1984-10-16-des-oconnor-tonight-01.jpg
 categories: [Publicity, Getty Images]
 ---
 
@@ -14,6 +14,10 @@ categories: [Publicity, Getty Images]
 
 <cite>The Times (London, England), Tuesday, October 16, 1984, Issue 61963, p.35.</cite>
 
-<a id='iaYE6KMgScltnw0KrNOAoA' class='gie-single' href='http://www.gettyimages.co.uk/detail/106417116' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'iaYE6KMgScltnw0KrNOAoA',sig:'zWfd-1cPFwpPz3hc_NlMY2lijVhi4YbADTiuKfDwp9c=',w:'394px',h:'594px',items:'106417116',caption: true ,tld:'co.uk',is360: false })});</script>
+> ![](/assets/images/ITV/1984-10-16-des-oconnor-tonight-01.jpg){: .full-width}
+>
+> ![](/assets/images/ITV/1984-10-16-des-oconnor-tonight-02.jpg){: .full-width}
+>
+> ![](/assets/images/ITV/1984-10-16-des-oconnor-tonight-03.jpg){: .full-width}
 
-<a id='hYiG4s7SR1R4Pgv0_x4o7g' class='gie-single' href='http://www.gettyimages.co.uk/detail/106417122' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'hYiG4s7SR1R4Pgv0_x4o7g',sig:'rt6dZWG0kHg9F0c5lb5KVomYqtncX9eLflSBOFGHxVM=',w:'594px',h:'393px',items:'106417122',caption: true ,tld:'co.uk',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+<cite>All photos believed to be copyright Keith Butler of The Express 1984.</cite>

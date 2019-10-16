@@ -11,9 +11,9 @@ categories: [Thames Television]
 
 Des O'Connor's guests are Michael Aspel, Eamonn Andrews, Lena Zavaroni, The Everly Brothers and Mickey Marvin.
 
-<div class="responsive-video">
-<iframe width="640px" height="480px" src="https://www.youtube.com/embed/3kTJRbMrazY?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe>
-</div>
+> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/3kTJRbMrazY?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+
+<cite>Unfortunately the YouTube Video has the year incorrectly stated.</cite>
 
 Lena returns from a three year break to perform a live version of Memory.
 
@@ -27,5 +27,5 @@ Des then interviews her about her previous health problems, and her hopes for th
 * **Rock Duo:** The Everly Brothers
 * **American Football Player:** Mickey Marvin
 
-**Publicity Photos**
-* [Des O'Connor Tonight](/publicity%20photos/getty%20images/1984/10/14/getty-images.html)
+**Publicity**
+* [Des O'Connor Tonight](/publicity/getty%20images/1984/10/14/publicity.html)
