@@ -28,4 +28,4 @@ Des then interviews her about her previous health problems, and her hopes for th
 * **American Football Player:** Mickey Marvin
 
 **Publicity**
-* [Des O'Connor Tonight](/publicity/getty%20images/1984/10/14/publicity.html)
+* [Des O'Connor Tonight](/publicity/1984/10/14/publicity.html)
