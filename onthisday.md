@@ -588,11 +588,11 @@ OnThisDay ='/onthisday/10/10-18.html';
 if (month == '10' && day == '19') {
 OnThisDay ='/onthisday/10/10-19.html';
 }
-if (month == '10' && day == '29') {
-OnThisDay ='/theatre/1980/the-lena-zavaroni-show-1980-10-20.html';
+if (month == '10' && day == '20') {
+OnThisDay ='/onthisday/10/10-20.html';
 }
 if (month == '10' && day == '21') {
-OnThisDay ='/theatre/1978/the-lena-zavaroni-show-1978-10-21.html';
+OnThisDay ='/onthisday/10/10-21.html';
 }
 if (month == '10' && day == '22') {
 OnThisDay ='/onthisday/10/10-22.html';
