@@ -586,7 +586,7 @@ if (month == '10' && day == '18') {
 OnThisDay ='/onthisday/10/10-18.html';
 }
 if (month == '10' && day == '19') {
-OnThisDay ='/onthisday/10/10-10.html';
+OnThisDay ='/onthisday/10/10-19.html';
 }
 if (month == '10' && day == '29') {
 OnThisDay ='/theatre/1980/the-lena-zavaroni-show-1980-10-20.html';
