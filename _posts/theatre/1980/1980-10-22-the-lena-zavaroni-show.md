@@ -19,6 +19,10 @@ Lena Zavaroni stars in her own show at The New Vic, Belfast.
 
 ## Ulster Television News (UTV)
 
+> ![Image request](/assets/images/replacement-wanted.png)
+
+<cite>Lena signs autographs at Belfast airport in 1980</cite>
+
 Ulster Television News reported on Lena's arrival at Belfast airport to perform live in the city.
 
 It featured footage of her emerging from the airport with her agent Dorothy Solomon, comedian Norman Collier and her entourage.
