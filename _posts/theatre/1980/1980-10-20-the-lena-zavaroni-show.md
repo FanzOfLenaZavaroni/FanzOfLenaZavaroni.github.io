@@ -21,3 +21,10 @@ Songs included Even Now, I Write The Songs and Young Talent Of Yesteryear medley
 
 **Remembering the Tonic, Bangor:**
 <span class="post-categories">[Cine-files: the Tonic, Bangor](https://www.theguardian.com/film/filmblog/2012/dec/11/cine-files-tonic-bangor)</span>
+
+<style>
+.dt-published {display: none;}
+.post-meta:after {content: "20, 21 October 1980";}
+.height-adjust1 {width:auto; height:350px;}
+.height-adjust2 {width:auto; height:307px;}
+</style>
