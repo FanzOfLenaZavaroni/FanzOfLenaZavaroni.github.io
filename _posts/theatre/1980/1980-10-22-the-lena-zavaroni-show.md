@@ -31,6 +31,9 @@ She also visited a kitchen and helped the chefs prepare some food.
 
 She then attended a buffet and chated with other guests.
 
+**Google Map:**
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=54.595343900000024%2C-5.935221899999988&z=19)</span>
+
 <style>
 .dt-published {display: none;}
 .post-meta:after {content: "22 - 25 October 1980";}
