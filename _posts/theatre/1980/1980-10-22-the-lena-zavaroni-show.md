@@ -30,3 +30,10 @@ It featured footage of her emerging from the airport with her agent Dorothy Solo
 She also visited a kitchen and helped the chefs prepare some food.
 
 She then attended a buffet and chated with other guests.
+
+<style>
+.dt-published {display: none;}
+.post-meta:after {content: "22 - 25 October 1980";}
+.height-adjust1 {width:auto; height:350px;}
+.height-adjust2 {width:auto; height:307px;}
+</style>
