@@ -4,14 +4,14 @@ title: The Morecambe And Wise Show
 subtitle: Episode 9.3
 description: Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 image: /assets/images/BBC-PIDs\p0417db6 - 768x432.jpg
-categories: [BBC One, BBC Two]
+categories: [BBC One, BBC Two, BBC PIDs]
 ---
 
 > ![BBC Image PID: p0417db6](/assets/images/BBC-PIDs\p0417db6 - 768x432.jpg){: .full-width}
 >
-> The Connoisseurs return to discuss the wonders of the British sausage, The Spinners guest star, and Lena Zavaroni performs Something 'Bout Ya Baby I Like.
->
 > Publicity Photo of Ernie Wise and Eric Morecambe (BBC Photo PID: p0417db6 size being used on this page: 768x432)
+>
+> The Connoisseurs return to discuss the wonders of the British sausage, The Spinners guest star, and Lena Zavaroni performs Something 'Bout Ya Baby I Like.
 
 <cite>[BBC PID: p03rdsqt](https://www.bbc.co.uk/programmes/p03rdsqt)</cite>
 
@@ -51,4 +51,3 @@ Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of T
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 </style>
-
