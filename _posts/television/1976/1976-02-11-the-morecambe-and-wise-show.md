@@ -47,7 +47,7 @@ Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of T
 
 <style>
 .dt-published {display: none;}
-.post-meta:after {content: "11 February 1976 on BBC One, repeat 25 October 1976 on BBC Two";}
+.post-meta:after {content: "11 February 1976 on BBC One, repeated 25 October 1976 on BBC Two";}
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 </style>

@@ -13,7 +13,7 @@ categories: [Updates]
 
 **Timescale**
 * The reason why it will take months is because this website is created and updated by just one individual and so anything added, removed or updated takes time.
-* This is why content tends to be added, updated shortly before it is due to be shown as an on this day.
+* This is why content tends to be added, updated shortly before it is due to be shown as an On This Day.
 * Content may also get added/updated if it comes up for debate in the comment section of a page an example of this is when I was asked about Crackerjack and The Swap Shop Star Awards Show which I replied to and added the details I had on the two programmes to the website instead of waiting until they would have come up in the On This Day section. By adding/updating content when it is due in the On This Day section or when debated in the comment section gives me time to add details and over time should insure that all known details gets added and is kept up-to-date.
 
 **NewsBank and Library Access**
