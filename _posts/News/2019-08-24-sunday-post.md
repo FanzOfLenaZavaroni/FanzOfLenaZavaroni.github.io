@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sunday Post
-subtitle: Bonnie Langford has a lifetime – literally – of showbusiness memories.
+subtitle: Bonnie Langford has a lifetime – literally – of showbusiness memories
 description: Bonnie Langford has a lifetime – literally – of showbusiness memories.
 image: /assets/images/BBC/
 categories: [Sunday Post]
