@@ -4,7 +4,9 @@ title: Updates
 description: Latest news, updates & changes
 ---
 
-* [2019-10-22 Latest news, updates & changes](/updates/2019/10/22/latest-news-updates-changes.html)
+{% for post in site.categories.Updates %}
+ <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.subtitle }}</a></li>
+{% endfor %}
 
 <style>
 .post-header {display: none;}

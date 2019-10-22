@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Latest news, updates & changes
-subtitle: 5 Notes
-description: 5 Notes
+subtitle: About and Introduction, IMDb, Timescale, NewsBank and Library Access, BBC PIDs
+description: 22 October 2019
 categories: [Updates]
 ---
 
