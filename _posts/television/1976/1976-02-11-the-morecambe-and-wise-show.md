@@ -15,7 +15,7 @@ categories: [BBC One, BBC Two]
 
 Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 
-**Cast**
+**Cast:**
 * **Host:** Eric Morecambe
 * **Host:** Ernie Wise
 * **Guest star:** Lena Zavaroni
@@ -23,7 +23,7 @@ Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of T
 * **Guest star:** Allan Cuthbertson
 * **Guest star:** Graham Hill
 
-**Crew**
+**Crew:**
 * **Writer:** Eric Braben
 * **Orchestra direction:** Peter Knight
 * **Assistant dance director:** Geraldine Yates
@@ -37,11 +37,11 @@ Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of T
 * **Producer:** Ernest Maxin
 * **Production company:** BBC Television
 
-**BBC Genome**
+**BBC Genome:**
 * [11 February 1976 BBC One](http://genome.ch.bbc.co.uk/fe87a54c8be24d70a371c9d0ee336e45)
 * [Repeat 25 October 1976 on BBC Two](https://genome.ch.bbc.co.uk/73e51123dc8d42a0b02e8f2442b34d9c)
 
-**BBC PID**
+**BBC PID:**
 * [p03rdsqt](https://www.bbc.co.uk/programmes/p03rdsqt)
 
 <style>
