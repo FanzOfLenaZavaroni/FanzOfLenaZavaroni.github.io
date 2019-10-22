@@ -3,15 +3,19 @@ layout: post
 title: The Morecambe And Wise Show
 subtitle: Episode 9.3
 description: Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
-image: /assets/images/BBC-PIDs\p0417db6 - 1920xn.jpg
+image: /assets/images/BBC-PIDs\p0417db6 - 768x432.jpg
 categories: [BBC One, BBC Two]
 ---
 
-> [![BBC Image PID: p0417db6](/assets/images/BBC-PIDs\p0417db6 - 1920xn.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC-PIDs\p0417db6 - 1920xn.jpg)
+> ![BBC Image PID: p0417db6](/assets/images/BBC-PIDs\p0417db6 - 768x432.jpg){: .full-width}
 >
 > The Connoisseurs return to discuss the wonders of the British sausage, The Spinners guest star, and Lena Zavaroni performs Something 'Bout Ya Baby I Like.
+>
+> Publicity Photo of Ernie Wise and Eric Morecambe (BBC Photo PID: p0417db6 size being used on this page: 768x432)
 
-<cite>BBC Publicity Photo of Ernie Wise and Eric Morecambe (PID: p0417db6 Size: 1920xn)</cite>
+<cite>[BBC PID: p03rdsqt](https://www.bbc.co.uk/programmes/p03rdsqt)</cite>
+
+![](/assets/images/BBC/1976-10-25-lena-zavaroni-on-the-morecambe-and-wise-show.jpg){: .full-width}
 
 Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 
@@ -41,12 +45,10 @@ Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of T
 * [11 February 1976 BBC One](http://genome.ch.bbc.co.uk/fe87a54c8be24d70a371c9d0ee336e45)
 * [Repeat 25 October 1976 on BBC Two](https://genome.ch.bbc.co.uk/73e51123dc8d42a0b02e8f2442b34d9c)
 
-**BBC PID:**
-* [p03rdsqt](https://www.bbc.co.uk/programmes/p03rdsqt)
-
 <style>
 .dt-published {display: none;}
-.post-meta:after {content: "11 February 1976 BBC One, repeat 25 October 1976 BBC Two";}
+.post-meta:after {content: "11 February 1976 on BBC One, repeat 25 October 1976 on BBC Two";}
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 </style>
+
