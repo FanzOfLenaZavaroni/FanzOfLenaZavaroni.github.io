@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: Latest news, updates & changes
-description: 22 October 2019
+subtitle: 5 Notes
+description: 5 Notes
 categories: [Updates]
 ---
 
