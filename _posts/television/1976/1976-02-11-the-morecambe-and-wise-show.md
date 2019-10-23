@@ -9,7 +9,7 @@ categories: [BBC One, BBC Two]
 
 > ![BBC Image PID: p0417db6](/assets/images/BBC-PIDs\p0417db6 - 768x432.jpg){: .full-width}
 >
-> Publicity Photo of Ernie Wise and Eric Morecambe (BBC Photo PID: p0417db6 size being used on this page: 768x432)
+> Publicity Photo of Ernie Wise and Eric Morecambe (BBC Photo PID: p0417db6)
 >
 > The Connoisseurs return to discuss the wonders of the British sausage, The Spinners guest star, and Lena Zavaroni performs Something 'Bout Ya Baby I Like.
 
