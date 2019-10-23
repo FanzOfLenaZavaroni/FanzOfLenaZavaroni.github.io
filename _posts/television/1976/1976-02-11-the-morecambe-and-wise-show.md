@@ -15,7 +15,9 @@ categories: [BBC One, BBC Two]
 
 <cite>[BBC PID: p03rdsqt](https://www.bbc.co.uk/programmes/p03rdsqt)</cite>
 
-![](/assets/images/BBC/1976-10-25-lena-zavaroni-on-the-morecambe-and-wise-show.jpg){: .full-width}
+> ![](/assets/images/BBC/1976-10-25-lena-zavaroni-on-the-morecambe-and-wise-show.jpg){: .full-width}
+
+<cite>Screenshot from the show<cite>
 
 Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 
