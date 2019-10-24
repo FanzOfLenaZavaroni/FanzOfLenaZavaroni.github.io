@@ -30,7 +30,7 @@ Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of T
 * **Guest star:** Graham Hill
 
 **Crew:**
-* **Writer:** Eric Braben
+* **Writer:** Eric Braben (additional material by Eric Morecambe And Ernie Wise)
 * **Orchestra direction:** Peter Knight
 * **Assistant dance director:** Geraldine Yates
 * **Special effects:** Bill King
