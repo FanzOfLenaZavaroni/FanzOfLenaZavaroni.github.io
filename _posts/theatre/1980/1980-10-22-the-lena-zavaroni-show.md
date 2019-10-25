@@ -18,11 +18,11 @@ Lena Zavaroni stars in her own show at The New Vic, Belfast.
 
 <cite>Robcamstone</cite>
 
-## Ulster Television News (UTV)
+## Ulster Television News (UTV News)
 
 > ![Lena signs autographs at Belfast airport in 1980](/assets/images/theatres/lena-signs-autographs-at-belfast-airport-in-1980.jpg)
 
-<cite>Screenshot: Lena signs autographs at Belfast airport UTV</cite>
+<cite>Screenshot: Lena signs autographs at Belfast airport UTV News</cite>
 
 Ulster Television News reported on Lena's arrival at Belfast airport to perform live in the city.
 
