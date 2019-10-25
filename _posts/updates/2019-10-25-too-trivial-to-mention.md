@@ -15,7 +15,7 @@ categories: [Updates]
 >
 > The reason why, is it was not just Lena's body that was laid to rest at her funeral but it seems like all her memories along with facts about her life both private and public along with her large body of work has been put to rest as well.
 >
-> It seems from personal responses I have received when I mention Lena Zavaroni the must common reply is "Oh! she was that Little girl on Opportunity Knocks that became anorexic" and little else is remembered about her.
+> It seems from personal responses I have received when I mention Lena Zavaroni the must common reply is "Oh! she was that little girl on Opportunity Knocks that became anorexic" and little else is remembered about her.
 >
 > So for fans that care about her memories the smallest of references matters for the simplest of reasons that no matter how minor the reference may be it means someone has remember her (well her name anyway) and that matters as she has become the forgotten star of the 70s and 80s.
 >
