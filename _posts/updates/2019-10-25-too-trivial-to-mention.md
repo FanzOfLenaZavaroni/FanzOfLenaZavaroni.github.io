@@ -23,7 +23,7 @@ categories: [Updates]
 >
 > When I added this new section called "Updates" (I know I'm trying to think of a better name for the link), I had not thought about how it could be used for the minor references but will now added them to this section for as fellow fan StephenMolloy1 has defined it completeness.
 >
-> I hope my thoughts can be understood by anyone that reads them, as I known what I mean and feel on this subject but am not very good at putting my thoughts and feels into words that others may understand.
+> I hope my thoughts can be understood by anyone that reads them, as I known what I mean and feel on this subject but am not very good at putting my thoughts and feelings into words that others may understand.
 
 <cite>Fanz of Lena Zavaroni (Robcamstone)</cite>
 
