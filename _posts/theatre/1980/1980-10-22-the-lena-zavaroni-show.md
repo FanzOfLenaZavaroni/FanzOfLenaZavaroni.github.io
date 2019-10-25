@@ -3,6 +3,7 @@ layout: post
 title: The Lena Zavaroni Show
 subtitle: The New Vic, Belfast
 description: Lena Zavaroni stars in her own show at The New Vic, Belfast.
+image: /assets/images/theatres/lena-signs-autographs-at-belfast-airport-in-1980.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
@@ -19,7 +20,7 @@ Lena Zavaroni stars in her own show at The New Vic, Belfast.
 
 ## Ulster Television News (UTV)
 
-> ![Image request](/assets/images/replacement-wanted.png)
+> ![Lena signs autographs at Belfast airport in 1980](/assets/images/theatres/lena-signs-autographs-at-belfast-airport-in-1980.jpg)
 
 <cite>Lena signs autographs at Belfast airport in 1980</cite>
 
