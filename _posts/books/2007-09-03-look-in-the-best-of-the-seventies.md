@@ -3,7 +3,7 @@ layout: post
 title: Look-In
 subtitle: The Best of the Seventies
 description:
-image: /assets/images/books/
+image: /assets/images/books/2007-09-03-look-in-the-best-of-the-seventies.jpg
 categories: [Books, Look-In]
 ---
 
