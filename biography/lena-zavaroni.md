@@ -183,6 +183,8 @@ Neurosurgery for Mental Disorder is covered by section 57 of the Mental Health A
 * The SOAD also certifies that it is appropriate for you to receive the treatment.
 
 > This section of the Mental Health Act seems flawed How can an individual with severe mental heath problems make an informed chose if they are capable of making such a chose then I would argue that they don't need the surgical procedure.
+>
+> Informing those treating her that she will kill herself if she does not get the NMD is not consect but is as they beleived Lena grounds for her being Section.
 
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
 
