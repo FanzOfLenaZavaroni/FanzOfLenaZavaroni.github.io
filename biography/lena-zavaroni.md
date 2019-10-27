@@ -179,7 +179,7 @@ Has four types of procedures:
 
 Neurosurgery for Mental Disorder is covered by section 57 of the Mental Health Act 1983, which covers all patients, whether voluntary or detained under another section of the Act (sectioned). Under section 57, neurosurgery can be given only if all three of the following requirements are met:
 * You consent to the treatment.
-* second opinion appointed doctor (SOAD) and two other people appointed by the Care Quality Commission in England or the Healthcare Inspectorate Wales certify that you have the capacity to consent and have done so.
+* second opinion appointed doctor (SOAD) and two other people appointed by the Care Quality Commission in England or the Healthcare Inspectorate of Wales certify that you have the capacity to consent and have done so.
 * The SOAD also certifies that it is appropriate for you to receive the treatment.
 
 > This section of the Mental Health Act seems flawed How can an individual with severe mental heath problems make an informed chose if they are capable of making such a chose then I would argue that they don't need the surgical procedure.
