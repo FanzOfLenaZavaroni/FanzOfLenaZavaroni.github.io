@@ -4,7 +4,6 @@ title: The SHARE Show
 subtitle: (Broadcast live sometime in May 1974 the 1 May 1974 as shown in any menu is only used to get Jekll to publish this post)
 description: Annual children's charity benefit show in the US, held in Hollywood in May 1974
 image: /assets/images/US-TV/Frank-Sinatra-and-Lena-Zavaroni.jpg
-permalink: /us%20television/1974/05/the-share-show.html
 categories: [US Television]
 ---
 
