@@ -20,4 +20,4 @@ The Contract for the show was signed by Victor Zavaroni director of Lena Zavaron
 >
 > You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
-<cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
+<cite>Robcamstone</cite>
