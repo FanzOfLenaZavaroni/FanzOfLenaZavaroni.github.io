@@ -48,6 +48,3 @@ Final broadcast of the much love show that was the starting block for so many st
 * Programme Associate:: Len Marten
 * Producer: Peter Dulay
 * Production Company: Thames Television
-
-**Related Website:**
-<span class="post-categories">[IMDb](http://www.imdb.com/title/tt1055750)</span>
