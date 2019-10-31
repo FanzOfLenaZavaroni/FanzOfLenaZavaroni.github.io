@@ -30,6 +30,3 @@ Lena performs If My Friends Could See Me Now, then at the end of the show, she r
 * Designer: Rod Stratfold
 * Producer: Keith Beckett
 * Director: Keith Beckett
-
-**Related Website:**
-<span class="post-categories">[IMDb](http://www.imdb.com/title/tt3514734)</span>
