@@ -22,6 +22,3 @@ They had previously applied in 1973 but did not make it passed the qualifying he
 * Producer: Keith Beckett
 * Director: Keith Beckett
 * Musical Backing: Bob Sharples and his orchestra
-
-**Related Website:**
-<span class="post-categories">[IMDb](http://www.imdb.com/title/tt3514746)</span>
