@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On This Day - 1 November 1963
+title: On This Day - 4 November 1963
 description:
 categories: [On This Day]
 utterances: false
@@ -10,7 +10,7 @@ utterances: false
 
 <!-- Script for calculating number of years ago -->
 <script>
-var dob = '19631101';
+var dob = '19631104';
 var year = Number(dob.substr(0, 4));
 var month = Number(dob.substr(4, 2)) - 1;
 var day = Number(dob.substr(6, 2));
