@@ -10,7 +10,7 @@ utterances: false
 
 <!-- Script for calculating number of years ago -->
 <script>
-var dob = '19631102';
+var dob = '19631101';
 var year = Number(dob.substr(0, 4));
 var month = Number(dob.substr(4, 2)) - 1;
 var day = Number(dob.substr(6, 2));
