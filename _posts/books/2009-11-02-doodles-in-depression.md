@@ -14,7 +14,7 @@ categories: [Books, Lorna Murray]
 <cite>[Google Books](https://books.google.co.uk/books?id=ZoydTXmpDpIC&printsec=frontcover&dq=ISBN+1847471595&hl=en&sa=X&ved=0ahUKEwjp0v_9iMnlAhXFTxUIHTgdCQ4Q6AEIKDAA#v=onepage&q=lena%20zavaroni&f=false)</cite>
 
 **Notes:**
-* The book makes reference Lena Zavaroni
+* The book makes reference to Lena Zavaroni
 * The date of 1 June 2011 is for the eBook version of the book.
 
 **Google Search**
