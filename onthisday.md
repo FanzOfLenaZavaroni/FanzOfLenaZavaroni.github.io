@@ -634,7 +634,16 @@ if (month == '11' && day == '03') {
 OnThisDay ='/onthisday/11/11-03.html';
 }
 if (month == '11' && day == '04') {
-OnThisDay ='/biography/happy-birthday-lena.html';
+OnThisDay ='/onthisday/11/11-04.html';
+}
+if (month == '11' && day == '05') {
+OnThisDay ='/onthisday/11/11-05.html';
+}
+if (month == '11' && day == '06') {
+OnThisDay ='/onthisday/11/11-06.html';
+}
+if (month == '11' && day == '07') {
+OnThisDay ='/onthisday/11/11-07.html';
 }
 if (month == '11' && day == '08') {
 OnThisDay ='/theatre/1981/the-lena-zavaroni-appreciation-society-annual-luncheon.html';
