@@ -646,16 +646,22 @@ if (month == '11' && day == '07') {
 OnThisDay ='/onthisday/11/11-07.html';
 }
 if (month == '11' && day == '08') {
-OnThisDay ='/theatre/1981/the-lena-zavaroni-appreciation-society-annual-luncheon.html';
+OnThisDay ='/onthisday/11/11-08.html';
 }
 if (month == '11' && day == '09') {
-OnThisDay ='http://www.thefreelibrary.com/Stealing+IN+THE+limelight%3b+WHY+DO+RICH+AND+FAMOUS+GO+SHOPLIFTING%3f-a0124315955';
+OnThisDay ='/onthisday/11/11-09.html';
 }
 if (month == '11' && day == '10') {
-OnThisDay ='/theatre/1980/the-lena-zavaroni-show-1980-11-10.html';
+OnThisDay ='/onthisday/11/11-10.html';
 }
 if (month == '11' && day == '11') {
-OnThisDay ='/publications/newspapers/the-stage-and-television-today.html#4';
+OnThisDay ='/onthisday/11/11-11.html';
+}
+if (month == '11' && day == '12') {
+OnThisDay ='/onthisday/11/11-12.html';
+}
+if (month == '11' && day == '13') {
+OnThisDay ='/onthisday/11/11-13.html';
 }
 if (month == '11' && day == '14') {
 OnThisDay ='/onthisday/11/11-14.html';
