@@ -18,7 +18,7 @@ Lena Zavaroni gets to preform on BBC One's Top of the Pops for the first time.
 >
 > Either way this is believed to be the earliest surviving clip of Lena performing (for a broadcaster).
 >
-> Added "for a broadcaster" because we don't know if her family have super 8 film recordings of Lena Zavaroni before she went on Opportunity Knocks.
+> **Note:** I added "for a broadcaster" because we don't know if her family have any super 8 film recordings of Lena Zavaroni prior to Opportunity Knocks.
 
 <cite>Robcamstone</cite>
 
@@ -45,3 +45,4 @@ Lena Zavaroni gets to preform on BBC One's Top of the Pops for the first time.
 
 **Related Website:**
 <span class="post-categories">[BBC Genome](http://genome.ch.bbc.co.uk/bd07ca5f7b864b22b6cc4a53eff133c8)</span>
+
