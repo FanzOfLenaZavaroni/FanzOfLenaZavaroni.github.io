@@ -6,6 +6,15 @@ description: Lena attended the first LZAS annual luncheon, attended by over 60 f
 categories: [Personal Appearances]
 ---
 
+[![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg)
+[![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-02.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-02.jpg)
+[![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-03.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-03.jpg)
+[![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-04.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-04.jpg)
+
+<style>
+.height {width:auto; height:262px;}
+</style>
+
 **Research is on going and hopefully I will be able to add more details**
 > If anybody has information about this event please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
 >
