@@ -667,10 +667,13 @@ if (month == '11' && day == '14') {
 OnThisDay ='/onthisday/11/11-14.html';
 }
 if (month == '11' && day == '15') {
-OnThisDay ='/television/the-royal-variety-performance.html';
+OnThisDay ='/onthisday/11/11-15.html';
+}
+if (month == '11' && day == '16') {
+OnThisDay ='/onthisday/11/11-16.html';
 }
 if (month == '11' && day == '17') {
-OnThisDay ='/television/opportunity-knocks/1975-11-17.html';
+OnThisDay ='/onthisday/11/11-17.html';
 }
 if (month == '11' && day == '18') {
 OnThisDay ='/publications/newspapers/the-stage-and-television-today.html';
