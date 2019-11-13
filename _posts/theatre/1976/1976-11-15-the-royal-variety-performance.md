@@ -8,7 +8,7 @@ categories: [Theatres, The London Palladium, BBC One]
 ---
 
 ![](/assets/images/theatres/1976-11-15-the-royal-variety-performance-01.jpg){: .half-width}
-![](/assets/images/theatres/1976-11-15-the-royal-variety-performance-02.jpg){: .half-width}
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/hsw4P-Agris?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
 
 After sixteen years of recorded television broadcasts, in 1976, the Royal Variety Performance was broadcast live on television for the first time, and held in the presence of Her Majesty Queen Elizabeth and the Queen Mother.
 
