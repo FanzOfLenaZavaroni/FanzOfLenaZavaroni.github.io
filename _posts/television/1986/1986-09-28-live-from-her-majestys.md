@@ -3,7 +3,7 @@ layout: post
 title: Live From...
 subtitle: The Picadilly Theatre, London
 description: Lena performs Don't Leave Me This Way, and joins the rest of the cast at the end, for a chorus of There's No Business Like Showbusiness.
-categories: [Theatres, London Weekend Television]
+categories: [Theatre, London Weekend Television]
 ---
 
 <div class="responsive-video">
