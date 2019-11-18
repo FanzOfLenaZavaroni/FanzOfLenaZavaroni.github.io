@@ -39,9 +39,21 @@ minima:
 header_pages:
    - about & introduction.md
    - biographies.md
-   - categories.md
+   - discography.md
    - onthisday.md
    - updates.md
+
+collections_dir: my-collections
+collections:
+   albums:
+      output: true
+      permalink: /discography/albums/:name
+   singles:
+      output: true
+      permalink: /discography/singles/:name
+   collection3:
+      output: true
+      permalink: /:name 
 
 include: ['biography']
 
