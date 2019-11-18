@@ -6,7 +6,7 @@ description: Pickwick released a two record set. made up of Lena's first two alb
 image: /assets/images/albums/The-Lena-Zavaroni-Collection-small.jpeg
 ---
 
-[![LP Cover for The Lena Zavaroni Collection](/assets/images/albums/The-Lena-Zavaroni-Collection.jpeg){: .left}{: .width-300}{: .zoom-in}](/assets/images/albums/The-Lena-Zavaroni-Collection.jpeg)
+![LP Cover for The Lena Zavaroni Collection](/assets/images/albums/The-Lena-Zavaroni-Collection.jpeg){: .full-width}
 
 In 1974 Pickwick released a two record set made up of Lena's first two albums.
 
@@ -16,4 +16,4 @@ Then on 31 May 2011 Hallmark re-released the album as digital media for streamin
 
 <br />{: .Clear}
 
-<iframe src="https://open.spotify.com/embed/album/0jOFKECZ11Oxe2m8zRIvav" width="100%" height="450" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/album/0jOFKECZ11Oxe2m8zRIvav" width="100%" height="830" frameborder="0" allowtransparency="true"></iframe>
