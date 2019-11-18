@@ -676,7 +676,7 @@ if (month == '11' && day == '17') {
 OnThisDay ='/onthisday/11/11-17.html';
 }
 if (month == '11' && day == '18') {
-OnThisDay ='/publications/newspapers/the-stage-and-television-today.html';
+OnThisDay ='/onthisday/11/11-18.html';
 }
 if (month == '11' && day == '24') {
 OnThisDay ='/theatre/1978/the-lena-zavaroni-show-1978-11-24.html';
