@@ -51,9 +51,12 @@ collections:
    singles:
       output: true
       permalink: /discography/singles/:name
-   collection3:
+   spoken-word:
       output: true
-      permalink: /:name 
+      permalink: /discography/spoken-word/:name
+   tribute-songs:
+      output: true
+      permalink: /discography/tribute-songs/:name
 
 include: ['biography']
 
