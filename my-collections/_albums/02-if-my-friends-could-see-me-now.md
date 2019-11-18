@@ -43,10 +43,10 @@ image: /assets/images/albums/2UKa.jpg
 </table>
 
 ## UK
-![If My Friends Could See Me Now - UK 2012 CD Cover](/assets/images/albums/2UKd.jpg){: .full-width}
+![If My Friends Could See Me Now - UK 2012 Audio CD Cover](/assets/images/albums/2UKd.jpg){: .full-width}
 <table>
 <tr><th>Label:</th><td>Pickwick Group Limited – 712412</td></tr>
-<tr><th>Format:</th><td>CD</td></tr>
+<tr><th>Format:</th><td>Audio CD</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>19 November 2012</td></tr>
 </table>
