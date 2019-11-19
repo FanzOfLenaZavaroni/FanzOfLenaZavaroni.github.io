@@ -694,7 +694,7 @@ if (month == '11' && day == '23') {
 OnThisDay ='/onthisday/11/11-23.html';
 }
 if (month == '11' && day == '24') {
-OnThisDay ='/theatre/1978/the-lena-zavaroni-show-1978-11-24.html';
+OnThisDay ='/onthisday/11/11-24.html';
 }
 if (month == '11' && day == '25') {
 OnThisDay ='/television/bruce-forsyths-big-night.html';
