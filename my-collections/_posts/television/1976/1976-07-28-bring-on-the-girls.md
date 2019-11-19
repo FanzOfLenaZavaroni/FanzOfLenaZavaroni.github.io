@@ -36,6 +36,7 @@ categories: [Thames Television]
 <span class="fb">[Stephen Molloy](https://www.facebook.com/profile.php?id=100009893010716) In a 1981 interview on Saturday Night At The Mill, Lena describes how the recording of Be A Clown was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.<br /><br />Lena mentions that they had already worked all day, so at twelve years old I imagine that hurried negotiations between lawyers, management and the local council would have had to take place to allow her to carry on working.<br /><br />On this 1981 edition of Pebble Mill, Lena sang Roses And Rainbows. If you look at her neck at around one minute and twenty seconds you will see her necklace break, but Lena carries on as if nothing had happened.</span>
 
 **Related Website:**
+
 **Note:**
 <span class="post-categories">[Memorable TV](https://www.memorabletv.com/tv/bring-on-the-girls-itv-28-jul-1976-bruce-forsyth-twiggy) It was **not** a pear of specials, it was a one of show that was repeated.</span>
 
