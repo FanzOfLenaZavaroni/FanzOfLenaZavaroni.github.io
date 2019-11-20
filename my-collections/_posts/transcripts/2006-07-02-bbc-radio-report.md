@@ -42,7 +42,7 @@ anymore because there's just no kinetic indication for it. We have
 pharmaceutical advances and psychotherapeutic advances which means it's
 not needed anymore.
 
-<cite>BBC Radio report on Scientology Volunteer Ministers - [Full Transcript](http://www.newsfrombree.co.uk/stolgy_25.htm)</cite>
+<cite>BBC Radio report on Scientology Volunteer Ministers - [Full Transcript via The Wayback Machine](https://web.archive.org/web/20181002180617/http://www.newsfrombree.co.uk/stolgy_25.htm)</cite>
 
 **Avoiding The Truth**
 > DR. MAX PEMBERTON: Lobotomies have not been done for decades. BRIAN DANIELS: Makes reference to Lena Zavaroni.

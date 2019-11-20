@@ -5,19 +5,20 @@ title: Categories
 ---
 
 <div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-
-    <a name="{{ category_name | slugize }}"></a>
-    <h3 class="category-head">{{ category_name }}</h3>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.date | date: "%Y-%m-%d"}} - {{post.title}}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
+{% comment %}
+#
+#  Change date order by adding '| reversed'
+#  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
+#
+{% endcomment %}
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign sorted_posts = category[1] | reversed %}
+<h2 id="{{category[0] | uri_escape}}">{{category[0]}}</H2>
+<ul>
+  {% for post in sorted_posts %}
+ 	<li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{post.date | date: "%Y-%m-%d"}} - {{post.title}}</a></li>
+  {% endfor %}
+</ul>
 {% endfor %}
 </div>
