@@ -3,7 +3,7 @@ layout: post
 title: BBC Radio
 subtitle: Report on Scientology Volunteer Ministers
 description: BRIAN DANIELS&#58; Okay, let me stop you there, Max, because in 1999, a high-profile case of Lena Zavaroni, who, at 35 years old had been under psychiatric care for a couple of, I mean, at least ten to fifteen years, and - um - she was found to have a - an eating problem, and then she was given psychiatric drugs, it didn't really go anywhere.
-categories: [Transcripts]
+categories: [Transcripts, Deleted Online Articles]
 ---
 
 <span><font Color="RED"><strong>Article Warning:</strong></font></span> Description may be upsetting to some fans.
