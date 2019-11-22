@@ -4,7 +4,7 @@ title: Des O'Connor Entertains
 subtitle: Series 1
 description: Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 image: /assets/images/Media-Logos/OnThizDay.jpg
-categories: [ATV, LWT]
+categories: [London Weekend Television]
 permalink: /atv/1976/06/04/des-oconnor-entertains.html
 ---
 

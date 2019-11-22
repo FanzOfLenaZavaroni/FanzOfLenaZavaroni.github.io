@@ -697,10 +697,22 @@ if (month == '11' && day == '24') {
 OnThisDay ='/onthisday/11/11-24.html';
 }
 if (month == '11' && day == '25') {
-OnThisDay ='/television/bruce-forsyths-big-night.html';
+OnThisDay ='/onthisday/11/11-25.html';
 }
 if (month == '11' && day == '26') {
-OnThisDay ='/publications/newspapers/the-stage-and-television-today.html#5';
+OnThisDay ='/onthisday/11/11-26.html';
+}
+if (month == '11' && day == '27') {
+OnThisDay ='/onthisday/11/11-27.html';
+}
+if (month == '11' && day == '28') {
+OnThisDay ='/onthisday/11/11-28.html';
+}
+if (month == '11' && day == '29') {
+OnThisDay ='/onthisday/11/11-29.html';
+}
+if (month == '11' && day == '30') {
+OnThisDay ='/onthisday/11/11-30.html';
 }
 if (month == '12' && day == '01') {
 OnThisDay ='/theatre/1977/the-lena-zavaroni-show-1977-12-01.html';

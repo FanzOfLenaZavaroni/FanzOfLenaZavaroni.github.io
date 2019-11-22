@@ -6,13 +6,16 @@ description: Lena attended the first LZAS annual luncheon, attended by over 60 f
 categories: [Personal Appearances]
 ---
 
-[![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg)
+> [![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg)
 [![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-02.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-02.jpg)
 [![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-03.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-03.jpg)
 [![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-04.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-04.jpg)
 
+
+<cite>Photos from the Event I will name copyright holder once I can discover who it is.</cite>
+
 <style>
-.height {width:auto; height:262px;}
+.height {width:auto; height:255px;}
 </style>
 
 **Research is on going and hopefully I will be able to add more details**
