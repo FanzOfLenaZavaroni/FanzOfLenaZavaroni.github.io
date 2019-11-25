@@ -29,6 +29,6 @@ NOTE: While users on YouTube are currently the ones making a big noise about thi
 
 If anybody knows of a video service outside of the USA please let me know.
 
-Don't get me wrong I'm all for child protection but it's YouTube not it's users that are tracking content they should not be tracking something outside of it's users control.
+Don't get me wrong I'm all for child protection but it's YouTube not it's users that are tracking content they should not be tracking, something that is outside of it's users control.
 
-The one thing I have learn is that the term "Parental Responsibility" is now a oxymoron :-(.
+The one thing I have learn is that the term "Parental Responsibility" is now a oxymoron :-(
