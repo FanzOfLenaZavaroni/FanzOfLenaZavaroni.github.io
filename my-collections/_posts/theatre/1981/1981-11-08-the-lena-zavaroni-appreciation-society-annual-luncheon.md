@@ -12,7 +12,7 @@ categories: [Personal Appearances]
 [![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-04.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-04.jpg)
 
 
-<cite>Photos from the Event I will name copyright holder once I can discover who it is.</cite>
+<cite>Photos from the Event copyright Shirley Hill (1981)</cite>
 
 <style>
 .height {width:auto; height:255px;}
