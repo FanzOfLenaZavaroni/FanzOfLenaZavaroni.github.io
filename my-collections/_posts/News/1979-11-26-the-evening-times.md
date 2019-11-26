@@ -2,7 +2,7 @@
 layout: post
 title: The Evening Times
 subtitle: Newspaper
-description: 
+description: The Evening Times reported on Lena Zavaroni’s progress in Glasgow Southern General Hospital.
 categories: [The Evening Times]
 ---
 
