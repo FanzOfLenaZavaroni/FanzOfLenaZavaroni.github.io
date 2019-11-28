@@ -715,16 +715,22 @@ if (month == '11' && day == '30') {
 OnThisDay ='/onthisday/11/11-30.html';
 }
 if (month == '12' && day == '01') {
-OnThisDay ='/theatre/1977/the-lena-zavaroni-show-1977-12-01.html';
+OnThisDay ='/onthisday/12/12-01.html';
 }
 if (month == '12' && day == '02') {
-OnThisDay ='/publications/emma/1978-12-02.html';
+OnThisDay ='/onthisday/12/12-02.html';
+}
+if (month == '12' && day == '03') {
+OnThisDay ='/onthisday/12/12-03.html';
 }
 if (month == '12' && day == '04') {
-OnThisDay ='/biography/harold-fielding.html';
+OnThisDay ='/onthisday/12/12-05.html';
 }
 if (month == '12' && day == '05') {
-OnThisDay ='/television/give-us-a-clue.html';
+OnThisDay ='/onthisday/12/12-05.html';
+}
+if (month == '12' && day == '06') {
+OnThisDay ='/onthisday/12/12-06.html';
 }
 if (month == '12' && day == '07') {
 OnThisDay ='/theatre/1980/the-lena-zavaroni-show-1980-12-07.html';
