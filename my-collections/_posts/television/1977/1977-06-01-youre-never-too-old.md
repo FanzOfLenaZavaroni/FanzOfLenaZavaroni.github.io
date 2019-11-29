@@ -7,7 +7,7 @@ image: /assets/images/ITV/youre-never-too-old.jpg
 categories: ATV
 ---
 
-[![TVTimes](/assets/images/ITV/youre-never-too-old.jpg){: .full-width}](/tv%20guides/1977/05/28/TVTimes.html)
+[![TVTimes](/assets/images/ITV/youre-never-too-old.jpg){: .full-width}{: .link}](/tv%20guides/1977/05/28/TVTimes.html)
 
 Lena celebrates her birthday as a pensioner in a comedy sketch.
 
