@@ -33,5 +33,3 @@ Lena performs I Am What I Am on the comedy show, hosted by the comedian Jimmy Cr
 * **Director:** Tony Wolfe
 * **Production company:** Central Television
 
-**Related Website:**
-<span class="post-categories">[IMDB](http://www.imdb.com/title/tt8233124)</span>
