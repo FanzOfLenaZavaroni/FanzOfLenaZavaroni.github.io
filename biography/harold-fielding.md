@@ -34,6 +34,5 @@ See Category: [Harold Fielding](/categories/#Harold%20Fielding) for the list of 
 
 **Related Website:**
 <span class="post-categories">
-[Tag: Harold Fielding](http://www.imdb.com/title/tt3514704)&nbsp;
 [Obituary](https://www.theguardian.com/news/2003/oct/01/guardianobituaries.artsobituaries)
 </span>
