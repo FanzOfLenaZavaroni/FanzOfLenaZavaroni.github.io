@@ -724,7 +724,7 @@ if (month == '12' && day == '03') {
 OnThisDay ='/onthisday/12/12-03.html';
 }
 if (month == '12' && day == '04') {
-OnThisDay ='/onthisday/12/12-05.html';
+OnThisDay ='/onthisday/12/12-04.html';
 }
 if (month == '12' && day == '05') {
 OnThisDay ='/onthisday/12/12-05.html';
