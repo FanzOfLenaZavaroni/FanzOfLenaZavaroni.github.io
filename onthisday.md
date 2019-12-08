@@ -741,8 +741,14 @@ OnThisDay ='/onthisday/12/12-08.html';
 if (month == '12' && day == '09') {
 OnThisDay ='/onthisday/12/12-09.html';
 }
+if (month == '12' && day == '10') {
+OnThisDay ='/onthisday/12/12-10.html';
+}
 if (month == '12' && day == '11') {
-OnThisDay ='/biography/biography.html#005';
+OnThisDay ='/onthisday/12/12-11.html';
+}
+if (month == '12' && day == '12') {
+OnThisDay ='/onthisday/12/12-12.html';
 }
 if (month == '12' && day == '13') {
 OnThisDay ='/television/the-basil-brush-show.html';
