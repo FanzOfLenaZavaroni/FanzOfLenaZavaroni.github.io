@@ -18,11 +18,11 @@ Lena appears in a short musical comedy sketch with Basil and Mr. Billy, before p
 </div>
 
 ### Cast
-* Basil Brush
+* **Glove Puppet:** Basil Brush
    * The original Basil Brush glove puppet was designed by Peter Firmin in 1963 for an ITV television series.
    * Voiced and performed by Ivan Owen until his death in October 2000.
    * Ivan modelled Basil's voice on that of the film star Terry-Thomas, giving the puppet a touch of well-cultivated class.
-   * [Wikipedia: Basil Brush](https://en.wikipedia.org/wiki/Basil_Brush)
+   * [Wikipedia: Basil Brush.](https://en.wikipedia.org/wiki/Basil_Brush)
 * **Mr. Billy:** Billy Boyle
 * **Special Guest:** Lena Zavaroni
 
