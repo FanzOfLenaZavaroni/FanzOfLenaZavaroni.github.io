@@ -7,14 +7,16 @@ image: /assets/images/BBC/
 categories: [BBC One]
 ---
 
+### Synopsis
 Lena appears in a short musical comedy sketch with Basil and Mr. Billy, before performing Will He Kiss Me Tonight.
 
-![](/assets/images/BBC/1980-12-13-the-basil-brush-show-billy-boyle.png){: .half-width}
+### Screenshots
 ![](/assets/images/BBC/1980-12-13-the-basil-brush-show-lena-zavaroni.png){: .half-width}
+![](/assets/images/BBC/1980-12-13-the-basil-brush-show-billy-boyle.png){: .half-width}
 
 ### YouTube
 <div class="responsive-video">
-<iframe width="640px" height="480px" src="https://www.youtube.com/embed/CUPiw7fBoE4?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="480px" height="360px" src="https://www.youtube.com/embed/CUPiw7fBoE4?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 ### Cast
@@ -33,4 +35,5 @@ Lena appears in a short musical comedy sketch with Basil and Mr. Billy, before p
 
 ### Related Websites:
 * [BBC Genome](http://genome.ch.bbc.co.uk/bda3587630d6477db469091a6530c72f)
-* [BFI](http://www.bfi.org.uk/films-tv-people/4ce2b83ee584f)
+* [British Film Institute (BFI)](http://www.bfi.org.uk/films-tv-people/4ce2b83ee584f)
+* [History of the BBC: The Basil Brush Show](https://www.bbc.co.uk/programmes/p01bc8tb)
