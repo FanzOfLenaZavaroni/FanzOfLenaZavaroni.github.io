@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: discography
 year: 1975
 title: Smile
 subtitle: Lena Zavaroni
 b-side: Hey! Hey! What Do You Say
+description: This is the 6th single by Lena Zavaroni.
 image: /assets/images/singles/smile.png
-categories: [Singles]
 ---
 
 ![](/assets/images/singles/smile.png){: .full-width}
