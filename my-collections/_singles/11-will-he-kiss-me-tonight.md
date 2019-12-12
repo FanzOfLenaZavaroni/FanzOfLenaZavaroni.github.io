@@ -25,6 +25,11 @@ description: This is the 11th single by Lena Zavaroni.
 <tr><th>Released:</th><td>November 1980</td></tr>
 </table>
 
+### Smash Hits Magazine
+> ![](/assets/images/magazines/1980-12-11-smash-hits-magazine.png){: .full-width}
+
+<cite>11 December 1980</cite>
+
 **Related Website:**
 <span class="post-categories">[45Cat](http://www.45cat.com/record/gy177)</span>
 
