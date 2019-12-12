@@ -2,7 +2,8 @@
 layout: post
 year: November 1980
 title: Will He Kiss Me Tonight
-b-side: 
+b-side: Dream Come True
+categories: [Singles]
 ---
 
 <div id="player1"></div>
@@ -20,7 +21,7 @@ b-side:
 <tr><th>Arranger:</th><td>David Goodman</td></tr>
 <tr class="split"><th>Label:</th><td>Galaxy - GY 177</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
-<tr><th>Country:</th><td>England</td></tr>
+<tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>November 1980</td></tr>
 </table>
 
@@ -30,7 +31,7 @@ b-side:
 <style>
 #player1 {width:367.5px; height:277px;}
 #player2 {width:367.5px; height:277px;}
-.split {border-top: solid 5px #f00;}
+.split {border-top: solid 5px #4B90B1;}
 </style>
 
 <script>

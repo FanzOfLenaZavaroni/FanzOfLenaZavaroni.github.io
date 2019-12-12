@@ -3,6 +3,7 @@ layout: post
 year: 1977
 title: Air Love
 b-side: Pinch Me Am I Dreaming
+categories: [Singles]
 ---
 
 <table>
