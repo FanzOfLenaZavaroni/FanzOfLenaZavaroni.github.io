@@ -751,7 +751,7 @@ if (month == '12' && day == '12') {
 OnThisDay ='/onthisday/12/12-12.html';
 }
 if (month == '12' && day == '13') {
-OnThisDay ='/television/the-basil-brush-show.html';
+OnThisDay ='/onthisday/12/12-13.html';
 }
 if (month == '12' && day == '14') {
 OnThisDay ='/onthisday/12/12-14.html';
