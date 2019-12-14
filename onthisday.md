@@ -759,6 +759,12 @@ OnThisDay ='/onthisday/12/12-14.html';
 if (month == '12' && day == '15') {
 OnThisDay ='/onthisday/12/12-15.html';
 }
+if (month == '12' && day == '16') {
+OnThisDay ='/onthisday/12/12-16.html';
+}
+if (month == '12' && day == '17') {
+OnThisDay ='/onthisday/12/12-17.html';
+}
 if (month == '12' && day == '18') {
 OnThisDay ='/onthisday/12/12-18.html';
 }
@@ -786,3 +792,4 @@ OnThisDay ='/television/opportunity-knocks/1975-12-29.html';
 window.location.href = OnThisDay;
 }
 </script>
+
