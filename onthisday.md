@@ -768,26 +768,38 @@ OnThisDay ='/onthisday/12/12-17.html';
 if (month == '12' && day == '18') {
 OnThisDay ='/onthisday/12/12-18.html';
 }
+if (month == '12' && day == '19') {
+OnThisDay ='/onthisday/12/12-19.html';
+}
 if (month == '12' && day == '20') {
 OnThisDay ='/onthisday/12/12-20.html';
 }
 if (month == '12' && day == '21') {
-OnThisDay ='/publications/titbits/titbits1.html';
+OnThisDay ='/onthisday/12/12-21.html';
+}
+if (month == '12' && day == '22') {
+OnThisDay ='/onthisday/12/12-22.html';
 }
 if (month == '12' && day == '23') {
 OnThisDay ='/onthisday/12/12-23.html';
 }
+if (month == '12' && day == '24') {
+OnThisDay ='/onthisday/12/12-25.html';
+}
 if (month == '12' && day == '25') {
-OnThisDay ='/television/tv-am/1984-12-25.html';
+OnThisDay ='/onthisday/12/12-25.html';
+}
+if (month == '12' && day == '26') {
+OnThisDay ='/onthisday/12/12-26.html';
 }
 if (month == '12' && day == '27') {
-OnThisDay ='/television/1977/maxs-holiday-hour.html';
+OnThisDay ='/onthisday/12/12-27.html';
 }
 if (month == '12' && day == '28') {
-OnThisDay ='/publications/newspapers/the-stage-and-television-today.html#19781228';
+OnThisDay ='/onthisday/12/12-28.html';
 }
 if (month == '12' && day == '29') {
-OnThisDay ='/television/opportunity-knocks/1975-12-29.html';
+OnThisDay ='/onthisday/12/12-29.html';
 }
 window.location.href = OnThisDay;
 }
