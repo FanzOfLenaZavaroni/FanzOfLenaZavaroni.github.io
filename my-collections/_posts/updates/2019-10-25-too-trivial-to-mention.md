@@ -6,7 +6,7 @@ description: 25 October 2019
 categories: [Updates]
 ---
 
-**My thoughts on this comment**
+### My thoughts on this comment
 > I don't know about you, but I often have to decide between "this is to trivial to mention" and "Should I include this for completeness?"
 
 <cite>[StephenMolloy1 ](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/issues/19#issuecomment-545534658)</cite>
@@ -27,7 +27,8 @@ categories: [Updates]
 
 <cite>Fanz of Lena Zavaroni (Robcamstone)</cite>
 
-**Rounding up**
+### Rounding up
 > They may be the must trivial of references but YES! They matter as in most cases they are the only content being generated and are still keeping Lena Zavaroni in the public eye and may get a small group of readers that have never heard of her to look her up and if just 1 of that small group goes on to become a fan then that minor reference has done a great job for Lena Zavaroni and her fan-base.
 
 <cite>Fanz of Lena Zavaroni (Robcamstone)</cite>
+
