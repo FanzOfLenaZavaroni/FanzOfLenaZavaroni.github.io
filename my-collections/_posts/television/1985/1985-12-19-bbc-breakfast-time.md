@@ -11,16 +11,17 @@ categories: [BBC One]
 
 Lena chats to Frank Bough and Debbie Greenwood about her plans for the future.
 
+Some online databases put the date as the 18 December 1985, I have gone with the 19 December 1985 based on the fact that Frank Bough encourages viewers to go see the pantomime tomorrow night and as we do know for a fact the pantomime started on the 20 December 1985 that puts the broadcast of this progamme on the 19th.
+
+Also due to the unreliable data from so-call online datebases I can not confirm the other guests so have added a questionmark to them until I can find a reliable source.
+
 **Credits**
 * **Presenter:** Frank Bough
 * **Presenter:** Debbie Greenwood
 * **News Presenter:**Sue Carpenter
 * **Weather Presenter:** Francis Wilson
-* **Guest:** Alison Mitchell
+* **Guest:** Alison Mitchell?
 * **Guest:** Lena Zavaroni
-* **Guest:** Cliff Richard
+* **Guest:** Cliff Richard?
 * **Production company:** BBC Television
-
-**Related Website:**
-* [BBC Genome](http://genome.ch.bbc.co.uk/6c23a5a31feb450d812a409d0fa9aee0)
 
