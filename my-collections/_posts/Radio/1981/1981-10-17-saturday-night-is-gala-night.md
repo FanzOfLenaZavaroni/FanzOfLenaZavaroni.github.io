@@ -13,24 +13,26 @@ A concert of British music from the Royal Albert Hall, London in association wit
 
 <cite>The Times (London, England), Saturday, Oct 17, 1981; pg. 27; Issue 61058</cite>
 
-**Contributors**
-* **Introduced by** David Jacobs
-* **Leader:** Michael Tomalin
-* **Conductor:** Harry Rabinowitz
-* **Performer:** Dame Vera Lynn
-* **Performer:** Anne Shelton
-* **Performer:** Frankie Vaughan
-* **Performer:** Vince Hill
-* **Performer:** Marti Webb
-* **Performer:** Lena Zavaroni
-* **Performer:** Hubert Gregg
-* **Performer:** Acker Bilk
-* **Performer:** Joan Savage
-* **Performer:** Julian Lloyd Webber
-* **Performer:** Bucks Fizz
-* **Performer:** The Mike Sammes Singers
+### Programme
+* Joan Savage
+* Julian Lloyd Webber
+* Mike Sammes Singers
+* Bucks Fizz
+* Marti Webb
+* Mike Sammes Singers
+* Frankie Vaughan
+* Anne Shelton
+
+### INTERVAL
+* Lena Zavaroni
+* Hubert Gregg
+* Mike Sammes Singers
+* Semprini
+* Vince Hill
+* Acker Bilk
+* Vera Lynn
 * **Producer:** Paul Walters
 
-**Related Websites:**
-<span class="post-categories">[BBC Genome](http://genome.ch.bbc.co.uk/8b5046ee2d5c42b8af6fbf7c13f6fd31)&nbsp;
-[Repeat: 26 December 1981](http://genome.ch.bbc.co.uk/361dbdc4e7374f83a385f7a3342961d7)</span>
+### Related Websites
+* [BBC Genome](http://genome.ch.bbc.co.uk/8b5046ee2d5c42b8af6fbf7c13f6fd31)
+* [Repeat: 26 December 1981](http://genome.ch.bbc.co.uk/361dbdc4e7374f83a385f7a3342961d7)
