@@ -801,6 +801,12 @@ OnThisDay ='/onthisday/12/12-28.html';
 if (month == '12' && day == '29') {
 OnThisDay ='/onthisday/12/12-29.html';
 }
+if (month == '12' && day == '30') {
+OnThisDay ='/onthisday/12/12-30.html';
+}
+if (month == '12' && day == '31') {
+OnThisDay ='/onthisday/12/12-31.html';
+}
 window.location.href = OnThisDay;
 }
 </script>
