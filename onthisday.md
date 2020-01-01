@@ -10,13 +10,25 @@ var month = today.getMonth()+1;
 var day = today.getDate();
 var OnThisDay ='/onthisday/sorry.html';
 if (month == '01' && day == '01') {
-OnThisDay ='/television/1986/a-royal-celebration-of-youth.html';
+OnThisDay ='/onthisday/01/01-01.html';
+}
+if (month == '01' && day == '02') {
+OnThisDay ='/onthisday/01/01-02.html';
+}
+if (month == '01' && day == '03') {
+OnThisDay ='/onthisday/01/01-03.html';
+}
+if (month == '01' && day == '04') {
+OnThisDay ='/onthisday/01/01-04.html';
 }
 if (month == '01' && day == '05') {
-OnThisDay ='/radio/alyn-ainsworth-and-the-bbcradio-orchestra.html';
+OnThisDay ='/onthisday/01/01-05.html';
+}
+if (month == '01' && day == '06') {
+OnThisDay ='/onthisday/01/01-06.html';
 }
 if (month == '01' && day == '07') {
-OnThisDay ='/television/opportunity-knocks/1974-01-07.html';
+OnThisDay ='/onthisday/01/01-07.html';
 }
 if (month == '01' && day == '13') {
 OnThisDay ='/biography/biography.html#010';
