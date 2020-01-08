@@ -30,6 +30,12 @@ OnThisDay ='/onthisday/01/01-06.html';
 if (month == '01' && day == '07') {
 OnThisDay ='/onthisday/01/01-07.html';
 }
+if (month == '01' && day == '08') {
+OnThisDay ='/onthisday/01/01-08.html';
+}
+if (month == '01' && day == '09') {
+OnThisDay ='/onthisday/01/01-09.html';
+}
 if (month == '01' && day == '13') {
 OnThisDay ='/biography/biography.html#010';
 }
