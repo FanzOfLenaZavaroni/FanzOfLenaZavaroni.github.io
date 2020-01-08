@@ -36,11 +36,32 @@ OnThisDay ='/onthisday/01/01-08.html';
 if (month == '01' && day == '09') {
 OnThisDay ='/onthisday/01/01-09.html';
 }
+if (month == '01' && day == '10') {
+OnThisDay ='/onthisday/01/01-10.html';
+}
+if (month == '01' && day == '11') {
+OnThisDay ='/onthisday/01/01-11.html';
+}
+if (month == '01' && day == '12') {
+OnThisDay ='/onthisday/01/01-12.html';
+}
 if (month == '01' && day == '13') {
-OnThisDay ='/biography/biography.html#010';
+OnThisDay ='/onthisday/01/01-13.html';
 }
 if (month == '01' && day == '14') {
-OnThisDay ='/television/opportunity-knocks/1974-01-14.html';
+OnThisDay ='/onthisday/01/01-14.html';
+}
+if (month == '01' && day == '15') {
+OnThisDay ='/onthisday/01/01-15.html';
+}
+if (month == '01' && day == '16') {
+OnThisDay ='/onthisday/01/01-16.html';
+}
+if (month == '01' && day == '17') {
+OnThisDay ='/onthisday/01/01-17.html';
+}
+if (month == '01' && day == '18') {
+OnThisDay ='/onthisday/01/01-18.html';
 }
 if (month == '01' && day == '25') {
 OnThisDay ='/discography/singles/ma-hes-making-eyes-at-me.html';
