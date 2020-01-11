@@ -154,7 +154,7 @@ But she would never leave the hospital. Within three weeks, on October 1, 1999 s
 
 >Surgeons at the University Hospital of Wales in Cardiff have conducted 56 NMD operations in the past decade. It was there that the former child singing star Lena Zavaroni, who suffered from anorexia, underwent such surgery in 1999 for severe depression. Though the operation seemed to have been a success, she died of Pneumonia less than a month later. According to Brian Simpson, consultant neurosurgeon at Cardiff, the operations his team have conducted have led to a "marked improvement" in roughly half of those being treated for severe depression and OCD. "NMD is not a panacea," Simpson agrees. "It is carefully regulated and only offered to patients for whom all other treatments have failed But in the patients for whom it works well, whose suffering has been indescribable, it transforms their lives."
 
-<cite>Extract from The Observer, Elizabeth Day, [13 January 2008](http://bruiseduk.webs.com/lobotomy.htm)</cite>
+<cite>[Extract from Bruised UK](/miscellaneous/bruised-uk-lobotomy.html)</cite>
 
 ## Neurosurgery for Mental Disorder (Modern stereotactic psychosurgery)
 

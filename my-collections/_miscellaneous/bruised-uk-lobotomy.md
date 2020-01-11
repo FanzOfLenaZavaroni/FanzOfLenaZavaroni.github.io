@@ -1,10 +1,8 @@
 ---
 layout: post
-title: The Observer
-subtitle: Elizabeth Day
+title: Bruised UK
 description: making waves just one drop - Lobotomy - Knowledge is power sadly in the mental health system the power is usually one-sided We aim to change this"
 image: /assets/images/newspapers/2008-01-13-the-observer-elizabeth-day.png
-categories: [The Observer]
 ---
 
 > [![](/assets/images/newspapers/2008-01-13-the-observer-elizabeth-day.png)](https://bruiseduk.webs.com/lobotomy.htm)
@@ -12,20 +10,25 @@ categories: [The Observer]
 
 [He was bad, so they put an ice pick in his brain...](http://observer.guardian.co.uk/review/story/0,,2239724,00.html)
 
-> At the age of 12, Howard Dully was given a lobotomy, one of thousands performed by the notorious Dr Walter Freeman in the 1940s and 1950s. Now Dully has written a forceful account of his survival and sheds light on the man who subjected him to one of the most brutal surgical procedures in medical history
+**Elizabeth Day**
+<br />
+**Sunday January 13, 2008**
+<br />
+**[The Observer](http://www.observer.co.uk)**
 
-<cite>Elizabeth Day - Sunday January 13, 2008 - [The Observer](http://www.observer.co.uk)</cite>
+> At the age of 12, Howard Dully was given a lobotomy, one of thousands performed by the notorious Dr Walter Freeman in the 1940s and 1950s. Now Dully has written a forceful account of his survival and sheds light on the man who subjected him to one of the most brutal surgical procedures in medical history
 
 ### making waves just one drop - Lobotomy
 
 > When Howard Dully met the man who was to change his life for ever, he was not sure what to make of him. He was 11 at the time and paid little attention to the mysterious adult world that surrounded him, to the decisions taken without his knowledge or to the profound impact that Dr Walter Freeman would have on his pre-adolescent existence. Instead, with a child's eye, he noticed the small physical quirks - the round-rimmed glasses, the dapper suit, the well-trimmed goatee. 'It made him look a little like a beatnik,' Dully says. 'He was warm, personable and easy to get along with. Was I fearful? No. I had no idea what he was going to do with me.'
-Dully was a withdrawn boy who liked riding his bicycle and playing chess. He occasionally fought with his brother, disobeyed his parents and stole sweets from the kitchen cupboards. He had a weekly paper round and was saving up to buy a record player. According to Dr Freeman's meticulous records, Dully was 62 inches tall and weighed 6½ stone. He was an average child, perhaps a little unruly but nothing that would strike one as exceptional for a boy of his age.
+>
+> Dully was a withdrawn boy who liked riding his bicycle and playing chess. He occasionally fought with his brother, disobeyed his parents and stole sweets from the kitchen cupboards. He had a weekly paper round and was saving up to buy a record player. According to Dr Freeman's meticulous records, Dully was 62 inches tall and weighed 6½ stone. He was an average child, perhaps a little unruly but nothing that would strike one as exceptional for a boy of his age.
 >
 > But Howard Dully would soon become exceptional for all the wrong reasons. Barely two months after this first meeting, his father and stepmother had him admitted to a private hospital in his home town of San Jose, California. At 1.30pm on 16 December 1960, he was wheeled into an operating theatre and given a series of electric shocks to sedate him. That much he remembers. The rest is murky.
 >
 > When Dully woke the next day, his eyes were swollen and bruised and he was running a high fever. He recalls a severe pain in his head and the discomfort of his hospital gown, which gaped open at the back. He had no idea what had happened. 'I was in a mental fog,' Dully says. 'I was like a zombie; I had no awareness of what Freeman had done.'
 >
-> What he didn't know was that he had been subjected to one of the most brutal surgical procedures in medical history. He had undergone a lobotomy and no one, not his parents, not the medical community or the state authorities, had intervened to stop it. More disturbingly, there seemed to have been no obvious necessity for the operation.
+> When Dully woke the next day, his eyes were swollen and bruised and he was running a high fever. He recalls a severe pain in his head and the discomfort of his hospital gown, which gaped open at the back. He had no idea what had happened. 'I was in a mental fog,' Dully says. 'I was like a zombie; I had no awareness of what Freeman had done.'
 >
 > If Dully appeared superficially vacant or mildly aggressive, there were some obvious explanations. His mother died of cancer when he was five and his father, Rodney, later remarried to a 'cold and demanding' woman called Lou, who found her new stepson's natural ebullience and physical strength almost impossible to control. Relations between the two deteriorated so that Dully grew up in an atmosphere of emotional abuse and casual neglect. He was given regular beatings and forced to eat meals on his own. Increasingly convinced that there was something emotionally wrong with her stepson, Lou started consulting psychiatrists and mental health experts before eventually being referred to Dr Freeman, a renegade physician disowned by the mainstream establishment, who ran a private practice in Los Altos, just outside San Francisco. Freeman diagnosed Dully as a schizophrenic.
 >
@@ -73,15 +76,15 @@ Dully was a withdrawn boy who liked riding his bicycle and playing chess. He occ
 >
 > 'I don't think Freeman was evil. I think he was misguided. He tried to do what he thought was right, then he just couldn't give it up. That was the problem.'
 >
-> In many ways, Walter Freeman was shaped as much by human frailty as his patients. Born in Philadelphia in 1895, he was driven from a young age to be exemplary, growing up in the long shadow cast by his grandfather, William Keen, an exceptional surgeon who was the first American successfully to remove a brain tumour. 'He was motivated partly by interest in the well-being of his patients and then also by this very urgent need to feel like he was someone who was accomplishing great things,' explains Jack El-Hai, author of The Lobotomist, a biography of Freeman. 'As he grew more personally attached to the lobotomy, he became more irrational.'
+>In many ways, Walter Freeman was shaped as much by human frailty as his patients. Born in Philadelphia in 1895, he was driven from a young age to be exemplary, growing up in the long shadow cast by his grandfather, William Keen, an exceptional surgeon who was the first American successfully to remove a brain tumour. 'He was motivated partly by interest in the well-being of his patients and then also by this very urgent need to feel like he was someone who was accomplishing great things,' explains Jack El-Hai, author of The Lobotomist, a biography of Freeman. 'As he grew more personally attached to the lobotomy, he became more irrational.'
 >
-> The more the mainstream medical establishment derided Freeman's methods - with the advent of Freudian psychoanalysis and antipsychotic drugs such as Thorazine in the mid-1950s the lobotomy fell out of favour - the more defensive Freeman became. He took pride in what he called 'shrink-baiting' and wrote disobliging limericks about his professional enemies, once saying he would 'rather be wrong than be boring'. By the time Freeman operated on Dully in 1960, he was working exclusively from a private practice - no state hospital would touch him.
+>The more the mainstream medical establishment derided Freeman's methods - with the advent of Freudian psychoanalysis and antipsychotic drugs such as Thorazine in the mid-1950s the lobotomy fell out of favour - the more defensive Freeman became. He took pride in what he called 'shrink-baiting' and wrote disobliging limericks about his professional enemies, once saying he would 'rather be wrong than be boring'. By the time Freeman operated on Dully in 1960, he was working exclusively from a private practice - no state hospital would touch him.
 >
 > Freeman's home life unravelled alongside his professional reputation. His wife, Marjorie, was an alcoholic and Freeman had numerous affairs. In 1946, Freeman had witnessed the horrific death of his 11-year-old son Keen on a camping holiday in Yosemite national park. Keen was bending down at the top of waterfall to fill up his flask when he lost his footing and was swept over the brink. It was an experience that must have affected Freeman greatly, although he made sparse mention of it in later life. But perhaps it was telling that, 14 years after the event, when he first met 11-year-old Howard Dully, Freeman suggested that the two of them should go hiking.
 >
-> 'My sense with Howard is that Freeman thought he was treating a family problem rather than just a boy's psychiatric problems,' says El-Hai. 'But by the standards he used in earlier years, what he did was completely unjustifiable.'
+>'My sense with Howard is that Freeman thought he was treating a family problem rather than just a boy's psychiatric problems,' says El-Hai. 'But by the standards he used in earlier years, what he did was completely unjustifiable.'
 >
-> Although Freeman ended up causing unforgivable harm, he was not, essentially, a bad man. After he died of complications arising from an operation for cancer in 1972, his four surviving children - Walter, Frank, Paul and Lorne - became staunch defenders of their father's legacy. Two of them have carried on the familial medical heritage: Paul is a psychiatrist in San Francisco and the eldest, Walter Jnr, is now professor emeritus of neurobiology at the University of California.
+>Although Freeman ended up causing unforgivable harm, he was not, essentially, a bad man. After he died of complications arising from an operation for cancer in 1972, his four surviving children - Walter, Frank, Paul and Lorne - became staunch defenders of their father's legacy. Two of them have carried on the familial medical heritage: Paul is a psychiatrist in San Francisco and the eldest, Walter Jnr, is now professor emeritus of neurobiology at the University of California.
 >
 > Walter Jnr's twin, Frank, 80, is a retired security guard, living in a modest, second-floor apartment in San Carlos, just half an hour's drive from Howard Dully's home. He is a friendly giant of a man, dressed smartly in a double-breasted, dark blue suit and burgundy tie, kept in place by a thin gold clip. 'He was a marvellous father,' Frank says, sitting in a room filled with crossword dictionaries and Dick Francis novels. 'He loved his children and always made time for us out of his busy schedule, taking us camping every summer all across the country.'
 >
@@ -94,29 +97,37 @@ Dully was a withdrawn boy who liked riding his bicycle and playing chess. He occ
 > It is impossible to say how Dully's life would have panned out if he had not walked into Walter Freeman's office one long-ago autumn day. Perhaps it would, like Frank says, have been incalculably worse or perhaps it would have carried on much the same. But it could have been better, too, and the true sadness is that Howard Dully will never be able to find out one way or the other.
 
 ### Mind-boggling: a history of lobotomy
-* 1890: German scientist Friederich Golz experiments with removing the temporal lobe from dogs and reports a calming effect.
-* 1892: Gottlieb Burkhardt, a Swiss physician, performs a similar operation on six schizophrenic patients. Four exhibited altered behaviour. Two died.
-* 1936: Portuguese neuropsychiatrist Antonio Egas Moniz develops the leukotomy, but advises using the operation only as a last resort.
-* 1945: American surgeon Walter Freeman develops the 'ice pick' lobotomy. Performed under local anaesthetic, it takes only a few minutes and involves driving the pick through the thin bone of the eye socket, then manipulating it to damage the prefrontal lobes.
-* 1946: First lobotomy performed in Britain at Maryfield Hospital, Dundee. The procedure is used for 30 years.
-* 1954: Antipsychotic drug Thorazine licensed for the treatment of schizophrenia, causing the lobotomy gradually to fall out of favour.
-* 1960-70: Lobotomies come under scrutiny by sociologists who consider it a tool for 'psycho-civilising' society. They were banned in Germany, Japan and the Soviet Union. Limited psychosurgery for extreme medical cases is still practised in the UK, Finland, India, Sweden, Belgium and Spain.
-* Howard Dully's autobiography, My Lobotomy, co-written with journalist Charles Fleming, will be published in the UK on the 6 March 2008.
+**1890:** German scientist Friederich Golz experiments with removing the temporal lobe from dogs and reports a calming effect.
+<br />
+**1892:** Gottlieb Burkhardt, a Swiss physician, performs a similar operation on six schizophrenic patients. Four exhibited altered behaviour. Two died.
+<br />
+**1936:** Portuguese neuropsychiatrist Antonio Egas Moniz develops the leukotomy, but advises using the operation only as a last resort.
+<br />
+**1945:** American surgeon Walter Freeman develops the 'ice pick' lobotomy. Performed under local anaesthetic, it takes only a few minutes and involves driving the pick through the thin bone of the eye socket, then manipulating it to damage the prefrontal lobes.
+<br />
+**1946:** First lobotomy performed in Britain at Maryfield Hospital, Dundee. The procedure is used for 30 years.
+<br />
+**1954:** Antipsychotic drug Thorazine licensed for the treatment of schizophrenia, causing the lobotomy gradually to fall out of favour.
+<br />
+**1960-70:** Lobotomies come under scrutiny by sociologists who consider it a tool for 'psycho-civilising' society. They were banned in Germany, Japan and the Soviet Union. Limited psychosurgery for extreme medical cases is still practised in the UK, Finland, India, Sweden, Belgium and Spain.
 
+* Howard Dully's autobiography, My Lobotomy, co-written with journalist Charles Fleming, was published in the UK on the 6 March 2008. [This line is edited becuase the link to buy the book is no longer active - Robcamstone]
 
 ### The Sunday Times Magazine
 19 February 2006
-Dr Walter Freeman performs a lobotomy in America in 1949 by driving an ice pick into the patients eye socket
+Dr Walter Freeman performs a lobotomy in America in 1949 by driving an ice pick into the patient's eye socket
 Investigation
 
 ### Mental cruelty
-> The lobotomy is deemed one of the worst crimes in medical history. But a modern form of it is still practised in Britain - and may soon be performed without the patient's consent. By Christine Toomey and Steven Young
->
+**The lobotomy is deemed one of the worst crimes in medical history. But a modern form of it is still practised in Britain - and may soon be performed without the patient's consent. By Christine Toomey and Steven Young**
+
 > The flashbacks come late at night. First comes the recollection of intense physical pain, as if the bones in his arms are being snapped like twigs. Then he hears the voice of the neurosurgeon applying an electric current to metal pins implanted in the tissue of his brain. "How do you feel, Derek?" the surgeon Arthur E Wall asks, while peering into Derek Hutchinson's eyes to see if his pupils have yet dilated with fear.
-When Hutchinson swears at the surgeon, Wall administers another electric shock to nerve centres located in the hypothalamus at the centre of his patient's brain. At this, Hutchinson's pupils dilate and he screams: "You're going to kill me, you bastard!" Hutchinson's medical records, written by Wall over 30 years ago, confirm that his patient "felt funny - as if he was dying". But as he screamed, Hutchinson recalls Wall leaning in close to his face and leering: "And I thought you were a bit of a tough guy."
+>
+> When Hutchinson swears at the surgeon, Wall administers another electric shock to nerve centres located in the hypothalamus at the centre of his patient's brain. At this, Hutchinson's pupils dilate and he screams: "You're going to kill me, you bastard!" Hutchinson's medical records, written by Wall over 30 years ago, confirm that his patient "felt funny - as if he was dying". But as he screamed, Hutchinson recalls Wall leaning in close to his face and leering: "And I thought you were a bit of a tough guy."
 >
 > His next recollection is of Wall giving orders for surgical implements to be passed. Hutchinson feels the metal pins inserted through nylon balls lodged in cavities bored into the front of his skull being replaced by thicker electrodes he says felt like "broom handles". "After that I started, I start to feel warm all over and quickly feel as if I have fallen into a vat of molten metal, as if I am, quite literally, frying," says Hutchinson, tellingly confusing tenses as he describes the brain surgery he underwent in 1974 yet still relives up to a dozen times a day and in frequent nightmares.
-Throughout the surgery, Hutchinson was kept conscious; his head held in a brace, his hands and feet strapped to the operating table. Hutchinson, a 27-year-old father of three at the time of the operation, says he had not given his written consent to the operation being performed; neither had his wife - his next of kin. Instead his mother, an alcoholic, had been visited at home, in the late evening, after she had been drinking, and had been asked to sign the form. "My mother thought doctors were gods," Hutchinson  says. "She'd have signed anything they asked."
+>
+> Throughout the surgery, Hutchinson was kept conscious; his head held in a brace, his hands and feet strapped to the operating table. Hutchinson, a 27-year-old father of three at the time of the operation, says he had not given his written consent to the operation being performed; neither had his wife - his next of kin. Instead his mother, an alcoholic, had been visited at home, in the late evening, after she had been drinking, and had been asked to sign the form. "My mother thought doctors were gods," Hutchinson  says. "She'd have signed anything they asked."
 >
 > Hutchinson's excruciatingly detailed recollections are a rare testimony of someone still lucid and intensely angry about a type of brain surgery to which he was subjected - he contends illegally - commonly referred to as a lobotomy. In strict medical terms, a lobotomy - or leucotomy, as the procedure became known in this country - involved the removal of part of the frontal lobes of the brain or the severing of neural fibres connecting the frontal lobes to the limbic system - the part of the brain concerned with emotional response and functions not under conscious control.
 >
@@ -128,7 +139,7 @@ Throughout the surgery, Hutchinson was kept conscious; his head held in a brace,
 >
 > But as the number of lives wrecked by such surgery became more widely known, its effect was gradually exposed - most famously in Milos Forman's 1975 film, One Flew over the Cuckoo's Nest. But also earlier, in the 1958 play Suddenly Last Summer, by Tennessee Williams. A close friend of Williams, whose sister Rose was lobotomised as a teenager, recalls how the playwright talked of his sister as "fragile and gentle", someone hurt by "the harshness of life".
 >
->"Things alarmed Miss Rose that would not even be noticed by someone less sensitive. She was just awakening to sexuality and knew almost nothing about it Rose came home from school one day and said the nuns were using altar candles for self-abuse. She told mother this," the playwright once confided to his biographer Dotson Rader. To the siblings' mother, known even to her children as "Miss Edwina", human sexuality was "the great unmentionable". She promptly took her daughter to the doctor, demanding the "filth" be cut out of her brain: "Cut it away! Miss Edwina ordered. "Make it clean!" "And he did," recalled the playwright, who said his mother never showed any remorse about reducing her daughter to a human vegetable.
+> "Things alarmed Miss Rose that would not even be noticed by someone less sensitive. She was just awakening to sexuality and knew almost nothing about it Rose came home from school one day and said the nuns were using altar candles for self-abuse. She told mother this," the playwright once confided to his biographer Dotson Rader. To the siblings' mother, known even to her children as "Miss Edwina", human sexuality was "the great unmentionable". She promptly took her daughter to the doctor, demanding the "filth" be cut out of her brain: "Cut it away! Miss Edwina ordered. "Make it clean!" "And he did," recalled the playwright, who said his mother never showed any remorse about reducing her daughter to a human vegetable.
 >
 > Some now consider such practices to be among the most egregious medical crimes of the last century and have called for Moniz, who was later shot in the back by a dissatisfied patient, to be posthumously stripped of his Nobel prize. The Nobel Foundation rules this out, maintaining that all of its awards can be justified within the historical context that they are given.
 >
@@ -139,9 +150,10 @@ Throughout the surgery, Hutchinson was kept conscious; his head held in a brace,
 > If the worst excesses are in the past, the type of surgery now conducted so controlled and the numbers to whom it is given severely limited, some might argue that the subject of lobotomies, psychosurgery, NMD - call it what you will - is only of historical interest. They would be wrong.
 >
 > In the coming month, parliament is expected to finally debate another hotly contested piece of proposed legislation: the draft Mental Health Bill (2004), which many mental-health experts fear will reduce safeguards for the mentally ill. One provision of the bill is a little-noticed clause that, if passed onto the statute books, would allow doctors to perform NMD without a patient's consent if they were considered so mentally ill they were incapable of giving it.
->
+>	
 > No matter how refined these latest NMD techniques are, nor how vociferously neurosurgeons who practise it argue it is nowadays employed only as a last resort, its outcome is often unpredictable. Since it is irreversible, some believe it should be banned. At the very least it should only be conducted on those able to give their informed consent, argue campaigners such as the mental-health charity Mind and the Mental Health Alliance, which includes such bodies as the Royal College of Nursing, the Royal College of Psychiatrists, the Law Society and dozens of other organisations in the field of mental health.
-With many of those who have undergone such surgery unable to speak for themselves and few of those subjected to the cruder forms of surgery still alive, Derek Hutchinson's is the rare voice of experience. His story serves as a chilling reinforcement of the adage that a society be judged by the way it treats its most vulnerable. With the government proposing legislation that many believe would turn the clock back on the way we treat the mentally ill, what does that say about modern Britain?
+>
+> With many of those who have undergone such surgery unable to speak for themselves and few of those subjected to the cruder forms of surgery still alive, Derek Hutchinson's is the rare voice of experience. His story serves as a chilling reinforcement of the adage that a society be judged by the way it treats its most vulnerable. With the government proposing legislation that many believe would turn the clock back on the way we treat the mentally ill, what does that say about modern Britain?
 >
 > As Hutchinson sits talking in the cramped living room of his small terrace house in Leeds, he frequently stretches out his arms to hug his two-year-old grandson, one of 17 grandchildren. While the boy giggles with delight, Hutchinson, 59, talks a little of his own childhood. He recalls how his mother would often lock him, the middle of three brothers, in a coal shed overnight. "Glass were all broken. I'd have to sleep in coal sack, night after night. It went on for years," he says. But he prefers not to dwell on it. "That's all done now, in the past."
 >
@@ -167,7 +179,7 @@ With many of those who have undergone such surgery unable to speak for themselve
 >
 > Immaculately dressed in a tweed suit, he recalls how the operation helped one vet obsessed with a fear of constipation who ate fruit constantly and spent all day in the toilet. After the operation he was able to return to work. He also talks of performing lobotomies on more than 20 priests with perceived personality disorders. But, he says, in his experience the surgery did more to help those who were returned to closed orders rather than allowed to return to the community. Lobotomies, he says, did little to help those with schizophrenia, neurosyphilis or personality disorders other than obsessive-compulsive disorder and severe depression.
 >
-> Those forms of NMD still being conducted in this country today are targeted at the treatment of severe depression, severe anxiety and OCD. These procedures, which involve minute destructive lesions in parts of the frontal lobe or limbic system, are known as cingulotomies - the cingulum being the part of the frontal lobe associated with OCD - and capsulotomies, which involve making lesions in the capsules: the dense nerve-fibre pathway connecting part of the frontal lobe with the limbic structure. Neurosurgeons at Ninewells hospital in Dundee, for instance, carried out 34 NMD operations between 1990 and 2001. In the past year the hospital has conducted five such operations on patients it describes as "among the most severely ill and disabled who come into contact with any branch of the medical professions". Surgeons at the University Hospital of Wales in Cardiff have conducted 56 NMD operations in the past decade. It was there that the former child singing star Lena Zavaroni, who suffered from anorexia, underwent such surgery in 1999 for severe depression. Though the operation seemed to have been a success, she died of pneumonia less than a month later. According to Brian Simpson, consultant neurosurgeon at Cardiff, the operations his team have conducted have led to a "marked improvement" in roughly half of those being treated for severe depression and OCD. "NMD is not a panacea," Simpson agrees. "It is carefully regulated and only offered to patients for whom all other treatments have failed But in the patients for whom it works well, whose suffering has been indescribable, it transforms their lives."
+> Those forms of NMD still being conducted in this country today are targeted at the treatment of severe depression, severe anxiety and OCD. These procedures, which involve minute destructive lesions in parts of the frontal lobe or limbic system, are known as cingulotomies - the cingulum being the part of the frontal lobe associated with OCD - and capsulotomies, which involve making lesions in the capsules: the dense nerve-fibre pathway connecting part of the frontal lobe with the limbic structure. Neurosurgeons at Ninewells hospital in Dundee, for instance, carried out 34 NMD operations between 1990 and 2001. In the past year the hospital has conducted five such operations on patients it describes as "among the most severely ill and disabled who come into contact with any branch of the medical professions". Surgeons at the University Hospital of Wales in Cardiff have conducted 56 NMD operations in the past decade. It was there that the former child singing star Lena Zavaroni, who suffered from anorexia, underwent such surgery in 1999 for severe depression. Though the operation seemed to have been a success, she died of pneumonia less than a month later. According to Brian Simpson, consultant neurosurgeon at Cardiff, the operations his team have conducted have led to a "marked improvement" in roughly half of those being treated for severe depression and OCD. "NMD is not a panacea," Simpson agrees. "It is carefully regulated and only offered to patients for whom all other treatments have failed But in the patients for whom it works well, whose suffering has been indescribable, it transforms their lives."
 >
 > Some believe the way ahead lies in other forms of brain surgery, such as deep brain stimulation with implantable electrodes, as are increasingly used to treat Parkinson's disease. This they believe could offer an alternative to the ablative operations that have been used to date in psychosurgery. The introduction of modified stem cells into certain parts of the brain has also already had experimental success in treating some neurological conditions and holds out hope for combating psychiatric disease. But it is the irreversible nature of the NMD still practised that concerns opponents. That this type of surgery could be carried out without a patient's consent, according to the proposed legislation, they reject outright. Under the current Mental Health Act of 1983, three independent people, one a doctor, has to certify that any patient undergoing psychosurgery understands the treatment and consents to it. The draft mental-health bill under consideration has broadly the same safeguards for those capable of giving consent. The main difference is that it allows for treatment to be given without the patient's consent, at the request of doctors and on an order of the High Court, providing three conditions are met. The first is if it can be verified that a patient does not have the capacity to consent. The second is if there is no reasonable prospect of them regaining this capacity, and the third is if they are "unlikely to resist treatment".
 >
@@ -189,10 +201,12 @@ With many of those who have undergone such surgery unable to speak for themselve
 
 ### THE ORIGINS OF MIND-ALTERING SURGERY
 > Egas Moniz could have afforded to rest on his laurels by the time he attended the Second World Congress of Neurology in London in 1935. The 61-year-old professor of neurology, and dean of Lisbon's Medical School, had already gained an international reputation for pioneering cerebral angiography - a radiological technique for mapping brain vessels. But Moniz was disappointed that this had not won him the Nobel prize. So when he heard two Yale neurologists speak at the London congress about experimental brain research on two chimpanzees called Clyde and Becky, observing how Becky's temper tantrums subsided after surgery, he would go on to pioneer - and relentlessly promote - a procedure that eventually won him the coveted Nobel prize.
-The procedure was the lobotomy. Back in Lisbon he ordered that a human brain be brought to him from a morgue, and thrusted a pen through the cortex several times until he was satisfied he knew the approximate angle and depth that would best detach the frontal lobes. He performed the operation on a former prostitute, who afterwards was unable to give her age or say where she was. She was returned to an asylum, never to be seen by him again.
+>
+> The procedure was the lobotomy. Back in Lisbon he ordered that a human brain be brought to him from a morgue, and thrusted a pen through the cortex several times until he was satisfied he knew the approximate angle and depth that would best detach the frontal lobes. He performed the operation on a former prostitute, who afterwards was unable to give her age or say where she was. She was returned to an asylum, never to be seen by him again.
 >
 > Moniz nonetheless considered this a "clinical cure" and continued operating. The procedure was greeted with enthusiasm by the medical profession and went on to be practised in many countries. After Moniz won the Nobel prize in 1949, the lobotomy's popularity increased. But today many believe the procedure is barbaric, and are campaigning for him to be stripped of the award.
-The Nobel Foundation contends that Moniz's prize should be judged in the historical context of a period when there was widespread despair about mental-health treatment. In the 1930s and 40s, patients were often beaten, choked, spat on and humiliated by attendants in state hospitals, where the average duration of confinement was 10 years. Cost was also a factor. In the mid-1930s a lobotomy cost $250 in the US, compared with tens of thousands of dollars to keep a patient incarcerated. The drawback of the operation - that it robbed patients of their personality traits - was considered a small price for emptying hospital beds.
+>
+> The Nobel Foundation contends that Moniz's prize should be judged in the historical context of a period when there was widespread despair about mental-health treatment. In the 1930s and 40s, patients were often beaten, choked, spat on and humiliated by attendants in state hospitals, where the average duration of confinement was 10 years. Cost was also a factor. In the mid-1930s a lobotomy cost $250 in the US, compared with tens of thousands of dollars to keep a patient incarcerated. The drawback of the operation - that it robbed patients of their personality traits - was considered a small price for emptying hospital beds.
 >
 > If Moniz brought the lobotomy fame, then the US physician Walter Freeman brought it infamy. A tireless self-publicist, he would perform his variation of Moniz's operation - the "ice pick" lobotomy - before an enthralled audience. This involved driving an ice-pick-like instrument through the roof of the eye and sweeping it across the frontal lobe to scramble neural connections. Freeman once boasted he was "as good as Frank Sinatra" in getting young people to faint at the sight of what he did. One of his patients, Howard Dulley, was 12 when he was lobotomised because his stepmother said he was sullen and refused to bathe.
 >
@@ -202,17 +216,19 @@ The Nobel Foundation contends that Moniz's prize should be judged in the histori
 >
 > Despite growing unease, more refined procedures such as cingulotomies were developed and the modern era of psychosurgery was born. Such procedures remain controversial and have been banned in Germany, Japan and a number of US states. They are still practised in the UK, Finland, India, Sweden, Belgium and Spain.
 
-
 ### First proof of the benefits of lobotomy
- New survey supports drastic neurosurgery By Sarah-Kate Templeton, Health Editor
-> MOST patients given lobotomies at a Scottish hospital made a remarkable recovery, according to the first report into the outcome of their treatment.
-The patients suffered from severe depression and many had been in hospital for years. But after the controversial operation, called neurosurgery for mental disorder (NMD), eight of the 14 patients treated could leave hospital and live on their own. Details of the patients dramatic improvement come as British psychiatrists have called for a moratorium on the treatment.
+New survey supports drastic neurosurgery<br />
+By Sarah-Kate Templeton, Health Editor
+
+> **MOST patients** given lobotomies at a Scottish hospital made a remarkable recovery, according to the first report into the outcome of their treatment.
 >
-> Professor Keith Matthews, a consultant psychiatrist and director of the Dundee Neurosurgery for Mental Disorder Programme at Ninewells, said: Some of these people had not left hospital for between three and seven years. Often they were in intensive care and needed nurses with them all the time. They are now living independently. Even better, they are out and about and some of them are picking up their careers. Some people do extremely well.
+> The patients suffered from severe depression and many had been in hospital for years. But after the controversial operation, called neurosurgery for mental disorder (NMD), eight of the 14 patients treated could leave hospital and live on their own. Details of the patients' dramatic improvement come as British psychiatrists have called for a moratorium on the treatment.
+>
+> Professor Keith Matthews, a consultant psychiatrist and director of the Dundee Neurosurgery for Mental Disorder Programme at Ninewells, said: Some of these people had not left hospital for between three and seven years. Often they were in intensive care and needed nurses with them all the time. They are now living independently. Even better, they are out and about and some of them are picking up their careers. Some people do extremely well.
 >
 > Matthews added that while it is important to recognise that neurosurgery for mental disorder does not help everyone, it has transformed the lives of some severely depressed patients.
 >
-> Clearly, this surgery isnt fabulous for everyone but it does help some people. If you have people moving from being chronically depressed, hospitalised and needing 24-hour nursing to independent living then that is really dramatic. Given how much neurosurgery for mental disorder has helped these people, I do not think it should be allowed to die out.
+> Clearly, this surgery isn't fabulous for everyone but it does help some people. If you have people moving from being chronically depressed, hospitalised and needing 24-hour nursing to independent living then that is really dramatic. Given how much neurosurgery for mental disorder has helped these people, I do not think it should be allowed to die out.
 >
 > Neurosurgery for mental disorder involves using a laser to destroy a tiny part of the brain. The irreversible procedure is carried out on patients suffering from severe depression or obsessive compulsive disorders . It is similar to lobotomy operations performed in the 1940s and 1950s which involved severing the frontal lobes of the brain .
 >
@@ -220,18 +236,17 @@ The patients suffered from severe depression and many had been in hospital for y
 >
 > The study includes 14 patients whom doctors were able to assess 12 months after the operation. Eight managed to leave long-term hospitalisation and live independently . One of the eight did relapse and was awaiting further neuro surgery. Of the other six, three experienced no change and one reported no improvement but was living independently. One patient is still depressed but now responds to electroconvulsive therapy (ECT) and another is able to ignore obsessional thoughts.
 >
-> The report said: Despite collecting data systematically on potential adverse effects we remain struck by the relative lack of evidence for these.
+> The report said: Despite collecting data systematically on potential adverse effects we remain struck by the relative lack of evidence for these.
 >
 > However, the Scottish Association of Mental Health (SAMH) points out that the long-term risks of neurosurgery are still not known.
 >
-> Richard Norris, SAMH director of policy, said: What this report indicates is that some people have made a recovery by having neurosurgery for mental disorder. Clearly, it doesnt work for everyone. What needs to be looked at is the longer-term side effects. This does need to be thoroughly researched.
+> Richard Norris, SAMH director of policy, said: What this report indicates is that some people have made a recovery by having neurosurgery for mental disorder. Clearly, it doesn't work for everyone. What needs to be looked at is the longer-term side effects. This does need to be thoroughly researched.
 >
 > Critics claim patients lose other emotions after neurosurgery. In the September issue of the British Journal of Psychiatry, Dr Raj Persaud, consultant psychiatrist at the Maudsley Hospital in London, calls for an end to the procedure. He writes: There are several reasons why our profession should place a moratorium on neurosurgery for psychological problems until further notice.
 >
 > First there has never been a prospective, randomised double-blind placebo- controlled trial of any psychosurgical procedure, and none is likely .
 >
-> He adds: Perhaps most importantly, psychosurgery is based on a flawed and impoverished vision of the relationship between brain tissue and psychological disorder. It is unlikely that any psychiatric problem can be located in one so-called abnormal brain region .
+> He adds: Perhaps most importantly, psychosurgery is based on a flawed and impoverished vision of the relationship between brain tissue and psychological disorder. It is unlikely that any psychiatric problem can be located in one so-called abnormal' brain region .
 >
 > 12 October 2003
 
-&copy; 2006

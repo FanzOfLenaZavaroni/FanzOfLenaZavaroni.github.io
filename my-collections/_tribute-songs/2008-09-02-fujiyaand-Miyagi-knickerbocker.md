@@ -67,3 +67,4 @@ The song was also released as a single.
 > I saw the ghost of Lena Zavaroni
 
 <cite>Fujiya & Miyagi</cite>
+

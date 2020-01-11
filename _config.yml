@@ -57,6 +57,9 @@ collections:
    tribute-songs:
       output: true
       permalink: /discography/tribute-songs/:name
+   miscellaneous:
+      output: true
+      permalink: /miscellaneous/:name
 
 include: ['biography']
 
