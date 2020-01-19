@@ -1,65 +1,53 @@
-<!DOCTYPE html>
-<html>
-<head>
-<!--  Enabled DNS prefetching  -->
-<meta http-equiv="x-dns-prefetch-control" content="on">
+---
+layout: post
+title: Ma! (He's Making Eyes At Me) Single
+subtitle: Single
+description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.
+image: /assets/images/singles/musical-note.png
+categories: [Discography, Singles]
+---
 
-  <!-- Meta Tags properties  -->
-  <meta property="og:title" content="Ma! (He's Making Eyes At Me) Single" />
-  <meta property="og:description" content="Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.">
-  <meta property="og:image" content="https://c1.staticflickr.com/5/4734/39142494762_590de415da_o_d.jpg" />
+Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.
 
-  <!-- Meta Tags names  -->
-  <meta name="description" content="Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+It was released in various countries with various cover images and a version was released in Japan in which Lena sang it in Japanese, in interviews Lena confirmed that she had learned the song in Japanese phonetically.
 
-<!-- Twitter Card Meta Tags  -->
-<meta name="twitter:card" content="summary" />
+* **Artist:** Lena Zavaroni
+* **A side:** Ma! (He's Making Eyes At Me)
+* **B side:** 
+* **Label:** Philips
+* **Country:** England
+* **Catalogue:** 6006 462
+* **Released:** 26 January 1974
 
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-  <!-- CSS-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-  <link href="/materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen" />
-  <link href="/materialize/css/style.css" type="text/css" rel="stylesheet" media="screen" />
-  <link href="/audioplayer/css/style.css" type="text/css" rel="stylesheet" media="screen" />
-
-  <title>Ma! (He's Making Eyes At Me) Single</title>
-</head>
-
-<body>
-<div class="navbar-fixed">
-<nav>
-<div class="nav-wrapper">
-<a class="brand-logo truncate">Fanz of Lena Zavaroni</a>
-<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-<ul class="right hide-on-med-and-down">
-<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
-<li class="active"><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
-
-</ul>
+<div class="responsive-video">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SnoVhd725zY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</nav>
+<br />
+<div class="responsive-video">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6KbkUiGtWBM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br />
+**Related Website:**
+<span class="post-categories">[45Cat](http://www.45cat.com/record/6006462)</span>
 
-<ul class="sidenav" id="mobile-demo">
-<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
-<li class="active"><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
+<!--
 
-</ul>
+{% for post in site.categories.singles %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+-->
+
+
+
+
+
+
+
+
+
+
+
 
 <main class="Main-Default">
 <article>
@@ -70,9 +58,9 @@
 <h4><i class="fa fa-music" aria-hidden="true"></i> Ma! (He's Making Eyes At Me)</h4>
 <strong>25 January 1974</strong>
 <blockquote class="flow-text">
-<p>Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.</p>
+<p></p>
 <br/>
-<p>It was released in various countries with various cover images and a version was released in Japan in which Lena sang it in Japanese, in interviews Lena confirmed that she had learned the song in Japanese phonetically.</p>
+<p></p>
 <br/>
 <p>The B-side of the Japanese release was &quot;(You've Got) Personality&quot; which would become Lena's second international single.</p>
 </blockquote>
