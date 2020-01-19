@@ -63,20 +63,44 @@ OnThisDay ='/onthisday/01/01-17.html';
 if (month == '01' && day == '18') {
 OnThisDay ='/onthisday/01/01-18.html';
 }
+if (month == '01' && day == '19') {
+OnThisDay ='/onthisday/01/01-19.html';
+}
+if (month == '01' && day == '20') {
+OnThisDay ='/onthisday/01/01-20.html';
+}
+if (month == '01' && day == '21') {
+OnThisDay ='/onthisday/01/01-21.html';
+}
+if (month == '01' && day == '22') {
+OnThisDay ='/onthisday/01/01-22.html';
+}
+if (month == '01' && day == '23') {
+OnThisDay ='/onthisday/01/01-23.html';
+}
+if (month == '01' && day == '24') {
+OnThisDay ='/onthisday/01/01-24.html';
+}
 if (month == '01' && day == '25') {
-OnThisDay ='/discography/singles/ma-hes-making-eyes-at-me.html';
+OnThisDay ='/onthisday/01/01-25.html';
 }
 if (month == '01' && day == '26') {
-OnThisDay ='/publications/magazines/music-week.html';
+OnThisDay ='/onthisday/01/01-26.html';
 }
 if (month == '01' && day == '27') {
-OnThisDay ='/publications/tvtimes/1979-01-27.html';
+OnThisDay ='/onthisday/01/01-27.html';
+}
+if (month == '01' && day == '28') {
+OnThisDay ='/onthisday/01/01-28.html';
 }
 if (month == '01' && day == '29') {
-OnThisDay ='/television/1986/this-is-your-life.html';
+OnThisDay ='/onthisday/01/01-29.html';
+}
+if (month == '01' && day == '30') {
+OnThisDay ='/onthisday/01/01-30.html';
 }
 if (month == '01' && day == '31') {
-OnThisDay ='https://fanzoflenazavaroni.github.io/television/1979/stars-in-their-eyes.html';
+OnThisDay ='/onthisday/01/01-31.html';
 }
 if (month == '2' && day == '13') {
 OnThisDay ='/television/1982/the-les-dawson-show.html';
