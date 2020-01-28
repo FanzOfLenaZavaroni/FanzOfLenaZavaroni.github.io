@@ -2,7 +2,7 @@
 layout: post
 title: The Sunday Mirror
 subtitle: Newspaper
-description: ena and her Friend from South Africa, Susie Heckler. The photograph was taken for the 6th July 1975 edition of The Sunday Mirror which had an article about Lena appearing at the Rothesay Pavilion on the same day.
+description: Lena and her Friend from South Africa, Susie Heckler. The photograph was taken for the 6th July 1975 edition of The Sunday Mirror which had an article about Lena appearing at the Rothesay Pavilion on the same day.
 image: /assets/images/newspapers/1975-07-06-the-sunday-mirror-200x200.png
 categories: [Newspapers]
 ---
