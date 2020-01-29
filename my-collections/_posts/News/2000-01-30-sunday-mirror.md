@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sunday Mail
+title: The Sunday Mirror
 subtitle: Newspaper
 description:
 categories: [Newspapers]
@@ -12,15 +12,15 @@ categories: [Newspapers]
 >
 > But last night Lena's devoted father Victor said his daughter's small bequest to Dexter - just pounds 500 from an estate of at least pounds 100,000 - proved he had never been more than a friend...
 
-<cite>Sunday Mirror (London, England) 30 January 2000</cite>
+<cite>Sunday Mirror (London, England) 30 January 2000 via [The Free Library](http://bit.ly/TFL-LZ-2000-01-30)</cite>
 
 ### Notes
-> The link to the article is no longer active and it is not available via the Internet Archive's Wayback Machine.
->
 > While we can never know the truth about Lena and Ray's relationship the idea that her "Will" proves anything is misleading there is photos of Lena and Ray together but I have yet to see them and if we did get to see them it's unlikely they would spread any light on their relationship.
 >
 > As to a devoted father that is also open to question.
 >
-> As to Lena's "Will" that is also open to question if it was even legal after all to write a "Will" one has to be of sound mind and at the time Lena wrote her "Will" she was not in a sound mind, she had taken an overdose and was determining to have the Neurosurgery for Mental Disorder (NMD) that would lead indirectly to her death from Bronchopneumonia.
+> Back to the "Will" if as Victor claims it proves Lena and Ray were never going to marry then it must also prove Lena did not value her friendships with Bonnie Langford and her closest friend and fellow anorexic Elly Dalziel which is not true as I am sure she did value them both.
+>
+> THE "WILL" PROVES NOTHING!
 
 <cite>Robcamstone</cite>
