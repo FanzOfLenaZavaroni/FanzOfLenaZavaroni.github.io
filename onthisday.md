@@ -108,6 +108,27 @@ OnThisDay ='/onthisday/02/02-01.html';
 if (month == '2' && day == '02') {
 OnThisDay ='/onthisday/02/02-02.html';
 }
+if (month == '2' && day == '03') {
+OnThisDay ='/onthisday/02/02-03.html';
+}
+if (month == '2' && day == '04') {
+OnThisDay ='/onthisday/02/02-04.html';
+}
+if (month == '2' && day == '05') {
+OnThisDay ='/onthisday/02/02-05.html';
+}
+if (month == '2' && day == '06') {
+OnThisDay ='/onthisday/02/02-06.html';
+}
+if (month == '2' && day == '07') {
+OnThisDay ='/onthisday/02/02-07.html';
+}
+if (month == '2' && day == '08') {
+OnThisDay ='/onthisday/02/02-08.html';
+}
+if (month == '2' && day == '09') {
+OnThisDay ='/onthisday/02/02-09.html';
+}
 if (month == '2' && day == '13') {
 OnThisDay ='/television/1982/the-les-dawson-show.html';
 }
