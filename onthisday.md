@@ -102,6 +102,12 @@ OnThisDay ='/onthisday/01/01-30.html';
 if (month == '01' && day == '31') {
 OnThisDay ='/onthisday/01/01-31.html';
 }
+if (month == '2' && day == '01') {
+OnThisDay ='/onthisday/02/02-01.html';
+}
+if (month == '2' && day == '02') {
+OnThisDay ='/onthisday/02/02-02.html';
+}
 if (month == '2' && day == '13') {
 OnThisDay ='/television/1982/the-les-dawson-show.html';
 }
