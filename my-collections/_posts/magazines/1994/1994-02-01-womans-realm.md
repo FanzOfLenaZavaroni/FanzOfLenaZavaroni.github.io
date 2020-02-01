@@ -6,7 +6,8 @@ description: One page article criticising Lena for being open about her problems
 categories: [Magazines]
 ---
 
-![](/assets/images/magazines/Womans-Realm-1994-02-01a.jpg)
+![](/assets/images/magazines/Womans-Realm-1994-02-01a.jpg){: .half-width}
+![](/assets/images/magazines/Womans-Realm-1994-02-01b.jpg){: .half-width}
 
 Featuring Joan Collins on the cover and a one page article inside criticising Lena Zavaroni for being open about her problems and for seeking pity.
 
