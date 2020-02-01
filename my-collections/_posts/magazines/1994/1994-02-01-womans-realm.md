@@ -30,5 +30,5 @@ Contains large colour photo of lena.
 <cite>Robcamstone</cite>
 
 <style>
-.height {width:auto; height:300px;}
+.height {width:auto; height:332.9px;}
 </style>
