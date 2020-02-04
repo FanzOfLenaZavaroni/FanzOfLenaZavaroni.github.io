@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Les Dawson Show
-subtitle: Episode 2.3 
+subtitle: Episode 2.3
 description: Lena sings Come Rain Or Come Shine, then appears in a comedy exchange with Les. She finishes off the show with a performance of Some Of These Days with Kids International on backing vocals, and Les on the piano.
 image: /assets/images/ITV/gettyimages-544761065-612x612.jpg
 categories: [BBC Television]
@@ -29,5 +29,4 @@ Crew
 * **Production company:** BBC Television
 
 **Related Websites:**
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/9a8efadaea1c42a1810cd13871815b3d)&nbsp;
-[IMDb](http://www.imdb.com/title/tt7995638)</span>
+* [BBC Genome](https://genome.ch.bbc.co.uk/9a8efadaea1c42a1810cd13871815b3d)
