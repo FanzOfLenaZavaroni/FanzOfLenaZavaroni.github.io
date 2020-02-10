@@ -129,6 +129,15 @@ OnThisDay ='/onthisday/02/02-08.html';
 if (month == '2' && day == '09') {
 OnThisDay ='/onthisday/02/02-09.html';
 }
+if (month == '2' && day == '10') {
+OnThisDay ='/onthisday/02/02-10.html';
+}
+if (month == '2' && day == '11') {
+OnThisDay ='/onthisday/02/02-11.tml';
+}
+if (month == '2' && day == '12') {
+OnThisDay ='/onthisday/02/02-12.html';
+}
 if (month == '2' && day == '13') {
 OnThisDay ='/onthisday/02/02-13.html';
 }
@@ -140,6 +149,9 @@ OnThisDay ='/onthisday/02/02-15.html';
 }
 if (month == '2' && day == '16') {
 OnThisDay ='/onthisday/02/02-16.html';
+}
+if (month == '2' && day == '17') {
+OnThisDay ='/onthisday/02/02-17.html';
 }
 if (month == '2' && day == '18') {
 OnThisDay ='/onthisday/02/02-18.html';
