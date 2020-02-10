@@ -130,7 +130,7 @@ if (month == '2' && day == '09') {
 OnThisDay ='/onthisday/02/02-09.html';
 }
 if (month == '2' && day == '13') {
-OnThisDay ='/television/1982/the-les-dawson-show.html';
+OnThisDay ='/onthisday/02/02-13.html';
 }
 if (month == '2' && day == '14') {
 OnThisDay ='/onthisday/02/02-14.html';
@@ -144,20 +144,38 @@ OnThisDay ='/onthisday/02/02-16.html';
 if (month == '2' && day == '18') {
 OnThisDay ='/onthisday/02/02-18.html';
 }
+if (month == '2' && day == '19') {
+OnThisDay ='/onthisday/02/02-19.html';
+}
 if (month == '2' && day == '20') {
-OnThisDay ='http://bit.ly/SundayMail-LZ-2000-02-20';
+OnThisDay ='/onthisday/02/02-20.html';
+}
+if (month == '2' && day == '21') {
+OnThisDay ='/onthisday/02/02-21.html';
+}
+if (month == '2' && day == '22') {
+OnThisDay ='/onthisday/02/02-22.html';
 }
 if (month == '2' && day == '23') {
 OnThisDay ='/onthisday/02/02-23.html';
 }
+if (month == '2' && day == '24') {
+OnThisDay ='/onthisday/02/02-24.html';
+}
 if (month == '2' && day == '25') {
 OnThisDay ='/onthisday/02/02-25.html';
+}
+if (month == '2' && day == '26') {
+OnThisDay ='/onthisday/02/02-26.html';
 }
 if (month == '2' && day == '27') {
 OnThisDay ='/onthisday/02/02-27.html';
 }
 if (month == '2' && day == '28') {
 OnThisDay ='/onthisday/02-28.html';
+}
+if (month == '2' && day == '29') {
+OnThisDay ='/onthisday/02/02-29.html';
 }
 if (month == '3' && day == '2') {
 OnThisDay ='/onthisday/03/03-02.html';
