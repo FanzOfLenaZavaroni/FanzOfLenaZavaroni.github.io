@@ -27,7 +27,6 @@ Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of T
 * **Guest star:** Lena Zavaroni
 * **Guest stars:** The Spinners
 * **Guest star:** Allan Cuthbertson
-* **Guest star:** Graham Hill
 
 **Crew:**
 * **Writer:** Eric Braben (additional material by Eric Morecambe And Ernie Wise)
