@@ -21,6 +21,10 @@ categories: [BBC One, BBC Two]
 
 Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 
+> ![](/assets/images/BBC/LZ-01.jpg){: .full-width}
+
+<cite>In the end credits photos of the Guests when young were used.</cite>
+
 **Cast:**
 * **Host:** Eric Morecambe
 * **Host:** Ernie Wise
