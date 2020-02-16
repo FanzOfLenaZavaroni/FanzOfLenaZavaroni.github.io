@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: discography
 year: 1974
 title: Presenting Lena Zavaroni
 description: 

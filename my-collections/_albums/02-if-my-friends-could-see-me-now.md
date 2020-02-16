@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: discography
 year: 1974
 title: If My Friends Could See Me Now
 description: 
