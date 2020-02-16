@@ -2,8 +2,10 @@
 layout: discography
 year: 1977
 title: Air Love
+subtitle: Single
 b-side: Pinch Me Am I Dreaming
 description: This is the 8th single by Lena Zavaroni.
+categories: [Discography, Singles]
 ---
 
 <table>
@@ -16,11 +18,11 @@ description: This is the 8th single by Lena Zavaroni.
 <tr><th>Released:</th><td>18 February 1977</td></tr>
 </table>
 
-Lena performed Air Love on [The Musical Time Machine](/television/1977/the-musical-time-machine.html) and on [Hi Summer - Episode 7](/television/london%20weekend%20television/1977/08/28/hi-summer.html).
+Lena performed Air Love on [The Musical Time Machine](/bbc%20one/1977/02/15/the-musical-time-machine.html) and on [Hi Summer - Episode 7](/television/london%20weekend%20television/1977/08/28/hi-summer.html).
 
-Lena performed the B-side Pinch Me Am I Dreaming on [Pebble Mill at One](), [Hi Summer - Episode 4]() and the chorus of the song on [Hi Summer - Episode 8]()
+Lena performed the B-side Pinch Me Am I Dreaming on [Pebble Mill at One](), [Hi Summer - Episode 4](/television/london%20weekend%20television/1977/08/07/hi-summer.html) and the chorus of the song on [Hi Summer - Episode 8]()
 
-Both songs from this single were also released on her album [Presenting Lena Zavaroni]() and Air Love was also released on the compilation album for the TV Series [O Profeta]().
+Both songs from this single were also released on her album [Presenting Lena Zavaroni](/discography/albums/03-presenting-lena-zavaroni) and Air Love was also released on the compilation album for the TV Series [O Profeta]().
 
 > <div class="responsive-video"><div id="player1"></div></div>
 
