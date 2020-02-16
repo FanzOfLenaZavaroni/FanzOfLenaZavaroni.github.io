@@ -22,7 +22,7 @@ Lena performed Air Love on [The Musical Time Machine](/bbc%20one/1977/02/15/the-
 
 Lena performed the B-side Pinch Me Am I Dreaming on [Pebble Mill at One](/bbc%20one/1977/03/11/pebble-mill-at-one.html), [Hi Summer - Episode 4](/television/london%20weekend%20television/1977/08/07/hi-summer.html) and the chorus of the song on [Hi Summer - Episode 8](/television/london%20weekend%20television/1977/09/04/hi-summer.html)
 
-Both songs from this single were also released on her album [Presenting Lena Zavaroni](/discography/albums/03-presenting-lena-zavaroni) and Air Love was also released on the compilation album for the TV Series [O Profeta]().
+Both songs from this single were also released on her album [Presenting Lena Zavaroni](/discography/albums/03-presenting-lena-zavaroni) and Air Love was also released on the compilation album for the TV Series [O Profeta](http://127.0.0.1:4000/discography/albums/o-profeta-internacional).
 
 > <div class="responsive-video"><div id="player1"></div></div>
 
