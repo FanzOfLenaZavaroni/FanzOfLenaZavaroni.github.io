@@ -2,7 +2,7 @@
 layout: post
 title: The Bachelors Show
 subtitle: Epiosde 1
-description:  2 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
+description:  16 February 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 categories: [BBC Two]
 ---
 
