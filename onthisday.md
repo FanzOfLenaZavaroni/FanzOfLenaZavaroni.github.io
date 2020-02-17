@@ -189,8 +189,14 @@ OnThisDay ='/onthisday/02-28.html';
 if (month == '2' && day == '29') {
 OnThisDay ='/onthisday/02/02-29.html';
 }
+if (month == '3' && day == '1') {
+OnThisDay ='/onthisday/03/03-01.html';
+}
 if (month == '3' && day == '2') {
 OnThisDay ='/onthisday/03/03-02.html';
+}
+if (month == '3' && day == '3') {
+OnThisDay ='/onthisday/03/03-03.html';
 }
 if (month == '3' && day == '4') {
 OnThisDay ='/onthisday/03/03-04.html';
