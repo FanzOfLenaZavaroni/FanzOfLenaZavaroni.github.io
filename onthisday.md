@@ -150,6 +150,9 @@ OnThisDay ='/onthisday/02/02-15.html';
 if (month == '2' && day == '16') {
 OnThisDay ='/onthisday/02/02-16.html';
 }
+if (month == '2' && day == '17') {
+OnThisDay ='/onthisday/02/02-17.html';
+}
 if (month == '2' && day == '18') {
 OnThisDay ='/onthisday/02/02-18.html';
 }
