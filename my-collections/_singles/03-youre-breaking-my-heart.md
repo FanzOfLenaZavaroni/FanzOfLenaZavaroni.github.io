@@ -1,11 +1,9 @@
 ---
 layout: discography
-year: 1975
-title: Smile
-subtitle: Lena Zavaroni
-b-side: Hey! Hey! What Do You Say
-description: This is the 6th single by Lena Zavaroni.
-image: /assets/images/singles/smile.png
+year: 28 February 1975
+title: You're Breaking My Heart
+b-side: You're Never Too Old
+description: This is the 11th single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
@@ -14,18 +12,18 @@ categories: [Discography, Singles]
 
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr class="split"><th>A side:</th><td>Smile</td></tr>
-<tr><th>Composer:</th><td>Chaplin, Turner, Parsons</td></tr>
-<tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr><th>Arranger:</th><td>Unknown</td></tr>
-<tr class="split"><th>B side:</th><td>Hey! Hey! What Do You Say</td></tr>
-<tr><th>Composer:</th><td>Unknown</td></tr>
-<tr><th>Producer:</th><td>Unknown</td></tr>
-<tr><th>Arranger:</th><td>Unknown</td></tr>
-<tr class="split"><th>Label:</th><td>Philips - 6006 462</td></tr>
+<tr class="split"><th>A side:</th><td>You're Breaking My Heart</td></tr>
+<tr><th>Composer:</th><td>Genara, Skylar</td></tr>
+<tr><th>Producer:</th><td>John Franz</td></tr>
+<tr><th>Arranger:</th><td>Peter Knight</td></tr>
+<tr class="split"><th>B side:</th><td>You're Never Too Old</td></tr>
+<tr><th>Composer:</th><td>Franz, Blackburn</td></tr>
+<tr><th>Producer:</th><td>John Franz</td></tr>
+<tr><th>Arranger:</th><td>Peter Knight</td></tr>
+<tr class="split"><th>Label:</th><td>Philips - 6006 445</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>England</td></tr>
-<tr><th>Released:</th><td>13 June 1975</td></tr>
+<tr><th>Released:</th><td>28 February 1975</td></tr>
 </table>
 
 <style>
@@ -35,7 +33,7 @@ categories: [Discography, Singles]
 </style>
 
 ### Related Website
-* [45Cat](http://www.45cat.com/record/6006462)
+* [45Cat](http://www.45cat.com/record/6006445)
 
 <script>
     var tag = document.createElement('script');
@@ -48,7 +46,7 @@ categories: [Discography, Singles]
         player1 = new YT.Player('player1', {
             height: '360',
             width: '480',
-            videoId: 'SnoVhd725zY',
+            videoId: 'm8YQryTU7yA',
             events: {
                 'onStateChange': onPlayerStateChange
             }
@@ -56,7 +54,7 @@ categories: [Discography, Singles]
         player2 = new YT.Player('player2', {
             height: '360',
             width: '480',
-            videoId: '6KbkUiGtWBM',
+            videoId: 'KoviPL00AFY',
             events: {
                 'onStateChange': onPlayerStateChange
             }

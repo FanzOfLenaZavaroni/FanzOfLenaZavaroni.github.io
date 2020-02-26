@@ -8,15 +8,30 @@ description: This is the 8th single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
+<div id="player1"></div>
+<div id="player2"></div>
+
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr><th>A side:</th><td>Air Love</td></tr>
-<tr><th>B side:</th><td>Pinch Me Am I Dreaming</td></tr>
-<tr><th>Label:</th><td>Galaxy – GY 114</td></tr>
+<tr class="split"><th>A side:</th><td>Air Love</td></tr>
+<tr><th>Composer:</th><td>Charlebois, Pelouin, Fiddy, Shifrin</td></tr>
+<tr><th>Producer:</th><td>John Fiddy</td></tr>
+<tr><th>Arranger:</th><td>John Fiddy</td></tr>
+<tr class="split"><th>B side:</th><td>Pinch Me Am I Dreaming</td></tr>
+<tr><th>Composer:</th><td>Harold Spiro</td></tr>
+<tr><th>Producer:</th><td>John Fiddy</td></tr>
+<tr><th>Arranger:</th><td>John Fiddy</td></tr>
+<tr class="split"><th>Label:</th><td>Galaxy – GY 114</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>England</td></tr>
 <tr><th>Released:</th><td>18 February 1977</td></tr>
 </table>
+
+<style>
+#player1 {width:367.5px; height:277px;}
+#player2 {width:367.5px; height:277px;}
+.split {border-top: solid 5px #4B90B1;}
+</style>
 
 Lena performed Air Love on [The Musical Time Machine](/bbc%20one/1977/02/15/the-musical-time-machine.html) and on [Hi Summer - Episode 7](/television/london%20weekend%20television/1977/08/28/hi-summer.html).
 
@@ -24,13 +39,8 @@ Lena performed the B-side Pinch Me Am I Dreaming on [Pebble Mill at One](/bbc%20
 
 Both songs from this single were also released on her album [Presenting Lena Zavaroni](/discography/albums/03-presenting-lena-zavaroni) and Air Love was also released on the compilation album for the TV Series [O Profeta](http://127.0.0.1:4000/discography/albums/o-profeta-internacional).
 
-> <div class="responsive-video"><div id="player1"></div></div>
-
-<cite>Air Love</cite>
-
-> <div class="responsive-video"><div id="player2"></div></div>
-
-<cite>Pinch Me Am I Dreaming</cite>
+### Related Website
+* [45Cat](http://www.45cat.com/record/gy114)
 
 <script>
     var tag = document.createElement('script');
@@ -73,5 +83,3 @@ Both songs from this single were also released on her album [Presenting Lena Zav
     }
 </script>
 
-**Related Website:**
-<span class="post-categories">[45Cat](http://www.45cat.com/record/gy114)</span>
