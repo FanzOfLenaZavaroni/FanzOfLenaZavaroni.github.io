@@ -184,7 +184,7 @@ if (month == '2' && day == '27') {
 OnThisDay ='/onthisday/02/02-27.html';
 }
 if (month == '2' && day == '28') {
-OnThisDay ='/onthisday/02-28.html';
+OnThisDay ='/onthisday/02/02-28.html';
 }
 if (month == '2' && day == '29') {
 OnThisDay ='/onthisday/02/02-29.html';
