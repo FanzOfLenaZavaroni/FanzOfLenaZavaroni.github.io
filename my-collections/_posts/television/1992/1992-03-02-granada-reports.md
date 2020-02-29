@@ -6,7 +6,7 @@ description: Lena appears as a guest on the main 30 minute evening bulletin.
 categories: [ITV]
 ---
 
-![](/assets/images/ITV/Granada-Reports.png/images/ITV/Granada-Reports.png)
+![](/assets/images/ITV/Granada-Reports.png)
 
 <audio id="player" src="/assets/media/1992-03-02-granada-reports.mp3"></audio>
 <div>
