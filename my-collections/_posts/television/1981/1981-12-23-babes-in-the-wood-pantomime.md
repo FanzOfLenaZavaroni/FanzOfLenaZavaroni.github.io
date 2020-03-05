@@ -9,7 +9,7 @@ categories: [Theatre]
 
 > ![](/assets/images/theatres/1981-babes-in-the-wood-pantomime.jpg){: .full-width}
 
-<cite>Copyright beleaved to belong to [The Birmingham Mail](https://www.birminghammail.co.uk/news/nostalgia/gallery/christmas-pantomime-198136)</cite>
+<cite>Copyright believed to belong to [The Birmingham Mail](https://www.birminghammail.co.uk/news/nostalgia/gallery/christmas-pantomime-198136)</cite>
 
 ![](/assets/images/theatres/1981-babes-in-the-wood-pantomime-flyer.jpg){: .width-33}{: .left}
 
