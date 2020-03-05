@@ -3,11 +3,16 @@ layout: post
 title: Babes In The Wood Pantomime
 subtitle: Alexandra Theatre, Birmingham
 description: Staring Lena Zavaroni as Maid Marion
-image: /assets/images/theatres/Babes20In20The20Wood20-20Alex20Theatre20Birminghamp.jpg
+image: /assets/images/theatres/1981-babes-in-the-wood-pantomime-flyer.jpg
 categories: [Theatre]
 ---
 
-![](/assets/images/theatres/Babes20In20The20Wood20-20Alex20Theatre20Birminghamp.jpg){: .width-33}{: .left}
+> ![](/assets/images/theatres/1981-babes-in-the-wood-pantomime.jpg){: .full-width}
+
+<cite>Copyright beleaved to belong to [The Birmingham Mail](https://www.birminghammail.co.uk/news/nostalgia/gallery/christmas-pantomime-198136)</cite>
+
+![](/assets/images/theatres/1981-babes-in-the-wood-pantomime-flyer.jpg){: .width-33}{: .left}
+
 **Babes In The Woods**
 <br />Dec 1981 - Jan 1982 Alexandra Theatre - Birmingham
 
