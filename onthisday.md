@@ -210,8 +210,14 @@ OnThisDay ='/onthisday/03/03-06.html';
 if (month == '3' && day == '7') {
 OnThisDay ='/onthisday/03/03-07.html';
 }
+if (month == '3' && day == '8') {
+OnThisDay ='/onthisday/03/03-08.html';
+}
 if (month == '3' && day == '9') {
 OnThisDay ='/onthisday/03/03-09.html';
+}
+if (month == '3' && day == '10') {
+OnThisDay ='/onthisday/03/03-10.html';
 }
 if (month == '3' && day == '11') {
 OnThisDay ='/onthisday/03/03-11.html';
