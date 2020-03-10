@@ -8,7 +8,7 @@ categories: [BBC Two]
 
 ![](/assets/images/BBC/The-Bachelors-Show-04.jpg)
 
-> Lena performs "My Funny Valentine", sitting on a huge pink rug with a dog.
+> Lena performs "My Funny Valentine", sitting on a huge pink rug with a dog called Champers.
 >
 > She then sings "Stage Struck".
 >
