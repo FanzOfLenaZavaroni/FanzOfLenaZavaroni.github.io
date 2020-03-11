@@ -222,11 +222,29 @@ OnThisDay ='/onthisday/03/03-10.html';
 if (month == '3' && day == '11') {
 OnThisDay ='/onthisday/03/03-11.html';
 }
+if (month == '3' && day == '12') {
+OnThisDay ='/onthisday/03/03-12.html';
+}
+if (month == '3' && day == '13') {
+OnThisDay ='/onthisday/03/03-13.html';
+}
+if (month == '3' && day == '14') {
+OnThisDay ='/onthisday/03/03-14.html';
+}
+if (month == '3' && day == '15') {
+OnThisDay ='/onthisday/03/03-15.html';
+}
 if (month == '3' && day == '16') {
 OnThisDay ='/onthisday/03/03-16.html';
 }
 if (month == '3' && day == '17') {
 OnThisDay ='/onthisday/03/03-17.html';
+}
+if (month == '3' && day == '18') {
+OnThisDay ='/onthisday/03/03-18.html';
+}
+if (month == '3' && day == '19') {
+OnThisDay ='/onthisday/03/03-19.html';
 }
 if (month == '3' && day == '20') {
 OnThisDay ='/onthisday/03/03-20.html';
