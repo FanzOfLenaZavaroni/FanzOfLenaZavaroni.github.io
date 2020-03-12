@@ -1,0 +1,79 @@
+---
+layout: post
+title: A Royal Night of One Hundred Stars
+subtitle: National Theatre (Olivier Theatre), London
+description: Recorded at the National Theatre (Olivier Theatre), London on 17 March 1985 for Broadcast by London Weekend Television (LWT) on 31 March 1985
+image: /assets/images/ITV/
+categories: [London Weekend Television, Theatre]
+---
+
+> Gala benefit at the National Theatre, sponsored by Princess Anne, in aid of the Save the Children Fund. Hosted by Jimmy Tarbuck, it includes singing, stand-up comedy, dance, comedy skits, and drama.
+>
+> Lena joins the rest of the cast for the finale, performing "There's No Business Like Showbusiness" and "That's Entertainment". She later joins the backstage line-up to shake hands with Princess Anne.
+
+<div class="video-container">
+<iframe width="480" height="360" src="https://www.youtube.com/embed/yQ0kqdG7fqg?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="row">
+<div class="col s12 m8 offset-m2">
+<div class="card">
+<div class="card-content flow-text">
+<h4><i class="fa fa-info"></i> Cast</h4>
+<table class="flow-text striped">
+<tr>
+<td>Russ Abbot</td>
+<td>Bruce Forsyth</td>
+<td>Bonnie Langford</td>
+<td>Patsy Rowlands</td>
+</tr>
+<tr>
+<td>Joyce Blair</td>
+<td>Jill Gascoine</td>
+<td>Stephanie Lawrence</td>
+<td>Diane Solomon</td>
+</tr>
+<tr>
+<td>Ian Charleson</td>
+<td>Dustin Gee</td>
+<td>Rustie Lee</td>
+<td>Jimmy Tarbuck</td>
+</tr>
+<tr>
+<td>Tim Curry</td>
+<td>Derek Griffiths</td>
+<td>Robert Lindsay</td>
+<td>Emma Thompson</td>
+</tr>
+<tr>
+<td>Suzanne Danielle</td>
+<td>Fiona Hendley</td>
+<td>Lulu</td>
+<td>Roy Walker</td>
+</tr>
+<tr>
+<td>Bobby Davro</td>
+<td>Michael Howe</td>
+<td>Siobhan McCarthy</td>
+<td>Marti Webb</td>
+</tr>
+<tr>
+<td>Les Dennis</td>
+<td>Sally Ann Howes</td>
+<td>Kelly Monteith</td>
+<td>June Whitfield</td>
+</tr>
+<tr>
+<td>Bella Emberg</td>
+<td>Paul Jones</td>
+<td>Clarke Peters</td>
+<td>Gary Wilmot</td>
+</tr>
+<tr>
+<td>Tim Flavin</td>
+<td>Matthew Kelly</td>
+<td>Su Pollard</td>
+<td>Lena Zavaroni</td>
+</tr>
+</table>
+
