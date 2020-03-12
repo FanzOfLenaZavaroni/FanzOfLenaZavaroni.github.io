@@ -11,15 +11,12 @@ categories: [London Weekend Television, Theatre]
 >
 > Lena joins the rest of the cast for the finale, performing "There's No Business Like Showbusiness" and "That's Entertainment". She later joins the backstage line-up to shake hands with Princess Anne.
 
-<div class="video-container">
-<iframe width="480" height="360" src="https://www.youtube.com/embed/yQ0kqdG7fqg?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
+<div class="responsive-video">
+<iframe width="640px" height="480px" src="https://www.youtube.com/embed/yQ0kqdG7fqg?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<div class="row">
-<div class="col s12 m8 offset-m2">
-<div class="card">
-<div class="card-content flow-text">
-<h4><i class="fa fa-info"></i> Cast</h4>
+### Cast
+
 <table class="flow-text striped">
 <tr>
 <td>Russ Abbot</td>
