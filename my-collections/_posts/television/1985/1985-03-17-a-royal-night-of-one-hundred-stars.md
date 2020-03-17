@@ -74,3 +74,10 @@ Lena joins the rest of the cast for the finale, performing "There's No Business 
 </tr>
 </table>
 
+<style>
+.dt-published {display: none;}
+.post-meta:after {content: "Recorded on 17 March 1985 for broadcast by London Weekend Television on the 31 March 1985";}
+.height-adjust1 {width:auto; height:350px;}
+.height-adjust2 {width:auto; height:307px;}
+.fit1 {width:367.7px; height:498px; object-fit: cover; margin-bottom:5px;}
+</style>
