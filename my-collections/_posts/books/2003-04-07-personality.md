@@ -116,7 +116,7 @@ What he manages brilliantly is allowing us only restricted access to Maria's min
 >
 > Zavaroni's sister, Carla Bush, says of O'Hagan: "He's making money out of somebody else's life. He is using Lena's name for his own ends." O'Hagan admits he was inspired - "touched and intrigued" - by the singer's life story. But he denies his book exploits her.
 
-<cite>[The Mirror, 22 April 2003 via The Free Library](https://www.thefreelibrary.com/The+Scurra.-a0100434743)</cite>
+<cite>[The Mirror, 22 April 2003 via The Free Library](https://www.thefreelibrary.com/The+Scurra.-a0100434743)&#8592; follow the link to read the full article</cite>
 
 ### Logical Outcome of The Mirror's comparison
 
