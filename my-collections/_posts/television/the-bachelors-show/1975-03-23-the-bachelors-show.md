@@ -1,133 +1,43 @@
-<!DOCTYPE html>
-<html>
-<head>
-<!--  Enabled DNS prefetching  -->
-<meta http-equiv="x-dns-prefetch-control" content="on">
+---
+layout: post
+title: The Bachelors Show
+subtitle: Epiosde 6
+description:  23 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
+categories: [BBC Two]
+---
 
-<!-- Meta Tags properties  -->
-<meta property="og:title" content="The Bachelors Show - 23 March 1975" />
-<meta property="og:description" content="with The Bachelors, The Vernons and Lena Zavaroni. Click on link for details.">
-<meta property="og:image" content="https://fanzoflenazavaroni.github.io/images/BBC/The-Bachelors-Show-06.jpg" />
+![](/assets/images/BBC/The-Bachelors-Show-06.jpg)
 
-<!-- Meta Tags names  -->
-<meta name="title" content="The Bachelors Show - 23 March 1975" />
-<meta name="description" content="with The Bachelors, The Vernons and Lena Zavaroni. Click on link for details.">
-<meta name="image" content="https://fanzoflenazavaroni.github.io/images/BBC/The-Bachelors-Show-06.jpg" />
+> Lena sits on the stage and sings Oh My Papa.
+>
+> Lena performs the Tennesse Wig Walk as the rest of the cast look on.
+>
+> Lena, the Bachelors and the Vernons then perform a song and dance version of Skip To My Lou together.
+>
+> Finally Lena joins the Bachelors and the Vernons at the end of the show to say goodbye, it being the end of the series.
 
-<!-- Twitter Card Meta Tags  -->
-<meta name="twitter:card" content="summary" />
+### Cast
+* **Hosts:** The Bachelors
+* **Singer:** Lena Zavaroni
+* **Singers:** The Vernons
+* **English football professional:** Jimmy Hill
+* **British Racing Driver:** Graham Hill
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+**Note:** For their performance on the show they were introduced as The Hills Brothers, but are not brothers.
 
-<!-- CSS-->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-<link href="/materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen" />
-<link href="/materialize/css/style.css" type="text/css" rel="stylesheet" media="screen" />
 
-<title>The Bachelors Show - 23 March 1975</title>
-</head>
+### Crew
+* **Orchestra conductor:** Norman Percival
+* **Choreography:** Lesley Brooks
+* **Production team:** Ann R Mann
+* **Production team:** Maurice Gallacher
+* **Lighting:** Ken McGregor
+* **Sound:** Hugh Barker
+* **Sound:** Peter Rose
+* **Design:** Lesley Bremness
+* **Producer:** Ernst Maxin
+* **Production company:** BBC Television
 
-<body>
-<div class="navbar-fixed">
-<nav>
-<div class="nav-wrapper">
-<a class="brand-logo truncate">Fanz of Lena Zavaroni</a>
-<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-<ul class="right hide-on-med-and-down">
-<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li class="active"><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
-<li><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
+### Related Website
+* [BBC Genome](https://genome.ch.bbc.co.uk/29c000e0199745d28448f66f379b32cb)
 
-</ul>
-</div>
-</nav>
-</div>
-
-<ul class="sidenav" id="mobile-demo">
-<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li class="active"><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
-<li><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
-
-</ul>
-
-<main class="Main-Default">
-<article>
-<div class="row">
-<div class="col s12 m8 offset-m2 l6 offset-l3">
-<div class="card">
-<div class="card-content flow-text">
-<h4><i class="fa fa-info"></i> The Bachelors Show</h4>
-<strong>23 March 1975</strong>
-<p>Lena performs "My Funny Valentine", sitting on a huge pink rug with a dog.</p>
-<br/>
-<p>She then sings "Stage Struck".</p>
-<br/>
-<p>Next she duets with one of the Bachelors on a version of "Something's Got To Give".</p>
-</div>
-<div class="card-action flow-text">
-<a href="https://genome.ch.bbc.co.uk/29c000e0199745d28448f66f379b32cb">BBC Genome</a>
-<a href="http://www.imdb.com/title/tt5872070">IMDb</a>
-</div></div></div></div>
-
-<div class="row">
-<div class="col s12 m8 offset-m2 l6 offset-l3">
-<div class="card">
-<div class="card-content flow-text">
-<h4><i class="fa fa-photo"></i> Screenshot</h4>
-<div class="card-image">
-<img src="/images/BBC/The-Bachelors-Show-06.jpg">
-<p>Lena Zavaroni On The Bachelors Show - 23 March 1975</p>
-</div></div></div></div></div>
-
-<div class="row">
-<div class="col s12 m8 offset-m2 l6 offset-l3">
-<div class="card">
-<div class="card-content flow-text">
-<h4><i class="fa fa-info"></i> Cast</h4>
-<table class="flow-text striped">
-<tr><th>Hosts:</th> <td>The Bachelors</td></tr>
-<tr><th>Singer:</th> <td>Lena Zavaroni</td></tr>
-<tr><th>Singers:</th> <td>The Vernons</td></tr>
-<tr><th>English football professional:</th> <td>Jimmy Hill *</td></tr>
-<th>British Racing Driver:</th> <td>Graham Hill *</td></tr>
-<tr><td colspan="2">* Note: For their performance on the show they were introduced as The Hills Brothers, but were in fact not brothers.</td></tr>
-</table>
-</div></div></div></div>
-
-<div class="row">
-<div class="col s12 m8 offset-m2 l6 offset-l3">
-<div class="card">
-<div class="card-content flow-text">
-<h4><i class="fa fa-info"></i> Crew</h4>
-<table class="flow-text striped">
-<tr><th>Orchestra conductor:</th> <td>Norman Percival</td></tr>
-<tr><th>Choreography:</th> <td>Lesley Brooks</td></tr>
-<tr><th>Production team:</th> <td>Ann R Mann</td></tr>
-<tr><th>Production team:</th> <td>Maurice Gallacher</td></tr>
-<tr><th>Lighting:</th> <td>Ken McGregor</td></tr>
-<tr><th>Sound:</th> <td>Hugh Barker</td></tr>
-<tr><th>Sound:</th> <td>Peter Rose</td></tr>
-<tr><th>Design:</th> <td>Lesley Bremness</td></tr>
-<tr><th>Producer:</th> <td>Ernst Maxin</td></tr>
-<tr><th>Production company:</th> <td>BBC Television</td></tr>
-</table>
-</div></div></div></div>
-</article>
-</main>
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="/materialize/js/materialize.min.js"></script>
-<script src="/materialize/js/init.js"></script>
-</body>
-</html>
