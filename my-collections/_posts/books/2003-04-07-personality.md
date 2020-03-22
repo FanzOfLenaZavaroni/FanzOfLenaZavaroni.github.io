@@ -8,12 +8,14 @@ categories: [Books]
 ---
 
 <table>
+<tr align="center">
 <th>Jump To:</th>
 <td><a href="#summary">Summary</a></td>
 <td><a href="#quotes">Quotes</a></td>
 <td><a href="#the-guardian-the-observer-review---23-march-2003">The Guardian</a></td>
 <td><a href="#the-mirror-22-april-2003">The Mirror</a></td>
 <td><a href="#logical-outcome-of-the-mirrors-comparison">Logical Outcome</a></td>
+</tr>
 </table>
 
 <table class="striped">

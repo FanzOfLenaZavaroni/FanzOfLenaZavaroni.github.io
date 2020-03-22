@@ -7,14 +7,23 @@ image: /assets/images/ITV/LZ-BL-small.jpg
 categories: [London Weekend Television]
 ---
 
+<table>
+<tr align="center">
+<th>Jump to</th>
+<td><a href="#summary">Summary</a></td>
+<td><a href="#details">Details</a></td>
+<td><a href="#youtube">YouTube</a></td>
+<td><a href="#related-websites">Related Websites</a></td>
+</tr>
+</table>
+
 [![Lena and Bonnie](/assets/images/ITV/LZ-BL-01-02.jpg){: .full-width}{: .zoom-in}](/assets/images/ITV/LZ-BL-01-02.jpg)
 
 **Lena and Bonnie** was recorded on the 17 & 18 January 1978 at the Kent House Studios and was broadcast by London Weekend Television (LWT) on the 26 of March 1978.
 
 It was a one-off special starring Lena Zavaroni and Bonnie Langford.
 
-**Summary of Show**
-
+### Summary
 > Part 1 of the show opens with Lena and Bonnie performing the song Compatibility. Lena then perform a song and dance medley of disco music.
 >
 > Bonnie then performs a medley of show tunes, Lena and Bonnie then reprise the song Compatibility and it then goes to an advert break.
@@ -35,7 +44,7 @@ It was a one-off special starring Lena Zavaroni and Bonnie Langford.
 >
 > **NOTE:** When part 1 of the show was recorded the clapperboard information display the year 1977, When it was in fact 1978 on the recording of the show you can hear someone off screen confirm the year as 1978.
 
-**Details**
+### Details
 * **Lena and Bonnie**
 * **Genre:** Musical
 * **Written by:** Ken Hoare
@@ -52,13 +61,13 @@ It was a one-off special starring Lena Zavaroni and Bonnie Langford.
 * **Original airing:** 26 March 1978
 * **Production company:** London Weekend Television (LWT)
 
-**YouTube**
+### YouTube
+> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/q5Dw571MQxg?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 
-<div class="video-container"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/q5Dw571MQxg?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
-<p style="font-style: italic;">Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie.</p>
+<cite>Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie.</cite>
 
-**Related Websites:**
-<span class="post-categories">[BFI](http://explore.bfi.org.uk/4ce2b6a09b8de)&nbsp;
-[IMDb](http://www.imdb.com/title/tt2346894)&nbsp;
-[Map](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=51.50742800000001%2C-0.11183099999993829&z=19)&nbsp;
-[Farewell London Studio](https://stevefullerphoto.com/article/farewell-london-studios)</span>
+### Related Websites
+* [BFI](http://explore.bfi.org.uk/4ce2b6a09b8de)
+* [Map](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=51.50742800000001%2C-0.11183099999993829&z=19)
+* [Farewell London Studio](https://stevefullerphoto.com/article/farewell-london-studios)
+
