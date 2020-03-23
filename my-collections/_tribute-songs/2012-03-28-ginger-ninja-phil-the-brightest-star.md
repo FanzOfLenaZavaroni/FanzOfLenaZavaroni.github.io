@@ -19,4 +19,5 @@ A wonderful Tribute to Lena Zavaroni with Thanks to <a href="http://www.gingerni
 <button onclick="document.getElementById('player').volume += 0.1">Vol +</button>
 </div>
 
-<br />{: . clear}
+<br />{: .clear}
+
