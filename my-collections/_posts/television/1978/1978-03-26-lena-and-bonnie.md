@@ -9,11 +9,15 @@ categories: [London Weekend Television]
 
 <table>
 <tr align="center">
-<th>Jump to</th>
+<th colspan="5">Jump to:</th>
+</tr>
+
+<tr>
 <td><a href="#summary">Summary</a></td>
 <td><a href="#details">Details</a></td>
-<td><a href="#youtube">YouTube</a></td>
-<td><a href="#related-websites">Related Websites</a></td>
+<td><a href="#archive-interview-by-bonnie-langford">Bonnie Langford Interview</a></td>
+<td><a href="#the-complete-show">Watch The Complete Show</a></td>
+<td><a href="#related-websites">Websites</a></td>
 </tr>
 </table>
 
@@ -61,10 +65,15 @@ It was a one-off special starring Lena Zavaroni and Bonnie Langford.
 * **Original airing:** 26 March 1978
 * **Production company:** London Weekend Television (LWT)
 
-### YouTube
+### Archive Interview by Bonnie Langford
 > <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/q5Dw571MQxg?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 
-<cite>Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie.</cite>
+<cite>Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie</cite>
+
+### The Complete show
+> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/Xb_1Gj5cV8c?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+
+<cite>[With thanks to Loving Lena Zavaroni](https://s-molloy.tumblr.com)</cite>
 
 ### Related Websites
 * [BFI](http://explore.bfi.org.uk/4ce2b6a09b8de)
