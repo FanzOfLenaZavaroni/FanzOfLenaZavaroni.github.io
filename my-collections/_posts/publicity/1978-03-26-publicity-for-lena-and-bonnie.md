@@ -42,9 +42,9 @@ categories: [Publicity]
 <td colspan="4" style="font-style: italic;">&copy; 1978 Chris Moorhouse / LWT</td>
 </tr>
 
-<tr>
+<tr style="vertical-align: top;">
 <td><img src="/assets/images/lena-and-bonnie/lena-bonnie-12.jpg"></td>
-<td><img src="/assets/images/lena-and-bonnie/lena-bonnie-13.jpg"></td>
+<td style="font-style: italic;"><img src="/assets/images/lena-and-bonnie/lena-bonnie-13.jpg"><br />The TVTimes dated<br />25-31 March 1978 used This Photo for the cover image.</td>
 <td colspan="2"><img src="/assets/images/lena-and-bonnie/punch-lena-bonnie.jpg"></td>
 </tr>
 
