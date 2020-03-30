@@ -7,7 +7,7 @@ image: /assets/images/BBC/ticket-1979-04-01.jpg
 categories: [BBC Television, Lena Zavaroni and Music]
 ---
 
-Believed to be a recording for an episode of Lena Zavaroni and Music
+Believed to be a recording for an episode of Lena Zavaroni and Music.
 
 Lena Zavaroni and Music was a music, comedy and variety programme featuring Lena Zavaroni and her guests. Six episodes were aired by the BBC in the spring of 1979.
 
