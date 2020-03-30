@@ -122,7 +122,7 @@ What he manages brilliantly is allowing us only restricted access to Maria's min
 
 ### Logical Outcome of The Mirror's comparison
 
-> So as we can see from the comparison between Maria Tambini and Lena Zavaroni's live stories is the fact that the only fictional element of this work is the claim that it's not about Lena Zavaroni.
+> So as we can see from the comparison between Maria Tambini and Lena Zavaroni's life stories is the fact that the only fictional element of this work is the claim that it's not about Lena Zavaroni.
 >
 <cite>Robcamstone</cite>
 
