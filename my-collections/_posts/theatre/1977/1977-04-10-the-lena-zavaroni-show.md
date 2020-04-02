@@ -21,5 +21,5 @@ Songs included Say, Has Anybody Seen My Sweet Gypsy Rose and Pinch Me Am I Dream
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
 
 **Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=54.28211950000011%2C-0.39636270000005425&z=19)</span>
+<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=53.65201430000001%2C-3.0062123999999812&z=19)</span>
 
