@@ -32,7 +32,7 @@ categories: [Scottish Television]
 >
 > <div class="background color padding">
 > <h2 class="Rammetto-One">10.15 Record Makers</h2>
-> <h2 class="Black-900">Lena Zavaroni</h2>
+> <h2 class="Black-900">LENA ZAVARONI</h2>
 > <div class="bold color size">
 > <p>Today's guest Lena Zavaroni sings all the songs from her album <a href="/discography/albums/03-presenting-lena-zavaroni">Presenting Lena Zavaroni</a> including her single <a href="/discography/singles/08-air-love">Air Love</a> which is also on the album.</p>
 > <p>The music director is Alyn Ainsworth.</p>
@@ -45,7 +45,7 @@ categories: [Scottish Television]
 >
 > <div class="background color padding">
 > <h2 class="Rammetto-One">10.15 Record Makers</h2>
-> <h2 class="Black-900">Lena Zavaroni</h2>
+> <h2 class="Black-900">LENA ZAVARONI</h2>
 > <div class="bold color size">
 > <p>Today's guest Lena Zavaroni sings both songs from her single Air Love.</p>
 > <p>The music director is Alyn Ainsworth.</p>
