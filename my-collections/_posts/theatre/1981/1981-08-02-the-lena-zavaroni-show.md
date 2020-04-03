@@ -2,12 +2,12 @@
 layout: post
 title: The Lena Zavaroni Show
 subtitle: The White Rock Pavilion, Hastings
-description: Note&#58; The title The Lena Zavaroni Show is a generic name for shows staring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+description: Note&#58; The title The Lena Zavaroni Show is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 image: /assets/images/locations/2222751_f901cdd4-200x200.png
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
-**Note:** The title "The Lena Zavaroni Show" is a generic name for shows staring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+**Note:** The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 
 > [![](/assets/images/locations/2222751_f901cdd4.jpg)](https://www.geograph.org.uk/photo/2222751)
 

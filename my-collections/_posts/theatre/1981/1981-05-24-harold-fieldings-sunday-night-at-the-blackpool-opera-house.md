@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House
-subtitle: Staring Lena Zavaroni
+subtitle: Starring Lena Zavaroni
 description: Songs included Happy Together, La Zavaroni, Somewhere Over The Rainbow, I Don't want To Walk Without You, Tribute To The Young Talent Of Yesteryear, Roses And Rainbows, Going Nowhere, Make Your Own Kind Of Music and Even Now.
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
 ---

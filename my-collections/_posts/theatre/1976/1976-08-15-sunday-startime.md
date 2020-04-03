@@ -2,7 +2,7 @@
 layout: post
 title: It's Sunday Startime
 subtitle: ABC Theatre, Great Yarmouth
-description: Staring Lena Zavaroni with Pam Ayres, The Vernons, Barley, Barry Britten and The Johnny Wiltshire Orchestra.
+description: Starring Lena Zavaroni with Pam Ayres, The Vernons, Barley, Barry Britten and The Johnny Wiltshire Orchestra.
 image: /assets/images/theatres/1976-08-15-sunday-startime-200x200.png
 categories: [Theatre, Great Yarmouth]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Charity All Star Variety Show
 subtitle: Theatre Royal, Drury Lane, London
-description: Theatre Royal, Drury Lane, London. Staring Lena Zavaroni
+description: Theatre Royal, Drury Lane, London. Starring Lena Zavaroni
 categories: [Theatre]
 ---
 

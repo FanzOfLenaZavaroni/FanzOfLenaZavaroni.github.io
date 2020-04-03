@@ -2,7 +2,7 @@
 layout: post
 title: The Lena Zavaroni Show
 subtitle: Congress Theatre, Eastbourne
-description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows staring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 image: /assets/images/theatres/1975-07-13-congress-theatre-eastbourne-200x200.png
 categories: [Theatre, The Lena Zavaroni Show]
 ---
