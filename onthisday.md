@@ -288,8 +288,8 @@ OnThisDay ='/onthisday/04/04-01.html';
 if (month == '4' && day == '2') {
 OnThisDay ='/onthisday/04/04-02.html';
 }
-if (month == '4' && day == '3') {
-OnThisDay ='/onthisday/04/04-03.html';
+if (month == '4' && day == '4') {
+OnThisDay ='/onthisday/04/04-04.html';
 }
 if (month == '4' && day == '6') {
 OnThisDay ='/onthisday/04/04-06.html';
