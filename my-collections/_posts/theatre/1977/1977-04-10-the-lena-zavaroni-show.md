@@ -9,12 +9,13 @@ categories: [Theatre, The Lena Zavaroni Show]
 
 <table>
 <tr align="center">
-<th colspan="2">Jump To:</th>
+<th colspan="3">Jump To:</th>
 <th>External Links:</th>
 </tr>
 
 <tr align="center">
 <td><a href="#summary">Summary</a></td>
+<td><a href="#postcard">Postcard</a></td>
 <td><a href="#research-is-on-going-and-hopefully-i-will-be-able-to-add-more-details">Research</a></td>
 <td><a href="https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=53.65201430000001%2C-3.0062123999999812&z=19">Google Map</a></td>
 </tr>
@@ -23,7 +24,7 @@ categories: [Theatre, The Lena Zavaroni Show]
 ### Summary
 Songs included Say, Has Anybody Seen My Sweet Gypsy Rose and Pinch Me Am I Dreaming.
 
-
+### Postcard
 ![](/assets/images/locations/South-Port.jpg){: .full-width}
 
 ### Research is on going and hopefully I will be able to add more details
