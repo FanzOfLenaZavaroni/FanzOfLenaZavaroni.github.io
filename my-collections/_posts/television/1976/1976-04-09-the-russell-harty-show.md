@@ -9,7 +9,7 @@ categories: [London Weekend Television]
 
 <table>
 <tr align="center">
-<th colspan="2">Jump To:</th>
+<th colspan="3">Jump To:</th>
 <th colspan="1">External Links:</th>
 </tr>
 
