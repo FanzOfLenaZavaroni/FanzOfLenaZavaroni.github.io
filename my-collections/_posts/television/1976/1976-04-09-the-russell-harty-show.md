@@ -14,12 +14,14 @@ categories: [London Weekend Television]
 </tr>
 
 <tr align="center">
+<td><a href="#summary">Summary</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 <td><a href="http://www.bfi.org.uk/films-tv-people/4ce2b83e0b648">BFI</a></td>
 </tr>
 </table>
 
+### Summary
 Lena's episode of the Russell Harty Show was recorded on 25 March 1976 and broadcast on 9 April 1976.
 
 Lena sang "Some Of These Days" before being interviewed.
