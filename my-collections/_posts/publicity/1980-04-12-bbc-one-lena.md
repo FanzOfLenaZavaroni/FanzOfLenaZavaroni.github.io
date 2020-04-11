@@ -2,6 +2,7 @@
 layout: post
 title: Publicity Photo
 subtitle: Lena - Episode 1.1
+description: Lena - Episode 1.1
 categories: [Publicity Photos]
 ---
 
