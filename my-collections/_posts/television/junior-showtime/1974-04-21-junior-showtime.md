@@ -2,7 +2,7 @@
 layout: post
 title: Junior Showtime
 subtitle: Series 5
-description: Mark Curry, Glyn Poole, Roy Rolland, David Davenport, Lena Zavaroni, The New Generation, The Junior Showtime Dancers, puppeteer Roger Stevenson with Daisy Duck, Mister Ebeneezer and Rodney Allen Rippy.
+description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
 image: /assets/images/YTV/1974-junior-showtime.jpg
 categories: [Yorkshire Television]
 ---
@@ -13,7 +13,6 @@ categories: [Yorkshire Television]
 <td><a href="#programme-id">Programme ID</a></td>
 <td><a href="#newspaper">Newspaper</a></td>
 <td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
 </tr>
 </table>
 
@@ -28,24 +27,8 @@ categories: [Yorkshire Television]
 <cite>The Times London, England, Saturday, 20 April 1974</cite>
 
 ### Cast
-* **On screen participant:** Lena Zavaroni
-* **On screen participant:** Mark Curry
-* **On screen participant:** Glyn Poole
-* **On screen participant:** Roy Rolland
-* **On screen participant:** David Davenport
-* **On screen participant:** The New Generation
-* **On screen participant:** The Junior Showtime Dancers
-* **Puppeteer:** Roger Stevenson with Daisy Duck
-* **On screen participant:** Mister Ebeneezer
-* **On screen participant:** Rodney Allen Rippy
-
-### Crew
-* **Choreographer:** Jean Pearce
-* **Choreographer:** Minnie Thompson
-* **Dance adviser:** Dougie Squires
-* **Music associate:** Bob Hartley
-* **Director:** Roger Cheveley
-* **Director:** Len Lurcuck
-* **Associate producer:** Peter Max-Wilson
-* **Production Company:** Yorkshire Television
+* **Presenter:** Mark Curry
+* **Presenter:** Glyn Poole
+* **Old Mother Riley:** Roy Rolland
+* **Guest Singer:** Lena Zavaroni
 
