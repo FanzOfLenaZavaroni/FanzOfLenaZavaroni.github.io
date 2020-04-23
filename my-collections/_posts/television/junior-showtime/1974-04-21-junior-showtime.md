@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Junior Showtime
-subtitle: Series 5
+subtitle: Lena Zavaroni's third appearance
 description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
 image: /assets/images/YTV/1974-junior-showtime.jpg
 categories: [Yorkshire Television]

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Junior Showtime
-subtitle: Series 5
-description: Mark Curry, Glyn Poole, Roy Rolland, David Davenport, Lena Zavaroni, The New Generation, The Junior Showtime Dancers, puppeteer Roger Stevenson with Daisy Duck, Mister Ebeneezer and Rodney Allen Rippy.
+subtitle: Lena Zavaroni's forth appearance
+description: description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
 image: /assets/images/YTV/1974-06-16-junior-showtime.jpg
 categories: [Yorkshire Television]
 ---
