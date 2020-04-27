@@ -13,7 +13,6 @@ categories: [Yorkshire Television]
 <td><a href="#programme-id">Programme ID</a></td>
 <td><a href="#newspaper">Newspaper</a></td>
 <td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
 </tr>
 </table>
 
