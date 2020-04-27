@@ -21,7 +21,7 @@ image: https://img.youtube.com/vi/FqnZEbFiMos/sddefault.jpg
 </tr>
 </table>
 
-### Unconfirmed details
+### Unconfirmed Details
 > While in South Africa Lena Zavaroni record the album.
 >
 > It was released in South Africa by the Record and Tape Company in 1975 to coincided with her trip to South Africa.
