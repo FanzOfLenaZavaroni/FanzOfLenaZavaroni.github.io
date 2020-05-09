@@ -19,9 +19,8 @@ image: /assets/images/albums/freakssleeve.jpg
 
 ### Anorexic Beauty
 
-<div>
+<br />
 <audio id="player" src="/assets/media/07-anorexic-beauty.mp3">Your browser does not support the audio element.</audio>
-</div>
 <div>
   <button onclick="document.getElementById('player').play()">Play</button>
   <button onclick="document.getElementById('player').pause()">Pause</button>
@@ -80,7 +79,7 @@ Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 <cite>[Pulp Songs Wordpress](https://pulpsongs.wordpress.com/2012/08/11/49-anorexic-beauty) &#8592; follow link for full article</cite>
 
 ### My Personal View On The Track
-> I believe the song aims to point out the contradictory feelings we have towards a person with anorexia we may love and or find the individual beautiful while finding the way they look horrific. This leads to a conflict of feelings.
+> I believe the song aims to point out the contradictory feelings we have towards a person with anorexia we may love and care for the individual and even find them beautiful while finding the way they look horrific due to effects of the anorexia. which can lead to a conflict of feelings.
 >
 > It is sad to note that some Pro-Anorexia websites use the song to justify anorexia as a lifestyle chose, when in fact it's a physiological response to a mental health issue and also shows that the creates of such websites have missed the point of the song.
 
