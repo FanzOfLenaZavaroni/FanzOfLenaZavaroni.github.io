@@ -6,7 +6,7 @@ description: Pulp's album Freaks was released they dedicated Track No 7 - Anorex
 image: /assets/images/albums/freakssleeve.jpg
 ---
 
-### <span style="color:red;">Article Warning:</span>
+### <span style="display: inline; color:red;">Article Warning:</span>
 ### Description/Lyrics may be upsetting to some fans.
 
 [![](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg)
@@ -20,16 +20,15 @@ image: /assets/images/albums/freakssleeve.jpg
 Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 
 ### Anorexic Beauty
-> It wasn’t originally a Pulp song. Written by David Kurley of early-Pulp contemporaries New Model Soldier, it was sold to Russell for £1 after a gig. The song dates back to an earlier David Kurley band, Blimp, who featured a young Magnus Doyle on drums.
 
-<cite>[Pulp Songs Wordpress](https://pulpsongs.wordpress.com/2012/08/11/49-anorexic-beauty) &#8592; follow link for full article</cite>
-
-### My Personal View On The Track
-> I believe the song aims to point out the contradictory feelings we have towards a person with anorexia we may love and or find the individual beautiful while finding the way they look horrific. This leads to a conflict of feelings.
->
-> It is sad to note that some Pro-Anorexia websites use the song to justify anorexia as a lifestyle chose, when in fact it's a physiological response to a mental health issue and also shows that the creates of such websites have missed the point of the song.
-
-<cite>Robcamstone</cite>
+<audio id="player" src="/assets/media/07-anorexic-beauty.mp3">Your browser does not support the audio element.</audio>
+<div>
+  <button onclick="document.getElementById('player').play()">Play</button>
+  <button onclick="document.getElementById('player').pause()">Pause</button>
+  <button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button>
+  <button onclick="document.getElementById('player').volume += 0.1">Vol +</button>
+  <button onclick="document.getElementById('player').volume -= 0.1">Vol -</button>
+</div>
 
 ### Lyrics
 > Sitting alone on a cold bar stool
@@ -72,15 +71,17 @@ Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 
 <cite>[David Kurley](https://www.pulpwiki.net/Pulp/AnorexicBeauty)</cite>
 
-<div class="card-action">
-<audio id="player" src="07-anorexic-beauty.mp3">Your browser does not support the audio element.</audio>
-<div><div>
-  <button onclick="document.getElementById('player').play()">Play</button>
-  <button onclick="document.getElementById('player').pause()">Pause</button>
-  <button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button>
-  <button onclick="document.getElementById('player').volume += 0.1">Vol +</button>
-  <button onclick="document.getElementById('player').volume -= 0.1">Vol -</button>
-</div>
+### Details
+> It wasn’t originally a Pulp song. Written by David Kurley of early-Pulp contemporaries New Model Soldier, it was sold to Russell for £1 after a gig. The song dates back to an earlier David Kurley band, Blimp, who featured a young Magnus Doyle on drums.
+
+<cite>[Pulp Songs Wordpress](https://pulpsongs.wordpress.com/2012/08/11/49-anorexic-beauty) &#8592; follow link for full article</cite>
+
+### My Personal View On The Track
+> I believe the song aims to point out the contradictory feelings we have towards a person with anorexia we may love and or find the individual beautiful while finding the way they look horrific. This leads to a conflict of feelings.
+>
+> It is sad to note that some Pro-Anorexia websites use the song to justify anorexia as a lifestyle chose, when in fact it's a physiological response to a mental health issue and also shows that the creates of such websites have missed the point of the song.
+
+<cite>Robcamstone</cite>
 
 <style>
 .fit {width: 16.22%; height:auto;}
