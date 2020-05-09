@@ -19,7 +19,6 @@ image: /assets/images/albums/freakssleeve.jpg
 
 ### Anorexic Beauty
 
-<br />
 <audio id="player" src="/assets/media/07-anorexic-beauty.mp3">Your browser does not support the audio element.</audio>
 <div>
   <button onclick="document.getElementById('player').play()">Play</button>
@@ -28,7 +27,7 @@ image: /assets/images/albums/freakssleeve.jpg
   <button onclick="document.getElementById('player').volume += 0.1">Vol +</button>
   <button onclick="document.getElementById('player').volume -= 0.1">Vol -</button>
 </div>
-
+<br />
 ### Lyrics
 > Sitting alone on a cold bar stool
 >Your cold, hard eyes make me feel a fool
