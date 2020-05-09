@@ -7,21 +7,21 @@ image: /assets/images/albums/freakssleeve.jpg
 ---
 
 ### <span style="display: inline; color:red;">Article Warning:</span>
+
 ### Description/Lyrics may be upsetting to some fans.
 
 [![](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg)
 [![](/assets/images/albums/1987-05-11-pulp-freaks-02.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-02.jpg)
-[![](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg)
+[![](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg "Anorexic Beauty dedicated to Lena Zavaroni")
 [![](/assets/images/albums/1987-05-11-pulp-freaks-04.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-04.jpg)
 [![](/assets/images/albums/1987-05-11-pulp-freaks-05.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-05.jpg)
 [![](/assets/images/albums/1987-05-11-pulp-freaks-06.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-06.jpg)
 
-### Dedicated
-Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
-
 ### Anorexic Beauty
 
+<div>
 <audio id="player" src="/assets/media/07-anorexic-beauty.mp3">Your browser does not support the audio element.</audio>
+</div>
 <div>
   <button onclick="document.getElementById('player').play()">Play</button>
   <button onclick="document.getElementById('player').pause()">Pause</button>
@@ -70,6 +70,9 @@ Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 > Underweight goddess.
 
 <cite>[David Kurley](https://www.pulpwiki.net/Pulp/AnorexicBeauty)</cite>
+
+### Dedicated
+Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 
 ### Details
 > It wasn’t originally a Pulp song. Written by David Kurley of early-Pulp contemporaries New Model Soldier, it was sold to Russell for £1 after a gig. The song dates back to an earlier David Kurley band, Blimp, who featured a young Magnus Doyle on drums.
