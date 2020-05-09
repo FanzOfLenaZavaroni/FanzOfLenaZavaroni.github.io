@@ -10,6 +10,19 @@ image: /assets/images/albums/freakssleeve.jpg
 
 ### Description/Lyrics may be upsetting to some fans.
 
+<table>
+<tr align="center">
+<th colspan="5">Jump To:</th>
+</tr>
+<tr>
+<td><a href="#anorexic-beauty">Anorexic Beauty</a></td>
+<td><a href="#lyrics">Lyrics</a></td>
+<td><a href="#dedicated">Dedicated</a></td>
+<td><a href="#details">Details</a></td>
+<td><a href="#my-personal-view-on-the-track">My Personal View On The Track</a></td>
+</tr>
+</table>
+
 [![](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg)
 [![](/assets/images/albums/1987-05-11-pulp-freaks-02.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-02.jpg)
 [![](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg "Anorexic Beauty dedicated to Lena Zavaroni")
