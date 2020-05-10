@@ -6,7 +6,7 @@ description: Pulp's album Freaks was released they dedicated Track No 7 - Anorex
 image: /assets/images/albums/freakssleeve.jpg
 ---
 
-### <span style="display: inline; color:red;">Article Warning:</span>
+### <span style="font-weight: bold; color:red;">Article Warning:</span>
 
 ### Description/Lyrics may be upsetting to some fans.
 
