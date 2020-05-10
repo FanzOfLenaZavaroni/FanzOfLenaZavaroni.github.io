@@ -86,7 +86,7 @@ Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 ### Details
 > It wasn’t originally a Pulp song. Written by David Kurley of early-Pulp contemporaries New Model Soldier, it was sold to Russell for £1 after a gig. The song dates back to an earlier David Kurley band, Blimp, who featured a young Magnus Doyle on drums.
 
-<cite>[Pulp Songs Wordpress](https://pulpsongs.wordpress.com/2012/08/11/49-anorexic-beauty) &#8592; follow link for full article</cite>
+<cite>[Pulp Songs Wordpress](https://pulpsongs.wordpress.com/2012/08/11/49-anorexic-beauty) &#8592; follow the link for full article</cite>
 
 ### My Personal View On The Track
 > I believe the song aims to point out the contradictory feelings we have towards a person with anorexia we may love and care for the individual and even find them beautiful, while finding the way they look horrific due to effects of the anorexia. Which can lead to a conflict of feelings not only for the individual with anorexia but for their family and friends.
