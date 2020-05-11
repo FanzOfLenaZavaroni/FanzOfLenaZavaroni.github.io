@@ -2,7 +2,7 @@
 layout: post
 title: The Sunday Times Magazine
 subtitle: Supplement
-description: The ten-year-old pop star Lena Zavaroni talks to Francis Wyndham.
+description: Published a profile of Lena Zavaroni.
 image: /assets/images/magazines/the-sunday-times-magazine-12-may-1974-cover.jpg
 categories: [Supplement]
 ---
