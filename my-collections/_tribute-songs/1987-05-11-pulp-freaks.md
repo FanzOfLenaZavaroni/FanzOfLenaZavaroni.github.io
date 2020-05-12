@@ -91,7 +91,7 @@ Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 ### My Personal View On The Track
 > I believe the song aims to point out the contradictory feelings we have towards a person with anorexia we may love and care for the individual and even find them beautiful, while finding the way they look horrific due to effects of the anorexia. Which can lead to a conflict of feelings not only for the individual with anorexia but for their family and friends.
 >
-> It is sad to note that some Pro-Anorexia websites use the song to justify anorexia as a lifestyle chose, when in fact it's a physiological response to a mental health issue and also shows that the creates of such websites have missed the point of the song.
+> It is sad to note that some Pro-Anorexia websites use the song to justify anorexia as a lifestyle chose, when in fact it's a physiological response to a mental health issue and also shows that the creators of such websites have missed the point of the song.
 
 <cite>Robcamstone</cite>
 
