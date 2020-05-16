@@ -14,7 +14,7 @@ categories: [Theatre, Scottish television]
 <tr align="center">
 <td><a href="#summary">Summary</a></td>
 <td><a href="#after-show-photos">After Show Photos</a></td>
-<td><a href="#TV Listing">TV Listing</a></td>
+<td><a href="#tv-listing">TV Listing</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 </tr>
