@@ -28,7 +28,7 @@ A long-running British local ITV newscast for the Granada North West region, inc
 
 Lena appears as a guest on the main 30 minute evening bulletin.
 
-A short referance to Lena Zavaroni is made in the song [Lucy Meacock](/discography/tribute-songs/2011-06-27-thelancashire-hotpots-achtung-gravy#lucy-meacock) by The Lancashire Hotpots,
+A short referance to Lena Zavaroni is made in the song [Lucy Meacock](/discography/tribute-songs/2011-06-27-thelancashire-hotpots-achtung-gravy#lucy-meacock) by The Lancashire Hotpots.
 
 ### Audio
 <audio id="player" src="/assets/media/1992-03-02-granada-reports.mp3"></audio>
