@@ -34,7 +34,7 @@ A short referance to Lena Zavaroni is made in the song [Lucy Meacock](/discograp
 <audio id="player" src="/assets/media/1992-03-02-granada-reports.mp3"></audio>
 > <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 > <br />
-> As the only available video clips of the broadcast breaks fair use by having an unlicensed watermark I can not embed it hear. Therefore I have provided just the audio.
+> As the only available video clips of the broadcast breaks fair use by having an unlicensed watermark, I will not embed them. Therefore I have provided just the audio.
 
 <cite>Robcamstone</cite>
 
