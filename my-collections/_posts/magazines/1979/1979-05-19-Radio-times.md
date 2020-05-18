@@ -7,5 +7,5 @@ image: /assets/images/magazines/
 categories: [TV Guides]
 ---
 
-Feature a behind the scenes look at the filming of Lena's first series for the BBC, Lena Zavaroni and Music.
+Featured a behind the scenes look at the filming of Lena's first series for the BBC, Lena Zavaroni and Music.
 

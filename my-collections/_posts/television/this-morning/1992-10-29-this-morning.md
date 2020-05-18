@@ -4,17 +4,22 @@ title: This Morning
 subtitle: Granada Television
 description: Lena talked about her previous anorexia and her clinical depression.
 image: /assets/images/ITV/1992-10-29-this-morning .png
-categories: [Television, Granada Television]
+categories: [Granada Television]
 ---
 
 ![](/assets/images/ITV/1992-10-29-this-morning .png)
 
 Lena talks about her previous anorexia and her clinical depression.
 
-**Cast**
-* **Presenter:** Richard Madeley
-* **Presenter:** Judy Finnigan
-* **Guest:** Lena Zavaroni
+### Cast
+<table>
+<tr><th style="width:50%;">Presenter:</th><td style="width:50%;">Richard Madeley</td></tr>
+<tr><th>Presenter:</th><td>Judy Finnigan</td></tr>
+<tr><th>Guest:</th><td>Lena Zavaroni</td></tr>
+</table>
 
-**Crew**
-* **Production company:** Granada Television
+### Crew
+<table>
+<tr><th style="width:50%;">Production company:</th><td style="width:50%;">Granada Television</td></tr>
+</table>
+

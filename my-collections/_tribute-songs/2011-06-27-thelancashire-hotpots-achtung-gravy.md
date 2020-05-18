@@ -8,7 +8,8 @@ image: /assets/images/albums/The-Lancashire-Hotpots-Achtung-Gravy-small.jpg
 
 ![](/assets/images/albums/The-Lancashire-Hotpots-Achtung-Gravy.jpg)
 
-Track 12 - Lucy Meacock is the song that makes a reference to Lena Zavaroni's interview on [Granada Reports](/itv/1992/03/02/granada-reports.html).
+### Lucy Meacock
+Track 12 - Lucy Meacock makes a reference to Lena Zavaroni's interview on [Granada Reports](/granada%20television/1992/03/02/granada-reports.html).
 
 <div class="responsive-video">
 <iframe width="640px" height="480px" src="https://www.youtube.com/embed/zX9ck2_ITzQ?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe>
