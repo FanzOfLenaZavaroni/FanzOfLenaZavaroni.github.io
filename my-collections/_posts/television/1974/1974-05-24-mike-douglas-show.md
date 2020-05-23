@@ -2,7 +2,7 @@
 layout: post
 title: Mike Douglas Show
 subtitle: Episode 13.185
-description: Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert. Click on link for more details.
+description: Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert.
 image: /assets/images/US-TV/mike-douglas-show.jpg
 categories: [US Television]
 ---
@@ -32,7 +32,7 @@ categories: [US Television]
 <cite>[Wikipedia](https://en.wikipedia.org/wiki/Stillman_diet)</cite>
 
 ### Karen Carpenter
-> Karen Carpenter began using the diet in her teens. Karen was 5'4" and 145 pounds when she went on the Stillman Diet in 1967. She eventually abandoned the Stillman Diet and limited her caloric intake extremely. By September 1975, Karen's weight dropped to 91 pounds.[3] In 1983 she died of complications related to anorexia nervosa.
+> Karen Carpenter began using the diet in her teens. Karen was 5'4" and 145 pounds when she went on the Stillman Diet in 1967. She eventually abandoned the Stillman Diet and limited her caloric intake extremely. By September 1975, Karen's weight dropped to 91 pounds. In 1983 she died of complications related to anorexia nervosa.
 
 <cite>[Wikipedia](https://en.wikipedia.org/wiki/Stillman_diet#Karen_Carpenter)</cite>
 
