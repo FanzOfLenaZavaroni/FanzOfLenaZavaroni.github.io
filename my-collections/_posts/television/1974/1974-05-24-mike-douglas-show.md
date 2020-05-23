@@ -17,13 +17,13 @@ categories: [US Television]
 <table>
 <tr><th>Host:</th><td>Mike Douglas</td></tr>
 <tr><th>Co-host:</th><td>Totie Fields</td></tr>
-<tr><th>Totie's hubby:</th><td>George Johnston</td></tr>
+<tr><th>Totie's Hubby:</th><td>George Johnston</td></tr>
 <tr><th>Singer:</th><td>Lena Zavaroni</td></tr>
 <tr><th>Actor :</th><td>Tony Curtis</td></tr>
 <tr><th>Singer/Actress:</th><td>Florence Henderson</td></tr>
 <tr><th>Diet Book Author</th><td>Dr Irwin Stillman</td></tr>
 <tr><th>Diet Patient</th><td>Alison Liberty</td></tr>
-<tr><th>In house band:</th><td>Frank Hunter Band</td></tr>
+<tr><th>In House Band:</th><td>Frank Hunter Band</td></tr>
 </table>
 
 ### The Stillman Diet
