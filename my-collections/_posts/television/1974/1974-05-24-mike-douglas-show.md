@@ -7,7 +7,24 @@ image: /assets/images/US-TV/mike-douglas-show.jpg
 categories: [US Television]
 ---
 
+<table>
+<tr align="center">
+<th colspan="5">Jump To:</th>
+</tr>
+
+<tr align="center">
+<td><a href="#screenshot">Screenshot</a></td>
+<td><a href="#summary">Summary</a></td>
+<td><a href="#cast">Cast</a></td>
+<td><a href="#the-stillman-diet">The Stillman Diet</a></td>
+<td><a href="#karen-carpenter">Karen Carpenter</a></td>
+</tr>
+</table>
+
+### Screenshot
 > ![Screenshot of Mike Douglas Show ID](/assets/images/US-TV/mike-douglas-show.jpg){: .full-width}
+
+### Summary
 >
 > Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert.
 >
