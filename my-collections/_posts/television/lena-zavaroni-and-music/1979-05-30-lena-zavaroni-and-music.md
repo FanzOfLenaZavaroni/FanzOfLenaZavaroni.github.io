@@ -4,7 +4,7 @@ title: Lena Zavaroni and Music
 subtitle: Episode 2
 description: Guests&#58; Edward Woodward and Gerard Kenny. Click on link for more details.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC Television, Lena Zavaroni and Music]
+categories: [BBC One, Lena Zavaroni and Music]
 ---
 
 [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
