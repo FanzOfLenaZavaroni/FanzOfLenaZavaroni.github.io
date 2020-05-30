@@ -10,6 +10,7 @@ categories: [US Television]
 <table>
 <tr align="center">
 <th colspan="5">Jump To:</th>
+<th>External Link:</th>
 </tr>
 
 <tr align="center">
@@ -18,6 +19,7 @@ categories: [US Television]
 <td><a href="#cast">Cast</a></td>
 <td><a href="#the-stillman-diet">The Stillman Diet</a></td>
 <td><a href="#karen-carpenter">Karen Carpenter</a></td>
+<td colspan="5"><a href="http://www.tv.com/shows/the-mike-douglas-show/may-24-1974-1301959">tv.com</a></td>
 </tr>
 </table>
 
