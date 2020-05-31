@@ -9,16 +9,16 @@ categories: [Scottish TV]
 
 Lena took part in a discussion on the price of fame.
 
-**Cast**
+### Cast
 * Presenter: Kaye Adams
 * Paricipant: Lena Zavaroni
 * Paricipant: Dorothy Paul
 * Paricipant: Eve Graham
 
-**Crew**
+### Crew
 * Director: Cliff Martin
 * Producer: Carol Haining
 * Production company: Scottish Television (STV)
 
-**Related Website:**
-<span class="post-categories">[BFI](http://explore.bfi.org.uk/4ce2b7cbd007b)</span>
+### Related Website
+* [BFI](https://www.bfi.org.uk/films-tv-people/4ce2b7cbd007b)
