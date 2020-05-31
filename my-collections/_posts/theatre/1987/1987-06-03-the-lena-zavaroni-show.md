@@ -7,9 +7,11 @@ image: /assets/images/locations/sandown-pier-view-from-isle-of-wight-coastal-pat
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
-**Note:** The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+### Note
+> The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 
-[![The Lena Zavaroni Show - The Sandown Pavilion, Isle Of Wight](/assets/images/locations/sandown-pier-view-from-isle-of-wight-coastal-path.jpg){: .full-width}{: .zoom-in}](/assets/images/locations/sandown-pier-view-from-isle-of-wight-coastal-path.jpg)
+> [![The Lena Zavaroni Show - The Sandown Pavilion, Isle Of Wight](/assets/images/locations/sandown-pier-view-from-isle-of-wight-coastal-path.jpg){: .full-width}{: .zoom-in}](/assets/images/locations/sandown-pier-view-from-isle-of-wight-coastal-path.jpg)
+
 <cite>[Sandown Pier](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=50.65239140000001%2C-1.1550979999999527&z=19) view from Isle of wight coastal path</cite>{: .image-caption-fw}
 
 > Research is on going and hopefully I will be able to add more details.
@@ -18,5 +20,5 @@ categories: [Theatre, The Lena Zavaroni Show]
 >
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
 >
-> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or contact me on Fanz of Lena Zavaroni [Facebook Page](https://www.facebook.com/fanzoflenazavaroni).
-<cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
+> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
+
