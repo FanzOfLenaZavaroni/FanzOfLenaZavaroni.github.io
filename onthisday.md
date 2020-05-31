@@ -465,6 +465,12 @@ OnThisDay ='/onthisday/05/05-30.html';
 if (month == '05' && day == '31') {
 OnThisDay ='/onthisday/05/05-31.html';
 }
+if (month == '6' && day == '01') {
+OnThisDay ='/onthisday/06/06-01.html';
+}
+if (month == '6' && day == '02') {
+OnThisDay ='/onthisday/06/06-02.html';
+}
 if (month == '6' && day == '03') {
 OnThisDay ='/onthisday/06/06-03.html';
 }
@@ -476,6 +482,21 @@ OnThisDay ='/onthisday/06/06-05.html';
 }
 if (month == '6' && day == '06') {
 OnThisDay ='/onthisday/06/06-06.html';
+}
+if (month == '6' && day == '07') {
+OnThisDay ='/onthisday/06/06-07.html';
+}
+if (month == '6' && day == '08') {
+OnThisDay ='/onthisday/06/06-08.html';
+}
+if (month == '6' && day == '09') {
+OnThisDay ='/onthisday/06/06-09.html';
+}
+if (month == '6' && day == '10') {
+OnThisDay ='/onthisday/06/06-10.html';
+}
+if (month == '6' && day == '11') {
+OnThisDay ='/onthisday/06/06-11.html';
 }
 if (month == '6' && day == '12') {
 OnThisDay ='/onthisday/06/06-12.html';
@@ -489,8 +510,14 @@ OnThisDay ='/onthisday/06/06-14.html';
 if (month == '6' && day == '15') {
 OnThisDay ='/onthisday/06/06-15.html';
 }
+if (month == '6' && day == '16') {
+OnThisDay ='/onthisday/06/06-16.html';
+}
 if (month == '6' && day == '17') {
 OnThisDay ='/onthisday/06/06-17.html';
+}
+if (month == '6' && day == '18') {
+OnThisDay ='/onthisday/06/06-18.html';
 }
 if (month == '6' && day == '19') {
 OnThisDay ='/onthisday/06/06-19.html';
@@ -504,11 +531,29 @@ OnThisDay ='/onthisday/06/06-21.html';
 if (month == '6' && day == '22') {
 OnThisDay ='/onthisday/06/06-22.html';
 }
+if (month == '6' && day == '23') {
+OnThisDay ='/onthisday/06/06-23.html';
+}
 if (month == '6' && day == '24') {
 OnThisDay ='/onthisday/06/06-24.html';
 }
+if (month == '6' && day == '25') {
+OnThisDay ='/onthisday/06/06-25.html';
+}
+if (month == '6' && day == '26') {
+OnThisDay ='/onthisday/06/06-26.html';
+}
 if (month == '6' && day == '27') {
 OnThisDay ='/onthisday/06/06-27.html';
+}
+if (month == '6' && day == '28') {
+OnThisDay ='/onthisday/06/06-28.html';
+}
+if (month == '6' && day == '29') {
+OnThisDay ='/onthisday/06/06-29.html';
+}
+if (month == '6' && day == '30') {
+OnThisDay ='/onthisday/06/06-30.html';
 }
 if (month == '7' && day == '01') {
 OnThisDay ='/onthisday/07/07-01.html';
