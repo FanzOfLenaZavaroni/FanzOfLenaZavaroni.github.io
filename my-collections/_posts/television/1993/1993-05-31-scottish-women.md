@@ -4,7 +4,7 @@ title: Scottish Women
 subtitle: Presented By Kaye Adams
 description: Lena took part in a discussion on the price of fame.
 image: /assets/images/Media-Logos/bfi_logo_transp.png
-categories: [Scottish TV]
+categories: [Scottish Television]
 ---
 
 Lena took part in a discussion on the price of fame.
