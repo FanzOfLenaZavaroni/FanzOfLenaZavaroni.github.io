@@ -17,7 +17,7 @@ categories: [BBC One, Lena Zavaroni and Music]
 <td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
 <td><a href="#summary">Summary</a></td>
 <td><a href="#cast">Cast</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/4b9ca9354af34e1bb1bb5ad2ddf0f143">BBC Genome</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-05-30#at-18.45">BBC Genome</a></td>
 </tr>
 </table>
 

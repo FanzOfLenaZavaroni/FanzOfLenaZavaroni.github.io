@@ -4,11 +4,30 @@ title: Lena Zavaroni and Music
 subtitle: Episode 6
 description: Lena's guests this week are Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC Television, Lena Zavaroni and Music]
+categories: [BBC One, Lena Zavaroni and Music]
 ---
 
-[![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
+<table>
+<tr align="center">
+<th colspan="4">Jump To:</th>
+<th>Publicity Photo:</th>
+<th>External Links:</th>
+</tr>
 
+<tr align="center">
+<td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
+<td><a href="#summary">Summary</a></td>
+<td><a href="#cast">Cast</a></td>
+<td><a href="#crew">Crew</a></td>
+<td><a href="/publicity%20photos/1979/06/25/lena-zavaroni.html">25 June 1979</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-06-27#at-19.40">BBC Genome</a></td>
+</tr>
+</table>
+
+### BBC Publicity Photo
+> [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
+
+### Summary
 > The show opened with Lena singing a cut down version of Music Was My First Love, followed by Lena singing Forever in blue jeans and Corner of the sky followed by Lena singing and The Ace Eight dancing to Hallelujah.
 >
 > This lead into a dance sequence by Wayne Sleep he is then join by The Ace Eight and Lena she sings Oh happy day.
@@ -23,31 +42,30 @@ categories: [BBC Television, Lena Zavaroni and Music]
 >
 > Lena closed the show with the song Home.
 
-<cite>[Fanz of Lena Zavaroni (Robcamstone)](https://www.imdb.com/title/tt2353844/plotsummary#summaries)</cite>
+<cite>Robcamstone</cite>
 
-**Cast**
-* **Hostess and Signer:** Lena Zavaroni
-* **Guest:** Wayne Sleep
-* **Guest:** Peter Skellern
-* **Guest:** Adrian Hedley
-* **Guests:** Johnny Hutch and the Half-Wits
-* **Dancers:** The Ace Eights
+### Cast
+<table>
+<tr><th>Hostess and Signer:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Special Guest:</th><td>Wayne Sleep</td></tr>
+<tr><th>Special Guest:</th><td>Peter Skellern</td></tr>
+<tr><th>Special Guest:</th><td>Adrian Hedley</td></tr>
+<tr><th>Special Guest:</th><td>Johnny Hutch & the Half-Wits</td></tr>
+<tr><th>Dancers:</th><td>The Ace Eight</td></tr>
+</table>
 
-**Credits** (unless indicated otherwise the same individuals worked on all episodes)
-* **Musicians:** Alyn Ainsworth and his Orchestra
-* **Choreography:** Dougie Squires
-* **Musical Director:** Alyn Ainsworth
-* **Vocal Backings:** The Third Kind
-* **Sound:** Len Shorey
-* **Lighting:** Eric Wallis
-* **Designer:** John O'Hara (All episodes except episode 4)
-* **Designer:** Nigel Curzon (All episodes except episode 4)
-* **Designer:** Andrew H. Davies (Episode 4)
-* **Production:** David G. Hillier
+### Crew
+<table>
+<tr><th colspan="10">Unless indicated otherwise the same individuals worked on all episodes</th></tr>
+<tr><th>Musicians:</th><td>Alyn Ainsworth and his Orchestra</td></tr>
+<tr><th>Choreography:</th><td>Dougie Squires</td></tr>
+<tr><th>Musical Director:</th><td>Alyn Ainsworth</td></tr>
+<tr><th>Vocal Backings:</th><td>The Third Kind</td></tr>
+<tr><th>Sound:</th><td>Len Shorey</td></tr>
+<tr><th>Lighting:</th><td>Eric Wallis</td></tr>
+<tr><th>Designer:</th><td>John O'Hara (All episodes except episode 4)</td></tr>
+<tr><th>Designer:</th><td>Nigel Curzon (All episodes except episode 4)</td></tr>
+<tr><th>Designer:</th><td>Andrew H. Davies (Episode 4)</td></tr>
+<tr><th>Production:</th><td>David G. Hillier</td></tr>
+</table>
 
-**Related Publicity Photo:**
-<span class="post-categories">[25 June 1979](/publicity%20photos/1979/06/25/lena-zavaroni.html)</span>
-
-**Related Websites:**
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/1a13cd812b3e46f0a8b26eda147c23cd)&nbsp;
-[IMDb](http://www.imdb.com/title/tt2353844)</span>

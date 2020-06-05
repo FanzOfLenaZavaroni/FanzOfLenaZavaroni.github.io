@@ -2,13 +2,29 @@
 layout: post
 title: Lena Zavaroni and Music
 subtitle: Episode 5
-description: Lena's guests this week are Michel Legrand, Wayne Sleep and Berni Flint. Click on link for details.
+description: Lena's guests this week are Michel Legrand, Wayne Sleep and Berni Flint.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC Television, Lena Zavaroni and Music]
+categories: [BBC One, Lena Zavaroni and Music]
 ---
 
-[![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
+<table>
+<tr align="center">
+<th colspan="3">Jump To:</th>
+<th>External Links:</th>
+</tr>
 
+<tr align="center">
+<td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
+<td><a href="#summary">Summary</a></td>
+<td><a href="#cast">Cast</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-06-20#at-18.50">BBC Genome</a></td>
+</tr>
+</table>
+
+### BBC Publicity Photo
+> [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
+
+### Summary
 > The show opened with Lena singing a cut down version of Music Was My First Love, this lead into The Ace Eight and Lena performing a dance routine while she sang Going Places.
 >
 > This lead into Lena singing Tomorrow from The Musical Annie, this lead into The Ace Eight who perform a dance routine while Lena sings Dancing in the city.
@@ -24,15 +40,15 @@ categories: [BBC Television, Lena Zavaroni and Music]
 >Lena then sang Sweet Gingerbread Man with Michel Legrand. They then have a short chat and then Michel Legrand performed Watch what Happens and accompaniments himself on the piano.
 >
 >Lena and The Ace Eight closed the show with a dance number while Lena sang I Love America.
-<cite>[Fanz of Lena Zavaroni (Robcamstone)](https://www.imdb.com/title/tt2353834/plotsummary#summaries)</cite>
 
-**Cast**
-* **Hostess and Signer:** Lena Zavaroni
-* **Special guest:** Michel Legrand
-* **Special guest:** Wayne Sleep
-* **Special guest:** Berni Flint
-* **Dancers:** The Ace Eight
+<cite>Robcamstone</cite>
 
-**Related Websites:**
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/e7fa9a9f04094d718b1c336a946ead71)&nbsp;
-[IMDb](http://www.imdb.com/title/tt2353834)</span>
+### Cast
+<table>
+<tr><th>Hostess and Signer:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Special Guest:</th><td>Michel Legrand</td></tr>
+<tr><th>Special Guest:</th><td>Wayne Sleep</td></tr>
+<tr><th>Special Guest:</th><td>Berni Flint</td></tr>
+<tr><th>Dancers:</th><td>The Ace Eight</td></tr>
+</table>
+
