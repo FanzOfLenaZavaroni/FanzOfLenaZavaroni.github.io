@@ -7,13 +7,27 @@ image: /assets/images/US-TV/merv-griffin-show-1a.jpg
 categories: [US Television]
 ---
 
-Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.
+<table>
+<tr align="center">
+<th colspan="2">Jump To:</th>
+</tr>
 
-Lena performs Ma He's Making Eyes At Me, before being interviewed by Merv. She tells him about flying in a helicopter, visiting Disneyland, and meeting Frank Sinatra.
+<tr align="center">
+<td><a href="#summary">Summary</a></td>
+<td><a href="#lena-zavaronis-section-of-the-broadcast">Lena Zavaroni's Section Of The Broadcast</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1975-06-14#at-8.06">BBC Radio 1</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/england/1975-06-14#at-8.06">BBC Radio 2</a></td>
+</tr>
+</table>
 
-She then sings Take Me Home, Country Roads.
+### Summary
+> Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.
+>
+> Lena performs Ma He's Making Eyes At Me, before being interviewed by Merv. She tells him about flying in a helicopter, visiting Disneyland, and meeting Frank Sinatra.
+>
+> She then sings Take Me Home, Country Roads.
 
-**Cast**
+### Cast
 * **Presenter:** Merv Griffin
 * **Singer:** Lena Zavaroni
 * **Actor:** James Brolin

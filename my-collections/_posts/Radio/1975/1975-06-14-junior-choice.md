@@ -32,9 +32,7 @@ categories: [BBC Radio 1, BBC Radio 2]
 
 ### Lena Zavaroni's Section Of The Broadcast
 
-<audio id="player"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/1975-06-14-Junior-Choice.mp3">link to the audio</a> instead.</p></audio>
-<source src="/assets/media/1975-06-14-Junior-Choice.mp3" type="audio/mpeg">
-<source src="/assets/media/1975-06-14-Junior-Choice.ogg" type="audio/ogg">
+<audio id="player" src="/assets/media/1975-06-14-Junior-Choice.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/1975-06-14-Junior-Choice.mp3">link to the audio</a> instead.</p></audio>
 <blockquote>
   <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 </blockquote>
