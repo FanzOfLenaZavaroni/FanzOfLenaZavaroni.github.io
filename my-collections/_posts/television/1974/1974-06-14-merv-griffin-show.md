@@ -9,14 +9,28 @@ categories: [US Television]
 
 <table>
 <tr align="center">
-<th colspan="2">Jump To:</th>
+<th colspan="3">Jump To:</th>
 </tr>
 
 <tr align="center">
+<td><a href="#publicity-photo">Publicity Photo</a></td>
 <td><a href="#summary">Summary</a></td>
-<td><a href="#lena-zavaronis-section-of-the-broadcast">Lena Zavaroni's Section Of The Broadcast</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1975-06-14#at-8.06">BBC Radio 1</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/england/1975-06-14#at-8.06">BBC Radio 2</a></td>
+<td><a href="#cast">Cast</a></td>
+</tr>
+</table>
+
+### Publicity Photo
+<table>
+<tr>
+<td><a style="cursor: zoom-in;" href="/assets/images/US-TV/merv-griffin-show-1a.jpg"><img src="/assets/images/US-TV/merv-griffin-show-1a.jpg"></a></td>
+<td><a style="cursor: zoom-in;" href="/assets/images/US-TV/merv-griffin-show-1b.jpg"><img src="/assets/images/US-TV/merv-griffin-show-1b.jpg"></a></td>
+<td><a style="cursor: zoom-in;" href="/assets/images/US-TV/merv-griffin-show-1c.jpg"><img src="/assets/images/US-TV/merv-griffin-show-1c.jpg"></a></td>
+</tr>
+
+<tr style="text-align: center;">
+<td>Merv Griffin and Lena Zavaroni</td>
+<td>Details on the back of the photo</td>
+<td>Additional details provided with the photo</td>
 </tr>
 </table>
 
@@ -28,17 +42,11 @@ categories: [US Television]
 > She then sings Take Me Home, Country Roads.
 
 ### Cast
-* **Presenter:** Merv Griffin
-* **Singer:** Lena Zavaroni
-* **Actor:** James Brolin
-* **Actor:** Fernando Lamas
-* **Apollo 15 Astronaut:** Col. James B. Irwin
+<table>
+<tr><th>Presenter</th><td>Merv Griffin</td></tr>
+<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr><th>Actor</th><td>James Brolin</td></tr>
+<tr><th>Actor</th><td>Fernando Lamas</td></tr>
+<tr><th>Apollo 15 Astronaut</th><td>Col. James B. Irwin</td></tr>
+</table>
 
-[![](/assets/images/US-TV/merv-griffin-show-1a.jpg){: .full-width}{: .zoom-in}](/assets/images/US-TV/merv-griffin-show-1a.jpg)
-<cite>Merv Griffin and Lena Zavaroni</cite>
-
-[![](/assets/images/US-TV/merv-griffin-show-1b.jpg){: .full-width}{: .zoom-in}](/assets/images/US-TV/merv-griffin-show-1b.jpg)
-<cite>Details on the back of the above photo</cite>
-
-[![](/assets/images/US-TV/merv-griffin-show-1c.jpg){: .full-width}{: .zoom-in}](/assets/images/US-TV/merv-griffin-show-1c.jpg)
-<cite>Additional details attached to the above publicity photo</cite>

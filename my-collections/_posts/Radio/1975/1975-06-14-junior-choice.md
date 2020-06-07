@@ -7,18 +7,26 @@ image: /assets/images/radio/radio-tower-200x200.png
 categories: [BBC Radio 1, BBC Radio 2]
 ---
 
-<table>
+<table style="margin-bottom: 0;">
 <tr align="center">
 <th colspan="3">Jump To:</th>
-<th colspan="2">BBC Genome:</th>
 </tr>
 
 <tr align="center">
-<td><a href="#summary">Summary</a></td>
-<td><a href="#lena-zavaronis-section-of-the-broadcast">Lena Zavaroni's Section Of The Broadcast</a></td>
-<td><a href="#am-fm">Am - FM</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1975-06-14#at-8.06">BBC Radio 1</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/england/1975-06-14#at-8.06">BBC Radio 2</a></td>
+<td style="width:25%;"><a href="#summary">Summary</a></td>
+<td style="width:50%;"><a href="#lena-zavaronis-section-of-the-broadcast">Lena Zavaroni's Section Of The Broadcast</a></td>
+<td style="width:25%;"><a href="#am---fm">Am - FM</a></td>
+</tr>
+</table>
+
+<table>
+<tr align="center">
+<th colspan="3">BBC Genome:</th>
+</tr>
+
+<tr align="center">
+<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1975-06-14#at-8.06">BBC Radio 1</a></td>
+<td style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/radio2/england/1975-06-14#at-8.06">BBC Radio 2</a></td>
 </tr>
 </table>
 
@@ -41,7 +49,7 @@ categories: [BBC Radio 1, BBC Radio 2]
 ### Am - FM
 > At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on Medium Wave.
 >
-> Media Wave uses amplitude modulation where as VHF uses frequency modulation.
+> Medium Wave makes use of amplitude modulation where as VHF makes use of frequency modulation.
 
 <cite>Robcamstone</cite>
 
