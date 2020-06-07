@@ -7,14 +7,30 @@ image: /assets/images/radio/radio-tower-200x200.png
 categories: [BBC Radio 1, BBC Radio 2]
 ---
 
-Lena chats on the BBC Radio show presented by Ed Stewart.
+<table>
+<tr align="center">
+<th colspan="2">Jump To:</th>
+<th colspan="2">BBC Genome:</th>
+</tr>
 
-She reveals that she doesn't like football, but her mum does.
+<tr align="center">
+<td><a href="#summary">Summary</a></td>
+<td><a href="#lena-zavaronis-section-of-the-broadcast">Lena Zavaroni's Section Of The Broadcast</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1975-06-14#at-8.06">BBC Radio 1</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/england/1975-06-14#at-8.06">BBC Radio 2</a></td>
+</tr>
+</table>
 
-She has fits of laughter as Ed teases her about her surname amongst other things.
+### Summary
+> Lena chats on the BBC Radio show presented by Ed Stewart.
+>
+> She reveals that she doesn't like football, but her mum does.
+>
+> She has fits of laughter as Ed teases her about her surname amongst other things.
+>
+> She also reads out messages from the public and reveals that the recording of her single <i>Smile</i>, which is played on the show, took several takes and finally tells Ed that she flies out to Finland in a few days for two concerts.
 
-She also reads out messages from the public and reveals that the recording of her single <i>Smile</i>, which is played on the show, took several takes and finally tells Ed that she flies out to Finland in a few days for two concerts.
-
+### Lena Zavaroni's Section Of The Broadcast
 <audio class="full-width" controls>
   <source src="/assets/media/1975-06-14-Junior-Choice.mp3" type="audio/mpeg">
   <source src="/assets/media/1975-06-14-Junior-Choice.ogg" type="audio/ogg">
@@ -22,8 +38,9 @@ She also reads out messages from the public and reveals that the recording of he
      a <a href="/assets/media/1975-06-14-Junior-Choice.mp3">link to the audio</a> instead.</p>
 </audio>
 
-**Radio 1 and Radio 2**
+### Radio 1 and Radio 2
 > At the time of broadcast Radio 1 was only available on medium wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on medium wave.
 >
 > Media Wave uses amplitude modulation where as VHF uses frequency modulation.
-<cite>[Fanz of Lena Zavaroni (Robcamstone)](https://www.facebook.com/fanzoflenazavaroni)</cite>
+<cite>Robcamstone</cite>
+
