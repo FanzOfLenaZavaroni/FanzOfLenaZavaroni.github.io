@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Junior Choice
-subtitle: BBC Radio 1 medium wave (also on BBC Radio 2 VHF)
+subtitle: BBC Radio 1 Medium Wave (also on BBC Radio 2 VHF)
 description: Lena chats on the BBC Radio show presented by Ed Stewart. Click on link for more details and to hear Lena Zavaroni's section of the Radio Show.
 image: /assets/images/radio/radio-tower-200x200.png
 categories: [BBC Radio 1, BBC Radio 2]
@@ -9,13 +9,14 @@ categories: [BBC Radio 1, BBC Radio 2]
 
 <table>
 <tr align="center">
-<th colspan="2">Jump To:</th>
+<th colspan="3">Jump To:</th>
 <th colspan="2">BBC Genome:</th>
 </tr>
 
 <tr align="center">
 <td><a href="#summary">Summary</a></td>
 <td><a href="#lena-zavaronis-section-of-the-broadcast">Lena Zavaroni's Section Of The Broadcast</a></td>
+<td><a href="#am-fm">Am - FM</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1975-06-14#at-8.06">BBC Radio 1</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/england/1975-06-14#at-8.06">BBC Radio 2</a></td>
 </tr>
@@ -37,9 +38,10 @@ categories: [BBC Radio 1, BBC Radio 2]
   <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 </blockquote>
 
-### Radio 1 and Radio 2
-> At the time of broadcast Radio 1 was only available on medium wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on medium wave.
+### Am - FM
+> At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on Medium Wave.
 >
 > Media Wave uses amplitude modulation where as VHF uses frequency modulation.
+
 <cite>Robcamstone</cite>
 
