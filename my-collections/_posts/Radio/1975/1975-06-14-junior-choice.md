@@ -31,12 +31,13 @@ categories: [BBC Radio 1, BBC Radio 2]
 > She also reads out messages from the public and reveals that the recording of her single <i>Smile</i>, which is played on the show, took several takes and finally tells Ed that she flies out to Finland in a few days for two concerts.
 
 ### Lena Zavaroni's Section Of The Broadcast
-<audio class="full-width" controls>
-  <source src="/assets/media/1975-06-14-Junior-Choice.mp3" type="audio/mpeg">
-  <source src="/assets/media/1975-06-14-Junior-Choice.ogg" type="audio/ogg">
-  <p>Your browser doesn't support HTML5 audio. Here is
-     a <a href="/assets/media/1975-06-14-Junior-Choice.mp3">link to the audio</a> instead.</p>
-</audio>
+
+<audio id="player"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/1975-06-14-Junior-Choice.mp3">link to the audio</a> instead.</p></audio>
+<source src="/assets/media/1975-06-14-Junior-Choice.mp3" type="audio/mpeg">
+<source src="/assets/media/1975-06-14-Junior-Choice.ogg" type="audio/ogg">
+<blockquote>
+  <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
+</blockquote>
 
 ### Radio 1 and Radio 2
 > At the time of broadcast Radio 1 was only available on medium wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on medium wave.
