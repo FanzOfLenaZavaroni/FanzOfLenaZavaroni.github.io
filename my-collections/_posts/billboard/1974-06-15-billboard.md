@@ -7,15 +7,17 @@ image: /assets/images/magazines/1974-06-15-Billboard-small.jpg
 categories: [Newspapers, Billboard]
 ---
 
-The US magazine's Hits of the World section listed Lena's single Personality as moving up the charts from no: 50 to no: 33.
+<table>
+<tr>
+<td><a style="cursor: zoom-in;" href="/assets/images/magazines/1974-06-15-Billboard-a.jpg"><img src="/assets/images/magazines/1974-06-15-Billboard-a.jpg"></a></td>
+<td><a style="cursor: zoom-in;" href="/assets/images/magazines/1974-06-15-Billboard-b.png"><img src="/assets/images/magazines/1974-06-15-Billboard-b.png"></a></td>
+<td><a style="cursor: zoom-in;" href="/assets/images/magazines/1974-06-15-Billboard-c.jpg"><img src="/assets/images/magazines/1974-06-15-Billboard-c.jpg"></a></td>
+</tr>
 
-The magazine also featured a full page advert for the Stax release of Lena Zavaroni's LP Ma! (He's Making Eyes at me).
+<tr style="vertical-align:top;">
+<td style="text-align: center;">Front Cover</td>
+<td>The US magazine's Hits of the World section listed Lena's single Personality as moving up the charts from no: 50 to no: 33</td>
+<td>Full page advert for the Stax release of Lena Zavaroni's LP Ma! (He's Making Eyes at me)</td>
+</tr>
+</table>
 
-[![Front Cover](/assets/images/magazines/1974-06-15-Billboard-a.jpg){: .full-width}{: .zoom-in}](/assets/images/magazines/1974-06-15-Billboard-a.jpg)
-<cite>Front Cover</cite>
-
-[![Hits of the World section Of The Billboard Magazine Dated 15 June 1974](/assets/images/magazines/1974-06-15-Billboard-b.png){: .full-width}{: .zoom-in}](/assets/images/magazines/1974-06-15-Billboard-b.png)
-<cite>Hits of the World section</cite>
-
-[![full page advert for the Stax release of Lena Zavaroni's LP Ma! He's Making Eyes at me](/assets/images/magazines/1974-06-15-Billboard-c.jpg){: .full-width}{: .zoom-in}](/assets/images/magazines/1974-06-15-Billboard-c.jpg)
-<cite>Full page advert for the Stax release of Lena Zavaroni's LP Ma! (He's Making Eyes at me)</cite>
