@@ -15,7 +15,7 @@ categories: [BBC One, Lena Zavaroni and Music]
 
 <tr align="center">
 <td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
-<td><a href="#summary">Summary</a></td>
+<td><a href="#set-list">Set List</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-06-13#at-18.50">BBC Genome</a></td>
 </tr>
@@ -24,16 +24,18 @@ categories: [BBC One, Lena Zavaroni and Music]
 ### BBC Publicity Photo
 > [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
 
-### Summary
-> The show opens with Lena singing a cut down version of Music Was My First Love this leads into her singing Somebody should have told me.
+### Set List
 >
-> The Ace Eight dance with Lena while she sings Go to Rio, this leads into Lena singing Reach Out And Touch Somebody's Hand with Adrian Hedley Mime Artist.
->
-> When the song ends Adrian Hedley performs a Mime with a balloon. Adrian Hedley & Lena then introduce Helen Gelzer, whom sings Everything I've Got.
->
->Adrian Hedley, The Ace Eight & Lena perform Razzle Dazzle, which leads into The New Sensations Steel Band & limbo dancer, It then goes back to Adrian Hedley, The Ace Eight & Lena who continue the song Razzle Dazzle.
->
-> Adrian Hedley & Lena then introduce Johnny Hutch & The Herculeans a comedy acrobatic troupe, Lena performs with them and then goes back to Adrian Hedley, The Ace Eight & they finish the song Razzle Dazzle. Lena sings The Carnival Is Over & closes the show with the song Weekend.
+* Music Was My First Love (Lena, shorter version)
+* Somebody Should Have Told Me (Lena)
+* Go to Rio (Lena and the Ace Eight)
+* Reach Out And Touch Somebody's Hand (Lena with Adrian Hedley)
+* Everything I've Got (Helen Gelzer)
+* Music by the New Sensations Steel Band
+* Razzle Dazzle [part 1] (Lena and the Ace Eight with Adrian Hedley)
+* Johnny Hutch and the Herculeans (comedy acrobatic troupe)
+* Razzle Dazzle [part 2] (Lena and the Ace Eight with Adrian Hedley)
+* The Carnival Is Over/Weekend (Lena)
 
 <cite>Robcamstone</cite>
 

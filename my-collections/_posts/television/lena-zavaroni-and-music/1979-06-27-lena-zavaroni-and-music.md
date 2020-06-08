@@ -16,7 +16,7 @@ categories: [BBC One, Lena Zavaroni and Music]
 
 <tr align="center">
 <td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
-<td><a href="#summary">Summary</a></td>
+<td><a href="#set-list">Set List</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 <td><a href="/publicity%20photos/1979/06/25/lena-zavaroni.html">25 June 1979</a></td>
@@ -27,20 +27,19 @@ categories: [BBC One, Lena Zavaroni and Music]
 ### BBC Publicity Photo
 > [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
 
-### Summary
-> The show opened with Lena singing a cut down version of Music Was My First Love, followed by Lena singing Forever in blue jeans and Corner of the sky followed by Lena singing and The Ace Eight dancing to Hallelujah.
+### Set List
 >
-> This lead into a dance sequence by Wayne Sleep he is then join by The Ace Eight and Lena she sings Oh happy day.
->
-> This was followed by Johnny Hutch and The Half Wits.
->
-> Lena then performed Kites with the Mime Artist Adrian Hedley.
->
-> Lena introduces Peter Skellern who sang and accompanied himself on the piano.
->
-> The Ace Eight and Lena performed the song Ease on down the road, Wayne Sleep joined Lena and The Ace Eight to perform Don't Nobody Bring Me No Bad News.
->
-> Lena closed the show with the song Home.
+* Music Was My First Love (Lena, shorter version)
+* Forever in Blue Jeans/Corner of the Sky (Lena)
+* Hallelujah (Lena and the Ace Eight)
+* Dance sequence (Wayne Sleep)
+* Oh Happy Day (Lena and the Ace Eight)
+* Comedy sketch (Johnny Hutch and the Half Wits)
+* Kites (Lena with Adrian Hedley)
+* Peter Skellern singing and playing piano
+* Ease On Down the Road (Lena and the Ace Eight)
+* Don't Nobody Bring Me No Bad News (Lena and the Ace Eight with Wayne Sleep)
+* Home (Lena)
 
 <cite>Robcamstone</cite>
 

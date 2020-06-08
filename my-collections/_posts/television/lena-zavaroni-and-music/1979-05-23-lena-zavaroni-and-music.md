@@ -15,7 +15,7 @@ categories: [BBC One, Lena Zavaroni and Music]
 
 <tr align="center">
 <td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
-<td><a href="#summary">Summary</a></td>
+<td><a href="#set-list">Set List</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-05-23#at-19.00">BBC Genome</a></td>
 </tr>
@@ -24,19 +24,15 @@ categories: [BBC One, Lena Zavaroni and Music]
 ### BBC Publicity Photo
 > [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
 
-### Summary
-> Lena opened the show singing Music Was My First Love.
+### Set List
 >
-> Wayne Sleep then performed a Clog Dance to the music of Violinski.
->
-> Lena then sang Superstar which was followed by Elaine Stritch singing Anyone Can whistle.
->
-> Lena then sang Back In Time and Jump, shout, boogie.
->
-> The Ace Eight Plus 4 performed All That Jazz.
-> * **NOTE:** The Plus 4 are Lena Zavaroni, Elaine Stritch, Wayne Sleep and George Chisholm.
->
-> Lena closed her show singing Thank You For The Music.
+* Music Was My First Love (Lena)
+* A clog dance to the music of Violinski (Wayne Sleep)
+* Superstar (Lena)
+* Anyone Can Whistle (Elaine Stritch)
+* Back In Time/Jump, Shout, Boogie (Lena)
+* All That Jazz (The Ace Eight with Lena, Elaine Stritch, Wayne Sleep and George Chisholm.)
+* Thank You For The Music (Lena)
 
 <cite>Robcamstone</cite>
 

@@ -15,7 +15,7 @@ categories: [BBC One, Lena Zavaroni and Music]
 
 <tr align="center">
 <td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
-<td><a href="#summary">Summary</a></td>
+<td><a href="#set-list">Set List</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-05-30#at-18.45">BBC Genome</a></td>
 </tr>
@@ -24,22 +24,17 @@ categories: [BBC One, Lena Zavaroni and Music]
 ### BBC Publicity Photo
 > [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
 
-### Summary
-> The show opened with Lena singing a cut down version of Music Was My First Love this lead into Lena singing Somebody should have told me.
+### Set List
 >
-> The Ace Eight dance with Lena while she sings Go to Rio, this lead into Lena singing Reach Out And Touch Somebody's Hand with Adrian Hedley Mime Artist.
->
-> When the song ended Adrian Hedley performed a Mime with a balloon.
->
-> Adrian Hedley and Lena then introduced Helen Gelzer, who sings Everything I've Got.
->
-> Adrian Hedley, The Ace Eight and Lena performed Razzle Dazzle, This lead to The New Sensations Steel Band and limbo dancering.
->
-> It then goes back to Adrian Hedley, The Ace Eight and Lena who continue the song Razzle Dazzle.
->
-> Adrian Hedley and Lena then introduce Johnny Hutch and The Herculeans a comedy acrobatic troupe Lena performs with them and then goes back to Adrian Hedley, The Ace Eight and they finish the song Razzle Dazzle.
->
-> Lena then sings The Carnival Is Over and closed the show with the song Weekend.
+* Music Was My First Love (Lena a shorter version than the previous week this became the show's theme song)
+* It's a Miracle/Take Me Back To Hollywood (Lena)
+* Comedy sketch with Lena and Adrian Hedley featuring an audio harmonizer
+* Bright Eyes (Lena) which then leads to
+* Silent movie comedy sketch, filmed in sepia, with Lena, Johnny Hutch and The Comedy Hollywood Cops.
+* Dance All Night (Lena)
+* Two songs by Grace Kennedy
+* Hollywood Romance (Lena with The Ace Eight dancers)
+* Could It Be Magic (Lena)
 
 <cite>Robcamstone</cite>
 

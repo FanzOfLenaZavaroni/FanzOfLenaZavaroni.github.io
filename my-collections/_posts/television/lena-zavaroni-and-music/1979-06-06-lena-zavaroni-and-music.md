@@ -15,7 +15,7 @@ categories: [BBC One, Lena Zavaroni and Music]
 
 <tr align="center">
 <td><a href="#bbc-publicity-photo">BBC Publicity Photo</a></td>
-<td><a href="#summary">Summary</a></td>
+<td><a href="#set-list">Set List</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-06-06#at-19.00">BBC Genome</a></td>
 </tr>
@@ -24,14 +24,16 @@ categories: [BBC One, Lena Zavaroni and Music]
 ### BBC Publicity Photo
 > [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
 
-### Summary
-> The show opened with Lena singing a cut down version of Music Was My First Love, She then sings Can You Feel A Brand New Day, followed by Just The Way You Are, she then sings D, D, D, Dancing with Gerard Kenny.
+### Set List
 >
-> Gerard Kenny then sings Fit To Be Tied, Lena and The Ace Eight then performs a Doris Day Medley.
->
-> Lena has a short chat with Edward WoodWard, who then sings I've Heard That Song Before.
->
-> Lena closed the show with The Little Old Lady - City Lights and Spotlight.
+* Music Was My First Love (Lena, shorter version)
+* Can You Feel A Brand New Day/Just The Way You Are (Lena)
+* D, D, D, Dancing (Lena with Gerard Kenny)
+* Fit To Be Tied (Gerard Kenny)
+* Doris Day Medley (Lena and the Ace Eight)
+* I've Heard That Song Before (Edward Woodward)
+* The Little Old Lady/City Lights and Spotlight (Lena)
+
 
 <cite>Robcamstone</cite>
 
