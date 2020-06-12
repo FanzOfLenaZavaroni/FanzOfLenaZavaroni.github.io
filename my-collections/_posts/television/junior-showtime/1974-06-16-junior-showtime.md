@@ -27,8 +27,10 @@ categories: [Yorkshire Television]
 <cite>The Times London, England, Saturday, 15 June 1974</cite>
 
 ### Cast
-* **Presenter:** Mark Curry
-* **Presenter:** Glyn Poole
-* **Old Mother Riley:** Roy Rolland
-* **Guest Singer:** Lena Zavaroni
+<table>
+<tr><th style="width:50%;">Presenter:</th><td style="width:50%;">Mark Curry</td></tr>
+<tr><th>Presenter:</th><td>Glyn Poole</td></tr>
+<tr><th>Old Mother Riley:</th><td>Roy Rolland</td></tr>
+<tr><th>Guest Singer:</th><td>Lena Zavaroni</td></tr>
+</table>
 
