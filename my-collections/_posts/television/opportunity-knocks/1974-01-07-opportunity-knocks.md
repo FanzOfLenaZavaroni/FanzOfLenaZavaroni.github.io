@@ -9,3 +9,10 @@ categories: [Thames Television, Opportunity Knocks]
 Lena makes her first appearance. She sings Ma, He's Making Eyes At Me.
 
 Other contestants on the show included Friends In Harmony, Brian Aherne, The Frank and Peggy Spencer Formation Dancers and Johnny Douglas.
+
+The voting address was:
+Opportunity Knocks,
+Thames Television,
+Teddington Lock,
+Middlesex TW11 9NT
+
