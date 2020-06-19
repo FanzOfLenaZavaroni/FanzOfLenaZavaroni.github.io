@@ -109,7 +109,7 @@ Time goes by and Lena&#8217;s new record album is overdue for delivery and we ar
 
 > When they tried to fit me into those costumes, they would talk about my weight. I kept wondering how they expected me to fit into these dresses. I was a plump little girl and I was also developing into a woman. I wanted to be just right for them but I had to go to all these breakfasts, dinners and lunches.&#8221; She added: &#8220;I only became fanatical about not eating when the pressure became too much. I just wanted to have a nice shape.
 
-<cite>Lena Zavaroni via [Internet Debris](http://internetdebris.blogspot.co.uk/2011/06/of-sages-sweet-old-bats-and-lost-little.html)</cite>
+<cite>Lena Zavaroni via [Internet Debris](http://internetdebris.blogspot.co.uk/2011/06/of-sages-sweet-old-bats-and-lost-little.html#:~:text=Little%20Girl%20Lost%20–%20Lena%20Zavaroni) - 27 June 2011</cite>
 
 > I've got to wear all these silly costumes and try and get into them and be with it for the TV.
 
