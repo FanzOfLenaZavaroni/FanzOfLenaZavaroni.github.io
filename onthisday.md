@@ -576,11 +576,17 @@ OnThisDay ='/onthisday/07/07-06.html';
 if (month == '7' && day == '08') {
 OnThisDay ='/onthisday/07/07-08.html';
 }
+if (month == '7' && day == '09') {
+OnThisDay ='/onthisday/07/07-09.html';
+}
 if (month == '7' && day == '10') {
 OnThisDay ='/onthisday/07/07-10.html';
 }
 if (month == '7' && day == '11') {
 OnThisDay ='/onthisday/07/07-11.html';
+}
+if (month == '7' && day == '12') {
+OnThisDay ='/onthisday/07/07-12.html';
 }
 if (month == '7' && day == '13') {
 OnThisDay ='/onthisday/07/07-13.html';
@@ -591,11 +597,17 @@ OnThisDay ='/onthisday/07/07-14.html';
 if (month == '7' && day == '15') {
 OnThisDay ='/onthisday/07/07-15.html';
 }
+if (month == '7' && day == '16') {
+OnThisDay ='/onthisday/07/07-16.html';
+}
 if (month == '7' && day == '17') {
 OnThisDay ='/onthisday/07/07-17.html';
 }
 if (month == '7' && day == '18') {
 OnThisDay ='/theatre/1976/the-lena-zavaroni-show-1976-07-18.html';
+}
+if (month == '7' && day == '19') {
+OnThisDay ='/onthisday/07/07-19.html';
 }
 if (month == '7' && day == '20') {
 OnThisDay ='/theatre/1975/harold-fieldings-sunday-night-at-the-blackpool-opera-house.html';
