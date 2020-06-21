@@ -8,9 +8,8 @@ description: This is the 8th single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
-<div id="player1"></div>
-<div id="player2"></div>
-
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/2uWtecHKHRw?playlist=XTaSIoMmddg&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+<br />
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
 <tr class="split"><th>A side:</th><td>Air Love</td></tr>
@@ -27,12 +26,6 @@ categories: [Discography, Singles]
 <tr><th>Released:</th><td>18 February 1977</td></tr>
 </table>
 
-<style>
-#player1 {width:367.5px; height:277px;}
-#player2 {width:367.5px; height:277px;}
-.split {border-top: solid 5px #4B90B1;}
-</style>
-
 Lena performed Air Love on [The Musical Time Machine](/bbc%20one/1977/02/15/the-musical-time-machine.html) and on [Hi Summer - Episode 7](/television/london%20weekend%20television/1977/08/28/hi-summer.html).
 
 Lena performed the B-side Pinch Me Am I Dreaming on [Pebble Mill at One](/bbc%20one/1977/03/11/pebble-mill-at-one.html), [Hi Summer - Episode 4](/television/london%20weekend%20television/1977/08/07/hi-summer.html) and the chorus of the song on [Hi Summer - Episode 8](/television/london%20weekend%20television/1977/09/04/hi-summer.html)
@@ -42,44 +35,7 @@ Both songs from this single were also released on her album [Presenting Lena Zav
 ### Related Website
 * [45Cat](http://www.45cat.com/record/gy114)
 
-<script>
-    var tag = document.createElement('script');
-    tag.src = "//www.youtube.com/iframe_api";
-    var firstScriptTag = document.getElementsByTagName('script')[0];
-    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-    var player;
-    function onYouTubeIframeAPIReady() {
-        player1 = new YT.Player('player1', {
-            height: '480',
-            width: '640',
-            videoId: '2uWtecHKHRw',
-            events: {
-                'onStateChange': onPlayerStateChange
-            }
-        });
-        player2 = new YT.Player('player2', {
-            height: '480',
-            width: '640',
-            videoId: 'XTaSIoMmddg',
-            events: {
-                'onStateChange': onPlayerStateChange
-            }
-        });
-    }
-
-    function onPlayerStateChange(event) {
-        if (event.data == YT.PlayerState.PLAYING) {
-            stopVideo(event.target.a.id);
-        }
-    }
-
-    function stopVideo(player_id) {
-        if (player_id == "player1") {
-            player2.stopVideo();
-        } else if (player_id == "player2") {
-            player1.stopVideo();
-        }
-    }
-</script>
+<style>
+.split {border-top: solid 5px #4B90B1;}
+</style>
 

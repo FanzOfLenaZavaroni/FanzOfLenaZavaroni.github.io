@@ -7,9 +7,8 @@ description: This is the 11th single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
-<div id="player1"></div>
-<div id="player2"></div>
-
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/LlOxtPgnyHw?playlist=JOlnumOA1NU&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+<br />
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
 <tr class="split"><th>A side:</th><td>Will He Kiss Me Tonight</td></tr>
@@ -31,53 +30,10 @@ categories: [Discography, Singles]
 
 <cite>11 December 1980</cite>
 
-**Related Website:**
-<span class="post-categories">[45Cat](http://www.45cat.com/record/gy177)</span>
+### Related Website
+* [45Cat](http://www.45cat.com/record/gy177)
 
 <style>
-#player1 {width:367.5px; height:277px;}
-#player2 {width:367.5px; height:277px;}
 .split {border-top: solid 5px #4B90B1;}
 </style>
-
-<script>
-    var tag = document.createElement('script');
-    tag.src = "//www.youtube.com/iframe_api";
-    var firstScriptTag = document.getElementsByTagName('script')[0];
-    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-    var player;
-    function onYouTubeIframeAPIReady() {
-        player1 = new YT.Player('player1', {
-            height: '277',
-            width: '320',
-            videoId: 'LlOxtPgnyHw',
-            events: {
-                'onStateChange': onPlayerStateChange
-            }
-        });
-        player2 = new YT.Player('player2', {
-            height: '277',
-            width: '320',
-            videoId: 'JOlnumOA1NU',
-            events: {
-                'onStateChange': onPlayerStateChange
-            }
-        });
-    }
-
-    function onPlayerStateChange(event) {
-        if (event.data == YT.PlayerState.PLAYING) {
-            stopVideo(event.target.a.id);
-        }
-    }
-
-    function stopVideo(player_id) {
-        if (player_id == "player1") {
-            player2.stopVideo();
-        } else if (player_id == "player2") {
-            player1.stopVideo();
-        }
-    }
-</script>
 
