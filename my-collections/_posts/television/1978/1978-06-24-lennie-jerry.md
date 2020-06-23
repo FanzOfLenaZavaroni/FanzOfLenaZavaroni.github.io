@@ -39,6 +39,6 @@ Lennie Bennett and Jerry Stevens with guests Lena Zavaroni, Frediani (the world'
 <tr><th>Production Company:</th><td>BBC Television</td></tr>
 </table>
 
-**Related Websites:**
-<span class="post-categories">[BBC Genome](http://genome.ch.bbc.co.uk/24a97b2f682f4f67827460990ab935b7)&nbsp;
+### Related Websites
+* [BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1978-06-24#at-21.00)
 
