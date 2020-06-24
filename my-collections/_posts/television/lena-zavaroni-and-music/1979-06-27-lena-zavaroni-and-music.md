@@ -19,7 +19,7 @@ categories: [BBC One, Lena Zavaroni and Music]
 <td><a href="#set-list">Set List</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
-<td><a href="/publicity%20photos/1979/06/25/lena-zavaroni.html">25 June 1979</a></td>
+<td><a href="/publicity%20photos/1979/06/25/lena-a-cute-cookie.html">25 June 1979</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1979-06-27#at-19.40">BBC Genome</a></td>
 </tr>
 </table>
