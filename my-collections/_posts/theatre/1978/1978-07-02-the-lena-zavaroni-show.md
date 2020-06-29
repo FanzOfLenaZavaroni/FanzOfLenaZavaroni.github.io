@@ -3,7 +3,7 @@ layout: post
 title: The Lena Zavaroni Show
 subtitle: The White Rock Pavilion, Hastings
 description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
-image: /assets/images/theatres/1978-07-02-the-lena-zavaroni-show-small.jpg
+image: /assets/images/theatres/1978-07-02-the-lena-zavaroni-show-01.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
@@ -31,7 +31,7 @@ categories: [Theatre, The Lena Zavaroni Show]
 * Phil Cronk - Stage Manager
 <br />{: .clear}
 
-
 <style>
 .adjust {margin-left:402px;}
 </style>
+
