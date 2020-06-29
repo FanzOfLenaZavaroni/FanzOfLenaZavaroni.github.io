@@ -25,14 +25,16 @@ categories: [BBC Radio 5, Transcripts, Deleted Online Articles]
 </tr>
 
 <tr>
-<td colspan="2"><a href="https://genome.ch.bbc.co.uk/schedules/radio5/2006-07-02#at-10.00">BBC genome</a></td>
-<td colspan="2"><a href="https://soundcloud.com/scicrit/r5-live-mind-games-scientology-vs-psychiatry#t=29:09">Sound Cloud: R5 Live - Jump to related part of the programme</a></td>
+<td colspan="2" width="50%"><a href="https://genome.ch.bbc.co.uk/schedules/radio5/2006-07-02#at-10.00">BBC genome</a></td>
+<td colspan="2" width="50%"><a href="https://soundcloud.com/scicrit/r5-live-mind-games-scientology-vs-psychiatry#t=29:09">Sound Cloud: R5 Live - Jump to related part of the programme</a></td>
 </tr>
 </table>
 
 ### BBC Radio 5 Live Report Full Programme via Sound Cloud
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176381042&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/scicrit" title="scicrit" target="_blank" style="color: #cccccc; text-decoration: none;">scicrit</a> · <a href="https://soundcloud.com/scicrit/r5-live-mind-games-scientology-vs-psychiatry" title="R5 Live - Mind Games: Scientology Vs Psychiatry" target="_blank" style="color: #cccccc; text-decoration: none;">R5 Live - Mind Games: Scientology Vs Psychiatry</a></div>
+
+<br />
 
 ### Transcript
 > **DR. MAX PEMBERTON:** Hi - hi, Brian. I've just - I - I've got to just
