@@ -573,6 +573,9 @@ OnThisDay ='/onthisday/07/07-05.html';
 if (month == '7' && day == '06') {
 OnThisDay ='/onthisday/07/07-06.html';
 }
+if (month == '7' && day == '07') {
+OnThisDay ='/onthisday/07/07-07.html';
+}
 if (month == '7' && day == '08') {
 OnThisDay ='/onthisday/07/07-08.html';
 }
@@ -604,31 +607,31 @@ if (month == '7' && day == '17') {
 OnThisDay ='/onthisday/07/07-17.html';
 }
 if (month == '7' && day == '18') {
-OnThisDay ='/theatre/1976/the-lena-zavaroni-show-1976-07-18.html';
+OnThisDay ='/onthisday/07/07-18.html';
 }
 if (month == '7' && day == '19') {
 OnThisDay ='/onthisday/07/07-19.html';
 }
 if (month == '7' && day == '20') {
-OnThisDay ='/theatre/1975/harold-fieldings-sunday-night-at-the-blackpool-opera-house.html';
+OnThisDay ='/onthisday/07/07-20.html';
 }
 if (month == '7' && day == '21') {
-OnThisDay ='/theatre/1981/the-lena-zavaroni-show-1981-07-21.html';
+OnThisDay ='/onthisday/07/07-21.html';
 }
 if (month == '7' && day == '22') {
 OnThisDay ='/onthisday/07/07-22.html';
 }
 if (month == '7' && day == '23') {
-OnThisDay ='/theatre/1978/harold-fieldings-sunday-night-at-the-blackpool-opera-house.html';
+OnThisDay ='/onthisday/07/07-23.html';
 }
 if (month == '7' && day == '24') {
-OnThisDay ='/television/hi-summer/hi-summer-02.html';
+OnThisDay ='/onthisday/07/07-24.html';
 }
 if (month == '7' && day == '25') {
 OnThisDay ='/onthisday/07/07-25.html';
 }
 if (month == '7' && day == '26') {
-OnThisDay ='/theatre/1978/personal-appearance-1978-07-26.html';
+OnThisDay ='/onthisday/07/07-26.html';
 }
 if (month == '7' && day == '27') {
 OnThisDay ='/onthisday/07/07-27.html';
@@ -637,7 +640,7 @@ if (month == '7' && day == '28') {
 OnThisDay ='/onthisday/07/07-28.html';
 }
 if (month == '7' && day == '29') {
-OnThisDay ='/publications/emma/1978-07-29.html';
+OnThisDay ='/onthisday/07/07-29.html';
 }
 if (month == '7' && day == '30') {
 OnThisDay ='/onthisday/07/07-30.html';
@@ -649,10 +652,16 @@ if (month == '8' && day == '01') {
 OnThisDay ='/onthisday/08/08-01.html';
 }
 if (month == '8' && day == '02') {
-OnThisDay ='/television/and-theres-more.html';
+OnThisDay ='/onthisday/07/07-02.html';
 }
 if (month == '8' && day == '03') {
 OnThisDay ='/onthisday/08/08-03.html';
+}
+if (month == '8' && day == '04') {
+OnThisDay ='/onthisday/08/08-04.html';
+}
+if (month == '8' && day == '05') {
+OnThisDay ='/onthisday/08/08-05.html';
 }
 if (month == '8' && day == '06') {
 OnThisDay ='/onthisday/08/08-06.html';
@@ -664,10 +673,13 @@ if (month == '8' && day == '08') {
 OnThisDay ='/news/2002-08-08.html';
 }
 if (month == '8' && day == '09') {
-OnThisDay ='/theatre/1981/harold-fieldings-sunday-night-at-the-blackpool-opera-house-1981-08-09.html';
+OnThisDay ='/onthisday/08/08-09.html';
 }
 if (month == '8' && day == '10') {
 OnThisDay ='/onthisday/08/08-10.html';
+}
+if (month == '8' && day == '11') {
+OnThisDay ='/onthisday/08/08-11.html';
 }
 if (month == '8' && day == '12') {
 OnThisDay ='/onthisday/08/08-12.html';
@@ -676,16 +688,19 @@ if (month == '8' && day == '13') {
 OnThisDay ='/onthisday/08/08-13.html';
 }
 if (month == '8' && day == '14') {
-OnThisDay ='/television/hi-summer/hi-summer-05.html';
+OnThisDay ='/onthisday/08/08-14.html';
 }
 if (month == '8' && day == '15') {
-OnThisDay ='/theatre/1976/sunday-startime-1976-08-15.html';
+OnThisDay ='/onthisday/08/08-15.html';
 }
 if (month == '8' && day == '16') {
 OnThisDay ='/onthisday/08/08-16.html';
 }
 if (month == '8' && day == '17') {
-OnThisDay ='/theatre/1975/the-lena-zavaroni-show-1975-08-17.html';
+OnThisDay ='/onthisday/08/08-17.html';
+}
+if (month == '8' && day == '18') {
+OnThisDay ='/onthisday/08/08-18.html';
 }
 if (month == '8' && day == '19') {
 OnThisDay ='/onthisday/08/08-19.html';
