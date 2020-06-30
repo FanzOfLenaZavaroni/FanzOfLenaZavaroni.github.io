@@ -3,7 +3,7 @@ layout: post
 title: The Sunday Mirror
 subtitle: Newspaper
 description: Published an artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.
-image: /assets/images/newspapers/1975-07-06-the-sunday-mirror-200x200.png
+image: /assets/images/newspapers/1975-07-06-the-sunday-mirror.jpeg
 categories: [Newspapers]
 ---
 
