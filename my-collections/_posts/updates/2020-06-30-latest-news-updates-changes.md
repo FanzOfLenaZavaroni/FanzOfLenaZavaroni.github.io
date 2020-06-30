@@ -7,5 +7,5 @@ categories: [Updates]
 ---
 
 ### MeWe
-* Having joined MeWe I have replaced the update link MeWe
+* Having joined MeWe I have replaced the update link to MeWe.
 
