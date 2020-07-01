@@ -2,7 +2,7 @@
 layout: post
 title: The Lena Zavaroni Show
 subtitle: The White Rock Pavilion, Hastings
-description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+description: With David Harrison, Bobby Bragg, Joan Hide, International magical entertainers Brian Miller & Audrey, Gordon Turner, Lena Zavaroni.
 image: /assets/images/theatres/1978-07-02-the-lena-zavaroni-show-01.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
@@ -14,7 +14,7 @@ categories: [Theatre, The Lena Zavaroni Show]
 * David Harrison and his music
 * Bobby Bragg - your host and compère
 * Joan Hide - Britain's foremost female trumpeter
-* Brian Miller &amp; Audrey - the international magical entertainers
+* Brian Miller & Audrey - the international magical entertainers
 * Gordon Turner - the West End cabaret enterainer
 
 **INTERMISSION**
