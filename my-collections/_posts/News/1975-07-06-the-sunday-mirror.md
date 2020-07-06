@@ -13,3 +13,5 @@ categories: [Newspapers]
 
 <cite>The Sunday Mirror, page 11, 6 July 1975</cite>
 
+![](/assets/images/newspapers/1975-07-06-the-sunday-mirror-photo.jpg)
+
