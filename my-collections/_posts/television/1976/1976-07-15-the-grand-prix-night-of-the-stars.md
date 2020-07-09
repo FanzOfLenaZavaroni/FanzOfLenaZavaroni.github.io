@@ -9,12 +9,13 @@ categories: [BBC One]
 
 <table style="text-align:center;">
 <tr>
-<th colspan="3">Jump to</th>
+<th colspan="4">Jump to</th>
 <th colspan="2">External Links</th>
 </tr>
 
 <tr>
-<td><a href="#screenshot-and-details">Screenshot and Details</a></td>
+<td><a href="#screenshot">Screenshot</a></td>
+<td><a href="#details">Details</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-07-15#at-20.00">BBC Genome</a></td>
@@ -22,13 +23,15 @@ categories: [BBC One]
 </tr>
 </table>
 
-### Screenshot and Details
-![](/assets/images/BBC/1976-07-15-the-grand-prix-night-of-the-stars.jpg){: .left}
-In the week of Britain's round of the World Motor Racing Championship - The British Grand Prix stars from the world of entertainment and the world's top Grand Prix drivers share the stage at the Royal Albert Hall.
+### Screenshot
+![](/assets/images/BBC/1976-07-15-the-grand-prix-night-of-the-stars.jpg){: .full-width}
 
-Lena performs a live version of This Is My Song, and is then serenaded by Henry Cooper and Barrie Gill, with their version of Lena, My Little Honey Lena.
+### Details
+> In the week of Britain's round of the World Motor Racing Championship - The British Grand Prix stars from the world of entertainment and the world's top Grand Prix drivers share the stage at the Royal Albert Hall.
+>
+> Lena performs a live version of This Is My Song, and is then serenaded by Henry Cooper and Barrie Gill, with their version of Lena, My Little Honey Lena.
 
-<br />{: .clear}
+<cite>Robcamstone</cite>
 
 ### Cast
 <table>
