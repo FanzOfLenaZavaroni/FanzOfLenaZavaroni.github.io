@@ -23,7 +23,7 @@ She declared the Carnival open, then stayed for a short time to meet her fans an
 ### Fanz of Lena Zavaroni Facebook Page - Photos and Comments
 * Reconstructed from archive and sadly the archive is missing the posted photos, the photos used above may well be the some as some posted on Facebook but I am unable to confirm which.
 
-### Saturday, 13 July 2019 - Post 1
+### Saturday, 14 July 2019 - Post 1
 > One of a set of photographs taken by Steve Hayter. The young lad is John Northgraves and the Carnival Princess is Alison Scott.
 
 <cite>Stephen Molloy</cite>
@@ -33,7 +33,14 @@ She declared the Carnival open, then stayed for a short time to meet her fans an
 
 <cite>Stephen Molloy</cite>
 
-### Sunday, 14 July 2019 - Reply to Posts 1 & 2
+### Sunday, 14 July 2019 - Post 3
+
+> The Carnival Princess's float, it makes sense that Lena was chosen to open the carnival as it was The Year of The Child. Mike and Bernie Winters attended as celebrity guests.
+Bernie Winters mentioned to someone that the princess's dress was coming off, when they replied that it wasn't, he said "It will be later".
+
+<cite>Stephen Molloy</cite>
+
+### Sunday, 14 July 2019 - Reply to Posts 1, 2 & 3
 > Great photos thanks for sharing.
 >
 > Disapointing comment by Bernie Winters as I beleave the Carnival Princess was around 15 years old so a completely inappropriate comment considering her age, whether or not she heard it.
@@ -43,13 +50,6 @@ She declared the Carnival open, then stayed for a short time to meet her fans an
 > As the main meaning is that he will be having sex with her at some stage. So he may not have thought it but he is making a joke on statutory rape.
 
 <cite>Fanz of Lena Zavaroni (Robcamstone)</cite>
-
-### Sunday, 14 July 2019 - Post 3
-
-> The Carnival Princess's float, it makes sense that Lena was chosen to open the carnival as it was The Year of The Child. Mike and Bernie Winters attended as celebrity guests.
-Bernie Winters mentioned to someone that the princess's dress was coming off, when they replied that it wasn't, he said "It will be later".
-
-<cite>Stephen Molloy</cite>
 
 ### Google Map
 * [Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=53.91270380000004%2C-0.16948649999994814&z=19)
