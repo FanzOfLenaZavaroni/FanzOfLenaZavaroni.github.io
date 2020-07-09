@@ -9,9 +9,9 @@ categories: [Theatre, Harold Fielding, Blackpool Opera House]
 Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 <table>
-<tr><th>Guest Star:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Guest Star:</th><td style="width: 110px;">Lena Zavaroni</td></tr>
 <tr><th>Theatre Producer:</th><td><a href="/biography/harold-fielding">Harold Fielding</a></td></tr>
-<tr><th>Director Of Lena Zavaroni PLC and it's his signature on the Contract</th><td>Victor Zavaroni</td></tr>
+<tr><th>Director Of Lena Zavaroni PLC and Signee of the contract for Lena Zavaroni's performance in the show</th><td>Victor Zavaroni</td></tr>
 </table>
 
 ### Research
