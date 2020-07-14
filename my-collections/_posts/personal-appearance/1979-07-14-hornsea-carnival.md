@@ -11,17 +11,17 @@ categories: [Personal Appearances]
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0" nonce="gVu4nYmO"></script>
 
 <table  style="text-align:center;">
-<tr><th colspan="3">Jump To:</th></tr>
+<tr><th colspan="4">Jump To:</th></tr>
 
 <tr>
-<th style="width=33.33%"><a href="#celebrity-guests-that-attended-the-carnival">Celebrity Guests</a></th>
-<th style="width=33.34%"><a href="#loving-lena-zavaronis-photos">Loving Lena Zavaroni's Photos</a></th>
-<th style="width=33.34%"><a href="#photos-copyright-steve-hayter-14-july-1979">Steve Hayter's Photos</a></th>
-<th style="width=33.33%"><a href="#hornsea-civic-society---facebook-page">Hornsea Civic Society</a></th>
+<td><a href="#celebrity-guests-that-attended-the-carnival">Celebrity Guests</a></td>
+<td><a href="#loving-lena-zavaronis-photos">Photo Set 1</a></td>
+<td><a href="#photos-copyright-steve-hayter-14-july-1979">Photo Set 2</a></td>
+<td><a href="#hornsea-civic-society---facebook-page">Photo Set 3</a></td>
 </tr>
 
 <tr>
-<th colspan="3"><a href="#fanz-of-lena-zavaroni-facebook-page---missing-photos-and-comments">Fanz of Lena Zavaroni Missing Photos and Comments</a></th>
+<td colspan="4"><a href="#fanz-of-lena-zavaroni-facebook-page---missing-photos-and-comments">Fanz of Lena Zavaroni Missing Photos and Comments</a></td>
 </tr>
 </table>
 
@@ -41,22 +41,51 @@ categories: [Personal Appearances]
 </td>
 
 <td style="width:50%; vertical-align: top;">
-</td>
-
-<td style="width:50%; vertical-align: top;">
 <div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/158566049087030/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/158566049087030/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/158566049087030/?type=3">Tuesday, 14 July 2020</a></blockquote></div>
 </td>
 </tr>
 </table>
 
 ### Photos Copyright Steve Hayter 14 July 1979
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-01.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height1}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-02.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height1}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-03.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height2}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-04.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height2}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-05.jpg "The Carnival Princess Alison Scott, Lena Zavaroni and John Northgraves"){: .height2}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-06.jpg "John Northgraves, Lena Zavaroni and the Carnival Princess Alison Scott"){: .height2}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-07.jpg "Lena Zavaroni signing her autograph for a young fan"){: .height2}
+<table>
+<tr>
+<td><img src="/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-01.jpg" width="100%" height="auto"></td>
+<td><img src="/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-02.jpg" width="100%" height="auto"></td>
+</tr>
+
+<tr>
+<td>Lena Zavaroni and her chaperone Zena English in a carriage</td>
+<td>Lena Zavaroni and her chaperone Zena English in a carriage</td>
+</tr>
+
+<tr>
+<td style="width:50%;"><img src="/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-03.jpg" width="100%" height="auto"></td>
+<td style="width:50%;"><img src="/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-04.jpg" width="100%" height="auto"></td>
+</tr>
+
+<tr>
+<td>Lena Zavaroni and her chaperone Zena English in a carriage</td>
+<td>Lena Zavaroni and her chaperone Zena English in a carriage</td>
+</tr>
+
+<tr>
+<td style="width:50%;"><img src="/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-05.jpg" width="100%" height="auto"></td>
+<td style="width:50%;"><img src="/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-06.jpg" width="100%" height="auto"></td>
+</tr>
+
+<tr>
+<td>The Carnival Princess Alison Scott, Lena Zavaroni and John Northgraves</td>
+<td>John Northgraves, Lena Zavaroni and the Carnival Princess Alison Scott</td>
+</tr>
+
+<tr>
+<td colspan="2" style="text-align:center;"><img src="/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-07.jpg" width="50%" height="auto"></td>
+</tr>
+
+<tr>
+<td colspan="2" style="text-align:center;">Lena Zavaroni signing her autograph for a young fan</td>
+</tr>
+</table>
 
 ### Hornsea Civic Society - Facebook Page
 <table>
