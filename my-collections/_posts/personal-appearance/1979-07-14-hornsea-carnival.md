@@ -3,7 +3,7 @@ layout: post
 title: Hornsea Carnival
 subtitle: Hornsea, East Yorkshire
 description: Lena Zavaroni made a personal appearance at the carnival. She declared the Carnival open, then stayed for a short time to meet her fans and the public.
-image: /assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival.png
+image: /assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival.jpg
 categories: [Personal Appearances]
 ---
 
@@ -15,6 +15,7 @@ categories: [Personal Appearances]
 
 <tr>
 <th style="width=33.33%"><a href="#celebrity-guests-that-attended-the-carnival">Celebrity Guests</a></th>
+<th style="width=33.34%"><a href="#loving-lena-zavaronis-photos">Loving Lena Zavaroni's Photos</a></th>
 <th style="width=33.34%"><a href="#photos-copyright-steve-hayter-14-july-1979">Steve Hayter's Photos</a></th>
 <th style="width=33.33%"><a href="#hornsea-civic-society---facebook-page">Hornsea Civic Society</a></th>
 </tr>
@@ -32,11 +33,27 @@ categories: [Personal Appearances]
 <tr><th>Note:</th><td>There may well have been other Celebrity Guests that I am currently unaware of that attended the carnival.</td></tr>
 </table>
 
+### Loving Lena Zavaroni's Photos
+<table>
+<tr>
+<td style="width:50%; vertical-align: top;">
+<div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/158566269087008/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/158566269087008/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/158566269087008/?type=3">Tuesday, 14 July 2020</a></blockquote></div>
+</td>
+
+<td style="width:50%; vertical-align: top;">
+</td>
+
+<td style="width:50%; vertical-align: top;">
+<div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/158566049087030/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/158566049087030/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/158566049087030/?type=3">Tuesday, 14 July 2020</a></blockquote></div>
+</td>
+</tr>
+</table>
+
 ### Photos Copyright Steve Hayter 14 July 1979
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-01.jpg "Lena Zavaroni in a carriage"){: .height1}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-02.jpg "Lena Zavaroni in a carriage"){: .height1}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-03.jpg "Lena Zavaroni in a carriage"){: .height2}
-![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-04.jpg "Lena Zavaroni in a carriage"){: .height2}
+![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-01.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height1}
+![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-02.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height1}
+![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-03.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height2}
+![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-04.jpg "Lena Zavaroni and her chaperone Zena English in a carriage"){: .height2}
 ![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-05.jpg "The Carnival Princess Alison Scott, Lena Zavaroni and John Northgraves"){: .height2}
 ![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-06.jpg "John Northgraves, Lena Zavaroni and the Carnival Princess Alison Scott"){: .height2}
 ![](/assets/images/steve-hayter-hornsea-carnival/1979-07-14-hornsea-carnival-07.jpg "Lena Zavaroni signing her autograph for a young fan"){: .height2}
