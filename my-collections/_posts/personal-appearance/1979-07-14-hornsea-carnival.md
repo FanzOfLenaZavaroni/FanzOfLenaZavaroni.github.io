@@ -14,7 +14,7 @@ categories: [Personal Appearances]
 <table>
 <tr><th>Singer:</th><td>Lena Zavaroni declared the Carnival open, then stayed for a short time to meet her fans and members the public.</td></tr>
 <tr><th>Actors:</th><td>Wilfrid Brambell and Harry H. Corbett as Steptoe and Son</td></tr>
-<tr><th style="width:100px;">Comedy Double Act:</th><td>Mike &amp; Bernie Winters</td></tr>
+<tr><th style="width:160px;">Comedy Double Act:</th><td>Mike &amp; Bernie Winters</td></tr>
 <tr><th>Note:</th><td>There may well have been other Celebrity Guests that I am currently unaware of that attended the carnival</td></tr>
 </table>
 
