@@ -10,7 +10,18 @@ categories: [Personal Appearances]
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0" nonce="gVu4nYmO"></script>
 
-### Celebrity Guests that attended the carnival
+<table>
+<tr><th colspan="4">Jump To:</th></tr>
+
+<tr>
+<th><a href="#Celebrity-guests-that-attended-the-carnival">Celebrity Guests</a></th>
+<th><a href="#photos-copyright-steve-hayter-14-july-1979">Steve Hayter's Photos</a></th>
+<th><a href="#the-hornsea-civic-society---facebook-page">The Hornsea Civic Society</a></th>
+<th><a href="#fanz-of-lena-zavaroni-facebook-Page---missing photos-and-comments">Fanz of Lena Zavaroni Missing Photos and Comments</a></th>
+</tr>
+</table>
+
+### Celebrity Guests That Attended The Carnival
 <table>
 <tr><th>Singer:</th><td>Lena Zavaroni declared the Carnival open, then stayed for a short time to meet her fans and members of the public.</td></tr>
 <tr><th>Actors:</th><td>Wilfrid Brambell and Harry H. Corbett as Steptoe and Son.</td></tr>
@@ -61,7 +72,7 @@ This is another picture from Anne-Marie Smith.</p>Posted by <a href="https://www
 </tr>
 </table>
 
-### Fanz of Lena Zavaroni Facebook Page - Photos and Comments
+### Fanz of Lena Zavaroni Facebook Page - Missing Photos and Comments
 * Reconstructed from archive and sadly the archive is missing the posted photos, the photos used above may well be the some as some posted on Facebook but I am unable to confirm which.
 
 ### Saturday, 14 July 2019 - Post 1
