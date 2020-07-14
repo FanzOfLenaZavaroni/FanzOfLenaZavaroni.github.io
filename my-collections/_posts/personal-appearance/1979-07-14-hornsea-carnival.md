@@ -11,13 +11,13 @@ categories: [Personal Appearances]
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0" nonce="gVu4nYmO"></script>
 
 <table>
-<tr><th colspan="4">Jump To:</th></tr>
+<tr><th colspan="4" style="text-align:center;">Jump To:</th></tr>
 
 <tr>
-<th><a href="#Celebrity-guests-that-attended-the-carnival">Celebrity Guests</a></th>
+<th><a href="#celebrity-guests-that-attended-the-carnival">Celebrity Guests</a></th>
 <th><a href="#photos-copyright-steve-hayter-14-july-1979">Steve Hayter's Photos</a></th>
 <th><a href="#the-hornsea-civic-society---facebook-page">The Hornsea Civic Society</a></th>
-<th><a href="#fanz-of-lena-zavaroni-facebook-Page---missing photos-and-comments">Fanz of Lena Zavaroni Missing Photos and Comments</a></th>
+<th><a href="#fanz-of-lena-zavaroni-facebook-page---missing-photos-and-comments">Fanz of Lena Zavaroni Missing Photos and Comments</a></th>
 </tr>
 </table>
 
