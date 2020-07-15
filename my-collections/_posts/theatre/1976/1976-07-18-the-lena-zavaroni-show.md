@@ -3,7 +3,7 @@ layout: post
 title: The Lena Zavaroni Show
 subtitle: The Futurist Theatre, Scarborough
 description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
-image: /assets/images/locations/the-futurist-theatre-200x200.png
+image: /assets/images/locations/the-futurist-theatre.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
@@ -11,17 +11,18 @@ categories: [Theatre, The Lena Zavaroni Show]
 
 <cite>The Futurist Theatre, Scarborough</cite>
 
-**Research is on going and hopefully I will be able to add more details**
+### Research
+> Research is on going and hopefully I will be able to add more details
+>
 > If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
 >
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
 >
-> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or contact me on [Fanz of Lena Zavaroni](https://www.facebook.com/fanzoflenazavaroni) Facebook Page.
+> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
-<cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
+<cite>Robcamstone</cite>
 
-**BBC News Online**
-
+### BBC News Online
 > ![](/assets/images/locations/futurist.jpg){: .full-width}
 >
 > **The demolition of a seafront theatre in Scarborough has begun following a long fight by campaigners to save it**
@@ -34,7 +35,6 @@ categories: [Theatre, The Lena Zavaroni Show]
 
 <cite>BBC News York and North Yorkshire: [5 June 2018](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-44368471)</cite>
 
+### Google Map
+* [Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=54.282119500000036%2C-0.39636270000005425&z=19)
 
-
-**Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=54.282119500000036%2C-0.39636270000005425&z=19)</span>
