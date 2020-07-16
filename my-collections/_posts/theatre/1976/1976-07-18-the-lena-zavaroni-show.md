@@ -35,7 +35,7 @@ categories: [Theatre, The Lena Zavaroni Show]
 
 <cite>BBC News York and North Yorkshire: [5 June 2018](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-44368471)</cite>
 
-### Parallel Views On Google Maps (Just for fun will not be here for ever)
+### Parallel Views On Google Maps
 > <video width="400" controls><source src="mov_bbb.mp4" type="/assets/media/Former Location Of The Futurist Theatre, Scarborough.mp4">Your browser does not support HTML5 video.</video>
 >
 > Well until they update the former location of The Futurist Theatre, Scarborough
