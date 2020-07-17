@@ -2,7 +2,7 @@
 layout: post
 title: The Lena Zavaroni Show
 subtitle: The Futurist Theatre, Scarborough
-description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+description: Lena Zavaroni stars in her own show.
 image: /assets/images/locations/the-futurist-theatre.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
