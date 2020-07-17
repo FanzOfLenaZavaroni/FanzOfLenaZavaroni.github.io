@@ -38,11 +38,12 @@ categories: [Theatre, The Lena Zavaroni Show]
 ### Google Maps - Time Portal
 > <video width="400" controls><source src="/assets/media/Former Location Of The Futurist Theatre, Scarborough.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
 >
-> Well until they update the former location of The Futurist Theatre, Scarborough
+> Just for fun Well delete once they update the former location of The Futurist Theatre, Scarborough
 >
 > Wonder how many other Time Portals are on Google Maps and if there is an actual name for the anomaly caused by the fact that only one of two nearby locations has been updated by Google Maps until I learn the real name for the anomaly I'll call it a Time Portal.
-
-<cite>[See For Yourself Via Google Maps](https://www.google.com/maps/@54.2822186,-0.3960012,3a,75y,309.94h,90t/data=!3m6!1e1!3m4!1sAPT6IQLWZuKm62W21FvPOA!2e0!7i13312!8i6656)</cite>
+>
+> [See For Yourself Via Google Maps](https://www.google.com/maps/@54.2822186,-0.3960012,3a,75y,309.94h,90t/data=!3m6!1e1!3m4!1sAPT6IQLWZuKm62W21FvPOA!2e0!7i13312!8i6656)
+<cite>SmileTime</cite>
 
 ### Google Map
 * [Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=54.282119500000036%2C-0.39636270000005425&z=19)
