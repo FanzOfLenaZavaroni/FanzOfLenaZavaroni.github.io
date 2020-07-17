@@ -8,7 +8,9 @@ categories: [Theatre, Margate]
 ---
 
 ![](/assets/images/theatres/1982-07-22-an-evening-with-lena-zavaroni.jpg){:.width-300}{: .left}
-**Research is on going and hopefully I will be able to add more details**
+### Research
+> Research is on going and hopefully I will be able to add more details
+>
 > If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
 >
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
@@ -28,3 +30,4 @@ categories: [Theatre, Margate]
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 </style>
+
