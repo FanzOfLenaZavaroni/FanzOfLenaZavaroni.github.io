@@ -43,6 +43,7 @@ categories: [Theatre, The Lena Zavaroni Show]
 > Wonder how many other Time Portals are on Google Maps and if there is an actual name for the anomaly caused by the fact that only one of two nearby locations has been updated by Google Maps until I learn the real name for the anomaly I'll call it a Time Portal.
 >
 > [See For Yourself Via Google Maps](https://www.google.com/maps/@54.2822186,-0.3960012,3a,75y,309.94h,90t/data=!3m6!1e1!3m4!1sAPT6IQLWZuKm62W21FvPOA!2e0!7i13312!8i6656)
+
 <cite>SmileTime</cite>
 
 ### Google Map
