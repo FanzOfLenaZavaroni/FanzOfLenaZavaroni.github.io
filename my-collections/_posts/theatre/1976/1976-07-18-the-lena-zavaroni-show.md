@@ -2,7 +2,7 @@
 layout: post
 title: The Lena Zavaroni Show
 subtitle: The Futurist Theatre, Scarborough
-description: Lena Zavaroni stars in her own show.
+description: Lena Zavaroni stars in her own show at the Futurist Theatre, Scarborough.
 image: /assets/images/locations/the-futurist-theatre.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
