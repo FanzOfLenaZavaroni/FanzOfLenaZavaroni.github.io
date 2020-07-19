@@ -96,6 +96,6 @@ Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 <cite>Robcamstone</cite>
 
 <style>
-.fit {width: 16.22%; height:auto;}
+.fit {width: 119.64px; height:auto;}
 </style>
 
