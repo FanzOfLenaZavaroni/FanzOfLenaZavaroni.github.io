@@ -2,12 +2,12 @@
 layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring Lena Zavaroni
-description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
+description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 image: /assets/images/theatres/1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
 ---
 
-Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
+Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm
 
 [![](/assets/images/theatres/1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg){: .width-25}{: .zoom-in}](/assets/images/theatres/1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg)
 [![](/assets/images/theatres/1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-02.jpg){: .width-25}{: .zoom-in}](/assets/images/theatres/1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-02.jpg)
