@@ -15,9 +15,9 @@ categories: [Theatre, Margate]
 >
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
 >
-> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or contact me on [Fanz of Lena Zavaroni](https://www.facebook.com/fanzoflenazavaroni) Facebook Page.
+> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
-<cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
+<cite>Robcamstone</cite>
 
 <br />{: .clear}
 
