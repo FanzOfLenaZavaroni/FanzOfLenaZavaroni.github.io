@@ -53,7 +53,7 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 
 ### 23 July 2019 - Posts 2 & 3
-* Posts 2 & 3 were scans of the programme, while the images are not part of the Facebook Arcive, I'm sure I got the scans saved somewhere once I can locate them I will add them.
+* Posts 2 & 3 were scans of the programme, while the images are not part of the Facebook Arcive, ~~I'm sure I got the scans saved somewhere once I can locate them I will add them.~~
 
 ### Facebook Shared Memories
 ### 23 July 2019 - Post 4
