@@ -17,7 +17,7 @@ categories: [Personal Appearances]
 >
 > Scottish singer and television child star Lena Zavaroni appeared at the store on this day to promote her new album Songs Are Such Good Things and sign autographs.
 
-<cite>[Basildon - A Chronological History 1975 - 1979](http://www.basildon.com/history/chronology/19751979.html)</cite>
+<cite>[Basildon - A Chronological History 1975 - 1979](http://www.basildon.com/history/chronology/19751979.html#:~:text=26th%20July)</cite>
 
 <!-- [Songs Are Such Good Things](/discography/studio-albums/songs-are-such-good-things.html) -->
 
