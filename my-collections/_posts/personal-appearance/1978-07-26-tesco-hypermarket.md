@@ -23,3 +23,4 @@ categories: [Personal Appearances]
 
 **Google Map:**
 <span class="post-categories"><a href="https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=51.562478199999994%2C0.501951599999984&z=19">Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)</a></span>
+
