@@ -15,6 +15,7 @@ categories: [Thames Television]
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 <td><a href="#facebook-comment-from-28-july-2018">Facebook Comment</a></td>
+<td><a href="#saturday-night-at-the-mill---16th-may-1981">Saturday Night At The Mill</a></td>
 </tr>
 </table>
 
@@ -46,9 +47,13 @@ categories: [Thames Television]
 <tr><th>Production Company:</th><td>Thames Television</td></tr>
 </table>
 
-## Facebook Comment From 28 July 2018
+### Facebook Comment From 28 July 2018
 * Reconstructed from archive
 <span class="fb">**Stephen Molloy** In a 1981 interview on Saturday Night At The Mill, Lena describes how the recording of Be A Clown was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.<br /><br />Lena mentions that they had already worked all day, so at twelve years old I imagine that hurried negotiations between lawyers, management and the local council would have had to take place to allow her to carry on working.<br /><br />On this 1981 edition of Pebble Mill, Lena sang Roses And Rainbows. If you look at her neck at around one minute and twenty seconds you will see her necklace break, but Lena carries on as if nothing had happened.</span>
+
+### Saturday Night At The Mill - 16th May 1981
+* [Lena Zavaroni's section](https://youtu.be/ShpRiTt4vbA)
+* [Jump to Necklace Break](https://youtu.be/ShpRiTt4vbA?t=807)
 
 <style>
 .dt-published {display: none;}
