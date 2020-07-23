@@ -65,9 +65,13 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 * Posts 2 & 3 were scans of the programme, while the images are not part of the Facebook Arcive, ~~I'm sure I got the scans saved somewhere once I can locate them I will add them.~~
 * My Thanks to **Stephen Molloy** for reposting the programme.
 
+<div class="center">
 <div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/?type=3">Wednesday, 22 July 2020</a></blockquote></div>
-
+</div>
+<br />
+<div class="center">
 <div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/?type=3">Wednesday, 22 July 2020</a></blockquote></div>
+</div>
 
 ### Facebook Shared Memories
 ### 23 July 2019 - Post 4
@@ -98,6 +102,7 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 <style>
 .height {width:auto; height:200px;}
+.center {text-align: center;}
 .fb {
     background-color: #f2f3f5;
     box-sizing: border-box;
