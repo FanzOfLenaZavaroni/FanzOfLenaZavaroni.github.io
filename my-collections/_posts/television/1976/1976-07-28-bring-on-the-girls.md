@@ -8,10 +8,10 @@ categories: [Thames Television]
 ---
 
 <table style="text-align:center;">
-<tr><th colspan="4">Jump To</th></tr>
+<tr><th colspan="5">Jump To</th></tr>
 
 <tr>
-<td><a href="#compilation-of-screenshots">Compilation Of Screenshots</a></td>
+<td><a href="#collage-of-screenshots">Screenshots</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 <td><a href="#facebook-comment-from-28-july-2018">Facebook Comment</a></td>
@@ -19,7 +19,7 @@ categories: [Thames Television]
 </tr>
 </table>
 
-### Compilation Of Screenshots
+### Collage Of Screenshots
 ![](/assets/images/ITV/1976-07-28-bring-on-the-girls.jpg){: .full-width}
 
 ### Cast
@@ -53,7 +53,7 @@ categories: [Thames Television]
 
 ### Saturday Night At The Mill - 16th May 1981
 * [Lena Zavaroni's section](https://youtu.be/ShpRiTt4vbA)
-* [Jump to Necklace Break](https://youtu.be/ShpRiTt4vbA?t=807)
+* [Jump to Necklace Break](https://youtu.be/ShpRiTt4vbA?t=812)
 
 <style>
 .dt-published {display: none;}
