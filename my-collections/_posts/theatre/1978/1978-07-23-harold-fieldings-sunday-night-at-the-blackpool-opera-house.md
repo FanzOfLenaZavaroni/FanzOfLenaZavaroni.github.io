@@ -3,13 +3,15 @@ layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
+image: /assets/images/publicity/1978-lena-zavaroni.jpg
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
 ---
 
 <table style="text-align:center;">
-<tr><th colspan="5">Jump To</th></tr>
+<tr><th colspan="6">Jump To</th></tr>
 
 <tr>
+<td><a href="#publicity-photo">Publicity Photo</a></td>
 <td><a href="#programme">Programme</a></td>
 <td><a href="#support">Support</a></td>
 <td><a href="#organisers">Organisers</a></td>
@@ -19,6 +21,13 @@ categories: [Theatre, Harold Fielding, Blackpool Opera House]
 </table>
 
 Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
+
+### Publicity Photo
+> ![](/assets/images/publicity/1978-lena-zavaroni.jpg)
+>
+> The above photo was used on the cover of the programme.
+
+<cite>Robcamstone</cite>
 
 ### Programme
 <table>
@@ -54,6 +63,11 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 ### 23 July 2019 - Posts 2 & 3
 * Posts 2 & 3 were scans of the programme, while the images are not part of the Facebook Arcive, ~~I'm sure I got the scans saved somewhere once I can locate them I will add them.~~
+* My Thanks to **Stephen Molloy** for reposting the programme.
+
+<div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/?type=3">Wednesday, 22 July 2020</a></blockquote></div>
+
+<div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/?type=3">Wednesday, 22 July 2020</a></blockquote></div>
 
 ### Facebook Shared Memories
 ### 23 July 2019 - Post 4
@@ -99,4 +113,7 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
     width: 100%;
 }
 </style>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0" nonce="vfZ7tDuZ"></script>
 
