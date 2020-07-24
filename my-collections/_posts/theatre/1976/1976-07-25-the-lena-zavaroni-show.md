@@ -2,8 +2,8 @@
 layout: post
 title: The Lena Zavaroni Show
 subtitle: The Princess Theatre, Torquay
-description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
-image: /assets/images/locations/geograph-4489556-by-Jaggery-200x200.png
+description: Lena Zavaroni stars in her own show at The Princess Theatre, Torquay.
+image: /assets/images/locations/geograph-4489556-by-Jaggery.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
