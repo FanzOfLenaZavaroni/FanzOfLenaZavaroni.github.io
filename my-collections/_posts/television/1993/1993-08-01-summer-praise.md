@@ -3,43 +3,54 @@ layout: post
 title: Summer Praise
 subtitle: Doon The Watter
 description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
-image: /assets/images/BBC/sp-200x200.png
-categories: [BBC Television]
+image: https://img.youtube.com/vi/DOu5ktVUEoI/hqdefault.jpg
+categories: [BBC One]
 ---
 
+<table style="text-align:center;">
+<tr><th colspan="3">Jump To</th></tr>
+
+<tr>
+<td><a href="#programme-in-full">Programme in Full</a></td>
+<td><a href="#cast">Cast</a></td>
+<td><a href="#crew">Crew</a></td>
+</tr>
+</table>
+
+### Programme in Full
 > <div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube.com/embed/DOu5ktVUEoI?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 >
-> First of six programmes from outdoor locations.
->
-> Doon the Watter.
+> First of six programmes from outdoor locations: Doon the Watter.
 >
 > Rothesay born Lena Zavaroni sings on television for the first time in six years as she journeys home to join Pam Rhodes who is sailing around the Clyde Coast Islands in the company of the Scottish Festival Singers. Local choirs from Arran, Bute and Dunoon join in.
 
-<cite>[BBC Genome](https://genome.ch.bbc.co.uk/ad3b1b29469f40dcb30805550b5387b1)</cite>
+<cite>[BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1993-08-01#at-18.25)</cite>
 
-**Cast**
-* **Presenter:** Pam Rhodes
-* Lena Zavaroni
-* The Scottish Festival Singers
+### Cast
+<table>
+<tr><th>Presenter:</th><td>Pam Rhodes</td></tr>
+<tr><th>Guest:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Christian/Gospel Singers</th><td><a href="https://www.bbc.co.uk/music/artists/0b1127bd-b4ea-478b-ab47-ed2e33478ebf">The Scottish Festival Singers</a></td></tr>
+</table>
 
-**Crew**
-* **Music adviser:** Tim Redman
-* **Camera supervisor:** Des O'Hare
-* **Sound supervisor:** Jim Young
-* **Conductor:** Ian McCrorie
-* **Vision supervisor:** Dave Roberts
-* **Organist:** Ian Hogg
-* **Stage manager:** Brian McBeath
-* **Soloist:** Jenny Nex
-* **Production assistant:** Tracy McParland
-* **Vocals:** Arran United Churches Choir
-* **Production assistant:** Lisbeth-Anne McLaughlin
-* **Vocals:** Cowal United Churches Choir
-* **Series producer:** Stuart Kremer
-* **Vocals:** Bute United Churches Choir
-* **Producer:** Stuart Miller
-* **Editor:** Helen Alexander
-* **Production company:** BBC Television
+### Crew
+<table>
+<tr><th>Music adviser</th><td>Tim Redman</td></tr>
+<tr><th>Camera supervisor</th><td>Des O'Hare</td></tr>
+<tr><th>Sound supervisor</th><td>Jim Young</td></tr>
+<tr><th>Conductor</th><td>Ian McCrorie</td></tr>
+<tr><th>Vision supervisor</th><td>Dave Roberts</td></tr>
+<tr><th>Organist</th><td>Ian Hogg</td></tr>
+<tr><th>Stage manager</th><td>Brian McBeath</td></tr>
+<tr><th>Soloist</th><td>Jenny Nex</td></tr>
+<tr><th>Production assistant</th><td>Tracy McParland</td></tr>
+<tr><th>Vocals</th><td>Arran United Churches Choir</td></tr>
+<tr><th>Production assistant</th><td>Lisbeth-Anne McLaughlin</td></tr>
+<tr><th>Vocals</th><td>Cowal United Churches Choir</td></tr>
+<tr><th>Series producer</th><td>Stuart Kremer</td></tr>
+<tr><th>Vocals</th><td>Bute United Churches Choir</td></tr>
+<tr><th>Producer</th><td>Stuart Miller</td></tr>
+<tr><th>Editor</th><td>Helen Alexander</td></tr>
+<tr><th>Production company</th><td>BBC Television</td></tr>
+</table>
 
-**Related Website:**
-<span class="post-categories">[IMDB](http://www.imdb.com/title/tt3341422)</span>
