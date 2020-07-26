@@ -93,7 +93,7 @@ An excerpt of Lena singing I Should Have Listened To Mama from the final episode
 <tr><th>Clip of:</th><td>Lena Zavaroni</td></tr>
 </table>
 
-### Credits
+### Crew
 <table>
 <tr><th>Designer:</th><td>Stuart McCarthy</td></tr>
 <tr><th>Videotape Editor:</th><td>Roger Holmes</td></tr>
