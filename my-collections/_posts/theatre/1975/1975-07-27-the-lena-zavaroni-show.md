@@ -3,7 +3,7 @@ layout: post
 title: The Lena Zavaroni Show
 subtitle: The Ocean Theatre, Clacton Pier, Claton-on-sea
 description: Lena Zavaroni starred in her own show at The Ocean Theatre, Clacton Pier, Claton-on-sea.
-image: /assets/images/locations/the-pier-at-clacton-on-sea-200x200.png
+image: /assets/images/locations/the-pier-at-clacton-on-sea.jpg
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
