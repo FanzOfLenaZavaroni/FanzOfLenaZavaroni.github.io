@@ -7,9 +7,6 @@ image: /assets/images/steve-hayter-hornsea-carnival/1979-07-04-hornsea-carnival-
 categories: [Personal Appearances]
 ---
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0" nonce="gVu4nYmO"></script>
-
 <table  style="text-align:center;">
 <tr><th colspan="4">Jump To:</th></tr>
 
