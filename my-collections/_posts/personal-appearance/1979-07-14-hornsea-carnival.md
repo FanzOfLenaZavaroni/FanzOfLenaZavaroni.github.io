@@ -19,10 +19,6 @@ categories: [Personal Appearances]
 <td><a href="#photos-copyright-steve-hayter-14-july-1979">Photo Set 2</a></td>
 <td><a href="#photos-copyright-anne-marie-smith-14-july-1979">Photo Set 3</a></td>
 </tr>
-
-<tr>
-<td colspan="4"><a href="#fanz-of-lena-zavaroni-facebook-page---missing-photos-and-comments">Fanz of Lena Zavaroni Missing Photos and Comments</a></td>
-</tr>
 </table>
 
 ### Celebrity Guests That Attended The Carnival
@@ -127,5 +123,5 @@ As the main meaning is that he will be having sex with her at some stage. So he 
 </table>
 
 ### Google Map
-* [Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=53.91270380000004%2C-0.16948649999994814&z=19)
+* [Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=53.91116020000001%2C-0.1704709000000082&z=19)
 
