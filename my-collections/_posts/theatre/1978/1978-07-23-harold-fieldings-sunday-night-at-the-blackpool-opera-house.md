@@ -3,24 +3,27 @@ layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
-image: /assets/images/publicity/1978-lena-zavaroni.jpg
+image: /assets/images/theatres/1978-07-23-programme-cover.jpg
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
 ---
 
 <table style="text-align:center;">
-<tr><th colspan="6">Jump To</th></tr>
+<tr><th colspan="5">Jump To</th></tr>
 
 <tr>
+<td><a href="#cover-and-inside-of-programme">Cover And Inside Of Programme</a></td>
 <td><a href="#publicity-photo">Publicity Photo</a></td>
 <td><a href="#programme">Programme</a></td>
 <td><a href="#support">Support</a></td>
 <td><a href="#organisers">Organisers</a></td>
-<td><a href="#facebook-comments-that-helped-with-details-for-this-performance">Facebook Comments</a></td>
-<td><a href="#facebook-shared-memories">Facebook Shared Memories</a></td>
 </tr>
 </table>
 
 Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
+
+### Cover And Inside Of Programme
+[![](/assets/images/theatres/1978-07-23-programme-cover.jpg){: .height}{: .zoom-in}](/assets/images/theatres/1978-07-23-programme-cover.jpg)
+[![](/assets/images/theatres/1978-07-23-programme-inside.jpg){: .height}{: .zoom-in}](/assets/images/theatres/1978-07-23-programme-inside.jpg)
 
 ### Publicity Photo
 > ![](/assets/images/publicity/1978-lena-zavaroni.jpg)
@@ -51,42 +54,6 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 <tr><th style="width:440px;">Director Of Lena Zavaroni PLC and Signee of the contract for Lena Zavaroni's performance in the show:</th><td>Victor Zavaroni</td></tr>
 </table>
 
-### Facebook Comments That helped with details for this performance
-* Reconstructed from archive. Sadly the Facebook Arcive of Fanz of Lena Zavaroni does not contain any of the images.
-
-### 23 July 2019 - Post 1
-<span class="fb">**Stephen Molloy** With The Dallas Boys, Wayne King,Charlie Williams, The Third Kind (dancers?), Stuart Atkins and The Opera House Orchestra, musical director Arthur Dakin.</span>
-
-### 23 July 2019 - Reply 1
-<span class="fb">[Fanz of Lena Zavaroni](https://www.facebook.com/fanzoflenazavaroni/posts/1650127291786831?comment_id=1650230601776500&reply_comment_id=1650450561754504&comment_tracking=%7B%22tn%22%3A%22R%22%7D) Thanks for the cast list, will update the page once I have done my food shopping.</span>
-
-
-### 23 July 2019 - Posts 2 & 3
-* Posts 2 & 3 were scans of the programme, while the images are not part of the Facebook Arcive, ~~I'm sure I got the scans saved somewhere once I can locate them I will add them.~~
-* My Thanks to **Stephen Molloy** for reposting the programme.
-
-<div class="center">
-<div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044148839220/?type=3">Wednesday, 22 July 2020</a></blockquote></div>
-</div>
-<br />
-<div class="center">
-<div class="fb-post" data-href="https://www.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/?type=3" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Loving-Lena-Zavaroni-102713158005653/">Loving Lena Zavaroni</a> on&nbsp;<a href="https://developers.facebook.com/102713158005653/photos/a.102721601338142/161044345505867/?type=3">Wednesday, 22 July 2020</a></blockquote></div>
-</div>
-
-### Facebook Shared Memories
-### 23 July 2019 - Post 4
-<span class="fb">**Victoria Paula Roberts** saw this with my nan. Remember being disappointed Lena never wore a dress because I seem to remember a green sparkly outfit, but I suppose she was 14 by then!</span>
-
-### 23 July 2019 - Reply 2
-<span class="fb">![](/assets/images/comics/1978-07-22-buy-the-costume.png){: .height}{: .left}
-**Fanz of Lena Zavaroni** I'm guessing the green outfit may have been this one. <br /><br />Thank you for sharing your memory of seeing Lena.</span>
-
-### 23 July 2019 - Post 5
-<span class="fb">**Victoria Paula Roberts** Yes! Saw Lena summer 1975 (Southport) September 1976(Blackpool) April 1977(Southport) and then 1978. Remember the other shows because I met her backstage. Lovely memories.</span>
-
-### 23 July 2019 - Reply 3
-<span class="fb">**Fanz of Lena Zavaroni** Wonderful that you got to see Lena that many times and glad you still got your memories of her.<br /><br />As with the passing of Lena all we have left to keep her alive is our memories and so long as one person remembers Lena then she can live on.</span>
-
 ### Research
 > Research is on going and hopefully I will be able to add more details
 >
@@ -101,8 +68,7 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 <cite>Robcamstone</cite>
 
 <style>
-.height {width:auto; height:200px;}
-.center {text-align: center;}
+.height {width:auto; height:318.87px;}
 .fb {
     background-color: #f2f3f5;
     box-sizing: border-box;
@@ -118,7 +84,4 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
     width: 100%;
 }
 </style>
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0" nonce="vfZ7tDuZ"></script>
 
