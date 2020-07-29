@@ -27,7 +27,7 @@ categories: [Personal Appearances]
 
 ### Celebrity Guests That Attended The Carnival
 <table>
-<tr><th style="width:160px; vertical-align:top;">Singer</th><td>Lena Zavaroni declared the Carnival open, then stayed for a short time to meet her fans and members of the public.</td></tr>
+<tr><th style="width:160px; vertical-align:top;">Singer:</th><td>Lena Zavaroni declared the Carnival open, then stayed for a short time to meet her fans and members of the public.</td></tr>
 <tr><th style="width:160px; vertical-align:top;">Actors:</th><td>Wilfrid Brambell and Harry H. Corbett as Steptoe and Son.</td></tr>
 <tr><th style="width:160px; vertical-align:top;">Comedy Double Act:</th><td>Mike &amp; Bernie Winters.</td></tr>
 <tr><th style="width:160px; vertical-align:top;">Disappointing:</th><td>Bernie Winters mentioned to someone that the princess’s dress was coming off, when they replied that it wasn’t, he said “It will be later”.</td></tr>
