@@ -62,8 +62,6 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
 >
 > You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
->
-> My thanks to **Stephen Molloy** for additional details and to **Victoria Paula Roberts** for her memories of seeing Lena Zavaroni.
 
 <cite>Robcamstone</cite>
 
