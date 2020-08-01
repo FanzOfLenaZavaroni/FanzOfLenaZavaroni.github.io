@@ -652,7 +652,7 @@ if (month == '8' && day == '01') {
 OnThisDay ='/onthisday/08/08-01.html';
 }
 if (month == '8' && day == '02') {
-OnThisDay ='/onthisday/07/07-02.html';
+OnThisDay ='/onthisday/08/08-02.html';
 }
 if (month == '8' && day == '03') {
 OnThisDay ='/onthisday/08/08-03.html';
