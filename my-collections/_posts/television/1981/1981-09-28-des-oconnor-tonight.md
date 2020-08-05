@@ -7,6 +7,7 @@ image: /assets/images/
 categories: [BBC Two]
 ---
 
+### Synopsis
 > Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are: from Britain: Jim Davidson, Lena Zavaroni and from America Garry Shandling.
 >
 > Lena performs her then new single Somewhere South Of Macon, then she joins Des to duet on Nice and Easy and Love Will Keep Us Together.
@@ -15,10 +16,10 @@ categories: [BBC Two]
 
 ### Cast
 <table>
-<tr><th>Host</tr><td>Des O'Connor</td></tr>
-<tr><th>Comedian</tr><td>Jim Davidson</td></tr>
-<tr><th>Singer</tr><td>Lena Zavaroni</td></tr>
-<tr><th>Comedian</tr><td>Garry Shandling</td></tr>
+<tr><th>Host</th><td>Des O'Connor</td></tr>
+<tr><th>Comedian</th><td>Jim Davidson</td></tr>
+<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr><th>Comedian</th><td>Garry Shandling</td></tr>
 </table>
 
 <style>
