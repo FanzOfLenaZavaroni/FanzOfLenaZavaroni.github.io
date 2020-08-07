@@ -11,14 +11,17 @@ categories: [Theatre, The Lena Zavaroni Show]
 
 <cite>The Pavilion, Bournemouth Copyright [Barry Shimmon ](https://www.geograph.org.uk/profile/20970) and licensed for reuse under this [Creative Commons Licence](http://creativecommons.org/licenses/by-sa/2.0/)</cite>
 
-**Research is on going and hopefully I will be able to add more details**
+### Research
+> Research is on going and hopefully I will be able to add more details
+>
 > If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
 >
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
 >
-> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or contact me on [Fanz of Lena Zavaroni](https://www.facebook.com/fanzoflenazavaroni) Facebook Page.
+> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
 <cite>Robcamstone</cite>
 
-**Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.71774129999999%2C-1.8749904000000015&z=19)</span>
+### Google Map
+* [Fanz of Lena Zavaroni (Mapping Lena Zavaroni's life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.71774129999999%2C-1.8749904000000015&z=19)
+
