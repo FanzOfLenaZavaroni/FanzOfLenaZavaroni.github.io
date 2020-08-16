@@ -3,7 +3,7 @@ layout: post
 title: The Sunday Celebrity Show
 subtitle: Winter Gardens, Margate
 description: Lena Zavaroni stars in her own show at The Winter Gardens, Margate.
-image: /assets/images/theatres/1975-08-17-The Sunday Celebrity Show-200x200.png
+image: /assets/images/theatres/1975-08-17-The Sunday Celebrity Show.jpg
 categories: [Theatre]
 ---
 
