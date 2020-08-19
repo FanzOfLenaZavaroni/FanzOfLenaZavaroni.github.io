@@ -24,7 +24,7 @@ categories: [Dave]
 **Producers:** Chris Hill and Richard Ward
 
 ### Details related to Lena Zavaroni
-Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's dancers and a short clip of Lena Zavaroni and Danny John-Jules is shown the clip is from [series 2, episode 4 of Lena]().
+Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's dancers and a short clip of Lena Zavaroni and Danny John-Jules is shown the clip is from [series 2, episode 4 of Lena](/bbc%20one/lena%20-%20series%202/1981/04/29/lena.html).
 
 ### Screenshot
 > ![](/assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg)
