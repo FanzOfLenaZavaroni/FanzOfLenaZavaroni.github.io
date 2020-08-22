@@ -3,7 +3,7 @@ layout: post
 title: The Herald Scotland
 subtitle: Home town memorial to Lena Zavaroni unveiled
 description: An anorexia sufferer, who has taken the name of a singing star who died of the disease, is fighting for better respite care. Ellie Zavaroni, who took the name of her friend Lena Zavaroni after the singer died in 1999, is battling againt the debilitating disease...
-image: /assets/images/BBC/2002-08-08-bbc-news-200x200.png
+image: https://live.staticflickr.com/3327/3548682160_273044813a_o_d.jpg
 categories: [The Herald Scotland]
 ---
 
