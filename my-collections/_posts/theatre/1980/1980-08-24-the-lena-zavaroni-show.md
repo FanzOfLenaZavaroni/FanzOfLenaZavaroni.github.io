@@ -2,17 +2,20 @@
 layout: post
 title: The Lena Zavaroni Show
 subtitle: The Drake Theatre, Plymouth
-description: Starring Lena Zavaroni
+description: Starring Lena Zavaroni at The Drake Theatre, Plymouth
 categories: [Theatre, The Lena Zavaroni Show]
 ---
 
 Songs included Even Now, I Can't Live Without You, Jump Down Jimmy and La Zavaroni.
 
-**Research is on going and hopefully I will be able to add more details**
+### Research
+> Research is on going and hopefully I will be able to add more details
+>
 > If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
 >
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
 >
-> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or contact me on [Fanz of Lena Zavaroni](https://www.facebook.com/fanzoflenazavaroni) Facebook Page.
+> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
 <cite>Robcamstone</cite>
+
