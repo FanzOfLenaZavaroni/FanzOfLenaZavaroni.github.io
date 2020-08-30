@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jerry Lewis MDA Labor Day Telethon
-subtitle: Charity fundraising Telethon for the Muscular Distrophy Association
-description: Charity fundraising Telethon for the Muscular Distrophy Association.
+subtitle: Charity fundraising Telethon for the Muscular Dystrophy Association
+description: Charity fundraising Telethon for the Muscular Dystrophy Association.
 image: /assets/images/US-TV/1974-08-31-jerry-lewis-mda-labor-day-telethon.jpg
 categories: [US Television]
 ---
@@ -25,7 +25,7 @@ categories: [US Television]
 <cite>[Robcamstone](https://github.com/fanzoflenazavaroni)</cite>
 
 ### Jerry Lewis MDA
-> Jerry has been honorary chairman of the Muscular Distrophy Association for many years.
+> Jerry has been honorary chairman of the Muscular Dystrophy Association for many years.
 
 <cite>Telethon proceeds: [WebCite query result](http://www.webcitation.org/5knut3p0h)</cite>
 
