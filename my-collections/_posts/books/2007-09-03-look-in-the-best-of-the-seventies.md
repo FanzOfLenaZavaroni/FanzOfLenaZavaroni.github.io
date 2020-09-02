@@ -24,5 +24,3 @@ categories: [Books, Look-In]
 ### A Photograph Of Lena And Her Pony
 > ![1977-lena-and-her-pony](/assets/images/publicity/1977-lena-and-her-pony.png)
 
-<cite>**Note:** Photograph not part of the Look-in article added here for reference. </cite>
-
