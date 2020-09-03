@@ -9,6 +9,8 @@ categories: [Theatre, The Lena Zavaroni Show]
 
 Lena Zavaroni was taken ill and so the Bachelors stood in for her.
 
+**Note:** Like Lena Zavaroni The Bachelors were managed by the Solomon's.
+
 ### Facebook Post
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0" nonce="4k11A7lD"></script>
