@@ -26,23 +26,27 @@ categories: [BBC One]
 >
 > The Show closed with Lena, The dancers, Adrian Hedley, Paul Nicholas and Wayne Sleep singing Give My Regards to Broadway from the musical Little Johnny Jones the End Credits are run while they perform this song.
 
-<cite>[Fanz of Lena Zavaroni (Robcamstone)](https://www.imdb.com/title/tt2692686/plotsummary#summaries)
+<cite>Robcamstone</cite>
 
-**Cast**
-* **Hostess and Signer:** Lena Zavaroni
-* **Singer:** Paul Nicholas
-* **Mime Artist:** Adrian Hedley
+### Cast
+<table>
+<tr><th>Hostess and Signer:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Singer:</th><td>Paul Nicholas</td></tr>
+<tr><th>Mime Artist:</th><td>Adrian Hedley</td></tr>
+</table>
 
-**Crew**
-* **Directed By:** Alyn Ainsworth
-* **Choreography :** Dougie Squires
-* **Make-Up:** Frances Needham
-* **Costume Designer:** Dorinda Rea
-* **Sound:** Adrian Bishop-Laggett
-* **Lighting:** Ken MacGregor
-* **Designer:** Vie Meredith
-* **Producer:** Robin Nash
+### Crew
+<table>
+<tr><th>Directed By:</th><td>Alyn Ainsworth</td></tr>
+<tr><th>Choreography :</th><td>Dougie Squires</td></tr>
+<tr><th>Make-Up:</th><td>Frances Needham</td></tr>
+<tr><th>Costume Designer:</th><td>Dorinda Rea</td></tr>
+<tr><th>Sound:</th><td>Adrian Bishop-Laggett</td></tr>
+<tr><th>Lighting:</th><td>Ken MacGregor</td></tr>
+<tr><th>Designer:</th><td>Vie Meredith</td></tr>
+<tr><th>Producer:</th><td>Robin Nash</td></tr>
+</table>
 
-**Related Websites:**
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/dfb877e6761846d5af69d9f4f882ee2d)&nbsp;
-[IMDb](https://www.imdb.com/title/tt2692686)</span>
+### Related Websites
+* [BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1978-09-06#at-18.40)
+
