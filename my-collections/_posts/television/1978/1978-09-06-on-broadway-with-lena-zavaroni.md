@@ -30,14 +30,14 @@ categories: [BBC One]
 
 ### Cast
 <table>
-<tr><th>Hostess and Signer:</th><td>Lena Zavaroni</td></tr>
+<tr><th style="width:50%;">Hostess and Signer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Singer:</th><td>Paul Nicholas</td></tr>
 <tr><th>Mime Artist:</th><td>Adrian Hedley</td></tr>
 </table>
 
 ### Crew
 <table>
-<tr><th>Directed By:</th><td>Alyn Ainsworth</td></tr>
+<tr><th style="width:50%;">Directed By:</th><td style="width:50%;">Alyn Ainsworth</td></tr>
 <tr><th>Choreography :</th><td>Dougie Squires</td></tr>
 <tr><th>Make-Up:</th><td>Frances Needham</td></tr>
 <tr><th>Costume Designer:</th><td>Dorinda Rea</td></tr>
