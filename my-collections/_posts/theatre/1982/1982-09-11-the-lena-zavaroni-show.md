@@ -4,7 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: The Grand Theatre, Leeds
 description:
 image: /assets/images/locations/
-categories: [Theatre, The Lena Zavaroni Show]
+categories: [Theatre, The Grand Theatre Leeds]
 ---
 
 Lena Zavaroni was taken ill and so the Bachelors stood in for her.

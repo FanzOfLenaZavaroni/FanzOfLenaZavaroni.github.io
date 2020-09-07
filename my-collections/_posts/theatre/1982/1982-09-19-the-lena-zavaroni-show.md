@@ -4,7 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: New Brighton
 description: Lena retired from the show during the first song, due to illness, and the rest of the show was cancelled.
 image: /assets/images/the-girl-from-rothesay/the-girl-from-rothesay-page-21.jpg
-categories: [Theatre, The Lena Zavaroni Show]
+categories: [Theatre, New Brighton]
 ---
 
 [![](/assets/images/the-girl-from-rothesay/the-girl-from-rothesay-page-20.jpg){: .width}{: .zoom-in}](/assets/images/theatres/The Girl From Rothesay-page-20.jpg)

@@ -4,7 +4,7 @@ title: Sunday All Star Celebrity Concert
 subtitle: The Winter Gardens, Bournemouth
 description:
 image: /assets/images/theatres/
-categories: [Theatre]
+categories: [Theatre, The Winter Gardens Bournemouth]
 ---
 
 ### Performers
