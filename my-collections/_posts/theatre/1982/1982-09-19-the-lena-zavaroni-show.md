@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
-subtitle: Unknown Venue, New Brighton
+subtitle: New Brighton
 description: Lena retired from the show during the first song, due to illness, and the rest of the show was cancelled.
 image: /assets/images/the-girl-from-rothesay/the-girl-from-rothesay-page-21.jpg
 categories: [Theatre, The Lena Zavaroni Show]
@@ -15,6 +15,6 @@ categories: [Theatre, The Lena Zavaroni Show]
 <cite>Jill Barnett and Jean</cite>
 
 <style>
-.width {width:367.79; height:auto;}
+.width {width:367.79px; height:auto;}
 </style>
 
