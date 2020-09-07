@@ -8,12 +8,14 @@ categories: [Theatre]
 ---
 
 ### Performers
-* Lena Zavaroni
-* Tony Evans
-* The Sunshine Girls
-* Adrian Walsh
-* Maurice Merry Orc
-* Dailey & Wayne
+<table>
+<tr><th style="width:50%;">Scottish Singer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
+<tr><th>? Details Unknown:</th><td>Tony Evans</td></tr>
+<tr><th>? Details Unknown:</th><td>The Sunshine Girls</td></tr>
+<tr><th>Irish comedian :</th><td>Adrian Walsh</td></tr>
+<tr><th>Orchestra :</th><td>Maurice Merry Orchestra</td></tr>
+<tr><th>Comedy Duo :</th><td>Dailey & Wayne</td></tr>
+</table>
 
 ### Research
 > Research is on going and hopefully I will be able to add more details
@@ -26,6 +28,6 @@ categories: [Theatre]
 
 <cite>Robcamstone</cite>
 
-**Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.7177435%2C-1.8815762000000404&z=19)</span>
+### Google Map
+* [Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&hl=en&ll=50.7177435%2C-1.8815762000000404&z=19)
 

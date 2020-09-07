@@ -7,36 +7,43 @@ image: /assets/images/BBC/1987-09-18-blankety-blank.jpg
 categories: [BBC One]
 ---
 
-![](/assets/images/BBC/1987-09-18-blankety-blank.jpg)
+![](/assets/images/BBC/1987-09-18-blankety-blank.jpg){: .left}
+### Question
 
 > Oliver Twist refused to go up and ask for any more 'BLANKS'
 
-<cite>Les Dawson's Question</cite>
+<cite>Les Dawson</cite>
 
 > Chips
 
 <cite>Lena Zavaroni's answer</cite>
 
-**Cast**
-* **Presenter:** Les Dawson
-* **Panellist:** Lynda Baron
-* **Panellist:** Roy Castle
-* **Panellist:** John Conteh
-* **Panellist:** Linda Nolan
-* **Panellist:** Mike Reid
-* **Panellist:** Lena Zavaroni
+<br>{: .clear}
 
-**Crew**
-* **Musical accompaniment:** Ronnie Hazelhurst
-* **Sound:** Michael McCarthy
-* **Lighting:** Alan Horne
-* **Production manager:** Mike Pearce
-* **Design:** Chris Webster
-* **Director:** Geoff Miles
-* **Producer:** Stanley Appel
-* **Production company:** Talbot Television for the BBC
-* **Subtitles:** Ceefax
+### Cast
+<table>
+<tr><th>Presenter</th><td>Les Dawson</td></tr>
+<tr><th>Panellist</th><td>Lynda Baron</td></tr>
+<tr><th>Panellist</th><td>Roy Castle</td></tr>
+<tr><th>Panellist</th><td>John Conteh</td></tr>
+<tr><th>Panellist</th><td>Linda Nolan</td></tr>
+<tr><th>Panellist</th><td>Mike Reid</td></tr>
+<tr><th>Panellist</th><td>Lena Zavaroni</td></tr>
+</table>
 
-**Related Websites:**
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/5fe6b22cdf7a4a99aa3020ff8ccbf511)&nbsp;
-[IMDb](http://www.imdb.com/title/tt3087266)</span>
+### Crew
+<table>
+<tr><th>Musical accompaniment</th><td>Ronnie Hazelhurst</td></tr>
+<tr><th>Sound</th><td>Michael McCarthy</td></tr>
+<tr><th>Lighting</th><td>Alan Horne</td></tr>
+<tr><th>Production manager</th><td>Mike Pearce</td></tr>
+<tr><th>Design</th><td>Chris Webster</td></tr>
+<tr><th>Director</th><td>Geoff Miles</td></tr>
+<tr><th>Producer</th><td>Stanley Appel</td></tr>
+<tr><th>Production company</th><td>Talbot Television for the BBC</td></tr>
+<tr><th>Subtitles</th><td>Ceefax</td></tr>
+</table>
+
+### Related Websites
+* [BBC Genome](https://genome.ch.bbc.co.uk/5fe6b22cdf7a4a99aa3020ff8ccbf511)
+
