@@ -3,7 +3,7 @@ layout: post
 title: Billboard
 subtitle: Newspaper
 description:
-image: /assets/images/magazines/1974-09-14-billboard-200x200.png
+image: /assets/images/magazines/1974-09-14-billboard-page-56.jpg
 categories: [Newspapers, Billboard]
 ---
 
