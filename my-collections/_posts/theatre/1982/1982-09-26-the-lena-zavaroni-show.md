@@ -8,14 +8,12 @@ categories: [Theatre, Falkirk]
 
 The management at the Falkirk venue had heard what had happened the previous week at [New Brighton](/theatre/new%20brighton/1982/09/19/the-lena-zavaroni-show.html) and would not allow Lena to perform and cancelled the show.
 
-### Research
-> Research is on going and hopefully I will be able to add more details
+### comment
+> Pleased that the Falkirk management chose to prevent Lena from performing as it's not often that we see the health of Lena put first.
 >
-> If anybody has information on what happen at this evening's show please let us know.
+> Shamefully it should have been the Solomons and Victor Zavaroni not only as the director of Lena Zavaroni PLC but more as a caring parent that should have cancelled the show.
 >
-> All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
->
-> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
+> Makes me wonder if Lena's managerment still claimed the revenue from the show as they had not cancelled it. I would not be surprised.
 
 <cite>Robcamstone</cite>
 

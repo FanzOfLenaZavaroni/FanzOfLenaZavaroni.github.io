@@ -15,7 +15,7 @@ categories: [Theatre, The Winter Gardens Bournemouth]
 <tr><th>Irish comedian :</th><td>Adrian Walsh</td></tr>
 <tr><th>Music :</th><td>Maurice Merry Orchestra</td></tr>
 <tr><th>Comedy Duo :</th><td>Dailey & Wayne</td></tr>
-<tr><td colspan="2"><blockquote>Where there is a leading Question mark it means that I have been unable to confirm that bit of information but what is given is believed to be the most likely detail about the individual that is correctly named.</blockquote><cite>Robcamstone</cite></td></tr>
+<tr><td colspan="2"><blockquote>Where there is a leading Question mark it means that I have been unable to confirm that bit of information but what is given is believed to be the most likely detail about the individual(s) that is correctly named.</blockquote><cite>Robcamstone</cite></td></tr>
 </table>
 
 ### Research
