@@ -41,7 +41,6 @@ header_pages:
    - biographies.md
    - discography.md
    - onthisday.md
-   - mewe.md
 
 collections_dir: my-collections
 collections:
