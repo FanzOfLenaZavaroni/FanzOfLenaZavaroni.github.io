@@ -32,7 +32,9 @@ Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's 
 <cite>Screenshot: From left to right; Craig Charles, Danny John-Jules, Chris Barrie and Robert Llewellyn &copy; Dave 2020</cite>
 
 ### YouTube Clip
-> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/DljMPkYCuEw?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+> <div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/DljMPkYCuEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <cite>Clip of Danny John-Jules and Lena Zavaroni &copy; believed to be BBC 1981</cite>
+
+
 
