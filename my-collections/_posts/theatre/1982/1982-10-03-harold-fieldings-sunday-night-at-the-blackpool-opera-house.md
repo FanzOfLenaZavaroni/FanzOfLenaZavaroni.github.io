@@ -6,6 +6,8 @@ description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contrac
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
 ---
 
+**Unable to confirm if the show was canceled, it should have been if Lena followed the order to rest for 6 weeks.**
+
 Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 The Contract for the show was signed by Victor Zavaroni director of Lena Zavaroni Public Limited Company.
@@ -21,3 +23,4 @@ The Contract for the show was signed by Victor Zavaroni director of Lena Zavaron
 > You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
 <cite>Robcamstone</cite>
+
