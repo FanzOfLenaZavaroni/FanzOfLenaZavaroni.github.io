@@ -282,7 +282,7 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 
 <cite>[ITN Source via The Way-back Machine](https://web.archive.org/web/20151105074146/http://www.itnsource.com/en/shotlist//ITN/1999/12/08/BSP081299009/?s=Lena)</cite>
 
-**List Of The So Called Natural Causes**
+### List Of The So Called Natural Causes
 > * So It is perfectly natural to believe that a patient with severe depression can make an informed choice.
 * So It is perfectly natural to be thin and extremely under weight.
 * So It is perfectly natural to not find out the root cause of the depression and treat that, but instead just isolate parts of the brain.
