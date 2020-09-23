@@ -6,6 +6,8 @@ description:
 categories: [Deleted Online Articles]
 ---
 
+### **NOTE:** The Article is no longer available via the CCHR Website, which is why I have published it in full below:
+
 > Reports of Lena Zavaroni’s death, described as one of natural causes, is littered with failures and nebulous explanations about the treatment she received during the years leading up to her death. Many give mere justifications why the treatments did not work and emphasise the “huge problems faced in attempting to treat her illness.”
 >
 > The inquest heard that a friend of Ms Zavaroni wrote to the hospital to inquire about brain surgery in 1998. Brian Simpson, the consultant neurosurgeon who carried out the operation at the University Hospital of Wales said that he had been satisfied that all the requirements of the 1983 Mental Health Act had been strictly adhered to in that all other possible treatments had been given before having to resort to brain surgery.
@@ -46,6 +48,3 @@ categories: [Deleted Online Articles]
 
 <cite>Citizens Commission on Human Rights</cite>
 
-> NOTE: The Article is no longer available via the CCHR Website, which is why I have published it in full here.
-
-<cite>Robcamstone</cite>
