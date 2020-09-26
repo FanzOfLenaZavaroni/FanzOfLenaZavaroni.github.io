@@ -21,18 +21,19 @@ categories: [Biography]
 
 <cite>[Wikipedia](https://en.wikipedia.org/wiki/Harold_Fielding)</cite>
 
-* **Birth name:** Harold Lewis Fielding
-* **Born:** 4 December 1916
-* **Origin:** Woking, Surrey, England
-* **Died:** 27 September 2003 (aged 86)
-* **Genres:** Musical theatre
-* **Occupation:** Theatre producer
+<table>
+<tr><th>Birth name</th><td>Harold Lewis Fielding</td></tr>
+<tr><th>Born</th><td>4 December 1916</td></tr>
+<tr><th>Origin</th><td>Woking, Surrey, England</td></tr>
+<tr><th>Died</th><td>27 September 2003 (aged 86)</td></tr>
+<tr><th>Genres</th><td>Musical theatre</td></tr>
+<tr><th>Occupation</th><td>Theatre producer</td></tr>
+</table>
 
 Harold Fielding played a large part in the career of Lena Zavaroni by providing her with regular appearances to headline his Sunday night shows at the Blackpool Opera House.
 
 See Category: [Harold Fielding](/categories/#Harold%20Fielding) for the list of Harold Fielding's Sunday Night at the Blackpool Opera House in which Lena Zavaroni appeared.
 
-**Related Website:**
-<span class="post-categories">
-[Obituary](https://www.theguardian.com/news/2003/oct/01/guardianobituaries.artsobituaries)
-</span>
+### Related Website
+* [Obituary](https://www.theguardian.com/news/2003/oct/01/guardianobituaries.artsobituaries)
+
