@@ -34,9 +34,6 @@ Harold Fielding played a large part in the career of Lena Zavaroni by providing 
 
 See Category: [Harold Fielding](/categories/#Harold%20Fielding) for the list of Harold Fielding's Sunday Night at the Blackpool Opera House in which Lena Zavaroni appeared.
 
-### Related Website
-* [Obituary](https://www.theguardian.com/news/2003/oct/01/guardianobituaries.artsobituaries)
-
 <style>
 .up {position:relative; top:-0.1em;}}
 </style>
