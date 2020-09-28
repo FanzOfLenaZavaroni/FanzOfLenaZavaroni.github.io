@@ -25,7 +25,7 @@ categories: [Biography]
 <tr><th>Birth name</th><td>Harold Lewis Fielding</td></tr>
 <tr><th>Born</th><td>4 December 1916</td></tr>
 <tr><th>Origin</th><td>Woking, Surrey, England</td></tr>
-<tr><th>Died</th><td>27 September 2003 (aged 86)</td></tr>
+<tr><th>Died</th><td>27 September 2003 (aged 86) <span class="up">&#8594;</span> <a href="https://www.theguardian.com/news/2003/oct/01/guardianobituaries.artsobituaries?fbclid=IwAR3kp02zkYWJKiY7wjLsn8cLz9NLD83a2tLmsvRJbgrljP-Nx42AR3QvA8s">Obituary</a></td></tr>
 <tr><th>Genres</th><td>Musical theatre</td></tr>
 <tr><th>Occupation</th><td>Theatre producer</td></tr>
 </table>
@@ -36,4 +36,8 @@ See Category: [Harold Fielding](/categories/#Harold%20Fielding) for the list of 
 
 ### Related Website
 * [Obituary](https://www.theguardian.com/news/2003/oct/01/guardianobituaries.artsobituaries)
+
+<style>
+.up {position:relative; top:-0.1em;}}
+</style>
 
