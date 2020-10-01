@@ -17,18 +17,24 @@ Given before an audience in The Grosse Sendesaal, West Berlin.
 
 <br />{: .clear}
 
-**Contributors:**
-* **Introduced by** Liane Rudolph for Sender Freies Berlin (SFB)
-* **Introduced by** Robin Boyle for the British Broadcasting Corporation (BBC)
-* Robert Farnon and the BBC Radio Orchestra
-* **Leader:** Michael Tomalin
-* Alyn Ainsworth and the Radio Big Band
-* **Leader:** Nigel Carter
-* **Guest artist:** Tony Christie
-* **Guest artist:** Jackie Trent
-* **Guest artist:** Lena Zavaroni
-* **Producer:** Peter Lichtwitz for Sender Freies Berlin (SFB)
-* **Producer:** Brian Willey for the British Broadcasting Corporation (BBC)
+### Contributors
+<table>
+<tr><th>Introduced by</th><td>Liane Rudolph for Sender Freies Berlin (SFB)</td></tr>
+<tr><th>Introduced by</th><td>Robin Boyle for the British Broadcasting Corporation (BBC)</td></tr>
+<tr><th></th><td>Robert Farnon and the BBC Radio Orchestra</td></tr>
+<tr><th>Leader:</th><td>Michael Tomalin</td></tr>
+<tr><th></th><td>Alyn Ainsworth and the Radio Big Band</td></tr>
+<tr><th>Leader:</th><td>Nigel Carter</td></tr>
+<tr><th>Guest artist:</th><td>Tony Christie</td></tr>
+<tr><th>Guest artist:</th><td>Jackie Trent</td></tr>
+<tr><th>Guest artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Producer:</th><td>Peter Lichtwitz for Sender Freies Berlin (SFB)</td></tr>
+<tr><th>Producer:</th><td>Brian Willey for the British Broadcasting Corporation (BBC)</td></tr>
+<tr><th>BBC Genome:</th><td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1976-10-02#at-20.45">Berlin Greets London - 2 October 1976</a></td></tr>
+</table>
 
-**Related Website:**
-<span class="post-categories">[BBC Genome](http://genome.ch.bbc.co.uk/dfc4bbf4b8e04170862d2e3ff82b76ee)</span>
+### Note
+> It's unconfirmed but more than likely that Alyn Ainsworth was involved in the musical arrangements/conducting of the music played for Lena Zavaroni's songs as he was involved in many of the TV shows on which Lena Zavaroni performed.
+
+<cite>Robcamstone</cite>
+
