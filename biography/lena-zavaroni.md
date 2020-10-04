@@ -254,7 +254,7 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 >
 > Miss Zavaroni, 35, died on Friday from an infection after experts at the University Hospital of Wales in Cardiff carried out delicate neurosurgery to try to cure her mental illness.
 
-<cite>Caring Online, 4 October 1999</cite>
+<cite>[Caring Online, 4 October 1999](/deleted%20online%20articles/1999/10/04/caringonline.html)</cite>
 
 > All we can say is there is a lot of unknowns:
 > * How did Lena Zavaroni contract Bronchopneumonia  while in a hospital?
