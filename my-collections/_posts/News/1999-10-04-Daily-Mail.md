@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Mail
+title: Daily Record
 subtitle: Newspaper
 description: 
 categories: [The News Letter]
