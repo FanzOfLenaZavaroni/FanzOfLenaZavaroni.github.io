@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: page
 title: Research
 ---
 
 5 October 2020 - Just started this list so hopefully it will grow over the next days, weeks, ECT.
-
-### Research
 
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list, but as the best research is done yourself this will not matter this is just to help push you in the right direction and is far from an exhaustive list.
 
@@ -14,7 +12,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: As you will find stockphoto websites don't seem to understand the importance of providing details on the photos or putting them into context which is a great shame and where dates and/or details are given you can't take the info at face value and will need to do addtional research to confirm what is given is correct.
 * ——: An addition of a website on this page is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.
 
-<table style="width:100%;text-align:center;color:#e4e4e4;">
+<table style="width:100%;text-align:center;color:#d3d3d3;">
 <tr><td>#</td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td>D</td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td>G</td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td></tr>
 <tr><td>N</td><td>O</td><td>P</td><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td>T</td><td>U</td><td>V</td><td>W</td><td>X</td><td>Y</td><td>Z</td><td></td></tr>
 </table>
@@ -85,4 +83,5 @@ The following is a list of websites and tips that may help you with your own res
 
 ### Z
 
-<div style="width:100%; height:600px;"></div>
+<div style="width:100%; height:300px;"></div>
+
