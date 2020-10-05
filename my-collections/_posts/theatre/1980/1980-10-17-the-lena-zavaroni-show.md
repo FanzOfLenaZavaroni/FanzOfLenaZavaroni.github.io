@@ -3,7 +3,7 @@ layout: post
 title: The Lena Zavaroni Show
 subtitle: The Webbington, Weston-Super-Mare
 description: Lena Zavaroni stars in her own show at The Webbington, Weston-Super-Mare. Lena later sued the Hotel group that owned the venue, due to alleged non-payment of her fees.
-categories: [Theatre, The Lena Zavaroni Show]
+categories: [Theatre, The Webbington]
 ---
 
 Lena Zavaroni stars in her own show at The Webbington, Weston-Super-Mare.
@@ -26,8 +26,8 @@ Lena Zavaroni stars in her own show at The Webbington, Weston-Super-Mare.
 
 <cite>Robcamstone</cite>
 
-**Google Map:**
-<span class="post-categories">[Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=51.2960239%2C-2.8869929999999613&z=19)</span>
+### Google Map
+* [Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=51.2960239%2C-2.8869929999999613&z=19)
 
 <style>
 .dt-published {display: none;}
@@ -35,3 +35,4 @@ Lena Zavaroni stars in her own show at The Webbington, Weston-Super-Mare.
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 </style>
+

@@ -3,7 +3,7 @@ layout: post
 title: Daily Record
 subtitle: Newspaper
 description: 
-categories: [The News Letter]
+categories: [Daily Record]
 ---
 
 ### OBSESSED FAN PREYED ON MY POOR LENA; FAMILY FURY: Tragic Star's Father Hits out after Friend Claims He Proposed to Her
