@@ -2,6 +2,7 @@
 layout: default
 title: Biographies
 ---
+
 <h1>Biographies</h1>
 
 <ul class="menu-font-size" style="list-style: none; margin-left: 0;">
