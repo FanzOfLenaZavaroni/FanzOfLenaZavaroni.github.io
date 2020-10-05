@@ -14,14 +14,13 @@ The following is a list of websites and tips that may help you with your own res
 
 <table style="width:100%;text-align:center;color:#d3d3d3;">
 <tr><td>#</td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td>D</td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td>G</td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td></tr>
-<tr><td>N</td><td>O</td><td>P</td><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td>T</td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td></td></tr>
+<tr><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td>T</td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td></td></tr>
 </table>
 
 ### #
 
 ### A
 * ——: [alamy.com](https://www.alamy.com/search.html?CreativeOn=1&adv=1&ag=0&all=1&creative=&et=0x000000000000000000000&vp=0&loc=0&qt=Lena%20Zavaroni&qn=&lic=6&lic=1&imgt=0&archive=1&dtfr=&dtto=&hc=&selectdate=&size=0xFF&aqt=&epqt=&oqt=&nqt=&gtype=0) Stockphoto Website.
-
 
 ### B
 
@@ -56,7 +55,8 @@ The following is a list of websites and tips that may help you with your own res
 * ——: [mirrorpix.com](https://www.mirrorpix.com/?77747130448317740800) Stockphotos from the Mirror newspaper
 
 ### N
-
+* ——: [newsbank search: Lena Zavaroni](https://infoweb.newsbank.com/apps/news/results?p=UKNB&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Lena%20Zavaroni&t=)
+   * ——: **Note:** You will need to log into Newsbank to get anything out of it, in the UK you can use your Library Name and Library Card ID to log in.
 ### O
 
 ### P
