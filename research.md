@@ -76,7 +76,7 @@ The following is a list of websites and tips that may help you with your own res
 ### V
 
 ### W
-* ——: [wikipedia: Lena Zavaroni](https://en.wikipedia.org/wiki/Lena_Zavaroni)
+* ——: [https://en.wikipedia.org/wiki/Lena_Zavaroni](https://en.wikipedia.org/wiki/Lena_Zavaroni)
 
 ### X
 
