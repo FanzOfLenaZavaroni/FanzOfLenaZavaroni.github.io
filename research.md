@@ -32,10 +32,10 @@ The following is a list of websites and tips that may help you with your own res
 ### E
 
 ### F
-* ——: [thefreelibrary](https://www.thefreelibrary.com/_/search/Search.aspx?SearchBy=0&q=lena+zavaroni&Search=Search&By=0) Newspapers - related to Lena Zavaroni.
+* ——: [thefreelibrary](https://www.thefreelibrary.com/_/search/Search.aspx?SearchBy=0&q=lena+zavaroni&Search=Search&By=0) Newspapers.
 
 ### G
-* ——: [gettyimages.co.uk](https://www.gettyimages.co.uk/photos/lena-zavaroni?family=editorial&phrase=Lena%20Zavaroni&sort=best#license) Stockphoto Website that also provides free embeding of some images. Number of photos available varies based on your location as indicated by your IP Adresss.
+* ——: [gettyimages.co.uk](https://www.gettyimages.co.uk/photos/lena-zavaroni?family=editorial&phrase=Lena%20Zavaroni&sort=best#license) Stockphoto Website that also provides free embeding of some images. The number of photos available varies based on your location as indicated by your IP Adresss.
 
 ### H
 
