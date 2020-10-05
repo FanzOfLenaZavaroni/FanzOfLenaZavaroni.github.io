@@ -14,7 +14,7 @@ The following is a list of websites and tips that may help you with your own res
 
 <table style="width:100%;text-align:center;color:#d3d3d3;">
 <tr><td>#</td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td>D</td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td>G</td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td></tr>
-<tr><td>N</td><td>O</td><td>P</td><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td>T</td><td>U</td><td>V</td><td>W</td><td>X</td><td>Y</td><td>Z</td><td></td></tr>
+<tr><td>N</td><td>O</td><td>P</td><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td>T</td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td></td></tr>
 </table>
 
 ### #
@@ -76,6 +76,7 @@ The following is a list of websites and tips that may help you with your own res
 ### V
 
 ### W
+* ——: [wikipedia: Lena Zavaroni](https://en.wikipedia.org/wiki/Lena_Zavaroni)
 
 ### X
 
