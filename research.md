@@ -3,8 +3,7 @@ layout: page
 title: Research
 ---
 
-This Page created on 5 October 2020 - Just started this list so hopefully it will grow over the next days, weeks, ECT.
-Last updated on 6 October 2020.
+This Page was created on 5 October 2020 and last updated on 6 October 2020.
 
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list, but as the best research is done yourself this will not matter this is just to help push you in the right direction and is far from an exhaustive list.
 
