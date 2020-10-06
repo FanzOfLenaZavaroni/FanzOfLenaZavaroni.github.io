@@ -18,9 +18,13 @@ The following is a list of websites and tips that may help you with your own res
 </table>
 
 <h3 id="numbers">#</h3>
-* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) Discography of Singles, 45s, 7" records.
-* ——: [45worlds: CD Albums](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) Discography of CDs
-* ——: [45worlds: Vinyl Albums](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) Discography of LPs, Albums, 33&#x2153; records.
+* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) Datebase  of Singles, 45s, 7" records.
+* ——: [45worlds: CD Albums](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) Datebase of CD Albums
+* ——: [45worlds: Magazines](http://www.45worlds.com/magazine/mg_search.php?sq=Lena+Zavaroni&sm=se) Datebase of Magazines
+* ——: [45spaces](http://www.45spaces.com/45s_search.php?sq=Lena+Zavaroni) A Community Space that covers a full range of subjects.
+* ——: [45worlds: Tape Media](http://www.45worlds.com/tape/ca_search.php?sq=Lena+Zavaroni&sm=se) Datebase of eight-track cartridges, Cassette Tapes.
+* ——: [45worlds: TV](http://www.45worlds.com/tvseries/tv_search.php?sq=Lena+Zavaroni&sm=se) Datebase of Television Shows.
+* ——: [45worlds: Vinyl Albums](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) Datebase of LPs, Albums, 33&#x2153; records.
 
 
 
