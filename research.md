@@ -13,7 +13,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: An addition of a website to this page is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.
 
 <table style="width:100%;text-align:center;color:#d3d3d3;">
-<tr><td><a href="##" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td>D</td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td></tr>
+<tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td>D</td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td></tr>
 <tr><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td></td></tr>
 </table>
 
