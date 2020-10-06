@@ -44,7 +44,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: [thefreelibrary](https://www.thefreelibrary.com/_/search/Search.aspx?SearchBy=0&q=lena+zavaroni&Search=Search&By=0) - Newspapers.
 
 ### G
-* ——: [Gale Primary Sources](https://go.gale.com/ps/start.do?p=GDCS&u=bro_ttda&sid=galepages) - UK visitors can log in with their Library Card ID.
+* ——: [Gale Primary Sources](https://go.gale.com/ps/start.do?p=GDCS&u=bro_ttda&sid=galepages) - UK visitors can log in with their Library Card ID Number.
 * ——: [gettyimages.co.uk](https://www.gettyimages.co.uk/photos/lena-zavaroni?family=editorial&phrase=Lena%20Zavaroni&sort=best#license) - Stockphoto Website that also provides free embeding of some images. The number of photos available varies based on your location as indicated by your IP Adresss.
 
 ### H
@@ -66,7 +66,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: [mirrorpix.com](https://www.mirrorpix.com/?77747130448317740800) - Stockphotos from the Mirror newspaper
 
 ### N
-* ——: [newsbank search: Lena Zavaroni](https://infoweb.newsbank.com/apps/news/results?p=UKNB&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Lena%20Zavaroni&t=) - You will need to log into Newsbank to get anything out of it, in the UK you can use your Library Name and Library Card ID to log in.
+* ——: [newsbank search: Lena Zavaroni](https://infoweb.newsbank.com/apps/news/results?p=UKNB&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Lena%20Zavaroni&t=) - You will need to log into Newsbank to get anything out of it, in the UK you can use your Library Name and Library Card ID Number to log in.
 
 ### O
 
@@ -81,7 +81,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: **site search** To search a specific website for specific keywords you can type site:URL keywords **An example:** [site:https://www.bbc.co.uk Lena Zavaroni](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02YRWPJs1dtRO3zqjBZlg_tHoOxYQ%3A1601898345057&ei=aQd7X8yCA6Sj1fAPv7e22Ao&q=site%3Ahttps%3A%2F%2Fwww.bbc.co.uk%2F+Lena+Zavaroni&oq=site%3Ahttps%3A%2F%2Fwww.bbc.co.uk%2F+Lena+Zavaroni&gs_lcp=CgZwc3ktYWIQAzoECAAQR1C7qAlY-dUMYIndDGgBcAN4AIABkQGIAeYBkgEDMS4xmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiM28qusJ3sAhWkURUIHb-bDasQ4dUDCA0&uact=5)
 
 ### T
-* ——: [THE TIMES DIGITAL ARCHIVE](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&sid=galepages&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fstart.do%3Fp%3DTTDA%26u%3Dbro_ttda%26sid%3Dgalepages&prodId=TTDA) - UK visitors can log in with their Library Card ID. <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [THE TIMES DIGITAL ARCHIVE](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&sid=galepages&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fstart.do%3Fp%3DTTDA%26u%3Dbro_ttda%26sid%3Dgalepages&prodId=TTDA) - UK visitors can log in with their Library Card ID Number. <span class="up">&#8592;</span> <span class="red">newly added</span>
 
 ### U
 
