@@ -3,7 +3,8 @@ layout: page
 title: Research
 ---
 
-5 October 2020 - Just started this list so hopefully it will grow over the next days, weeks, ECT.
+This Page created on 5 October 2020 - Just started this list so hopefully it will grow over the next days, weeks, ECT.
+Last updated on 6 October 2020.
 
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list, but as the best research is done yourself this will not matter this is just to help push you in the right direction and is far from an exhaustive list.
 
@@ -18,13 +19,13 @@ The following is a list of websites and tips that may help you with your own res
 </table>
 
 <h3 id="numbers">#</h3>
-* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) Datebase  of Singles, 45s, 7" records.
-* ——: [45worlds: CD Albums](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) Datebase of CD Albums
-* ——: [45worlds: Magazines](http://www.45worlds.com/magazine/mg_search.php?sq=Lena+Zavaroni&sm=se) Datebase of Magazines
-* ——: [45spaces](http://www.45spaces.com/45s_search.php?sq=Lena+Zavaroni) A Community Space that covers a full range of subjects.
-* ——: [45worlds: Tape Media](http://www.45worlds.com/tape/ca_search.php?sq=Lena+Zavaroni&sm=se) Datebase of eight-track cartridges, Cassette Tapes.
-* ——: [45worlds: TV](http://www.45worlds.com/tvseries/tv_search.php?sq=Lena+Zavaroni&sm=se) Datebase of Television Shows.
-* ——: [45worlds: Vinyl Albums](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) Datebase of LPs, Albums, 33&#x2153; records.
+* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) Datebase  of Singles, 45s, 7" records. <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [45worlds: CD Albums](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) Datebase of CD Albums <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [45worlds: Magazines](http://www.45worlds.com/magazine/mg_search.php?sq=Lena+Zavaroni&sm=se) Datebase of Magazines <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [45spaces](http://www.45spaces.com/45s_search.php?sq=Lena+Zavaroni) A Community Space that covers a full range of subjects. <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [45worlds: Tape Media](http://www.45worlds.com/tape/ca_search.php?sq=Lena+Zavaroni&sm=se) Datebase of eight-track cartridges, Cassette Tapes. <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [45worlds: TV](http://www.45worlds.com/tvseries/tv_search.php?sq=Lena+Zavaroni&sm=se) Datebase of Television Shows. <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [45worlds: Vinyl Albums](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) Datebase of LPs, Albums, 33&#x2153; records. <span class="up">&#8592;</span> <span class="red">newly added</span>
 
 
 
@@ -81,7 +82,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: **site search** To search a specific website for specific keywords you can type site:URL keywords **An example:** [site:https://www.bbc.co.uk Lena Zavaroni](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02YRWPJs1dtRO3zqjBZlg_tHoOxYQ%3A1601898345057&ei=aQd7X8yCA6Sj1fAPv7e22Ao&q=site%3Ahttps%3A%2F%2Fwww.bbc.co.uk%2F+Lena+Zavaroni&oq=site%3Ahttps%3A%2F%2Fwww.bbc.co.uk%2F+Lena+Zavaroni&gs_lcp=CgZwc3ktYWIQAzoECAAQR1C7qAlY-dUMYIndDGgBcAN4AIABkQGIAeYBkgEDMS4xmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiM28qusJ3sAhWkURUIHb-bDasQ4dUDCA0&uact=5)
 
 ### T
-* ——: [THE TIMES DIGITAL ARCHIVE](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&sid=galepages&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fstart.do%3Fp%3DTTDA%26u%3Dbro_ttda%26sid%3Dgalepages&prodId=TTDA) UK visitors can log in with their Library Card ID.
+* ——: [THE TIMES DIGITAL ARCHIVE](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&sid=galepages&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fstart.do%3Fp%3DTTDA%26u%3Dbro_ttda%26sid%3Dgalepages&prodId=TTDA) UK visitors can log in with their Library Card ID. <span class="up">&#8592;</span> <span class="red">newly added</span>
 
 ### U
 
@@ -97,4 +98,9 @@ The following is a list of websites and tips that may help you with your own res
 ### Z
 
 <div style="width:100%; height:300px;"></div>
+
+<style>
+.up {position: relative; top: -0.1em;}
+.red, .up {color:#ff0000;}
+</style>
 
