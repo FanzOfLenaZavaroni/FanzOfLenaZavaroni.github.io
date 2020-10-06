@@ -175,16 +175,25 @@ Has four types of procedures:
 
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
 
-### Mental Health Act 1984 - England and Wales
-
-Neurosurgery for Mental Disorder is covered by section 57 of the Mental Health Act 1983, which covers all patients, whether voluntary or detained under another section of the Act (sectioned). Under section 57, neurosurgery can be given only if all three of the following requirements are met:
+### Mental Health Act 1983 - England and Wales
+> Neurosurgery for Mental Disorder is covered by section 57 of the Mental Health Act 1983, which covers all patients, whether voluntary or detained under another section of the Act (sectioned). Under section 57, neurosurgery can be given only if all three of the following requirements are met:
+>
 * You consent to the treatment.
 * second opinion appointed doctor (SOAD) and two other people appointed by the Care Quality Commission in England or the Healthcare Inspectorate of Wales certify that you have the capacity to consent and have done so.
 * The SOAD also certifies that it is appropriate for you to receive the treatment.
+>
+> Your consent must be given free from undue pressure and with sufficient knowledge of the purpose, likelihood of success, risks and alternatives of the treatment.
+>
+> Could it ever be performed without my consent?
+>
+* No. In England and Wales, NMD cannot be performed without your consent, even if you lack the capacity to consent. The Mental Capacity Act may not be used to authorise a treatment which comes under section 57 of the Mental Health Act.
 
+<cite>[Consent to NMD | Mind, the mental health charity](https://www.mind.org.uk/information-support/drugs-and-treatments/neurosurgery-for-mental-disorder-nmd/consent-to-nmd#TheLawInEnglandAndWales)</cite>
+
+### Comment
 > This section of the Mental Health Act seems flawed How can an individual with severe mental heath problems make an informed chose if they are capable of making such a chose then I would argue that they don't need the surgical procedure.
 >
-> Informing those treating her that she will kill herself if she does not get the NMD is not consect but is as they believed Lena grounds for her being Sectioned.
+> Lena informing those treating her that she would kill herself if she does not get the NMD is not consect but is as they believed her treat grounds for Lena being Sectioned.
 
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
 

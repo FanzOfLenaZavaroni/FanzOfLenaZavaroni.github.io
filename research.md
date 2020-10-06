@@ -37,8 +37,6 @@ The following is a list of websites and tips that may help you with your own res
 * ——: [Gale Primary Sources](https://go.gale.com/ps/start.do?p=GDCS&u=bro_ttda&sid=galepages) UK visitors can log in with their Library Card ID.
 * ——: [gettyimages.co.uk](https://www.gettyimages.co.uk/photos/lena-zavaroni?family=editorial&phrase=Lena%20Zavaroni&sort=best#license) Stockphoto Website that also provides free embeding of some images. The number of photos available varies based on your location as indicated by your IP Adresss.
 
-
-
 ### H
 
 ### I
