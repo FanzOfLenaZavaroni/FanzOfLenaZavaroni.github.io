@@ -11,7 +11,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: While I don't like watermarking if the website has not broken copyright law by the use of watermarking then it may get a link.
 * ——: As you will find stockphoto websites don't seem to understand the importance of providing details on the photos or putting them into context which is a great shame and where dates and/or details are given you can't take the info at face value and will need to do addtional research to confirm what is given is correct.
 * ——: An addition of a website to this page is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.
-* ——: Any links that have "<span class="up">&#8592;</span> <span class="red">newly added</span>" at the end simply means that is a new link to this page and doesn't reflect the age of the linked website.
+* ——: Any links that have "<span class="up">&#8592;</span> <span class="red">newly added</span>" at the end simply means that is a new link added to this page and doesn't reflect the age of the linked website.
 
 <table style="width:100%;text-align:center;color:#d3d3d3;">
 <tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td>D</td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td></tr>
