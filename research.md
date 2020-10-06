@@ -18,8 +18,9 @@ The following is a list of websites and tips that may help you with your own res
 </table>
 
 <h3 id="numbers">#</h3>
-* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) Discology of Singles, 45s, 7" records.
-* ——: [45worlds: Vinyl Albums][http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se] Discology of LPs, Albums, 33&#x2153; records.
+* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) Discography of Singles, 45s, 7" records.
+* ——: [45worlds: CD Albums](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) Discography of CDs
+* ——: [45worlds: Vinyl Albums](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) Discography of LPs, Albums, 33&#x2153; records.
 
 
 
