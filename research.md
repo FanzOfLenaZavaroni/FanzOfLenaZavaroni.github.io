@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-This Page was created on 5 October 2020 and last updated on 6 October 2020.
+This Page was created on 5 October 2020 and last updated on 8 October 2020.
 
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list, but as the best research is done yourself this will not matter as this page is just to help push you in the right direction and is far from an exhaustive list.
 
@@ -19,14 +19,14 @@ The following is a list of websites and tips that may help you with your own res
 </table>
 
 <h3 id="numbers">#</h3>
-* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) - Datebase  of Singles, 45s, 7" records. <span class="up">&#8592;</span> <span class="red">newly added</span>
-* ——: [45spaces](http://www.45spaces.com/45s_search.php?sq=Lena+Zavaroni) - Communities for collectors, critics and the curious. <span class="up">&#8592;</span> <span class="red">newly added</span>
-* ——: [45worlds: CD Albums](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of CD Albums <span class="up">&#8592;</span> <span class="red">newly added</span>
-* ——: [45worlds: Live Music](http://www.45worlds.com/live/artist/lena-zavaroni) - Community dedicated to live music, concerts, festivals and gigs. <span class="up">&#8592;</span> <span class="red">newly added</span>
-* ——: [45worlds: Magazines](http://www.45worlds.com/magazine/mg_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of Magazines <span class="up">&#8592;</span> <span class="red">newly added</span>
-* ——: [45worlds: Tape Media](http://www.45worlds.com/tape/ca_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of eight-track cartridges, Cassette Tapes. <span class="up">&#8592;</span> <span class="red">newly added</span>
-* ——: [45worlds: TV](http://www.45worlds.com/tvseries/tv_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of Television Shows. <span class="up">&#8592;</span> <span class="red">newly added</span>
-* ——: [45worlds: Vinyl Albums](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of LPs, Albums, 33&#x2153; records. <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [45cat.com](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) - Datebase  of Singles, 45s, 7" records.
+* ——: [45spaces](http://www.45spaces.com/45s_search.php?sq=Lena+Zavaroni) - Communities for collectors, critics and the curious.
+* ——: [45worlds: CD Albums](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of CD Albums
+* ——: [45worlds: Live Music](http://www.45worlds.com/live/artist/lena-zavaroni) - Community dedicated to live music, concerts, festivals and gigs.
+* ——: [45worlds: Magazines](http://www.45worlds.com/magazine/mg_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of Magazines
+* ——: [45worlds: Tape Media](http://www.45worlds.com/tape/ca_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of eight-track cartridges, Cassette Tapes.
+* ——: [45worlds: TV](http://www.45worlds.com/tvseries/tv_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of Television Shows.
+* ——: [45worlds: Vinyl Albums](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of LPs, Albums, 33&#x2153; records.
 
 
 
@@ -47,6 +47,9 @@ The following is a list of websites and tips that may help you with your own res
 ### G
 * ——: [Gale Primary Sources](https://go.gale.com/ps/start.do?p=GDCS&u=bro_ttda&sid=galepages) - UK visitors can log in with their Library Card ID Number.
 * ——: [gettyimages.co.uk](https://www.gettyimages.co.uk/photos/lena-zavaroni?family=editorial&phrase=Lena%20Zavaroni&sort=best#license) - Stockphoto Website that also provides free embeding of some images. The number of photos available varies based on your location as indicated by your IP Adresss.
+* ——: [scholar.google.com](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lena+Zavaroni&btnG=) Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions. <span class="up">&#8592;</span> <span class="red">newly added</span>
+
+
 
 ### H
 
@@ -64,6 +67,7 @@ The following is a list of websites and tips that may help you with your own res
 ### M
 * ——: [mediastorehouse.com](https://www.mediastorehouse.com/dmcs-search.html?find=Lena+Zavaroni) - Stockphotos from the Mirror newspaper also see mirrorpix.com below.
    * ——: if you want to buy a photo you find on mirrorpix.com that is not show on mediastorehouse.com you can email them the mirrorpix.com photo ID and subject to copyright they can supply the photo shown.
+* ——: [Microsoft Academic](https://academic.microsoft.com/search?q=%22Lena%20Zavaroni%22&f=&orderBy=0&skip=0&take=10) a free public web search engine for academic publications and literature. <span class="up">&#8592;</span> <span class="red">newly added</span>
 * ——: [mirrorpix.com](https://www.mirrorpix.com/?77747130448317740800) - Stockphotos from the Mirror newspaper
 
 ### N
@@ -79,17 +83,18 @@ The following is a list of websites and tips that may help you with your own res
 ### R
 
 ### S
-* ——: **site search** To search a specific website for specific keywords you can type site:URL keywords **An example:** [site:https://www.bbc.co.uk Lena Zavaroni](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02YRWPJs1dtRO3zqjBZlg_tHoOxYQ%3A1601898345057&ei=aQd7X8yCA6Sj1fAPv7e22Ao&q=site%3Ahttps%3A%2F%2Fwww.bbc.co.uk%2F+Lena+Zavaroni&oq=site%3Ahttps%3A%2F%2Fwww.bbc.co.uk%2F+Lena+Zavaroni&gs_lcp=CgZwc3ktYWIQAzoECAAQR1C7qAlY-dUMYIndDGgBcAN4AIABkQGIAeYBkgEDMS4xmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiM28qusJ3sAhWkURUIHb-bDasQ4dUDCA0&uact=5)
+* ——: **site search** to search a specific website for specific keywords you can type site:URL keywords **An example:** [site:https://www.bfi.org.uk Lena Zavaroni](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.bfi.org.uk+Lena+Zavaroni&oq=site%3Ahttps%3A%2F%2Fwww.bfi.org.uk+Lena+Zavaroni&aqs=chrome..69i57j69i58.10978j0j4&sourceid=chrome&ie=UTF-8) Site search is usefull where a website does not have it's own search option or has a search that is ineffective.
+
 
 ### T
-* ——: [THE TIMES DIGITAL ARCHIVE](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&sid=galepages&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fstart.do%3Fp%3DTTDA%26u%3Dbro_ttda%26sid%3Dgalepages&prodId=TTDA) - UK visitors can log in with their Library Card ID Number. <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: [THE TIMES DIGITAL ARCHIVE](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&sid=galepages&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fstart.do%3Fp%3DTTDA%26u%3Dbro_ttda%26sid%3Dgalepages&prodId=TTDA) - UK visitors can log in with their Library Card ID Number.
 
 ### U
 
 ### V
 
 ### W
-* ——: [https://en.wikipedia.org/wiki/Lena_Zavaroni](https://en.wikipedia.org/wiki/Lena_Zavaroni)
+* ——: [Wikipedia](https://en.wikipedia.org/wiki/Lena_Zavaroni) a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
 ### X
 
