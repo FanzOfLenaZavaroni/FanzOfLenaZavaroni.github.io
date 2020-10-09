@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Mirror
-subtitle: Newspaper
-description: 
+subtitle: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease
+description: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease.
 categories: [The Mirror]
 ---
 

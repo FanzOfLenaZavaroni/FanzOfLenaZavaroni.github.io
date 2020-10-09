@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Daily Record
-subtitle: Newspaper
-description: 
+subtitle: OBSESSED FAN PREYED ON MY POOR LENA; FAMILY FURY: Tragic Star's Father Hits out after Friend Claims He Proposed to Her
+description: OBSESSED FAN PREYED ON MY POOR LENA; FAMILY FURY: Tragic Star's Father Hits out after Friend Claims He Proposed to Her.
 categories: [Daily Record]
 ---
 

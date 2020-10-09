@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Daily Record
-subtitle: Newspaper
-description: 
+subtitle: Lena Was Going to Be a Bride Again
+description: Lena Was Going to Be a Bride Again.
 categories: [The News Letter]
 ---
 
