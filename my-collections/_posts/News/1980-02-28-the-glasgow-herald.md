@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Glasgow Herald
-subtitle: Newspaper
+subtitle: Lena the top personality
 description: Published a short article on The Scottish National Record Awards that had taken place the previous day.
 image: /assets/images/newspapers/The-Glasgow-Herald-1980-02-28.jpeg
 categories: [Glasgow Herald]

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Sunday Mirror
-subtitle: Newspaper
-description:
+subtitle: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer
+description: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer.
 categories: [Newspapers]
 ---
 

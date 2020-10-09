@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Evening Times
-subtitle: Newspaper
+subtitle: A Teddy Tonic For Lena
 description: The Evening Times reported on Lena Zavaroni’s progress in Glasgow Southern General Hospital.
 categories: [The Evening Times]
 ---
