@@ -246,7 +246,7 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 ![The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS](/assets/images/locations/hoddesdon_st_augustine_rc200413_21.jpg){: .full-width}
 <cite>The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS</cite>
 
-![Farewell to star Lena](/assets/images/475922_zavaroni_coffin300.jpg){: .full-width}
+![Farewell to star Lena](/assets/images/funeral/lena-zavaronis-funeral-03.jpg){: .full-width}
 <cite>[BBC News | Wales | Farewell to star Lena](http://news.bbc.co.uk/1/hi/wales/476065.stm)</cite>
 
 ### RIP
