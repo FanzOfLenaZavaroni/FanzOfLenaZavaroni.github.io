@@ -14,4 +14,5 @@ Her GP has given her sleeping tablets to try to help her condition and housing o
 >
 Elly, aged 41, said: "I'm finding it very hard on my own. It's easier when you have family around you to help you get through it...
 
-<cite>[Birmingham Evening Mail (England) via the Way-back Machine](https://web.archive.org/web/20151105074930/http://www.highbeam.com/doc/1G1-60213960.html)
+<cite>[Birmingham Evening Mail (England) via Questia](https://www.questia.com/article/1G1-60213960/my-agony-over-lena-memories-force-best-pal-from-home)
+
