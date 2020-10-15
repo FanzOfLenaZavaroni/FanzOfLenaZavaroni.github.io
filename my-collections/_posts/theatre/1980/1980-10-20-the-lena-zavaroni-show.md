@@ -10,6 +10,12 @@ Lena Zavaroni stars in her own show at The Tonic, Bangor.
 
 Songs included Even Now, I Write The Songs and Young Talent Of Yesteryear medley.
 
+### In memory of the Tonic Cinema
+* [http://www.bangor-countydown.co.uk/thetonic.htm](http://www.bangor-countydown.co.uk/thetonic.htm)
+
+### Remembering the Tonic, Bangor
+* [https://www.theguardian.com/film/filmblog/2012/dec/11/cine-files-tonic-bangor](https://www.theguardian.com/film/filmblog/2012/dec/11/cine-files-tonic-bangor)
+
 ### Research
 > Research is on going and hopefully I will be able to add more details
 >
@@ -20,9 +26,6 @@ Songs included Even Now, I Write The Songs and Young Talent Of Yesteryear medley
 > You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
 <cite>Robcamstone</cite>
-
-### Remembering the Tonic, Bangor
-* [Cine-files: the Tonic, Bangor](https://www.theguardian.com/film/filmblog/2012/dec/11/cine-files-tonic-bangor)
 
 <style>
 .dt-published {display: none;}
