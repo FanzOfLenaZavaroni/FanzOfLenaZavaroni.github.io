@@ -24,9 +24,9 @@ Des then interviews her about her previous health problems, and her hopes for th
 <tr><th>Host:</th><td>Des O'Connor</td></tr>
 <tr><th>English Television Presenter:</th><td>Michael Aspel</td></tr>
 <tr><th>Irish Television Presenter:</th><td>Eamonn Andrews</td></tr>
-<tr><th></th><td>Lena Zavaroni</td></tr>
+<tr><th>Scottish singer and television show hostess:</th><td>Lena Zavaroni</td></tr>
 <tr><th>Rock Duo:</th><td>The Everly Brothers</td></tr>
 <tr><th>American Football Player:</th><td>Mickey Marvin</td></tr>
-<tr><th>Publicity:</th><td>[Des O'Connor Tonight](/publicity/1984/10/14/publicity.html)</td></tr>
+<tr><th>Publicity:</th><td><a href="/publicity/1984/10/14/publicity.html">Des O'Connor Tonight</a></td></tr>
 </table>
 
