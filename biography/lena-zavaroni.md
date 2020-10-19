@@ -8,7 +8,7 @@ image-caption: Lena Zavaroni
 categories: [Biography]
 ---
 
-**Lena Hilda Zavaroni** was born on 4 November 1963 in [Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom](https://drive.google.com/open?id=1T3woejyya4RvWexH0kX6ywXGTk5f9vo9&usp=sharing) to Victor Zavaroni (1939) and Hilda Catherine (Jordan) Zavaroni (c1940-1989).
+**Lena Hilda Zavaroni** was born on 4 November 1963 in [Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom](https://drive.google.com/open?id=1T3woejyya4RvWexH0kX6ywXGTk5f9vo9&usp=sharing) to Victor Zavaroni (December 1939) and Hilda Catherine (Jordan) Zavaroni (7 January 1941-December 1989).
 
 ![Rankin Memorial Hospital](/assets/images/locations/Rankin-Memorial-Hospital.jpg){: .full-width}
 <cite>Archive Photo of the Rankin Memorial Hospital</cite>
