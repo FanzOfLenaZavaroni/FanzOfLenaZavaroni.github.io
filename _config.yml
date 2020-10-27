@@ -63,9 +63,6 @@ collections:
    miscellaneous:
       output: true
       permalink: /miscellaneous/:name
-   blogs:
-      output: true
-      permalink: /blogs/:name
 
 include: ['biography']
 
