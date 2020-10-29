@@ -1,6 +1,12 @@
----
-layout: 
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  {%- include google-analytics.html -%}
+
+<body>
+
 <article>
 
   <header class="post-header">
@@ -11,6 +17,8 @@ layout:
     {{ content }}
   </div>
 </article>
+  </body>
+</html>
 
 <style>
 .center-text {text-align: center;}
