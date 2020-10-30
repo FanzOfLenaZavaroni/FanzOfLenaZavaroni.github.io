@@ -5,6 +5,7 @@ subtitle: Granada Television
 description: Lena talked about her previous anorexia and her clinical depression.
 image: /assets/images/ITV/1992-10-29-this-morning .png
 categories: [Granada Television]
+author: Robcamstone
 ---
 
 ![](/assets/images/ITV/1992-10-29-this-morning .png)

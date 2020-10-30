@@ -5,6 +5,7 @@ subtitle: Magazine
 description: LENA ZAVARONI - I promised myself I'd live to sing again. 4 page exclusive interview.
 image: /assets/images/magazines/1985-06-22-womans-own-08.jpg
 categories: [Magazines, Woman's Own]
+author: Robcamstone
 ---
 
 [![Woman's Own Dated 22 June 1985 - Page 8](/assets/images/magazines/1985-06-22-womans-own-08.jpg){: .height-500}{: .zoom-in}](/assets/images/magazines/1985-06-22-womans-own-08.jpg)

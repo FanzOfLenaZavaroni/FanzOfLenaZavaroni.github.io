@@ -5,6 +5,7 @@ subtitle: The Royal Lancaster Hotel, London
 description: Event held in the prescence of HRH Prince Philip to celebrate the history of the Grand Order Of Water Rats showbusiness charity.
 image: /assets/images/newspapers/0FFO-1984-OCT31-034-royal-engagements.png
 categories: [Personal Appearances]
+author: Robcamstone
 ---
 
 > [![](/assets/images/newspapers/0FFO-1984-OCT31-034.png){: 'full-width'}{: .zoom-in}](/assets/images/newspapers/0FFO-1984-OCT31-034.png)

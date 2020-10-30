@@ -5,6 +5,7 @@ subtitle: BBC One
 description: Guests Lena Zavaroni, Dorothy Solomon, Gerry Cottle, Betty Cottle and Captain Universe.
 image: /assets/images/BBC/Pebble-Mill-at-One-ID.jpg
 categories: [BBC One]
+author: Robcamstone
 ---
 
 ![](/assets/images/BBC/Pebble-Mill-at-One-ID.jpg)

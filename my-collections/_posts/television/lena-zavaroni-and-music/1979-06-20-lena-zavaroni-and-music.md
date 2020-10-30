@@ -5,6 +5,7 @@ subtitle: Episode 5
 description: Lena's guests this week are Michel Legrand, Wayne Sleep and Berni Flint.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC One, Lena Zavaroni and Music]
+author: Robcamstone
 ---
 
 <table>

@@ -4,6 +4,7 @@ title: The Mirror
 subtitle: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease
 description: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease.
 categories: [The Mirror]
+author: Robcamstone
 ---
 
 ### THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease

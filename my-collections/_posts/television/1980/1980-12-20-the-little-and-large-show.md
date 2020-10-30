@@ -5,6 +5,7 @@ subtitle: Christmas edition
 description: Special Guest Stars Lena Zavaroni and Sheena Easton.
 image: /assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png
 categories: [BBC One]
+author: Robcamstone
 ---
 
 **Guests include Sheena Easton, and Lena Zavaroni.**

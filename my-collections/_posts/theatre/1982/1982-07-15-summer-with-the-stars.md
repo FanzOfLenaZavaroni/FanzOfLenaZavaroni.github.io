@@ -5,6 +5,7 @@ subtitle: Cliffs Pavilion, Southend
 description: Three nights from 15, 16 & 17 July 1982 at 6.15pm and 8.45pm
 image: /assets/images/locations/geograph-734107-by-John-Allan.jpg
 categories: [Theatre, Southend]
+author: Robcamstone
 ---
 
 ### Three nights with 2 shows a night at 6.15pm and 8.45pm

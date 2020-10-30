@@ -5,6 +5,7 @@ subtitle: The Winter Gardens, Margate
 description:
 image: /assets/images/theatres/1982-07-22-an-evening-with-lena-zavaroni-200x200.png
 categories: [Theatre, Margate]
+author: Robcamstone
 ---
 
 ![](/assets/images/theatres/1982-07-22-an-evening-with-lena-zavaroni.jpg){:.width-300}{: .left}

@@ -6,6 +6,7 @@ description: Harold Fielding was one of Britain’s foremost theatrical producer
 image: /assets/images/harold-fielding.jpg
 image-caption: Harold Fielding
 categories: [Biography]
+author: Robcamstone
 ---
 
 > ![Harold Fielding](/assets/images/harold-fielding.jpg){:.left}

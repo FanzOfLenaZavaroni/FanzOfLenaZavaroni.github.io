@@ -4,6 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: Falkirk
 description: The show was cancelled due to Lena Zavaroni's on going heath issues.
 categories: [Theatre, Falkirk]
+author: Robcamstone
 ---
 
 The management at the Falkirk venue had heard what had happened the previous week at [New Brighton](/theatre/new%20brighton/1982/09/19/the-lena-zavaroni-show.html) and would not allow Lena to perform and cancelled the show.

@@ -5,6 +5,7 @@ subtitle: The Pavilion, Bournemouth
 description: Lena Zavaroni stars in her own show at The Pavilion, Bournemouth.
 image: /assets/images/locations/geograph-5270508-by-barry-shimmon.jpg
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 > [![](/assets/images/locations/geograph-5270508-by-barry-shimmon.jpg){: .full-width}](https://www.geograph.org.uk/photo/5270508)

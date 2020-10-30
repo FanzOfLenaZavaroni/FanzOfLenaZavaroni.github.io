@@ -4,6 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: The Drake Theatre, Plymouth
 description: Starring Lena Zavaroni at The Drake Theatre, Plymouth.
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 Songs included Even Now, I Can't Live Without You, Jump Down Jimmy and La Zavaroni.

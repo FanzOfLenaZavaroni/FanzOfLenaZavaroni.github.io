@@ -4,6 +4,7 @@ title: The Stage and Television Today
 subtitle: Supplement
 description: The Stage and Television Today featured a small article reporting that Lena had been booked to perform in her own show at the Spa Theatre, Bridlington for the 1979 summer season.
 categories: [The Stage and Television Today]
+author: Robcamstone
 ---
 
 The supplement featured a small article reporting that Lena had been booked to perform in her own show at the Spa Theatre, Bridlington for the 1979 summer season.

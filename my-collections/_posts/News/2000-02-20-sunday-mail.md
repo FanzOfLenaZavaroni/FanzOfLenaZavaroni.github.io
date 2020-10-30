@@ -5,6 +5,7 @@ subtitle: Preview of The Real Lena Zavaroni
 description: 20 February 2000 - The Sunday Mail (Glasgow, Scotland) Preview of The Real Lena Zavaroni.
 image: /assets/images/BBC/
 categories: [Sunday Mail]
+author: Robcamstone
 ---
 
 ### Real tragedy behind the little girl with the big voice; tvpreview.

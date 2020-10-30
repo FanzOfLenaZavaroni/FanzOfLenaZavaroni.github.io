@@ -4,6 +4,7 @@ title: Opportunity Knocks
 subtitle: Episode 14.28
 description: Lena makes her sixth and final appearance as a contestant after winning the viewers votes for the fifth time.
 categories: [Thames Television, Opportunity Knocks]
+author: Robcamstone
 ---
 
 Lena makes her sixth and final appearance as a contestant after winning the viewers votes for the fifth time.

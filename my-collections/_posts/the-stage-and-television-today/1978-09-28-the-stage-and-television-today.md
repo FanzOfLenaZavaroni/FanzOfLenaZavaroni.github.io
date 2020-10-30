@@ -4,6 +4,7 @@ title: The Stage and Television Today
 subtitle: Supplement
 description: The Stage and Television Today featured a small article on Lena's planned week long run at the London Palladium, starting on October.
 categories: [The Stage and Television Today]
+author: Robcamstone
 ---
 
 The Stage and Television Today featured a small article on Lena's planned week long run at the London Palladium, starting on [2 October 1978](/theatre/the%20london%20palladium/the%20lena%20zavaroni%20show/1978/10/02/the-lena-zavaroni-show.html).

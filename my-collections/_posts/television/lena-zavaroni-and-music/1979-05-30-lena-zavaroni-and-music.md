@@ -5,6 +5,7 @@ subtitle: Episode 2
 description: Lena's guests this week are Edward Woodward and Gerard Kenny.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC One, Lena Zavaroni and Music]
+author: Robcamstone
 ---
 
 <table>

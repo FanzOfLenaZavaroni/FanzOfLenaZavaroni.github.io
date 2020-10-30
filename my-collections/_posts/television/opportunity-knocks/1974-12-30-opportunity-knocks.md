@@ -5,6 +5,7 @@ subtitle: Variety Club Award Show (1974)
 description: Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
 image: /assets/images/ITV/1974-12-31-ok.jpg
 categories: [Thames Television, Opportunity Knocks]
+author: Robcamstone
 ---
 
 Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.

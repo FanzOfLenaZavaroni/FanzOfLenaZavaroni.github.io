@@ -4,6 +4,7 @@ title: This Is Your Life
 subtitle: Bonnie Langford
 description: Lena Zavaroni appears on the show to pay tribute to Bonnie Langford, and they reminisce about working together. A short clip of their TV show &quot;Lena and Bonnie&quot; is shown.
 categories: [Granada Television]
+author: Robcamstone
 ---
 
 ![](/assets/images/ITV/TIYL-BL.png)

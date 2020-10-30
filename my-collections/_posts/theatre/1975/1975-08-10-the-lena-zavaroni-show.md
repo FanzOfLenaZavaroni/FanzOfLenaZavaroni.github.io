@@ -5,6 +5,7 @@ subtitle: The Festival Theatre, Paignton
 description: Lena Zavaroni stars in her own show at The Festival Theatre, Paignton.
 image: /assets/images/locations/1975-08-10-the-lena-zavaroni-show.jpg
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 > [![The Festival Theatre, Paignton](/assets/images/locations/1975-08-10-the-lena-zavaroni-show.jpg)](http://cinematreasures.org/theaters/25234/photos/54169)

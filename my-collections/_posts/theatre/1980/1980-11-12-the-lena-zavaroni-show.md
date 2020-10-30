@@ -5,6 +5,7 @@ subtitle: The Diamond Theatre Club, Caerphilly
 description: Lena Zavaroni stars in her own show at The Diamond Theatre Club, Caerphilly for 4 days.
 image: /assets/images/theatres/
 categories: [Theatre, The Diamond Theatre Club]
+author: Robcamstone
 published: false
 ---
 

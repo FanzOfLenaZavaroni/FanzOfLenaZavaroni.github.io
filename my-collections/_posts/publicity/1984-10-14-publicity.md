@@ -5,6 +5,7 @@ subtitle: Publicity
 description: Publicity Photos of Des O'Connor and Lena Zavaroni.
 image: /assets/images/ITV/1984-10-16-des-oconnor-tonight-01.jpg
 categories: [Publicity]
+author: Robcamstone
 ---
 
 **Filmed at Thames Television Studios in London, England on 14 October 1984 for broadcast on 16 October 1984.**

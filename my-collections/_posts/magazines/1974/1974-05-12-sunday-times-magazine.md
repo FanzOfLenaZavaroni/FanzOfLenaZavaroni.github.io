@@ -5,6 +5,7 @@ subtitle: Supplement
 description: Published a profile of Lena Zavaroni.
 image: /assets/images/magazines/the-sunday-times-magazine-12-may-1974-cover.jpg
 categories: [Supplement]
+author: Robcamstone
 ---
 
 [![](/assets/images/magazines/the-sunday-times-magazine-12-may-1974-cover.jpg){: .height}{: .zoom-in}](/assets/images/magazines/the-sunday-times-magazine-12-may-1974-cover.jpg)

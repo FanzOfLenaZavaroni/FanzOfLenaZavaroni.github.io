@@ -5,6 +5,7 @@ subtitle: Episode 1
 description: Lena's guests this week are Elaine Stritch, Wayne Sleep and George Chisholm.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC One, Lena Zavaroni and Music]
+author: Robcamstone
 ---
 
 <table>

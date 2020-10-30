@@ -5,6 +5,7 @@ subtitle: The Winter Gardens, Margate
 description: Lena Zavaroni stars in her own show at the The Winter Gardens, Margate
 image: /assets/images/locations/the-winter-gardens-margate.jpg
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 ### Research

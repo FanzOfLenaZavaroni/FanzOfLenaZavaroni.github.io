@@ -5,6 +5,7 @@ subtitle: The White Rock Pavilion, Hastings
 description: Lena Zavaroni stars in her own show at the White Rock Pavilion, Hastings.
 image: /assets/images/locations/2222751_f901cdd4.jpg
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 > [![](/assets/images/locations/2222751_f901cdd4.jpg)](https://www.geograph.org.uk/photo/2222751)

@@ -4,6 +4,7 @@ title: Charity All Star Variety Show
 subtitle: Theatre Royal, Drury Lane, London
 description: Theatre Royal, Drury Lane, London. Starring Lena Zavaroni
 categories: [Theatre]
+author: Robcamstone
 ---
 
 Show held to mark &quot;International Year of the Child&quot;, and to raise money for several charities.
@@ -18,3 +19,4 @@ Songs performed by Lena included &quot;It's Not The Spotlight&quot;, Tomorrow&qu
 > You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
 
 <cite>Robcamstone</cite>
+

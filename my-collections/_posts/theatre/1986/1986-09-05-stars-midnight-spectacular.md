@@ -5,6 +5,7 @@ subtitle: Festival Theatre, Paignton
 description:
 image: /assets/images/theatres/
 categories: [Theatre]
+author: Robcamstone
 ---
 
 <strong style="Color:#ff0000;">Article Warning:</strong> Sadly needed for a Personal Appearance that at the time would not have needed one, but time and the ignorance of humankind has made a single word within the charity's name taboo.

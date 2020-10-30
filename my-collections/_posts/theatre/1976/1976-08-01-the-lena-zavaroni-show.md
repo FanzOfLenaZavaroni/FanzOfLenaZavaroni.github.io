@@ -5,6 +5,7 @@ subtitle: The Pier Theatre, Skegness
 description: Lena Zavaroni stars in her own show at the Pier Theatre, Skegness.
 image: /assets/images/locations/1582145_07685d76.jpg
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 > [![](/assets/images/locations/1582145_07685d76.jpg){: .full-width}](https://www.geograph.org.uk/photo/1582145)

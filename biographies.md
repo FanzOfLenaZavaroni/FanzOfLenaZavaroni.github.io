@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Biographies
+author: Robcamstone
 ---
 
 <h1>Biographies</h1>

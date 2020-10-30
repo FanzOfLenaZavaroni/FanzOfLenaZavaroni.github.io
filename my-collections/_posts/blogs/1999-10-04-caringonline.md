@@ -4,6 +4,7 @@ title: Caring Online
 subtitle: Eating Disorders
 description: 
 categories: [Deleted Online Articles]
+author: Robcamstone
 ---
 
 ### **NOTE:** The Article is no longer available via the Caring Online Website, which is why I have published it in full below:

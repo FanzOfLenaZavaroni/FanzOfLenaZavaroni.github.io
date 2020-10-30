@@ -4,6 +4,7 @@ title: Crackerjack
 subtitle: Christmas Edition
 description: In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
 categories: [BBC One]
+author: Robcamstone
 ---
 
 In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.

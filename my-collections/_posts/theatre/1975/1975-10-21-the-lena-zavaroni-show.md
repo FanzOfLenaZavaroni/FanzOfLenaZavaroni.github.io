@@ -4,6 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: Glasgow Apollo
 description: Lena Zavaroni stars in her own show at the Glasgow Apollo.
 categories: [Theatre, Glasgow Apollo]
+author: Robcamstone
 ---
 
 <table>

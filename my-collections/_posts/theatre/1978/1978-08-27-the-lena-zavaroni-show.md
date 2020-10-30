@@ -5,6 +5,7 @@ subtitle: Leas Cliff Pavilion, Folkestone
 description: Lena Zavaroni Stars in her own show at the Leas Cliff Pavilion, Folkestone.
 image:
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 **Research is on going and hopefully I will be able to add more details**

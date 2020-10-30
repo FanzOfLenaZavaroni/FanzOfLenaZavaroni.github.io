@@ -4,8 +4,9 @@ title: Biography - Lena Zavaroni
 position: Singer and Television Show Host
 description: Lena Zavaroni was born on November 4, 1963 in Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom to Victor Zavaroni (1939) and Hilda Catherine (Jordan) Zavaroni (c1940-1989).
 image: /assets/images/lena/LZ-01.jpg
-image-caption: Lena Zavaroni
+image-caption: Lena Zavaroni as a toddler
 categories: [Biography]
+author: Robcamstone
 ---
 
 **Lena Hilda Zavaroni** was born on 4 November 1963 in [Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom](https://drive.google.com/open?id=1T3woejyya4RvWexH0kX6ywXGTk5f9vo9&usp=sharing) to Victor Zavaroni (December 1939) and Hilda Catherine (Jordan) Zavaroni (7 January 1941-December 1989).

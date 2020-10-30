@@ -4,6 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: Manchester
 description: Lena Zavaroni was due to star in her own show in Manchester
 categories: [Theatre, Manchester]
+author: Robcamstone
 ---
 
 Unconfirmed but It is believed this show was cancelled due to an IRA bomb scare.

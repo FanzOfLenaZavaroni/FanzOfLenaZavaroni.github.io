@@ -4,6 +4,7 @@ title: About
 description: Lena Zavaroni was a singer who came to the public's attention in 1974 when see appeared on Opportunity Knocks on which she returned five times.
 image: /assets/images/Lena/LZ-01.jpg
 image-caption: Lena Zavaron When She Was a Toddler
+author: Robcamstone
 ---
 
 ## About
@@ -42,3 +43,4 @@ But behind the scenes Lena Zavaroni had a life long fight with her demons, which
 > If you want the fantasy Lena that some fans seem to then you should end your journey here.
 
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
+

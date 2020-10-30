@@ -5,6 +5,7 @@ subtitle: One Off Special
 description: Lena celebrates her birthday as a pensioner in a comedy sketch.
 image: /assets/images/ITV/youre-never-too-old.jpg
 categories: [Associated Television (ATV)]
+author: Robcamstone
 ---
 
 [![TVTimes](/assets/images/ITV/youre-never-too-old.jpg){: .full-width}{: .link}](/tv%20guides/1977/05/28/TVTimes.html)

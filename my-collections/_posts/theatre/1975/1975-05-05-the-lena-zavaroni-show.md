@@ -4,6 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
 description: 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 ### Research is on going and hopefully I will be able to add more details

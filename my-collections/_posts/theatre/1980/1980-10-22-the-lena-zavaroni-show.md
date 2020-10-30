@@ -5,6 +5,7 @@ subtitle: The New Vic, Belfast
 description: Lena Zavaroni stars in her own show at The New Vic, Belfast.
 image: /assets/images/theatres/lena-signs-autographs-at-belfast-airport-in-1980.jpg
 categories: [Theatre, The New Vic]
+author: Robcamstone
 ---
 
 Lena Zavaroni stars in her own show at The New Vic, Belfast.

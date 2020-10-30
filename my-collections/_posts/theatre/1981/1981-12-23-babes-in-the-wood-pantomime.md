@@ -5,6 +5,7 @@ subtitle: Alexandra Theatre, Birmingham
 description: Starring Lena Zavaroni as Maid Marion
 image: /assets/images/theatres/1981-babes-in-the-wood-pantomime-flyer.jpg
 categories: [Theatre]
+author: Robcamstone
 ---
 
 <figure class="fig1">

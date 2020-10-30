@@ -4,6 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: The Opera House, Blackpool
 description: Lena Zavaroni stars in her own show at The Opera House, Blackpool.
 categories: [Theatre, Blackpool Opera House]
+author: Robcamstone
 ---
 
 **Research is on going and hopefully I will be able to add more details**

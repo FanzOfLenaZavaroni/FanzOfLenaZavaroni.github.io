@@ -6,6 +6,7 @@ description: Les Dawson was an English comedian, actor, writer, and presenter, w
 image: /assets/images/on-this-day/les-dawson.webp
 image-caption: Les Dawson
 categories: [Biography]
+author: Robcamstone
 ---
 
 <figure class="fig1">
@@ -27,7 +28,7 @@ categories: [Biography]
 
 <br />{: .clear}
 
-> Les Dawson was an English comedian, actor, writer, and presenter, who is best remembered for his deadpan style.
+> {{ page.description }}
 
 <cite><a href="https://en.wikipedia.org/wiki/Les_Dawson">Wikipedia</a></cite>
 

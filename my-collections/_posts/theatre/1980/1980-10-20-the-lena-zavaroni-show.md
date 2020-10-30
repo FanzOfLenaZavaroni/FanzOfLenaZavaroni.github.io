@@ -4,6 +4,7 @@ title: The Lena Zavaroni Show
 subtitle: The Tonic, Bangor
 description: Lena Zavaroni stars in her own show at The Tonic, Bangor.
 categories: [Theatre, The Tonic]
+author: Robcamstone
 ---
 
 Lena Zavaroni stars in her own show at The Tonic, Bangor.

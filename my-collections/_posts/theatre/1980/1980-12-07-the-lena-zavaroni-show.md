@@ -5,6 +5,7 @@ subtitle: The Theatre Royal
 description: Lena Zavaroni stars in her own show at the Theatre Royal.
 image: /assets/images/theatres/
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 Lena Zavaroni stars in her own show at the Theatre Royal

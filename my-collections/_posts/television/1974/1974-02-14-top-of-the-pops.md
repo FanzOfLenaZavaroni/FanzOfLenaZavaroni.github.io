@@ -5,6 +5,7 @@ subtitle: Music Chart Television Programme
 description: Lena Zavaroni gets to preform on Top of the Pops for the first time.
 image: http://img.youtube.com/vi/IHWfmYHK324/hqdefault.jpg
 categories: [BBC One, TOTP]
+author: Robcamstone
 ---
 
 Lena Zavaroni gets to preform on BBC One's Top of the Pops for the first time.

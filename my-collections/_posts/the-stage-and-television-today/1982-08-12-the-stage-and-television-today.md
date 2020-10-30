@@ -4,6 +4,7 @@ title: The Stage and Television Today
 subtitle: Supplement
 description: Featured a full page colour advertisement from the White Rock Pavilion, thanking Lena and all of the other acts who appeared in the summer season shows that year. The advertisement contained a large colour photo of Lena in her stage costume.
 categories: [The Stage and Television Today]
+author: Robcamstone
 ---
 
 Featured a full page colour advertisement from the [White Rock Pavilion, Hastings](/theatre/the%20lena%20zavaroni%20show/1982/08/03/the-lena-zavaroni-show.html) thanking Lena and all of the other acts who appeared in the summer season shows that year.

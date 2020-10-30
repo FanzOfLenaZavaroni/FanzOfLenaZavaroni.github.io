@@ -5,6 +5,7 @@ subtitle: Thames Television
 description: Lena takes part in a game of charades, and mimes the film &quot;A Big Hand For The Little Lady&quot;.
 image: /assets/images/ITV/1985-12-05-give-us-a-clue.jpg
 categories: [Thames Television]
+author: Robcamstone
 ---
 
 ![](/assets/images/ITV/1985-12-05-give-us-a-clue.jpg)

@@ -4,6 +4,7 @@ title: Opportunity Knocks
 subtitle: Episode 14.23 
 description: Lena makes her first appearance. She sings Ma, He's Making Eyes At Me.
 categories: [Thames Television, Opportunity Knocks]
+author: Robcamstone
 ---
 
 Lena makes her first appearance. She sings Ma, He's Making Eyes At Me.

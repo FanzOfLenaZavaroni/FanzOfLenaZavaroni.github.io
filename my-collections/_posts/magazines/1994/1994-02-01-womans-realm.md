@@ -4,6 +4,7 @@ title: Woman's Realm
 subtitle: Magazine
 description: One page article criticising Lena for being open about her problems and for seeking pity.
 categories: [Magazines]
+author: Robcamstone
 ---
 
 [![](/assets/images/magazines/Womans-Realm-1994-02-01a.jpg){: .height}{: .zoom-in}](/assets/images/magazines/Womans-Realm-1994-02-01a.jpg)

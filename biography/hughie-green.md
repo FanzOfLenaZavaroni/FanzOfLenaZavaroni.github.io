@@ -6,6 +6,7 @@ description: Hughie Green was an actor and producer, known for Double Your Money
 image: /assets/images/on-this-day/opportunity-knocks.jpg
 image-caption: Hughie Green
 categories: [Biography]
+author: Robcamstone
 ---
 
 <table>

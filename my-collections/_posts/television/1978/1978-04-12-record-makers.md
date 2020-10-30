@@ -5,6 +5,7 @@ subtitle: Scottish Television
 description: Note - Lena Zavaroni never had an Album called Air Love.
 image: /assets/images/ITV/the-record-makers-12-april-1978.jpg
 categories: [Scottish Television]
+author: Robcamstone
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap" rel="stylesheet">

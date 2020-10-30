@@ -4,6 +4,7 @@ title: This Morning
 subtitle: Granada Television
 description: The show contained a discussion on eating disorders following Lena Zavaroni's death a few days earlier.
 categories: [Granada Television]
+author: Robcamstone
 ---
 
 The show contained a discussion on eating disorders following Lena Zavaroni's death a few days earlier, with former Coronation Street actor Adam Rickitt (who suffered from bulimia) and advice from Raj Persaud. The illness was also the subject of a phone in later on in the programme.

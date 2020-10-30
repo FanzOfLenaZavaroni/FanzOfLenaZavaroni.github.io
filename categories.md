@@ -2,6 +2,7 @@
 layout: page
 permalink: /categories/
 title: Categories
+author: Robcamstone
 ---
 
 <div id="archives">
@@ -22,3 +23,4 @@ title: Categories
 </ul>
 {% endfor %}
 </div>
+

@@ -5,6 +5,7 @@ subtitle: BBC One
 description: 16 May 1981 - Lena Zavaroni performed and was interviewed on Saturday Night At The Mill.
 image: /assets/images/BBC/
 categories: [BBC One]
+author: Robcamstone
 ---
 
 <table>

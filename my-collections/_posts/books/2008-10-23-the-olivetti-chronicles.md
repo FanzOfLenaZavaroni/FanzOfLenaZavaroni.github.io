@@ -5,6 +5,7 @@ subtitle: John Peel
 description: 
 image: /assets/images/books/2008-10-23-the-olivetti-chronicles.jpeg
 categories: [Books]
+author: Robcamstone
 ---
 
 <table class="striped">

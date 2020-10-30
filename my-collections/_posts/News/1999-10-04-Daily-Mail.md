@@ -4,6 +4,7 @@ title: Daily Record
 subtitle: Lena Was Going to Be a Bride Again
 description: Lena Was Going to Be a Bride Again.
 categories: [The News Letter]
+author: Robcamstone
 ---
 
 ### Lena Was Going to Be a Bride Again

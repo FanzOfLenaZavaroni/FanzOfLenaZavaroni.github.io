@@ -4,6 +4,7 @@ title: Referencing Lena Zavaroni.
 subtitle: Too Trivial To Mention
 description: 25 October 2019
 categories: [Updates]
+author: Robcamstone
 ---
 
 ### My thoughts on this comment

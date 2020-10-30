@@ -5,6 +5,7 @@ subtitle: Winter Gardens, Bournemouth
 description: Lena Zavaroni stars in her own show at The Winter Gardens, Bournemouth.
 image: /assets/images/locations/1975-08-31-the-lena-zavaroni-show.jpg
 categories: [Theatre, The Lena Zavaroni Show]
+author: Robcamstone
 ---
 
 ![](/assets/images/locations/1975-08-31-the-lena-zavaroni-show.jpg){: .left}

@@ -4,6 +4,7 @@ title: The Real... Lena Zavaroni
 subtitle: Channel 4
 description: Channel 4 documentary charting Lena Zavaroni's career and subsequent illness. Click the link for more details.
 categories: [Channel 4]
+author: Robcamstone
 ---
 
 Documentary charting Lena's career and subsequent illness.

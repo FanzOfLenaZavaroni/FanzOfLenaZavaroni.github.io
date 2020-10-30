@@ -5,6 +5,7 @@ subtitle: Publicising Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni 
 description: Publicising Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington.
 image: /assets/images/publicity/1979-06-25-lena-zavaroni-front.jpg
 categories: [Publicity Photos]
+author: Robcamstone
 ---
 
 [![](/assets/images/publicity/1979-06-25-lena-zavaroni-front.jpg){: .full-width}{: .zoom-in}](/assets/images/publicity/1979-06-25-lena-zavaroni-front.jpg)
