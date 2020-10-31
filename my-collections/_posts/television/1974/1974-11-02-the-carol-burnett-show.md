@@ -8,19 +8,40 @@ categories: [US Television]
 author: Robcamstone
 ---
 
-> ![](/assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg)
+<figure class="fig1">
+<img src="/assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg" class="full-width">
+<figcaption>
+<strong>Lena Zavaroni and Carol Burnett</strong>
+</figcaption>
+</figure>
 
-<cite>Lena Zavaroni and Carol Burnett</cite>
+<figure class="fig2">
+<table>
+<tr><th>Cast and Crew</th></tr>
+<tr><td>Carol Burnett</td></tr>
+<tr><td>Ernie Anderson</td></tr>
+<tr><td>Harvey Korman</td></tr>
+<tr><td>Vicki Lawrence</td></tr>
+<tr><td>Alan King</td></tr>
+<tr><td>Lena Zavaroni</td></tr>
+<tr><td>Punkin Productions Inc. (1972-1976)</td></tr>
+</table>
+</figure>
+
+<br />{: .clear}
 
 Guest Lena Zavaroni performs If They Could See Me Now and appears in a short comedy sketch with Carol.
 
-**Cast**
-* Carol Burnett
-* Ernie Anderson
-* Harvey Korman
-* Vicki Lawrence
-* Alan King
-* Lena Zavaroni
+<style>
+.fig1 {float:left; width:48%;}
+figcaption {float:left; width:100%;}
 
-**Crew**
-* Punkin Productions Inc. (1972-1976)
+.fig2 {float:right; width:48%;}
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:90%; margin-bottom: 10px;}
+}
+</style>
+
