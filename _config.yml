@@ -66,6 +66,11 @@ collections:
 
 include: ['biography']
 
+defaults:
+  -
+    values:
+      author: "Robcamstone"
+
 # Build settings
 markdown: kramdown
 theme: minima

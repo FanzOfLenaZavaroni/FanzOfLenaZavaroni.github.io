@@ -3,7 +3,7 @@ layout: page
 title: On This Day - 4 November 
 description:
 categories: [On This Day]
-utterances: false
+author: Robcamstone
 ---
 
 ### 4 November 1963
