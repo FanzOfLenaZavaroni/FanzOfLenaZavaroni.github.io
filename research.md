@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research &#124; New links added on 30 October 2020
+title: Research
 maintitle: Research
 ---
 
