@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Research
+title: Research &#124; New links added on 30 October 2020
 maintitle: Research
 ---
 
-This Page was created on 5 October 2020 and last updated on 8 October 2020.
+This Page was created on 5 October 2020 and last updated on 30 October 2020.
 
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list, but as the best research is done yourself this will not matter as this page is just to help push you in the right direction and is far from an exhaustive list.
 
