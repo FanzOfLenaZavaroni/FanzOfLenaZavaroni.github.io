@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Bachelors Show
+title: The Bachelors Show  &#124; Epiosde 5
+maintitle: The Bachelors Show
 subtitle: Epiosde 5
 description:  16 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 categories: [BBC Two]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lena Zavaroni and Music
+maintitle: Lena Zavaroni and Music
 subtitle: Episode 6
 description: Lena's guests this week are Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg

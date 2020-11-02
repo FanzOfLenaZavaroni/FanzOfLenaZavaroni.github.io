@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The White Rock Pavilion, Hastings
 description: Starring Lena Zavaroni, with Freddie Davies, Francis Van Dyke, Sonny Hayes & Co and the Dougie Squires' Second Generation Dancers.
 image: /assets/images/locations/2222751_f901cdd4.jpg

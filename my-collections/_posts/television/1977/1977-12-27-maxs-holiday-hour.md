@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Max's Holiday Hour
+maintitle: Max's Holiday Hour
 subtitle: Thames Television
 description: Starring Max Bygraves with Lena Zavaroni, Charlie Cairoli, Sandra Dickinson, Jim Davidson and Margaret Powell.
 image: /assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg

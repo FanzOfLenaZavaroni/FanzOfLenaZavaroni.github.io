@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pete Murray's Open House from Glasgow
+maintitle: Pete Murray's Open House from Glasgow
 subtitle: BBC Radio 2
 description: 
 categories: [BBC Radio 2]

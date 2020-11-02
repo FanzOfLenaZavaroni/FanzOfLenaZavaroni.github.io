@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summer With The Stars
+maintitle: Summer With The Stars
 subtitle: Cliffs Pavilion, Southend
 description: Three nights from 15, 16 & 17 July 1982 at 6.15pm and 8.45pm
 image: /assets/images/locations/geograph-734107-by-John-Allan.jpg

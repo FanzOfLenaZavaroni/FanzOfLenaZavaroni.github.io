@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Granada Reports
+maintitle: Granada Reports
 subtitle: Granada Television
 description: Lena appears as a guest on the main 30 minute evening bulletin.
 image: /assets/images/ITV/Granada-Reports.png

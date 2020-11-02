@@ -1,6 +1,7 @@
 ---
 layout: publicity-photos
 title: Various Appearances by Lena on Opportunity Knocks
+maintitle: Various Appearances by Lena on Opportunity Knocks
 description: Publicity photos of Lena Zavaroni on various episodes of Opportunity Knocks.
 image: /assets/images/publicity/opportunity-knocks/3041013_orig.jpg
 categories: [Publicity Photos]

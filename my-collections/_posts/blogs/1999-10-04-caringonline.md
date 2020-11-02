@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Caring Online
+maintitle: Caring Online
 subtitle: Eating Disorders
 description: 
 categories: [Deleted Online Articles]

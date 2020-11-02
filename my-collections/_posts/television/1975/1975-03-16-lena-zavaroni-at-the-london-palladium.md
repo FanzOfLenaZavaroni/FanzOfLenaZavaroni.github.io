@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Lena Zavaroni at the London Palladium
+title: Lena Zavaroni at the London Palladium &#124;16 March 1975
+maintitle: Lena Zavaroni at the London Palladium
 subtitle: Two Shows
 description: 
 image: /assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg

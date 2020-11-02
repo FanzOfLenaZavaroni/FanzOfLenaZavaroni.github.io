@@ -2,6 +2,7 @@
 layout: discography
 year: 1974
 title: Presenting Lena Zavaroni
+maintitle: Presenting Lena Zavaroni
 description: 
 image: /assets/images/albums/
 ---

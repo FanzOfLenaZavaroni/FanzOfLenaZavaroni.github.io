@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The White Rock Pavilion, Hastings
 description: Lena Zavaroni stars in her own show at the White Rock Pavilion, Hastings.
 image: /assets/images/locations/2222751_f901cdd4.jpg

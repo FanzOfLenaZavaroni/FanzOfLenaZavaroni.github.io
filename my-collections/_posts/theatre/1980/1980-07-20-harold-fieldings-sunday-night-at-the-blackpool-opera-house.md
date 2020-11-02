@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House
+maintitle: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 image: /assets/images/theatres/1980-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg

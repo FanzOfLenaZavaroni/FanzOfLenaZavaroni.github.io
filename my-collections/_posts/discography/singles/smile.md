@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Smile
+maintitle: Smile
 subtitle: Single
 description: A-side Smile, B-side Hey! Hey! What Do You Say.
 image: /assets/images/singles/musical-note.png

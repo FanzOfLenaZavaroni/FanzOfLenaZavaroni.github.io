@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tesco Hypermarket
+maintitle: Tesco Hypermarket
 subtitle: Pitsea, Essex
 description: Scottish singer and television child star Lena Zavaroni appeared at the store on this day to promote her new album Songs Are Such Good Things and sign autographs.
 image:

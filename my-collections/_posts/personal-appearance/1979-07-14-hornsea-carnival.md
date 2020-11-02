@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hornsea Carnival
+maintitle: Hornsea Carnival
 subtitle: Hornsea, East Yorkshire
 description: Lena Zavaroni made a personal appearance at the carnival. She declared the Carnival open, then stayed for a short time to meet her fans and the public.
 image: /assets/images/steve-hayter-hornsea-carnival/1979-07-04-hornsea-carnival-01.png

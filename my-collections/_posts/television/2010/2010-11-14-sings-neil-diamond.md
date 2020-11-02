@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ...Sings Neil Diamond
+maintitle: ...Sings Neil Diamond
 subtitle: BBC Two
 description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.  Lena's performance of Forever In Blue Jeans, from her 1979 series Lena Zavaroni and Music - Episode 6, was included.
 image: /assets/images/BBC-PIDs/p01h23pf - 768x432.jpg

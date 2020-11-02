@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: Caesar's Palace, Luton
 description: Lena Zavaroni stars in her own show at Caesar's Palace, Luton.
 image: /assets/images/locations/

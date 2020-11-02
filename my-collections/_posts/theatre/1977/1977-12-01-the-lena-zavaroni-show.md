@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Roxy Theatre, Harlesden
 description: Lena Zavaroni stars in her own show at The Roxy Theatre, Harlesden.
 image: /assets/images/theatres/1977-12-01-the-lena-zavaroni-show.jpg

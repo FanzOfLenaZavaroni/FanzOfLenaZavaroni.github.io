@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Odeon Theatre, Woolwich, London
 description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 image: https://live.staticflickr.com/2294/1730226155_cfc3a96710_n_d.jpg

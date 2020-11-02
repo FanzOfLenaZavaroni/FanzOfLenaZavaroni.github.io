@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kids Glorious Kids
+maintitle: Kids Glorious Kids
 subtitle: BBC Radio 2 Arts Programme
 description: Bonnie Langford looks at the kids who have entertained, enthralled and engaged our attention over the decades.
 categories: [BBC Radio 2]

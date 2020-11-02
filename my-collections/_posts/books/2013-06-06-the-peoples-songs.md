@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The People’s Songs
+maintitle: The People’s Songs
 subtitle: The Story of Modern Britain in 50 Records by Stuart Maconie
 date: 6 June 2013
 description: Lena Zavaroni was a star in her early teens, bursting into the limelight thanks to her appearance on TV show Opportunity Knocks, the cheesy seventies template for the X Factor. At ten she was the youngest person to have a top ten album and to appear on Top of the Pops, later she enjoyed her own TV series. But what the world didn't know is that from the age of thirteen Zavaroni suffered from anorexia nervosa brought on by early pressures to fit into stage costumes as she went through puberty. At one point, while at stage school (another echo of Winehouse), her weight dropped to four stone...

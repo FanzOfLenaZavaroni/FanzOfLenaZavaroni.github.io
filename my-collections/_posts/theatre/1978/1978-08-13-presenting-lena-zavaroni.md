@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Presenting Lena Zavaroni
+maintitle: Presenting Lena Zavaroni
 subtitle: Wellington Pier, Great Yarmouth
 description: Lena Zavaroni stars in her own show at the Wellington Pier, Great Yarmouth.
 image: /assets/images/theatres/1978-08-13-presenting-lena-zavaroni.jpg

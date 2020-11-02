@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The King's Theatre, Glasgow
 description: Lena Zavaroni stars in her own show at the King's Theatre, Glasgow.
 image: /assets/images/locations/5484043_1ebb0d9a.jpg

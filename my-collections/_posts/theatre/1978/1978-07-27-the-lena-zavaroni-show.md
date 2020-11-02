@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Villa Marina, Douglas, Isle Of Man
 description: Lena Zavaroni starred in her own Show at The Villa Marina, Douglas, Isle Of Man.
 image: https://live.staticflickr.com/3552/3826412639_c8e5809d00_n_d.jpg

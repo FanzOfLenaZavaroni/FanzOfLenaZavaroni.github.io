@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Opportunity Knocks
+title: Opportunity Knocks &#124; 17 November 1975 &#124; Lena sponsored her parents Victor and Hilda on the show
+maintitle: Opportunity Knocks
 subtitle: Episode 16.8 
 description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 categories: [Thames Television, Opportunity Knocks]
@@ -22,3 +23,4 @@ They had previously applied in 1973 but did not make it passed the qualifying he
 * Producer: Keith Beckett
 * Director: Keith Beckett
 * Musical Backing: Bob Sharples and his orchestra
+

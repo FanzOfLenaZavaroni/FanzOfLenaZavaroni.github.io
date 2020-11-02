@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gloria Hunniford
+maintitle: Gloria Hunniford
 subtitle: with Guest Lena Zavaroni
 description: With Guest Lena Zavaroni
 image: https://img.youtube.com/vi/28yqkgRt9uM/hqdefault.jpg

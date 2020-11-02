@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publicity Photo
+maintitle: Publicity Photo
 subtitle: Publicising Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington
 description: Publicising Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington.
 image: /assets/images/publicity/1979-06-25-lena-zavaroni-front.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Berlin Greets London
+maintitle: Berlin Greets London
 subtitle: The Grosse Sendesaal, West Berlin
 description:
 image: /assets/images/Senderfreiesberlin-logo.svg

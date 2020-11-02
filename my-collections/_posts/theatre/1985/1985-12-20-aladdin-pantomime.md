@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aladdin Pantomime
+maintitle: Aladdin Pantomime
 subtitle: The Wimbledon Theatre, London
 description:
 image: /assets/images/theatres/flyer-aladdin-01.jpg

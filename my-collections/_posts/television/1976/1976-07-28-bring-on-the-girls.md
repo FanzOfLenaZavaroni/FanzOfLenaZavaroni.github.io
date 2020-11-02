@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bring on the Girls
+maintitle: Bring on the Girls
 subtitle: Bruce Forsyth
 description: Lena takes part in a short comedy sketch with Brucie, and they then perform Be A Clown together.
 image: /assets/images/ITV/1976-07-28-bring-on-the-girls.jpg

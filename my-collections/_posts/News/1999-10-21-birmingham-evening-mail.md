@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Birmingham Evening Mail (England)
+maintitle: Birmingham Evening Mail (England)
 subtitle: MY AGONY OVER LENA; Memories Force Best Pal from Home
 description: MY AGONY OVER LENA; Memories Force Best Pal from Home
 categories: [Birmingham Evening Mail, Newspapers]

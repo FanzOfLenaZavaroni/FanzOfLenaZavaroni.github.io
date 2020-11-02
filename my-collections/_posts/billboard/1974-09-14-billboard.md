@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Billboard
+title: Billboard &#124; 14 September 1974
+maintitle: Billboard
 subtitle: Newspaper
 description:
 image: /assets/images/magazines/1974-09-14-billboard-page-56.jpg
@@ -15,3 +16,4 @@ Lena Zavaroni's single Ma! (He's Making Eyes At Me) was at number 5 in the South
 
 [![](/assets/images/magazines/1974-09-14-billboard-page-56.jpg){: .half-width}{:.zoom-in}](/assets/images/magazines/1974-09-14-billboard-page-56.jpg)
 [![](/assets/images/magazines/1974-09-14-billboard-singles.png){: .half-width}{:.zoom-in}](/assets/images/magazines/1974-09-14-billboard-singles.png)
+

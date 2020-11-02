@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Des O'Connor Tonight
+maintitle: Des O'Connor Tonight
 subtitle: Thames Television
 description: Lena Zavaroni returns from a two year break to perform a live version of Memory. Des then interviews her about her previous health problems and her hopes for the future.
 image: /assets/images/ITV/1984-10-16-des-oconnor-tonight-lena-zavaroni.jpg

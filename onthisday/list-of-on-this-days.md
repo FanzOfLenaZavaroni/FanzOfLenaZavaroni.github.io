@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Full List Of On This Days
+maintitle: Full List Of On This Days
 ---
 
 {% for page in site.pages %}

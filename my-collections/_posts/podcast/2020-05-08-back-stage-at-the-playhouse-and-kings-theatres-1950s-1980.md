@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Back stage at the Playhouse and Kings Theatres, 1950s & 1980
+maintitle: Back stage at the Playhouse and Kings Theatres, 1950s & 1980
 subtitle: The Lifestory Podcast
 description: 
 image:

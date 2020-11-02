@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Olivetti Chronicles
+maintitle: The Olivetti Chronicles
 subtitle: John Peel
 description: 
 image: /assets/images/books/2008-10-23-the-olivetti-chronicles.jpeg

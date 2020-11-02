@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Theatre Royal
 description: Lena Zavaroni stars in her own show at the Theatre Royal.
 image: /assets/images/theatres/

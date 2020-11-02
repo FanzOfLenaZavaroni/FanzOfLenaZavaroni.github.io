@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Opportunity Knocks
+title: Opportunity Knocks &#124; Variety Club Award Show &#124; 30 December 1974
+maintitle: Opportunity Knocks
 subtitle: Variety Club Award Show (1974)
 description: Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
 image: /assets/images/ITV/1974-12-31-ok.jpg
@@ -9,7 +10,7 @@ categories: [Thames Television, Opportunity Knocks]
 
 Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
 
-**Cast**
+### Cast
 * Presenter: Hughie Green
 * On screen participant: Lena Zavaroni
 * On screen participant: Airborne
@@ -24,9 +25,10 @@ Lena performs If My Friends Could See Me Now, then at the end of the show, she r
 * On screen participant: The Fleetwood Sea Cadets Corps Band
 * Musical accompaniment: Bob Sharples And His Music
 
-**Crew**
+### Crew
 * Programme associate: Len Marten
 * Programme associate: Doris Barry
 * Designer: Rod Stratfold
 * Producer: Keith Beckett
 * Director: Keith Beckett
+

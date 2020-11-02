@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Woman's Realm
+maintitle: Woman's Realm
 subtitle: Magazine
 description: One page article criticising Lena for being open about her problems and for seeking pity.
 categories: [Magazines]

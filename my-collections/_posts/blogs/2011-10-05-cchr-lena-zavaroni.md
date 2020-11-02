@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Citizens Commission on Human Rights
+maintitle: Citizens Commission on Human Rights
 subtitle: London
 description:
 categories: [Deleted Online Articles]

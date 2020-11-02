@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stars Midnight Spectacular
+maintitle: Stars Midnight Spectacular
 subtitle: Festival Theatre, Paignton
 description:
 image: /assets/images/theatres/

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Lena Zavaroni Show
+title: The Lena Zavaroni Show &#124; 5, 6 & 12, May 1975
+maintitle: The Lena Zavaroni Show
 subtitle: 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
 description: 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
 categories: [Theatre, The Lena Zavaroni Show]

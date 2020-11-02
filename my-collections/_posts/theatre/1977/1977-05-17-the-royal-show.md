@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Royal Show
+maintitle: The Royal Show
 subtitle: The King's Theatre, Glasgow
 description: An all-star spectacular variety show filmed at the King's Theatre in Glasgow, as part of Queen Elizabreth II's Silver Jubilee celebrations.
 image: /assets/images/STV/1977-05-17-the-royal-show-listing.jpg

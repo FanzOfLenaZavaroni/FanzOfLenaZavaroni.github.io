@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Opportunity Knocks
+title: Opportunity Knocks &#124; 20 March 1978 &#124; Final broadcast of the much love show
+maintitle: Opportunity Knocks
 subtitle: Final Show
 description: Final broadcast of the much love show that was the starting block for so many stars.
 image: /assets/images/ITV/gettyimages-544761065-612x612.jpg

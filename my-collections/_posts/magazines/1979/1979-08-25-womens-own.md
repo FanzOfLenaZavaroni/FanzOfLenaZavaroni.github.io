@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Women's Own
+maintitle: Women's Own
 subtitle: Magazine
 description: Women's Own featured an article in which Lena was asked about her favourite perfume.
 image: /assets/images/magazines/1979-08-25-womens-own-01.jpg

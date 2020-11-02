@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Daily Record (Glasgow, Scotland)
+maintitle: Daily Record (Glasgow, Scotland)
 subtitle: STAR LENA IN FIRE DRAMA
 description: Former Scots child star Lena Zavaroni was forced to flee a blaze which destroyed her home.
 categories: [Daily Record]

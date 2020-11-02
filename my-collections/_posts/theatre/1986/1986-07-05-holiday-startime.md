@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Holiday Startime
+maintitle: Holiday Startime
 subtitle: The Princess Theatre, Torquay
 description: Lena Zavaroni co-starred with comedian Jimmy Cricket in a Summer Season variety show the Holiday Startime at The Princess Theatre, Torquay.
 image: /assets/images/theatres/1986-07-05-holiday-startime.jpg

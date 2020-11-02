@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Des O'Connor Entertains
+maintitle: Des O'Connor Entertains
 subtitle: Series 1
 description: Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 image: /assets/images/ATV/1976-06-04-OnThizDay.jpg

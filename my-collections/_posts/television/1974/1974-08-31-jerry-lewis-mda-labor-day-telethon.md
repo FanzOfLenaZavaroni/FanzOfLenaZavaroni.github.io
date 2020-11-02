@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Jerry Lewis MDA Labor Day Telethon
+title: Jerry Lewis MDA Labor Day Telethon &#124; 31 August 1974
+maintitle: Jerry Lewis MDA Labor Day Telethon
 subtitle: Charity fundraising Telethon for the Muscular Dystrophy Association
 description: Charity fundraising Telethon for the Muscular Dystrophy Association.
 image: /assets/images/US-TV/1974-08-31-jerry-lewis-mda-labor-day-telethon.jpg

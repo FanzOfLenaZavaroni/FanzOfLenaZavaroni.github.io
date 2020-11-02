@@ -1,6 +1,7 @@
 ---
 layout: publicity-photos
 title: Lena's Visit To Japan in 1974
+maintitle: Lena's Visit To Japan in 1974
 description: Lena during her time in Japan.
 image: /assets/images/publicity/lena-ln-japan/273634_orig.jpg
 categories: [Publicity Photos]

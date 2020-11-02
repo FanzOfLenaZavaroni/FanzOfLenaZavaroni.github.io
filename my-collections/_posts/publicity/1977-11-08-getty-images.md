@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scottish singer Lena Zavaroni
+maintitle: Scottish singer Lena Zavaroni
 subtitle: Evening Standard/Hulton Archive/Getty Images
 description: Scottish singer and television host Lena Zavaroni (1963 - 1999), UK, 8th November 1977. (Photo by Evening Standard/Hulton Archive/Getty Images)
 image: /assets/images/publicity/1977-11-08-getty-images-200x200.png

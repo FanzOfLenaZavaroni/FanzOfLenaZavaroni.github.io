@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Untitled revue
+maintitle: Untitled revue
 subtitle: The Pavilion Theatre, Glasgow
 description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow between 24-26 November 1978.
 categories: [Theatre]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Sunday Mail
+maintitle: The Sunday Mail
 subtitle: Preview of The Real Lena Zavaroni
 description: 20 February 2000 - The Sunday Mail (Glasgow, Scotland) Preview of The Real Lena Zavaroni.
 image: /assets/images/BBC/

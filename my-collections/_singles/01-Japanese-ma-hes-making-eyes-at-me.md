@@ -2,6 +2,7 @@
 layout: discography
 year: 1974
 title: Ma! (He's Making Eyes At Me) Japanese release
+maintitle: Ma! (He's Making Eyes At Me) Japanese release
 subtitle: Single
 description: Lena Zavaroni learned to sing the song in Japanese phonetically.
 image: /assets/images/singles/musical-note.png

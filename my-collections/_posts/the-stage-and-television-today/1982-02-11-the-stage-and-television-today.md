@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Stage and Television Today
+maintitle: The Stage and Television Today
 subtitle: Supplement
 description: The supplement featured a double page spread on Dorothy Solomon and her agency, and contained a small article about Lena's career. It also featured a photo of Lena.
 categories: [The Stage and Television Today]

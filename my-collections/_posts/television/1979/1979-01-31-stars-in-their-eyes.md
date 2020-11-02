@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stars In Their Eyes
+maintitle: Stars In Their Eyes
 subtitle: Tyne Tees Television
 description: Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
 image: /assets/images/ITV/Stars-In-Their-Eyes.jpg

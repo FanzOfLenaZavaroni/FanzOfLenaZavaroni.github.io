@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Radio Times
+maintitle: Radio Times
 subtitle: TV Guide
 description: Two page feature, behind the scenes at the filming of Lena's first series for the BBC, Lena Zavaroni and Music.
 image: /assets/images/magazines/

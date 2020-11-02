@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Des O'Connor Tonight
+maintitle: Des O'Connor Tonight
 subtitle: Publicity
 description: Publicity Photos of Des O'Connor and Lena Zavaroni.
 image: /assets/images/ITV/1984-10-16-des-oconnor-tonight-01.jpg

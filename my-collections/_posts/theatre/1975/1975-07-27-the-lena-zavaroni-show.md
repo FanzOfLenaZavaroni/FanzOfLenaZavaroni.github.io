@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Lena Zavaroni Show
+title: The Lena Zavaroni Show &#124; 27 July 1975
+maintitle: The Lena Zavaroni Show
 subtitle: The Ocean Theatre, Clacton Pier, Claton-on-sea
 description: Lena Zavaroni starred in her own show at The Ocean Theatre, Clacton Pier, Claton-on-sea.
 image: /assets/images/locations/the-pier-at-clacton-on-sea.jpg

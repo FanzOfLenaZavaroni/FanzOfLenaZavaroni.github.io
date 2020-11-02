@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Evening Times
+maintitle: The Evening Times
 subtitle: Oh Ma They're Making Eyes At Me!
 description:
 categories: [Newspapers]

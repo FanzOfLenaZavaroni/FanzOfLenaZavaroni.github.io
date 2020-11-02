@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Biography - Hughie Green
+title: Biography &#124; Hughie Green
+maintitle: Hughie Green
 position: Actor and Producer
 description: Hughie Green was an actor and producer, known for Double Your Money (1955–1968) and Opportunity Knocks (1956-1978).
 image: /assets/images/on-this-day/opportunity-knocks.jpg

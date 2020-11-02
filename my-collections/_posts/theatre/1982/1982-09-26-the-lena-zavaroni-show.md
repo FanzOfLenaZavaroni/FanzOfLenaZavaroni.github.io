@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: Falkirk
 description: The show was cancelled due to Lena Zavaroni's on going heath issues.
 categories: [Theatre, Falkirk]

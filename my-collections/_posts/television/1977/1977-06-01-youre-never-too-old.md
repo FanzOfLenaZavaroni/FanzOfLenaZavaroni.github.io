@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're Never Too Old
+maintitle: You're Never Too Old
 subtitle: One Off Special
 description: Lena celebrates her birthday as a pensioner in a comedy sketch.
 image: /assets/images/ITV/youre-never-too-old.jpg

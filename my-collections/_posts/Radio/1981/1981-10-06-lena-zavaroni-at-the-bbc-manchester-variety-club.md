@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lena Zavaroni
+maintitle: Lena Zavaroni
 subtitle: BBC Manchester Variety Club
 description: Lena Zavaroni at the BBC Manchester Variety Club for BBC Radio 2.
 image: /assets/images/

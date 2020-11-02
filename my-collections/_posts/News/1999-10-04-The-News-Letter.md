@@ -1,6 +1,7 @@
 ---
 layout: post
 title: News Letter
+maintitle: News Letter
 subtitle: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return
 description: 
 categories: [The News Letter]

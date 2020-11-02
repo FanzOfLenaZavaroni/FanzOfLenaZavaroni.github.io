@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Opportunity Knocks
+title: Opportunity Knocks &#124; Variety Club Award Show &#124; 29 December 1975
+maintitle: Opportunity Knocks
 subtitle: Variety Club Award Show (1975)
 description: Lena appears as last year's winner, to present the award to the 1975 recipient, The Frank Jennings Syndicate.
 categories: [Thames Television, Opportunity Knocks]
@@ -34,3 +35,4 @@ Lena appears as last year's winner, to present the award to the 1975 recipient, 
 * **Producer:** Keith Beckett
 * **Director:** Keith Beckett
 * **Musical accompaniment:** Bob Sharples And his Music
+

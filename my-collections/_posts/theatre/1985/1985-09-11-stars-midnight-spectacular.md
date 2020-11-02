@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stars Midnight Spectacular
+maintitle: Stars Midnight Spectacular
 subtitle: The Opera House, Blackpool
 description:
 image: /assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz-200x200.png

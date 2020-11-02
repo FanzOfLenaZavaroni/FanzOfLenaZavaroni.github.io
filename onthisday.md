@@ -1,7 +1,7 @@
 ---
 layout: page
 title: On This Day
-author: Robcamstone
+maintitle: On This Day
 ---
 
 <script>

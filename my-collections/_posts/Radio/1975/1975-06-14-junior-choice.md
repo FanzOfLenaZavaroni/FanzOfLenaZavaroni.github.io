@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Junior Choice
+title: Junior Choice &#124; 14 June 1975
+maintitle: Junior Choice
 subtitle: BBC Radio 1 Medium Wave (also on BBC Radio 2 VHF)
 description: Lena chats on the BBC Radio show presented by Ed Stewart. Click on link for more details and to hear Lena Zavaroni's section of the Radio Show.
 image: /assets/images/radio/radio-tower-200x200.png

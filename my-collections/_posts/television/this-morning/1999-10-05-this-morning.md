@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This Morning
+maintitle: This Morning
 subtitle: Granada Television
 description: The show contained a discussion on eating disorders following Lena Zavaroni's death a few days earlier.
 categories: [Granada Television]

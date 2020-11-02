@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Grand Order Of Water Rats Charity Show
+maintitle: The Grand Order Of Water Rats Charity Show
 subtitle: King's Club, Great Barr, Birmingham
 description:
 categories: [Theatre]

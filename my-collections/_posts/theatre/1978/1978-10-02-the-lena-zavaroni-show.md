@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The London Palladium
 description: Lena Zavaroni stars in her own show at The Palladium, London for one week.
 categories: [Theatre, The London Palladium, The Lena Zavaroni Show]

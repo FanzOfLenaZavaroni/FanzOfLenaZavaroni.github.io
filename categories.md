@@ -2,7 +2,7 @@
 layout: page
 permalink: /categories/
 title: Categories
-author: Robcamstone
+maintitle: Categories
 ---
 
 <div id="archives">

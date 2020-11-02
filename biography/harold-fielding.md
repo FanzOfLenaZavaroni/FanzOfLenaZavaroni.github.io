@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Biography - Harold Fielding
+title: Biography &#124; Harold Fielding
+maintitle: Harold Fielding
 position: Theatre Producer
 description: Harold Fielding was one of Britain’s foremost theatrical producers
 image: /assets/images/harold-fielding.jpg

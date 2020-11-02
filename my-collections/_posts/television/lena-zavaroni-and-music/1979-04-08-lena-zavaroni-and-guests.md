@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lena Zavaroni and Guests
+maintitle: Lena Zavaroni and Guests
 subtitle: BBC Television Centre
 description: Believed to be a recording for an episode of Lena Zavaroni and Music.
 image: /assets/images/BBC/ticket-1979-04-08.jpg

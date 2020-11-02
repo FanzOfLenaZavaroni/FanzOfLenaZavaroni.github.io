@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blue Peter
+maintitle: Blue Peter
 subtitle: BBC One
 description: Lena performed Speedy Gonzales live in the studio, and was then interviewed by the three presenters.
 categories: [BBC One]

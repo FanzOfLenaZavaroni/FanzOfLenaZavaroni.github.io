@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summer Praise
+maintitle: Summer Praise
 subtitle: Doon The Watter
 description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
 image: https://img.youtube.com/vi/DOu5ktVUEoI/hqdefault.jpg

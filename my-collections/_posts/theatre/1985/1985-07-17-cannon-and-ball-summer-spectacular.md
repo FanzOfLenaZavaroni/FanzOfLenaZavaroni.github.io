@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cannon & Ball Summer Spectacular Show
+maintitle: Cannon & Ball Summer Spectacular Show
 subtitle: The Blackpool Opera House
 description: For more details follow the Link to Comedy Kings.
 image: /assets/images/locations/1985-07-17-cannon-and-ball-summer-spectacular-front-cover.jpg

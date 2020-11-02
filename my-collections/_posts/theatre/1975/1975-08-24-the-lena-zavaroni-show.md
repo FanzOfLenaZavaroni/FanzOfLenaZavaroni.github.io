@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Southport Theatre, Southport
 description: Starring Lena Zavaroni at The Southport Theatre, Southport.
 categories: [Theatre, The Lena Zavaroni Show]

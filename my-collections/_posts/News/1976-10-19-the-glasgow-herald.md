@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Glasgow Herald
+maintitle: The Glasgow Herald
 subtitle: Reported on Lena Zavaroni appearance in Edinburgh with the Under-Secretary of State for Scotland, Harry Ewing, to help launch a firework safety campaign.
 description: The Glasgow Herald reported on Lena Zavaroni appearance in Edinburgh (on the 18 October 1976) with the Under-Secretary of State for Scotland, Harry Ewing, to help launch a firework safety campaign.
 image: /assets/images/newspapers/1976-10-19-the-glasgow-herald.jpeg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Drake Theatre, Plymouth
 description: Starring Lena Zavaroni at The Drake Theatre, Plymouth.
 categories: [Theatre, The Lena Zavaroni Show]

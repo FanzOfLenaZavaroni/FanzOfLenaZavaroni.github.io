@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Pavilion, Bournemouth
 description: Lena Zavaroni stars in her own show at The Pavilion, Bournemouth.
 image: /assets/images/locations/5484043_1ebb0d9a-200x200.png

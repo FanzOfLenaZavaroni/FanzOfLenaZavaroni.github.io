@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Monte Video
+maintitle:  Monte Video
 subtitle: Buttertag
 description: The broadcast included archive footage of ABBA, Cher and Lena Zavaroni.
 categories: [Österreichischer Rundfunk]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Pavilion Theatre, Glasgow for one week
 description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow for one week.
 categories: [Theatre, The Pavilion Theatre]

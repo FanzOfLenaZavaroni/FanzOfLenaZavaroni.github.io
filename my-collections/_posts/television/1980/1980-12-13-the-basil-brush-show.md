@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Basil Brush Show
+maintitle: The Basil Brush Show
 subtitle: Introduced by Billy Boyle
 description: Lena appears in a short musical comedy sketch with Basil and Billy Boyle, before performing Will He Kiss Me Tonight.
 image: /assets/images/BBC/

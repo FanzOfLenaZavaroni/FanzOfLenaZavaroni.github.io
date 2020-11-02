@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Sunday Mirror
+maintitle: The Sunday Mirror
 subtitle: SECRET RAPE NIGHTMARE OF SINGER LENA'S MOTHER
 description: Sunday Mirror - 21 March 1999 - SECRET RAPE NIGHTMARE OF SINGER LENA'S MOTHER.
 categories: [Newspapers]

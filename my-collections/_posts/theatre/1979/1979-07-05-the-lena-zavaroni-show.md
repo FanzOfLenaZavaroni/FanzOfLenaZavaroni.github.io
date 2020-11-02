@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: Spa Theatre, Bridlington
 description: 5 July to 8 September 1979. Click on link for details.
 image: /assets/images/theatres/Bridlington-01.jpg

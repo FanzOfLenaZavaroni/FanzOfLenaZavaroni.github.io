@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sunday All Star Celebrity Concert
+maintitle: Sunday All Star Celebrity Concert
 subtitle: The Winter Gardens, Bournemouth
 description:
 image: /assets/images/theatres/

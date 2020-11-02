@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Princess Theatre, Torquay
 description: Lena Zavaroni stars in her own show at The Princess Theatre, Torquay.
 image: /assets/images/locations/geograph-4489556-by-Jaggery.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Replaced Categories with Discography
+maintitle: Replaced Categories with Discography
 subtitle: Collections for non-dated posts Added
 description: 18 November 2019
 categories: [Updates]

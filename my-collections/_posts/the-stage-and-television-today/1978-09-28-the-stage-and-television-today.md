@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Stage and Television Today
+maintitle: The Stage and Television Today
 subtitle: Supplement
 description: The Stage and Television Today featured a small article on Lena's planned week long run at the London Palladium, starting on October.
 categories: [The Stage and Television Today]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Stage and Television Today
+maintitle: The Stage and Television Today
 subtitle: Supplement
 description: Featured an advertisement from Lena thanking the local Council, the management of the White Rock Pavilion, and her agent Dorothy Solomon, for their help in the staging of her show that summer.
 categories: [The Stage and Television Today]

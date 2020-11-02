@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Woman's Own
+maintitle: Woman's Own
 subtitle: Magazine
 description: LENA ZAVARONI - I promised myself I'd live to sing again. 4 page exclusive interview.
 image: /assets/images/magazines/1985-06-22-womans-own-08.jpg

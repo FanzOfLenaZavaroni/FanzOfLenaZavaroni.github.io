@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The New Year Show (1985)
+maintitle: The New Year Show (1985)
 subtitle: Scottish Television
 description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985. Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
 image: https://img.youtube.com/vi/iOWvho3ZSKw/sddefault.jpg

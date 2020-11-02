@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Red Dwarf
+title: Red Dwarf &#124; The First Three Million Years &#124; Episode 1 &#124; In this episode a short clip of Lena Zavaroni is shown
+maintitle: Red Dwarf
 subtitle: The First Three Million Years
-description: In episode 1 of the documentary a short clip of Lena Zavaroni is should.
+description: In episode 1 of the documentary a short clip of Lena Zavaroni is shown.
 image: /assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg
 categories: [Dave]
 ---

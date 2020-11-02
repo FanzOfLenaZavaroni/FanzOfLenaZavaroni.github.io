@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lena and Bonnie
+maintitle: Lena and Bonnie
 subtitle: One Off Special
 description: On Sunday 26 March 1978 LWT broadcast Lena and Bonnie. It was a one-off special starring Lena Zavaroni and Bonnie Langford. Click on the link for details and archive interview with Bonnie Lanford.
 image: /assets/images/lena-and-bonnie/LZ-BL-small.jpg

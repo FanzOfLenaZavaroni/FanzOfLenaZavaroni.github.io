@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sunday All Star Celebrity Concert
+maintitle: Sunday All Star Celebrity Concert
 subtitle: ABC Theatre, Blackpool
 description: Starring Lena Zavaroni with Bert Weedon, Tony Evans, Valentine, Rod Hartley and the Stuart Atkins Band.
 image: /assets/images/theatres/1978-08-20-sunday-all-star-celebrity-concert.jpg

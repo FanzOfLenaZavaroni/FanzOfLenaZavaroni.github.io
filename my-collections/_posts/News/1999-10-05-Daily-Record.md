@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Daily Record
+maintitle: Daily Record
 subtitle: Obsessed Fan Preyed On My Poor Lena.
 description: Obsessed Fan Preyed On My Poor Lena.
 categories: [Daily Record]

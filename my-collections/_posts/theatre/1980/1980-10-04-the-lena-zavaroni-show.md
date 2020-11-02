@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: Manchester
 description: Lena Zavaroni was due to star in her own show in Manchester
 categories: [Theatre, Manchester]

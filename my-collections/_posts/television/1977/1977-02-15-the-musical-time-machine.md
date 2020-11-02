@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Musical Time Machine
+maintitle: The Musical Time Machine
 subtitle: BBC One
 description: Lena performs Jubilation T. Cornpone from the musical Lil Abner, and also her then new single Air Love.
 image: /assets/images/BBC/The-Musical-Time-Machine-01.jpg

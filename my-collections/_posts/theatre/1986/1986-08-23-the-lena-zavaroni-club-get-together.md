@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Club Get Together
+maintitle: The Lena Zavaroni Club Get Together
 subtitle: Torquay
 description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
 categories: [Fan Club]

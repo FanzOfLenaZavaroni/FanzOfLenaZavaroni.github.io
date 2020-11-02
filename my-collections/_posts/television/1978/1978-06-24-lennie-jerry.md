@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lennie And Jerry
+maintitle: Lennie And Jerry
 subtitle: Episode 1.2
 description: Lennie Bennett and Jerry Stevens with guests Lena Zavaroni, Frediani (the world's fastest juggler) and (the Boogie-Woogie duo) Che and Ray.
 image: /assets/images/BBC/1978-06-24-lennie-and-jerry-01.jpg

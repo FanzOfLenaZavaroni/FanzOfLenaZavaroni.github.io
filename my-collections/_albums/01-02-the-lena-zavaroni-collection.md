@@ -2,6 +2,7 @@
 layout: discography
 year: 1974
 title: The Lena Zavaroni Collection
+maintitle: The Lena Zavaroni Collection
 description: Pickwick released a two record set. made up of Lena's first two albums
 image: /assets/images/albums/The-Lena-Zavaroni-Collection-small.jpeg
 ---

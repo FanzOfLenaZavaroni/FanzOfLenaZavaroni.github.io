@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lena Zavaroni Show
+maintitle: The Lena Zavaroni Show
 subtitle: The Villa Marina, Douglas, Isle Of Man
 description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 image: https://live.staticflickr.com/3552/3826412639_95377fd7b2_o_d.jpg

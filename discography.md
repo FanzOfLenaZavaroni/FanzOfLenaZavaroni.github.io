@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Discography
-author: Robcamstone
+maintitle: Discography
 ---
 <h1>Discography</h1>
 

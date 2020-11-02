@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Carol Burnett Show
+title: The Carol Burnett Show &#124; 2 November 1974
+maintitle: The Carol Burnett Show
 subtitle: Season 8, Episode 7
 description:
 image: /assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg

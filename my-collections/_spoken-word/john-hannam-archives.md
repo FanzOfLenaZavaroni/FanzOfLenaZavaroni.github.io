@@ -2,6 +2,7 @@
 layout: post
 year: 2010
 title: John Hannam Archives Volume 1
+maintitle: John Hannam Archives Volume 1
 ---
 
 <main class="Main-Default">

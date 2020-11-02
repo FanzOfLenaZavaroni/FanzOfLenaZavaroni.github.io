@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Evening With Lena Zavaroni and Friends
+maintitle: An Evening With Lena Zavaroni and Friends
 subtitle: The Winter Gardens, Margate
 description:
 image: /assets/images/theatres/1982-07-22-an-evening-with-lena-zavaroni-200x200.png

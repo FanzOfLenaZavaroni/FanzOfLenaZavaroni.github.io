@@ -1,6 +1,7 @@
 ---
 layout: post
-title: BBC Light Entertainment Presents Lena Zavaroni.
+title: BBC Light Entertainment Presents Lena Zavaroni
+maintitle: BBC Light Entertainment Presents Lena Zavaroni
 subtitle: BBC Television Centre
 description: Believed to be a recording for an episode of Lena Zavaroni and Music.
 image: /assets/images/BBC/ticket-1979-04-01.jpg

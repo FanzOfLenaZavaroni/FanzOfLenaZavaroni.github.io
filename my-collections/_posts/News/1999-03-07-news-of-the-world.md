@@ -1,6 +1,7 @@
 ---
 layout: post
 title: News of the World (London, England)
+maintitle: News of the World (London, England)
 subtitle: Two Articles
 description: Article One - Lena's shoplift agony over 50p jelly packet - Exclusive. Article Two - Sad Lena in shoplift agony over pack of jelly worth 50p - Exclusive
 categories: [Newspapers]
