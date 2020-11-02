@@ -4,7 +4,6 @@ title: The Lena Zavaroni Show
 subtitle: The Pavilion Theatre, Bournemouth.
 description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Bournemouth.
 categories: [Theatre, The Lena Zavaroni Show]
-author: Robcamstone
 ---
 
 ### Research

@@ -4,7 +4,6 @@ title: Opportunity Knocks
 subtitle: Variety Club Award Show (1975)
 description: Lena appears as last year's winner, to present the award to the 1975 recipient, The Frank Jennings Syndicate.
 categories: [Thames Television, Opportunity Knocks]
-author: Robcamstone
 ---
 
 Lena appears as last year's winner, to present the award to the 1975 recipient, The Frank Jennings Syndicate.

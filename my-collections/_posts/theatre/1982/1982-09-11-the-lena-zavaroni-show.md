@@ -5,7 +5,6 @@ subtitle: The Grand Theatre, Leeds
 description: The Bachelors stood in for Lena Zavaroni as she was too ill to perform.
 image: /assets/images/locations/
 categories: [Theatre, The Grand Theatre Leeds]
-author: Robcamstone
 ---
 
 Lena Zavaroni was taken ill and so the Bachelors stood in for her.

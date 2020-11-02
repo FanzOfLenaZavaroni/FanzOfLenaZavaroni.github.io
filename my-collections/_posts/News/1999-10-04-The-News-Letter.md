@@ -4,7 +4,6 @@ title: News Letter
 subtitle: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return
 description: 
 categories: [The News Letter]
-author: Robcamstone
 ---
 
 ### Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return

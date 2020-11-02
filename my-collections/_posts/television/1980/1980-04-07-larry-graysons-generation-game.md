@@ -5,7 +5,6 @@ subtitle: Special Easter edition of the show
 description: 
 image: /assets/images/BBC/larry-graysons-generation-game.jpg
 categories: [BBC One]
-author: Robcamstone
 ---
 
 <table>

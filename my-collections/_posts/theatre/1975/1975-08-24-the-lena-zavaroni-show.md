@@ -4,7 +4,6 @@ title: The Lena Zavaroni Show
 subtitle: The Southport Theatre, Southport
 description: Starring Lena Zavaroni at The Southport Theatre, Southport.
 categories: [Theatre, The Lena Zavaroni Show]
-author: Robcamstone
 ---
 
 ### Research

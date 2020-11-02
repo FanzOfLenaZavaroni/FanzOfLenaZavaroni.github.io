@@ -5,7 +5,6 @@ subtitle: Torbay
 description: An outside broadcast from the BBC1 Big Top which this week visits Torbay. Starring Roy Hudd, Keith Harris, Tessie O'Shea, Lena Zavaroni, Derek Dene, Jon Britain, Tony Blackburn and featuring NEW EDITION.
 image: https://img.youtube.com/vi/lFU0ROYFwh4/hqdefault.jpg
 categories: [BBC One]
-author: Robcamstone
 ---
 
 > <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/lFU0ROYFwh4?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></div>

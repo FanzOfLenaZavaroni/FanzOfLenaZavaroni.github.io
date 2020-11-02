@@ -5,7 +5,6 @@ subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 image: /assets/images/theatres/1978-07-23-programme-cover.jpg
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
-author: Robcamstone
 ---
 
 <table style="text-align:center;">

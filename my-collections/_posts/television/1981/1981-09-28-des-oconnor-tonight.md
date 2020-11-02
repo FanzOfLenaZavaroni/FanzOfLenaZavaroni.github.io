@@ -5,7 +5,6 @@ subtitle: BBC Two
 description: Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are from Britain Jim Davidson, Lena Zavaroni and from America Garry Shandling.
 image: /assets/images/
 categories: [BBC Two]
-author: Robcamstone
 ---
 
 ### Synopsis

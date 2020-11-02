@@ -5,7 +5,6 @@ subtitle: The Grosse Sendesaal, West Berlin
 description:
 image: /assets/images/Senderfreiesberlin-logo.svg
 categories: [BBC Radio 2]
-author: Robcamstone
 ---
 
 [![](/assets/images/Senderfreiesberlin-logo.svg){: .width-100}{: .left}{: .zoom-in}](/assets/images/Senderfreiesberlin-logo.svg)

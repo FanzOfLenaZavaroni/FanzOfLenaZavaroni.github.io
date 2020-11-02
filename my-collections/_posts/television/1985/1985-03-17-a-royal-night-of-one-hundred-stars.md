@@ -5,7 +5,6 @@ subtitle: National Theatre (Olivier Theatre), London
 description: Recorded at the National Theatre (Olivier Theatre), London on 17 March 1985 for Broadcast by London Weekend Television (LWT) on 31 March 1985
 image: /assets/images/ITV/
 categories: [London Weekend Television, Theatre]
-author: Robcamstone
 ---
 
 Gala benefit at the National Theatre, sponsored by Princess Anne, in aid of the Save the Children Fund. Hosted by Jimmy Tarbuck, it includes singing, stand-up comedy, dance, comedy skits, and drama.

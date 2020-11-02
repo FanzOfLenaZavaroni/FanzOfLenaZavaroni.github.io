@@ -4,7 +4,6 @@ title: The Lena Zavaroni Appreciation Society Annual Luncheon
 subtitle: The Imperial Hotel, Blackpool
 description: Lena attended the first LZAS annual luncheon, attended by over 60 fans and held to celebrate her 18th birthday, where she met members of the society and presented them with signed photos.
 categories: [Personal Appearances]
-author: Robcamstone
 ---
 
 > [![](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg){: .height}{: .zoom-in}](/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg)

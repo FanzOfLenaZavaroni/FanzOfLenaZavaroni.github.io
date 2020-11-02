@@ -5,7 +5,6 @@ subtitle: Newspaper
 description:
 image: /assets/images/magazines/1974-09-14-billboard-page-56.jpg
 categories: [Newspapers, Billboard]
-author: Robcamstone
 ---
 
 Billboard Newspaper had a couple of articles that referenced Lena Zavaroni.

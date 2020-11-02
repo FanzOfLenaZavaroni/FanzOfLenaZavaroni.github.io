@@ -4,7 +4,6 @@ title: The Bachelors Show
 subtitle: Epiosde 3
 description:  2 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 categories: [BBC Two]
-author: Robcamstone
 ---
 
 ![](/assets/images/BBC/The-Bachelors-Show-03.jpg)

@@ -5,7 +5,6 @@ subtitle: The Bullet
 description: Mentioned Lena Zavaroni’s Album. Ma! (He’s Making Eyes At Me).
 image: /assets/images/newspapers/Bullet-Fredericksburg_VA_vol-71_1998-04-23_0001.jpg
 categories: [Newspapers]
-author: Robcamstone
 ---
 
 [![](/assets/images/newspapers/Bullet-Fredericksburg_VA_vol-71_1998-04-23_0001.jpg){: .width-33}](/assets/images/newspapers/Bullet-Fredericksburg_VA_vol-71_1998-04-23_0001.jpg)

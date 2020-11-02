@@ -5,7 +5,6 @@ subtitle: The Odeon Theatre, Woolwich, London
 description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 image: https://live.staticflickr.com/2294/1730226155_cfc3a96710_n_d.jpg
 categories: [Theatre, The Lena Zavaroni Show]
-author: Robcamstone
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/oldcinemaphotos/1730226155/in/album-72157602667063244" title="Coronet Woolwich"><img src="https://live.staticflickr.com/2294/1730226155_c05ef99441_o.jpg" width="982" height="1500" alt="Coronet Woolwich"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

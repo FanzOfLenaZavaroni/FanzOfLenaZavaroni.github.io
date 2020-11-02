@@ -5,7 +5,6 @@ subtitle: Single
 description: A-side Smile, B-side Hey! Hey! What Do You Say.
 image: /assets/images/singles/musical-note.png
 categories: [Discography, Singles]
-author: Robcamstone
 ---
 
 <!-- ![27575622609](27575622609.jpg) -->

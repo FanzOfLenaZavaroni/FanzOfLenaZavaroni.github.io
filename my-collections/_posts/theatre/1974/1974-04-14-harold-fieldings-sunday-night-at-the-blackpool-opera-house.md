@@ -5,7 +5,6 @@ subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 image: /assets/images/theatres/1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
-author: Robcamstone
 ---
 
 [![](/assets/images/theatres/1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg){: .width-25}{: .zoom-in}](/assets/images/theatres/1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg)

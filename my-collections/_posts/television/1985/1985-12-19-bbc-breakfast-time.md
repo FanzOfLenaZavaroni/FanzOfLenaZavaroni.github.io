@@ -5,7 +5,6 @@ subtitle: BBC One
 description: Lena appears on the sofa to chat to Frank Bough and Debbie Greenwood about her plans for the future.
 image: /assets/images/BBC/Breakfast Time.jpg
 categories: [BBC One]
-author: Robcamstone
 ---
 
 ![](/assets/images/BBC/Breakfast Time.jpg)

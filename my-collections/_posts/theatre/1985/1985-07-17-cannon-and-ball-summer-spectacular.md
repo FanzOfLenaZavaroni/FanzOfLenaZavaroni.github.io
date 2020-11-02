@@ -5,7 +5,6 @@ subtitle: The Blackpool Opera House
 description: For more details follow the Link to Comedy Kings.
 image: /assets/images/locations/1985-07-17-cannon-and-ball-summer-spectacular-front-cover.jpg
 categories: [Theatre, Blackpool Opera House]
-author: Robcamstone
 ---
 
 ![Front Cover Of The Programme For The Cannon And Ball Summer Spectacular Show 1985](/assets/images/locations/1985-07-17-cannon-and-ball-summer-spectacular-front-cover.jpg){: .left}

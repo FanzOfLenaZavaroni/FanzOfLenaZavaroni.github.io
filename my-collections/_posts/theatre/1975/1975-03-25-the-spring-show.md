@@ -5,7 +5,6 @@ subtitle: The Pavilion Theatre, Bournemouth
 description: Lena Zavaroni - The Pavilion Theatre, Bournemouth (25-29 March 1975)
 image: /assets/images/locations/geograph-5270508-by-barry-shimmon.jpg
 categories: [Theatre]
-author: Robcamstone
 ---
 
 > ![](/assets/images/locations/geograph-5270508-by-barry-shimmon.jpg){: .full-width}

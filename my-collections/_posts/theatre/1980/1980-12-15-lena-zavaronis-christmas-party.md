@@ -4,7 +4,6 @@ title: Lena Zavaroni's Christmas Party
 subtitle: Edinburgh Playhouse, Edinburgh
 description: Edinburgh Playhouse, Edinburgh (15 December 1980 for three weeks).
 categories: [Theatre]
-author: Robcamstone
 ---
 
 [![](/assets/images/1980-12-15-lena-zavaronis-christmasparty/lena-zavaronis-christmas-party - 01.jpg){: .fit1}{: .zoom-in}](/assets/images/1980-12-15-lena-zavaronis-christmasparty/lena-zavaronis-christmas-party - 01.jpg)

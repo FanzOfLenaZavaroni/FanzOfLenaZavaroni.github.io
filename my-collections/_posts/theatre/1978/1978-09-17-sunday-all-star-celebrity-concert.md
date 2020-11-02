@@ -5,7 +5,6 @@ subtitle: The Winter Gardens, Bournemouth
 description:
 image: /assets/images/theatres/
 categories: [Theatre, The Winter Gardens Bournemouth]
-author: Robcamstone
 ---
 
 ### Performers

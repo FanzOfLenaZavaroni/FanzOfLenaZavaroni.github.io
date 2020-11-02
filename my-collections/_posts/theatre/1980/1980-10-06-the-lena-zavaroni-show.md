@@ -4,7 +4,6 @@ title: The Lena Zavaroni Show
 subtitle: The Pavilion Theatre, Glasgow for one week
 description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow for one week.
 categories: [Theatre, The Pavilion Theatre]
-author: Robcamstone
 ---
 
 Nightly - 7.45pm, Saturday and Wednesday - 6.25 & 8.40pm.

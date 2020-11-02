@@ -4,10 +4,9 @@ title: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 categories: [Theatre, Harold Fielding, Blackpool Opera House]
-author: Robcamstone
 ---
 
-**Unable to confirm if the show was canceled, it should have been if Lena followed the order to rest for 6 weeks.**
+### Unable to confirm if the show was canceled, it should have been if Lena followed the order to rest for 6 weeks.
 
 Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
@@ -16,7 +15,9 @@ The Contract for the show was signed by Victor Zavaroni director of Lena Zavaron
 * **Guest Star:** Lena Zavaroni
 * **Theatre Producer:** [Harold Fielding](/biography/harold-fielding)
 
-**Research is on going and hopefully I will be able to add more details**
+### Research
+> Research is on going and hopefully I will be able to add more details
+>
 > If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
 >
 > All information is of value and helps to keep the memories we have of Lena Zavaroni alive.

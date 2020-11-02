@@ -5,7 +5,6 @@ subtitle: The King's Theatre, Glasgow
 description: Lena Zavaroni stars in her own show at the King's Theatre, Glasgow.
 image: /assets/images/locations/5484043_1ebb0d9a.jpg
 categories: [Theatre, The Lena Zavaroni Show]
-author: Robcamstone
 ---
 
 > [![](/assets/images/locations/5484043_1ebb0d9a.jpg){: .full-width}](https://www.geograph.org.uk/photo/5484043)

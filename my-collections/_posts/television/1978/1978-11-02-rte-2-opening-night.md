@@ -5,7 +5,6 @@ subtitle: First Night
 description: A gala RTÉ 2 opening Show, live from Cork Opera House, starring top international performers and personalties, many of whom will be making regular appearances on the new channel.
 image: /assets/images/RTÉ/0010e0af-642-first-night.jpg
 categories: [RTÉ 2]
-author: Robcamstone
 ---
 
 <figure class="fig1">

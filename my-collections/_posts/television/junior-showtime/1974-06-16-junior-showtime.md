@@ -5,7 +5,6 @@ subtitle: Lena Zavaroni's fifth appearance
 description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
 image: /assets/images/YTV/0FFO-1974-JUN15-010-cropped.jpeg
 categories: [Yorkshire Television]
-author: Robcamstone
 ---
 
 <table>

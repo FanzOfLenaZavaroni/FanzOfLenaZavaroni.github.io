@@ -5,7 +5,6 @@ subtitle: Pitsea, Essex
 description: Scottish singer and television child star Lena Zavaroni appeared at the store on this day to promote her new album Songs Are Such Good Things and sign autographs.
 image:
 categories: [Personal Appearances]
-author: Robcamstone
 ---
 
 > Tesco's Superstore in Pitsea opens. The new store, located off Station Lane, has 49 checkouts, an upper floor restaurant, outside gardening centre and petrol filling station.

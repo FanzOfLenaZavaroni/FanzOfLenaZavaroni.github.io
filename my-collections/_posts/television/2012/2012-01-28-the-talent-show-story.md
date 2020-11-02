@@ -5,7 +5,6 @@ subtitle: Episode 4
 description: Episode 4 had a short segment looked at Lena's rise to stardom and subsequent decline.
 image: /assets/images/
 categories: [ITV]
-author: Robcamstone
 ---
 
 Episode 4 has a short segment looked at Lena's rise to stardom and subsequent decline.

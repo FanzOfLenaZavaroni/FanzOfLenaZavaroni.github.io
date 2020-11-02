@@ -5,7 +5,6 @@ subtitle: Bonnie Langford has a lifetime – literally – of showbusiness memor
 description: Bonnie Langford has a lifetime – literally – of showbusiness memories.
 image: https://wpcluster.dctdigital.com/sundaypost/wp-content/uploads/sites/13/2019/08/5d5d303a00e752.96581213-e1566480620476-539x372.jpg
 categories: [Sunday Post]
-author: Robcamstone
 ---
 
 Bonnie Langford makes a short reference about Lena Zavaroni that the article writer Craig Campbell pads out with publicly known details on Lena's life. A publicity photo from [Lena and Bonnie](/london%20weekend%20television/1978/03/26/lena-and-bonnie.html) is used in the article as well as one of Bonnie Langford in Eastenders and a some other photos of Bonnie Langfrod as well.

@@ -5,7 +5,6 @@ subtitle: Bruce Forsyth
 description: Lena takes part in a short comedy sketch with Brucie, and they then perform Be A Clown together.
 image: /assets/images/ITV/1976-07-28-bring-on-the-girls.jpg
 categories: [Thames Television]
-author: Robcamstone
 ---
 
 <table style="text-align:center;">

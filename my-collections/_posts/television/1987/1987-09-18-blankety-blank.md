@@ -5,7 +5,6 @@ subtitle: Episode 10.1
 description:
 image: /assets/images/BBC/1987-09-18-blankety-blank.jpg
 categories: [BBC One]
-author: Robcamstone
 ---
 
 ![](/assets/images/BBC/1987-09-18-blankety-blank.jpg){: .left}

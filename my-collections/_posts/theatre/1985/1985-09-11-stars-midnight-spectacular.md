@@ -5,7 +5,6 @@ subtitle: The Opera House, Blackpool
 description:
 image: /assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz-200x200.png
 categories: [Theatre, Blackpool Opera House]
-author: Robcamstone
 ---
 
 ### Details

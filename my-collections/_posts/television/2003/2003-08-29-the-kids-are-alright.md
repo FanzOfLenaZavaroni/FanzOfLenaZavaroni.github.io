@@ -5,7 +5,6 @@ subtitle: The Story Of Child Pop Stars
 description: 50 minute documentary looking at the lives of various child stars through the years. Features an 8 minute segment about Lena's career and illness.
 image: /assets/images/BBC/
 categories: [BBC One]
-author: Robcamstone
 ---
 
 ### Synopsis

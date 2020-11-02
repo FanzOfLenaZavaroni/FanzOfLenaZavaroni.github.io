@@ -4,7 +4,6 @@ title: The Lena Zavaroni Club Get Together
 subtitle: Torquay
 description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
 categories: [Fan Club]
-author: Robcamstone
 ---
 
 Lena met members of her fan club at a hotel, during her Summer Season at the [Princess Theatre](/theatre/1986/07/05/holiday-startime.html), Torquay, she also posed for photographs.

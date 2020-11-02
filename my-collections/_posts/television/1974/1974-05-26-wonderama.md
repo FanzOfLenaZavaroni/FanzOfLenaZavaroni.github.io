@@ -5,7 +5,6 @@ subtitle: The Bob McAllister Years
 description: Broadcast in United States on Channel 11 at 8am Lena Zavaroni made a guest appearance on this episode singing Music, Music, Music.
 image: https://img.youtube.com/vi/akMucPDNjos/sddefault.jpg
 categories: [US Television]
-author: Robcamstone
 ---
 
 Lena Zavaroni made a guest appearance on this episode singing Music, Music, Music.

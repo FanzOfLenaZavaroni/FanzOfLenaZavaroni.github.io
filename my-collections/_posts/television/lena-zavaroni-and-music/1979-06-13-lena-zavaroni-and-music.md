@@ -5,7 +5,6 @@ subtitle: Episode 4
 description: Lena's guests this week are Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculeans.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC One, Lena Zavaroni and Music]
-author: Robcamstone
 ---
 
 <table>

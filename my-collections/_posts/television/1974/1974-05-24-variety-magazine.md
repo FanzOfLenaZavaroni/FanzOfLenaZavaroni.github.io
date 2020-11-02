@@ -4,7 +4,6 @@ title: Variety
 subtitle: Magazine
 description: The Magazine carried a full page advertisement titled A Lena Zavaroni Weekend promoting her forthcoming TV appearances on Wonderama, the Merv Griffin Show and the Mike Douglas Show. Along with three black and white photos of Lena during her US tour.
 categories: [Magazines]
-author: Robcamstone
 ---
 
 The Magazine carried a full page advertisement titled A Lena Zavaroni Weekend promoting her forthcoming TV appearances on Wonderama, the Merv Griffin Show and the Mike Douglas Show.

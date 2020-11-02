@@ -5,7 +5,6 @@ subtitle: Actor Burt Reynolds stood in for Johnny Carson
 description: Actor Burt Reynolds stood in for Johnny Carson. Lena Zavaroni makes the second of two appearances on the show that summer. Lena performs Swinging On A Star and is then interviewed by Burt. She tells him about her trip to Japan and how she ate with chopsticks, and then shows Burt how to use them. She then sings Help Me Make It Through The Night.
 image: /assets/images/US-TV/1974-07-15-the-tonight-show-200x200.png
 categories: [US Television]
-author: Robcamstone
 ---
 
 ![Burt Reynolds and Lena Zavaroni](/assets/images/US-TV/1974-07-15-the-tonight-show.jpg "Burt Reynolds and Lena Zavaroni"){: .half-width}{: .left}

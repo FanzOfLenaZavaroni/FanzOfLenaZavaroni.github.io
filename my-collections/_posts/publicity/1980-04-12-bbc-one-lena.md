@@ -4,7 +4,6 @@ title: Publicity Photo
 subtitle: Lena - Episode 1.1
 description: Lena - Episode 1.1
 categories: [Publicity Photos]
-author: Robcamstone
 ---
 
 [![](/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-front.jpg){: .half-width}{: .zoom-in}](/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-front.jpg)

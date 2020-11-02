@@ -5,7 +5,6 @@ subtitle: Presented By Kaye Adams
 description: Lena took part in a discussion on the price of fame.
 image: /assets/images/Media-Logos/bfi_logo_transp.png
 categories: [Scottish Television]
-author: Robcamstone
 ---
 
 Lena took part in a discussion on the price of fame.

@@ -4,7 +4,6 @@ title: Citizens Commission on Human Rights
 subtitle: London
 description:
 categories: [Deleted Online Articles]
-author: Robcamstone
 ---
 
 ### **NOTE:** The Article is no longer available via the CCHR Website, which is why I have published it in full below:

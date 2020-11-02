@@ -5,7 +5,6 @@ subtitle: A Century of Song 1881-1981
 description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.
 image: /assets/images/radio/the-times-london-england-saturday-oct-17-1981-pg-27-issue.jpg
 categories: [BBC Radio 2]
-author: Robcamstone
 ---
 
 A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.

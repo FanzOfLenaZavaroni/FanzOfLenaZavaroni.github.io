@@ -4,7 +4,6 @@ title: Julian Worricker
 subtitle: Including after 11.00 the Five Live Report Mind Games - Scientology versus Psychiatry
 description: BRIAN DANIELS&#58; Okay, let me stop you there, Max, because in 1999, a high-profile case of Lena Zavaroni, who, at 35 years old had been under psychiatric care for a couple of, I mean, at least ten to fifteen years, and - um - she was found to have a - an eating problem, and then she was given psychiatric drugs, it didn't really go anywhere.
 categories: [BBC Radio 5, Transcripts, Deleted Online Articles]
-author: Robcamstone
 ---
 
 <span style="color:#ff0000; font-weight:bold;font-size:26px;">Article Warning:</span> <span style="font-size:26px;">Transcript may be upsetting to some.</span>

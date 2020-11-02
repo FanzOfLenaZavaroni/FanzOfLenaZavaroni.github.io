@@ -5,7 +5,6 @@ subtitle: Publicity
 description: Publicity Photos for Publicity for Lena and Bonnie
 image: /assets/images/lena-and-bonnie/LZ-BL-01.jpg
 categories: [Publicity]
-author: Robcamstone
 ---
 
 <table>

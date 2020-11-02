@@ -4,7 +4,6 @@ title: The Stage and Television Today
 subtitle: Supplement
 description: Featured a two-page spread on the Royal Variety Performance at the Palladium, featuring many behind the scenes photos of the cast.
 categories: [The Stage and Television Today]
-author: Robcamstone
 ---
 
 Featured a two-page spread on the Royal Variety Performance at the Palladium, featuring many behind the scenes photos of the cast.

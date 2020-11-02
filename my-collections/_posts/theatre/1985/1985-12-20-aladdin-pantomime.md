@@ -5,7 +5,6 @@ subtitle: The Wimbledon Theatre, London
 description:
 image: /assets/images/theatres/flyer-aladdin-01.jpg
 categories: [Theatre]
-author: Robcamstone
 ---
 
 [![](/assets/images/theatres/flyer-aladdin-01.jpg){: .half-width}{: .zoom-in}](/assets/images/theatres/flyer-aladdin-01.jpg)

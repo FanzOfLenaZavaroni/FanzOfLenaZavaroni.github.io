@@ -5,7 +5,6 @@ subtitle: The White Rock Pavilion, Hastings
 description: Starring Lena Zavaroni, with Freddie Davies, Francis Van Dyke, Sonny Hayes & Co and the Dougie Squires' Second Generation Dancers.
 image: /assets/images/locations/2222751_f901cdd4.jpg
 categories: [Theatre, The Lena Zavaroni Show]
-author: Robcamstone
 ---
 
 > [![](/assets/images/locations/2222751_f901cdd4.jpg)](https://www.geograph.org.uk/photo/2222751){: .full-width}

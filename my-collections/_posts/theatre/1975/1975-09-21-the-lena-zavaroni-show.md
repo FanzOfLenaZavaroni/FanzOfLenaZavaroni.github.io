@@ -5,7 +5,6 @@ subtitle: Caesar's Palace, Luton
 description: Lena Zavaroni stars in her own show at Caesar's Palace, Luton.
 image: /assets/images/locations/
 categories: [Theatre, Caesar's Palace Luton]
-author: Robcamstone
 ---
 
 ### Research

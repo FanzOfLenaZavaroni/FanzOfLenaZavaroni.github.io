@@ -5,7 +5,6 @@ subtitle: Conference Centre, Harrogate
 description: Recorded on 8 December 1985 at the Conference Centre, Harrogate and broadcast on 1 January 1986. In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's All The Time, followed by a cover of the Donna Summer hit She Works Hard For The Money. Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.
 image: /assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg
 categories: [Yorkshire Television, Thames Television]
-author: Robcamstone
 ---
 
 In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's All The Time, followed by a cover of the Donna Summer hit She Works Hard For The Money.

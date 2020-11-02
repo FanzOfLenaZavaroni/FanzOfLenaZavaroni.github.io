@@ -4,7 +4,6 @@ title: The Sunday Mirror
 subtitle: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer
 description: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer.
 categories: [Newspapers]
-author: Robcamstone
 ---
 
 > LENA Zavaroni had been dead only a few days when club singer Ray Dexter suddenly announced that he was her fiance.

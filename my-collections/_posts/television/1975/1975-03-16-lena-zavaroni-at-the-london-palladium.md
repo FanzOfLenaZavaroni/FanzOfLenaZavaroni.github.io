@@ -5,7 +5,6 @@ subtitle: Two Shows
 description: 
 image: /assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg
 categories: [Theatre]
-author: Robcamstone
 ---
 
 | [![](/assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg){: .zoom-in}](/assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg) | [![](/assets/images/theatres/lena-zavaroni-at-the-london-palladium-02.jpg){: .zoom-in}](/assets/images/theatres/lena-zavaroni-at-the-london-palladium-02.jpg) | [![](/assets/images/theatres/lena-zavaroni-at-the-london-palladium-03.jpg){: .zoom-in}](/assets/images/theatres/lena-zavaroni-at-the-london-palladium-03.jpg) |

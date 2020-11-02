@@ -5,7 +5,6 @@ subtitle: Season 8, Episode 7
 description:
 image: /assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg
 categories: [US Television]
-author: Robcamstone
 ---
 
 <figure class="fig1">
