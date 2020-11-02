@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Grand Order Of Water Rats Charity Show
+title: The Grand Order Of Water Rats Charity Show &#124; 4 February 1979
 maintitle: The Grand Order Of Water Rats Charity Show
 subtitle: King's Club, Great Barr, Birmingham
 description:
