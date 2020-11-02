@@ -18,7 +18,7 @@ maintitle: Categories
 <h2 id="{{category[0] | uri_escape}}">{{category[0]}}</H2>
 <ul>
   {% for post in sorted_posts %}
- 	<li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{post.date | date: "%Y-%m-%d"}} - {{post.title}}</a></li>
+ 	<li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{post.date | date: "%Y-%m-%d"}} - {{post.maintitle}} - {{ post.subtitle }}</a></li>
   {% endfor %}
 </ul>
 {% endfor %}
