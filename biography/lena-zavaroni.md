@@ -195,7 +195,7 @@ Has four types of procedures:
 ### Comment
 > This section of the Mental Health Act seems flawed How can an individual with severe mental heath problems make an informed chose if they are capable of making such a chose then I would argue that they don't need the surgical procedure.
 >
-> Lena informing those treating her that she would kill herself if she does not get the NMD is not consect but is as they believed her treat grounds for Lena being Sectioned.
+> Lena informing those treating her that she would kill herself if she does not get the NMD is not consect but is as they believed her threat grounds for Lena being Sectioned.
 
 <cite>[Robcamstone](https://m.me/fanzoflenazavaroni)</cite>
 

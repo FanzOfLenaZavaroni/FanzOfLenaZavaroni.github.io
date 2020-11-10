@@ -959,7 +959,7 @@ if (month == '11' && day == '11') {
 OnThisDay ='/onthisday/11/11-11.html';
 }
 if (month == '11' && day == '12') {
-OnThisDay ='/onthisday/11/11-12.html';
+OnThisDay ='/onthisday/11/11-10.html';
 }
 if (month == '11' && day == '13') {
 OnThisDay ='/onthisday/11/11-13.html';
