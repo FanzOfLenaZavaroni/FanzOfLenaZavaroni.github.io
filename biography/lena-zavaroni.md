@@ -131,12 +131,33 @@ Time goes by and Lena&#8217;s new record album is overdue for delivery and we ar
 Lena Zavaroni and Peter Wiltshire were married in St Mary's Church, Finchley, Greater London on the 30 September 1989.
 
 ### Screenshots from their Wedding Video
-[![](/assets/images/wedding/St-Marys-Church-Finchley.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/St-Marys-Church-Finchley.jpg)
-[![](/assets/images/wedding/Peter-Wiltshire-Lena-Zavaroni-01.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/Peter-Wiltshire-Lena-Zavaroni-01.jpg)
-[![](/assets/images/wedding/Victor-Lena-Zavaroni-01.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/Victor-Lena-Zavaroni-01.jpg)
-[![](/assets/images/wedding/Hilda-Lena-Zavaroni-01.jpg){: .adjust-width}{: .zoom-in}](/assets/images/wedding/Hilda-Lena-Zavaroni-01.jpg)
-
+<figure class="fig1">
+<img src="/assets/images/wedding/wedding.png" class="full-width">
+<figcaption>
 The Marriage would only last 18 months.
+</figcaption>
+</figure>
+
+<figure class="fig2">
+<img src="/assets/images/wedding/St-Marys-Church-Finchley.jpg" class="full-width">
+</figure>
+
+<figure class="fig2">
+<img src="/assets/images/wedding/Peter-Wiltshire-Lena-Zavaroni-01.jpg" class="full-width">
+</figure>
+
+<figure class="fig2">
+<img src="/assets/images/wedding/Victor-Lena-Zavaroni-01.jpg" class="full-width">
+</figure>
+
+<figure class="fig2">
+<img src="/assets/images/wedding/Hilda-Lena-Zavaroni-01.jpg" class="full-width">
+<figcaption>
+The Marriage would only last 18 months.
+</figcaption>
+</figure>
+
+{: .clear}
 
 ### Treatments
 ### Electroconvulsive Therapy (ECT)
@@ -311,6 +332,11 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 <cite>Robcamstone</cite>
 
 <style>
-.adjust-width {width:180px; height:auto;}
+.fig2 {display:none;}
+
+@media only screen and (max-width: 700px) {
+.fig1 {display:none;}
+.fig2 {display:block; float:left; width:100%;}
+}
 </style>
 
