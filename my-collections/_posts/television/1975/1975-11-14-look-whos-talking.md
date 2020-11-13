@@ -26,7 +26,7 @@ Lena chats to Derek Batey about her life so far, and performs impromptu versions
 </table>
 </figure>
 
-<br />{: .clear}
+{: .clear}
 
 <style>
 .fig1 {float:left; width:45%;}
