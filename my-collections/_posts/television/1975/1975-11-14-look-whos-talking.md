@@ -8,15 +8,36 @@ image: /assets/images/ITV/border-television-station-ident.jpg
 categories: [Border Television]
 ---
 
-![](/assets/images/ITV/border-television-station-ident.jpg)
-
+<figure class="fig1">
+<img src="/assets/images/ITV/border-television-station-ident.jpg" class="full-width">
+<figcaption>
 Lena chats to Derek Batey about her life so far, and performs impromptu versions of Ma! He's Making Eyes At Me in Japanese and German.
+</figcaption>
+</figure>
 
-**Cast**
-* **Interviewer:** Derek Batey
-* **Interviewer:** Lena Zavaroni
+<figure class="fig2">
+<table>
+<tr><th colspan="2">Cast and Crew</th></tr>
+<tr><th>Interviewer:</th><td>Derek Batey</td></tr>
+<tr><th>Interviewer:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Production Country:</th><td>Great Britain</td></tr>
+<tr><th>Production Company:</th><td>Border Television</td></tr>
+<tr><th>Deviser, Writer and Producer:</th><td>Derek Batey</td></tr>
+</table>
+</figure>
 
-**Credits**
-* **Production Country:** Great Britain
-* **Production Company:** Border Television
-* **Deviser, Writer and Producer:** Derek Batey
+<br />{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+figcaption {float:left; width:100%;}
+
+.fig2 {float:right; width:49%;}
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
+
