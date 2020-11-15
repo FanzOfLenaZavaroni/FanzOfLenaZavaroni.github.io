@@ -65,7 +65,7 @@ The following is a list of websites and tips that may help you with your own res
 ### I
 * ——: [The Internet Archive](https://archive.org/search.php?query=Lena%20Zavaroni) - by selecting different Search options: metadata, text contents, TV news captions, radio transcripts or archived web sites the content you get will change.
 * ——: [Internet Archive: Wayback Machine](https://archive.org/web/) - lets you view old or deleted websites by typing in the URL of a website not all websites will have been archive and the archives may be limited to the text but for research the text will be of more value than any out of context image.
-   * ——: **Note:** some pages may seem to be blank but if you press control and A or what the combination of keyboad keys is for your OS to select all you will then see the text. The reason for this is that the orignal website had a background image with white text but the Wayback Machine has not archive the background image and so the page has ended up with white text on a white background. [example](https://web.archive.org/web/20140410193639/http://www.cchr-london.org/lena-zavaroni/) - looks blank but if you select all you can see the text.
+   * ——: **Note:** some pages may seem to be blank but if you press control and A or whatever the combination of keyboad keys is for your OS to select all you will then see the text. The reason for this is that the orignal website had a background image with white text but the Wayback Machine has not archive the background image and so the page has ended up with white text on a white background. [example](https://web.archive.org/web/20140410193639/http://www.cchr-london.org/lena-zavaroni/) - looks blank but if you select all you can see the text.
 
 ### J
 
