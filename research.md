@@ -77,7 +77,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: [mediastorehouse.com](https://www.mediastorehouse.com/dmcs-search.html?find=Lena+Zavaroni) - Stockphotos from the Mirror newspaper also see mirrorpix.com below.
    * ——: if you want to buy a photo you find on mirrorpix.com that is not show on mediastorehouse.com you can email them the mirrorpix.com photo ID and subject to copyright they can supply the photo shown.
 * ——: [Microsoft Academic](https://academic.microsoft.com/search?q=%22Lena%20Zavaroni%22&f=&orderBy=0&skip=0&take=10) a free public web search engine for academic publications and literature.
-* ——: [mirrorpix.com](https://www.mirrorpix.com/?77747130448317740800) - Stockphotos from the Mirror newspaper
+* ——: [mirrorpix.com](https://www.mirrorpix.com/?17422710581083042885) - Stockphotos from the Mirror newspaper
 
 ### N
 * ——: [newsbank search: Lena Zavaroni](https://infoweb.newsbank.com/apps/news/results?p=UKNB&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Lena%20Zavaroni&t=) - You will need to log into Newsbank to get anything out of it, in the UK you can use your Library Name and Library Card ID Number to log in.
