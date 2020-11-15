@@ -18,7 +18,7 @@ The following is a list of websites and tips that may help you with your own res
 <tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td><a href="#d" title="Jump To">D</a></td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td></tr>
 
 
-<tr><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td colspan="7"><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/issues/61#issuecomment-727197944">Visitors Tips</a> <span class="up">&#8592;</span> <span class="red">newly added</span></td></tr>
+<tr><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td colspan="7"><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/labels/Visitors%20Tips">Visitors Tips</a> <span class="up">&#8592;</span> <span class="red">newly added</span></td></tr>
 </table>
 
 <h3 id="numbers">#</h3>
