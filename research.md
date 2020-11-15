@@ -15,8 +15,10 @@ The following is a list of websites and tips that may help you with your own res
 * ——: Any links that have "<span class="up">&#8592;</span> <span class="red">newly added</span>" at the end simply means that is a new link added to this page and doesn't reflect the age of the linked website.
 
 <table style="width:100%;text-align:center;color:#d3d3d3;">
-<tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td><a href="#d" title="Jump To">D</a></td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td></tr>
-<tr><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td></td></tr>
+<tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td>B</td><td>C</td><td><a href="#d" title="Jump To">D</a></td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td></tr>
+
+
+<tr><td><a href="#q" title="Jump To">Q</a></td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td colspan="7"><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/issues/61#issuecomment-727197944">Visitors Tips</a> <span class="up">&#8592;</span> <span class="red">newly added</span></td></tr>
 </table>
 
 <h3 id="numbers">#</h3>
@@ -40,11 +42,11 @@ The following is a list of websites and tips that may help you with your own res
 
 ### D
 * —— (drsallybaker.com). Articles that reference Lena Zavaroni, all links via the Internet Archive's Wayback Machine
-   * ——: [Tag: Lena Zavaroni](https://web.archive.org/web/20200330164308/http://www.drsallybaker.com/tag/lena-zavaroni) <span class="up">&#8592;</span> <span class="red">newly added</span>
-      * ——: [Meet The Gwerin!](https://web.archive.org/web/20200224223748/http://www.drsallybaker.com/uncategorized/meet-the-gwerin) <span class="up">&#8592;</span> <span class="red">newly added</span>
-      * ——: [Remember Girls – Never Get Into A Car With A Stranger!](https://web.archive.org/web/20200126011936/http://www.drsallybaker.com/uncategorized/remember-girls-never-get-into-a-car-with-a-stranger) <span class="up">&#8592;</span> <span class="red">newly added</span>
-      * ——: [It Wasn’t On Our Radar](https://web.archive.org/web/20200126012257/http://www.drsallybaker.com/uncategorized/it-wasnt-on-our-radar) <span class="up">&#8592;</span> <span class="red">newly added</span>
-      * ——: [The Discovery Of A Whole New Galaxy…](https://web.archive.org/web/20200224224451/http://www.drsallybaker.com/uncategorized/the-discovery-of-a-whole-new-galaxy) <span class="up">&#8592;</span> <span class="red">newly added</span>
+   * ——: [Tag: Lena Zavaroni](https://web.archive.org/web/20200330164308/http://www.drsallybaker.com/tag/lena-zavaroni)
+      * ——: [Meet The Gwerin!](https://web.archive.org/web/20200224223748/http://www.drsallybaker.com/uncategorized/meet-the-gwerin)
+      * ——: [Remember Girls – Never Get Into A Car With A Stranger!](https://web.archive.org/web/20200126011936/http://www.drsallybaker.com/uncategorized/remember-girls-never-get-into-a-car-with-a-stranger)
+      * ——: [It Wasn’t On Our Radar](https://web.archive.org/web/20200126012257/http://www.drsallybaker.com/uncategorized/it-wasnt-on-our-radar)
+      * ——: [The Discovery Of A Whole New Galaxy…](https://web.archive.org/web/20200224224451/http://www.drsallybaker.com/uncategorized/the-discovery-of-a-whole-new-galaxy)
    
 ### E
 
@@ -108,8 +110,6 @@ The following is a list of websites and tips that may help you with your own res
 ### Y
 
 ### Z
-
-<div style="width:100%; height:300px;"></div>
 
 <style>
 .up {position: relative; top: -0.1em;}
