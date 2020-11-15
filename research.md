@@ -2,6 +2,7 @@
 layout: page
 title: Research
 maintitle: Research
+description: Links and tips on how to do your own research.
 ---
 
 This Page was created on 5 October 2020 and last updated on 15 November 2020.
