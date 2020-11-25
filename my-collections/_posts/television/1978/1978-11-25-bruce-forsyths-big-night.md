@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bruce Forsyth's Big Night
+title: Bruce Forsyth's Big Night &#124; 25 November 1978
 maintitle: Bruce Forsyth's Big Night
 subtitle: London Weekend Television
 description: Lena performs You Keep Me Dancing, before being interviewed by Brucie. They then perform a duet on Something Extra to close the show.
