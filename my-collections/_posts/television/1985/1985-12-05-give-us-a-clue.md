@@ -18,7 +18,7 @@ Lena takes part in a game of charades, and mimes the film &quot;A Big Hand For T
 <figure class="fig2">
 <figcaption>
 <table>
-<tr><th colspan="2">Cast</th></tr>
+<tr><th colspan="2" class="h3">Cast</th></tr>
 <tr><th>Chairman</th><td>Michael Parkinson</td></tr>
 <tr><th>Female Team Captain</th><td>Una Stubbs</td></tr>
 <tr><th>Guest Panelist</th><td>Joan Sims</td></tr>
@@ -38,7 +38,7 @@ Lena takes part in a game of charades, and mimes the film &quot;A Big Hand For T
 <figure class="fig3">
 <figcaption>
 <table>
-<tr><th colspan="2">Crew</th></tr>
+<tr><th colspan="2" class="h3">Crew</th></tr>
 <tr><th>Production assistant</th><td>Liz Minchin</td></tr>
 <tr><th>Producer & Director</th><td>David Clark</td></tr>
 <tr><th>Production company</th><td>Thames Television</td></tr>
