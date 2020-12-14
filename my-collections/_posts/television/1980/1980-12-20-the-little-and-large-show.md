@@ -8,18 +8,56 @@ image: /assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png
 categories: [BBC One]
 ---
 
-**Guests include Sheena Easton, and Lena Zavaroni.**
+<figure class="fig1">
+<img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-LLS.png" class="full-width">
+<figcaption>
+<cite>Lena performs Even Now</cite>
+</figcaption>
+</figure>
 
-![](/assets//images/BBC/1980-12-20-little-and-large-show-LZ-LLS.png){: .half-width}
-![](/assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png){: .half-width}
+<figure class="fig2">
+<img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png" class="full-width">
+<figcaption>
+<cite>Lena appears in a comedy sketch with Syd and Eddie</cite>
+</figcaption>
+</figure>
 
-Lena performs Even Now, and then appears in a comedy sketch with Syd and Eddie.
+<br />{: .clear}
 
-### Cast
-* **Host:** Syd Little
-* **Host:** Eddie Large
-* **Special Guest** Lena Zavaroni
-* **Special Guest** Sheena Easton
+### Contributors
+<table>
+<tr><th style="width:50%;">Comedian</th><td style="width:50%;">Syd Little</td></tr>
+<tr><th>Comedian</th><td>Eddie Large</td></tr>
+<tr><th>Writer</th><td>Eric Davidson</td></tr>
+<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr><th>Singer</th><td>Sheena Easton</td></tr>
+<tr><th>Dancers</th><td>Foxy Feeling</td></tr>
+<tr><th>Foxy Feeling staged by</th><td>Chris Power</td></tr>
+<tr><th>Musicians</th><td>Ronnie Hazlehurst and his Orchestra</td></tr>
+<tr><th>Vocal Direction</th><td>Maggie Stredder</td></tr>
+<tr><th>Additional material written by</th><td>David Newman</td></tr>
+<tr><th>Additional material written by</th><td>Peter Osborne</td></tr>
+<tr><th>Additional material written by</th><td>Bob Williams</td></tr>
+<tr><th>Costume Design</th><td>Linda Martin</td></tr>
+<tr><th>Sound</th><td>Keith Gunn</td></tr>
+<tr><th>Lighting</th><td>Warwick Fielding</td></tr>
+<tr><th>Designer</th><td>Martin Collins</td></tr>
+<tr><th>Producer</th><td>Michael Hurll</td></tr>
+</table>
 
-### Related Website:
-* [BBC Genome](http://genome.ch.bbc.co.uk/90e7a4058a2d4ce7b7320828b212b260)
+### Related Website
+<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1980-12-20#at-19.40)</span>
+
+<style>
+.fig1 {float:left; width:49%;}
+figcaption {float:left; width:100%;}
+
+.fig2 {float:right; width:49%;}
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
+
