@@ -12,7 +12,7 @@ A concert of British music from the Royal Albert Hall, London in association wit
 
 <figure class="fig1">
 <table>
-<tr><th>Programme</th></tr>
+<tr><th class="h3">Programme</th></tr>
 <tr><td>Joan Savage</td></tr>
 <tr><td>Julian Lloyd Webber</td></tr>
 <tr><td>Mike Sammes Singers</td></tr>
@@ -21,7 +21,7 @@ A concert of British music from the Royal Albert Hall, London in association wit
 <tr><td>Mike Sammes Singers</td></tr>
 <tr><td>Frankie Vaughan</td></tr>
 <tr><td>Anne Shelton</td></tr>
-<tr><th>INTERVAL</th></tr>
+<tr><th class="h3">INTERVAL</th></tr>
 <tr><td>Lena Zavaroni</td></tr>
 <tr><td>Hubert Gregg</td></tr>
 <tr><td>Mike Sammes Singers</td></tr>
@@ -42,7 +42,20 @@ A concert of British music from the Royal Albert Hall, London in association wit
 
 <br />{: .clear}
 
+### BBC Genome
+<span class="post-categories">
+[17 October 1981](https://genome.ch.bbc.co.uk/schedules/radio2/1981-10-17#at-20.00)
+&nbsp;
+[Repeat broadcast 26 December 1981](https://genome.ch.bbc.co.uk/schedules/radio2/1981-12-26#at-20.00)
+</span>
+
 <style>
+.dt-published {display: none;}
+.post-meta:after {content: "17 October 1981 Repeat broadcast 26 December 1981";}
+.height-adjust1 {width:auto; height:350px;}
+.height-adjust2 {width:auto; height:307px;}
+.fit1 {width:367.7px; height:498px; object-fit: cover; margin-bottom:5px;}
+
 .fig1 {float:left; width:49%;}
 figcaption {float:left; width:100%;}
 
