@@ -11,4 +11,5 @@ categories: [BBC Radio 2]
 >
 > Judy Garland and Mickey Rooney, of course, Julie Andrews and Petula Clark, Elizabeth Taylor and Margaret O'Brien, Tatum O'Neal and Macaulay Culkin, along with Lena Zavaroni, Shirley Temple, Hayley Mills and, naturally, Bonnie Langford herself.
 
-<cite>[BBC Genome](http://genome.ch.bbc.co.uk/10d05da30b0f43929f923b00def93f3b)</cite>
+<cite>[BBC Genome](https://genome.ch.bbc.co.uk/schedules/radio2/1996-12-15#at-23.00)</cite>
+
