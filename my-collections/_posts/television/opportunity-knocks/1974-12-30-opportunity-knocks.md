@@ -10,25 +10,46 @@ categories: [Thames Television, Opportunity Knocks]
 
 Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
 
-### Cast
-* Presenter: Hughie Green
-* On screen participant: Lena Zavaroni
-* On screen participant: Airborne
-* On screen participant: Adam And Eve
-* On screen participant: Grahame MacLean
-* On screen participant: Tom O'Connor
-* On screen participant: Helen Foster
-* On screen participant: The John Carpenter Brass Quintet
-* On screen participant: Joan Owen
-* On screen participant: The Leeds Male Choir
-* On screen participant: The Wimbledon Lyric Players
-* On screen participant: The Fleetwood Sea Cadets Corps Band
-* Musical accompaniment: Bob Sharples And His Music
+<figure class="fig1" id="cast">
+<table>
+<tr><th colspan="2" class="h3">Cast</th></tr>
+<tr><th>Presenter</th><td>Hughie Green</td></tr>
+<tr><th>On screen participant</th><td>Lena Zavaroni</td></tr>
+<tr><th>On screen participant</th><td>Airborne</td></tr>
+<tr><th>On screen participant</th><td>Adam And Eve</td></tr>
+<tr><th>On screen participant</th><td>Grahame MacLean</td></tr>
+<tr><th>On screen participant</th><td>Tom O'Connor</td></tr>
+<tr><th>On screen participant</th><td>Helen Foster</td></tr>
+<tr><th>On screen participant</th><td>The John Carpenter Brass Quintet</td></tr>
+<tr><th>On screen participant</th><td>Joan Owen</td></tr>
+<tr><th>On screen participant</th><td>The Leeds Male Choir</td></tr>
+<tr><th>On screen participant</th><td>The Wimbledon Lyric Players</td></tr>
+<tr><th>On screen participant</th><td>The Fleetwood Sea Cadets Corps Band</td></tr>
+<tr><th>On screen participant</th><td>Bob Sharples And His Music</td></tr>
+</table>
+</figure>
 
-### Crew
-* Programme associate: Len Marten
-* Programme associate: Doris Barry
-* Designer: Rod Stratfold
-* Producer: Keith Beckett
-* Director: Keith Beckett
+<figure class="fig2" id="crew">
+<table>
+<tr><th colspan="2" class="h3">Crew</th></tr>
+<tr><th>Programme associate</th><td>Len Marten</td></tr>
+<tr><th>Programme associate</th><td>Doris Barry</td></tr>
+<tr><th>Executive producer</th><td>Jack Andrews</td></tr>
+<tr><th>Designer</th><td>Rod Stratfold</td></tr>
+<tr><th>Producer</th><td>Keith Beckett</td></tr>
+<tr><th>Director</th><td>Keith Beckett</td></tr>
+</table>
+</figure>
+
+<br />{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+}
+</style>
 
