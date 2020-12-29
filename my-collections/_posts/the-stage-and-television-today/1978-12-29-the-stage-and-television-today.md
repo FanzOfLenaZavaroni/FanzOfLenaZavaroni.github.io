@@ -2,20 +2,39 @@
 layout: post
 title: The Stage and Television Today
 maintitle: The Stage and Television Today
-subtitle: Supplement
-description: The Stage and Television Today featured a small article reporting that Lena had been booked to perform in her own show at the Spa Theatre, Bridlington for the 1979 summer season.
+subtitle: Star billing for Lena at Spa summer show.
+description: Star billing for Lena at Spa summer show.
+image: /assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-03.jpg
 categories: [The Stage and Television Today]
 ---
 
-The supplement featured a small article reporting that Lena had been booked to perform in her own show at the Spa Theatre, Bridlington for the 1979 summer season.
+<figure class="fig1">
+<a href="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-front-Cover.jpg"><img src="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-front-Cover.jpg" class="full-width zoom-in"/></a>
+<figcaption>
+<strong>Front Cover</strong>
+<p></p>
+</figcaption>
+</figure>
 
-### About
-> In 1959 The Stage was relaunched as The Stage and Television Today, incorporating a pull-out supplement dedicated to broadcasting news and features. Derek Hoddinott, the main paper's TV editor, became editor of the new supplement.
->
->The name and supplement remained until 1995, when broadcasting coverage was re-incorporated into the main paper. The name on the masthead reverted to The Stage, but in 2006, the paper introduced a blog concentrating on television, named TV Today.
+<figure class="fig2">
+<a href="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-03-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-03.jpg" class="full-width zoom-in"/></a>
+<figcaption>
+<strong>Page 3</strong>
+</figcaption>
+</figure>
 
-<cite>[Wikipedia](https://en.wikipedia.org/wiki/The_Stage#The_Stage_and_Television_Today)</cite>
+<br />{: .clear}
 
-### Related Website
-* [British Newspaper Archive: The Stage](https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?basicsearch=lena%20zavaroni&somesearch=lena%20zavaroni&exactsearch=true&retrievecountrycounts=false&newspapertitle=the%2bstage)
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
 

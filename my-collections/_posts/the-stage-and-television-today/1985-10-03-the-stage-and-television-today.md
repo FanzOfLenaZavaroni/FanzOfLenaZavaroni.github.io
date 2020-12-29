@@ -2,7 +2,7 @@
 layout: post
 title: The Stage and Television Today
 maintitle: The Stage and Television Today
-subtitle: Supplement
+subtitle: Featured an article reporting that Lena was considering taking driving lessons, having been offered a free course by a local driving school.
 description: Featured an article reporting that Lena was considering taking driving lessons, having been offered a free course by a local driving school. Article contained a photo of Lena performing.
 categories: [The Stage and Television Today]
 ---

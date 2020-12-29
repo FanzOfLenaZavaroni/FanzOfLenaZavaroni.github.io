@@ -2,7 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 26 November 1981
 maintitle: The Stage and Television Today
-subtitle: Supplement
+subtitle: News In Brief - Lena Zavaroni
 description: Articla on the first annual luncheon of the Lena Zavaroni Appreciation Society at The Imperial Hotel, Blackpool.
 image: /assets/images/the-stage-and-television-today/
 categories: [The Stage and Television Today]

@@ -2,7 +2,7 @@
 layout: post
 title: The Stage and Television Today
 maintitle: The Stage and Television Today
-subtitle: Supplement
+subtitle: HAD A WONDERFUL TIME!
 description: It made reference to Lena Zavaroni on pages 4, 13, 24, 26 & 27.
 image: /assets/images/the-stage-and-television-today/
 categories: [The Stage and Television Today]
