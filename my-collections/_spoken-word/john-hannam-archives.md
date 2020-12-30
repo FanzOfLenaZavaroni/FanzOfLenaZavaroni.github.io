@@ -26,14 +26,16 @@ maintitle: John Hannam Archives Volume 1
 <tr><th>8</th><td>Hugh Lloyd</td></tr>
 <tr><th>9</th><td>Jack Warner</td></tr>
 <tr><th>10</th><td>Hylda Baker</td></tr>
-<tr><th>11</th><td>Lena Zavaroni <audio id="player" src="/assets/media/spoken-words/2010 - John Hannam Archives/11 - John Hannam - Lena Zavaroni (1987).mp3"></audio>
+<tr><th>11</th><td>Lena Zavaroni
+<audio id="player" src="/assets/media/spoken-words/2010 - John Hannam Archives/11 - John Hannam - Lena Zavaroni (1987).mp3">Your browser does not support the audio element.</audio>
 <div>
 <button onclick="document.getElementById('player').play()">Play</button>
 <button onclick="document.getElementById('player').pause()">Pause</button>
 <button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button>
 <button onclick="document.getElementById('player').volume -= 0.1">Vol -</button>
 <button onclick="document.getElementById('player').volume += 0.1">Vol +</button>
-</div></td></tr>
+</div>
+</td></tr>
 </table>
 </figcaption>
 </figure>
@@ -53,23 +55,3 @@ figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
 
-
-
-
-
-
-
-
-<!--
-<div class="audio"><b>Track 11: Lena Zavaroni Interview</b></div>
-<div><audio controls controlsList="nodownload">
-<source src="11 - John Hannam - Lena Zavaroni (1987).mp3" type="audio/mpeg">
-Your browser does not support the audio element.</audio>
-</div></div></div></div>
-
-<div class="col s8 offset-s2 m8 pull-m3">
-<h2>John Hannam Archives Volume 1</h2>
-<h4>2010</h4>
-
-<p class="flow-text">Contains an interview that Lena Zavaroni gave to John Hannam in 1987.</p>
--->
