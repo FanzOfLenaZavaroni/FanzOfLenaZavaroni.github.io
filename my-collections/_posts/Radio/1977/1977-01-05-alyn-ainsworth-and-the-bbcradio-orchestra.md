@@ -7,15 +7,15 @@ description: with Lena Zavaroni, The Mike Sammes Singers and Allan Stewart.
 categories: [BBC Radio 2]
 ---
 
-### Contributors
-* **Presenter:** Tom Edwards
-* **Music:** Alyn Ainsworth and the BBC Radio Orchestra
-* **Leader:** Michael Tomalin
-* **Singer:** Lena Zavaroni
-* **Singers:** The Mike Sammes Singers
-* **Comedian:** Allan Stewart
-* **Producer:** Beverley Phillips
-
-### Related Website
-* [BBC Genome](http://genome.ch.bbc.co.uk/80f3ab0dbf034d3cb59f40e51c1b65a0)
+<table id="contributors">
+<tr><th colspan="2" class="h3">Contributors</th></tr>
+<tr><th>Presenter</th><td>Tom Edwards</td></tr>
+<tr><th>Music</th><td>Alyn Ainsworth and the BBC Radio Orchestra</td></tr>
+<tr><th>Leader</th><td>Michael Tomalin</td></tr>
+<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr><th>Singers</th><td>The Mike Sammes Singers</td></tr>
+<tr><th>Comedian</th><td>Allan Stewart</td></tr>
+<tr><th>Producer</th><td>Beverley Phillips</td></tr>
+<tr><th>Related Website</th><td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1977-01-05#at-22.05">BBC Genome</a></td></tr>
+</table>
 
