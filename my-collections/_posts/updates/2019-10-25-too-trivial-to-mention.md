@@ -2,10 +2,11 @@
 layout: post
 title: Referencing Lena Zavaroni
 maintitle: Referencing Lena Zavaroni
+subtitle: Too Trivial To Mention
 description: Too Trivial To Mention
 media: Robcamstone Post
 post_description: Too Trivial To Mention
-categories: [Updates]
+categories: [Robcamstone's Posts]
 ---
 
 ### My thoughts on this comment

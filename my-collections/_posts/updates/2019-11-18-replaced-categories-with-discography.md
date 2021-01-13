@@ -2,10 +2,11 @@
 layout: post
 title: Replaced Categories with Discography
 maintitle: Replaced Categories with Discography
+subtitle: Collections for non-dated posts Added
 description: 18 November 2019
 media: Robcamstone Post
 post_description: Collections for non-dated posts Added
-categories: [Updates]
+categories: [Robcamstone's Posts]
 ---
 
 > I decided to remove Categories from the main menu as related Categories are autogenarated at the end of each post and so have replaced the link in the main menu with a link to the Discography section there is not much there at this time just 1 album and 2 singles and some other stuff which I need to update to markdown so that they style correctly they currently let me know I have got the Collections code working, the styling may be off but the details are correct.
