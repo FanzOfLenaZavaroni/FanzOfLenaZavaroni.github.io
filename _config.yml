@@ -66,6 +66,7 @@ collections:
 
 include: ['biography']
 
+# Front Matter Defaults
 defaults:
   -
     values:
