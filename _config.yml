@@ -67,7 +67,6 @@ collections:
 include: ['biography']
 
 defaults:
-defaults:
   -
     values:
       media: "Details for this link are coming Soon!"
