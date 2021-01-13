@@ -2,8 +2,9 @@
 layout: post
 title: Private Life &#124; 10 March 1974
 maintitle: Private Life
-subtitle: Lena flew from Heathrow to Glasgow to see her family for the first time in five weeks.
 description: Lena flew from Heathrow to Glasgow to see her family for the first time in five weeks.
+media: Tumblr Embedded Content
+post_description: Lena flew from Heathrow to Glasgow to see her family for the first time in five weeks.
 categories: [Private Life]
 ---
 

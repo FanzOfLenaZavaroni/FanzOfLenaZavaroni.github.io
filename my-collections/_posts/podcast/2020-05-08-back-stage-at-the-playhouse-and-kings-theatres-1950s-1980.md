@@ -3,7 +3,9 @@ layout: post
 title: Back stage at the Playhouse and Kings Theatres, 1950s & 1980
 maintitle: Back stage at the Playhouse and Kings Theatres, 1950s & 1980
 subtitle: The Lifestory Podcast
-description: 
+description: Jean Bell was interviewed in 2011 about some of her experiences of being a dresser and 'call boy' in the Kings and Playhouse Theatres in Edinburgh in the 1950s and 1980s.
+media: Podcasts
+post_description: Jean Bell was interviewed in 2011 about some of her experiences of being a dresser and 'call boy' in the Kings and Playhouse Theatres in Edinburgh in the 1950s and 1980s.
 image:
 categories: [Podcasts]
 ---

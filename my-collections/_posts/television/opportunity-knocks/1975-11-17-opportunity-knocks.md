@@ -4,6 +4,8 @@ title: Opportunity Knocks &#124; 17 November 1975 &#124; Lena sponsored her pare
 maintitle: Opportunity Knocks
 subtitle: Episode 16.8 
 description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
+media: Thames Television
+post_description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 categories: [Thames Television, Opportunity Knocks]
 ---
 

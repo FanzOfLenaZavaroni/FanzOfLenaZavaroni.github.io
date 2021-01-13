@@ -2,8 +2,9 @@
 layout: post
 title: Replaced Categories with Discography
 maintitle: Replaced Categories with Discography
-subtitle: Collections for non-dated posts Added
 description: 18 November 2019
+media: Robcamstone Post
+post_description: Collections for non-dated posts Added
 categories: [Updates]
 ---
 
@@ -18,5 +19,4 @@ categories: [Updates]
 > I may at some stage try to make the navigation of the website better, but this will take time as adding up-to-date content always takes priority over design.
 
 <cite>Fanz of Lena Zavaroni (Robcamstone)</cite>
-
 

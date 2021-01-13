@@ -18,11 +18,12 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.maintitle | escape }} - {{ post.subtitle | escape }}
+            {{ post.maintitle | escape }}
           </a>
         </h3>
+        <strong>{{ post.media}}: </strong>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.post_description }}
         {%- endif -%}
       </li>
       {%- endfor -%}

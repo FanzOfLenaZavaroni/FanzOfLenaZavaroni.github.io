@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Lena Zavaroni and Music
+title: Lena Zavaroni and Music &#124; Episode 1
 maintitle: Lena Zavaroni and Music
 subtitle: Episode 1
 description: Lena's guests this week are Elaine Stritch, Wayne Sleep and George Chisholm.
+media: BBC One
+post_description: Lena's guests this week are Elaine Stritch, Wayne Sleep and George Chisholm.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC One, Lena Zavaroni and Music]
 ---
@@ -22,28 +24,50 @@ categories: [BBC One, Lena Zavaroni and Music]
 </tr>
 </table>
 
-### BBC Publicity Photo
-> [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
+<figure class="fig1" id="bbc-publicity-photo">
+<figcaption>
+<h3>BBC Publicity Photo</h3>
+</figcaption>
+<a href="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg"><img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width zoom-in"></a>
+</figure>
 
-### Set List
->
-* Music Was My First Love (Lena)
-* A clog dance to the music of Violinski (Wayne Sleep)
-* Superstar (Lena)
-* Anyone Can Whistle (Elaine Stritch)
-* Back In Time/Jump, Shout, Boogie (Lena)
-* All That Jazz (The Ace Eight with Lena, Elaine Stritch, Wayne Sleep and George Chisholm.)
-* Thank You For The Music (Lena)
+<figure class="fig2" id="set-list">
+<figcaption>
+<h3>Set List</h3>
+<ul>
+<li>Music Was My First Love (Lena)</li>
+<li>A clog dance to the music of Violinski (Wayne Sleep)</li>
+<li>Superstar (Lena)</li>
+<li>Anyone Can Whistle (Elaine Stritch)</li>
+<li>Back In Time/Jump, Shout, Boogie (Lena)</li>
+<li>All That Jazz (The Ace Eight with Lena, Elaine Stritch, Wayne Sleep and George Chisholm.)</li>
+<li>Thank You For The Music (Lena)</li>
+</ul>
+</figcaption>
+</figure>
 
-<cite>Robcamstone</cite>
+<br />{: .clear}
 
 ### Cast
 <table>
-<tr><th>Hostess and Signer:</th><td>Lena Zavaroni</td></tr>
+<tr><th style="width:50%;">Hostess and Signer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Special guest:</th><td>Elaine Stritch</td></tr>
 <tr><th>Special guest:</th><td>Wayne Sleep</td></tr>
 <tr><th>Special guest:</th><td>George Chisholm</td></tr>
 <tr><th>Musicians:</th><td>Violinski</td></tr>
 <tr><th>Dancers:</th><td>The Ace Eight</td></tr>
 </table>
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
 

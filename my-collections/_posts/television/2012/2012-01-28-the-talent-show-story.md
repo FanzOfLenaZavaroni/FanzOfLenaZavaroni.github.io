@@ -4,6 +4,8 @@ title: The Talent Show Story
 maintitle: The Talent Show Story
 subtitle: Episode 4
 description: Episode 4 had a short segment looked at Lena's rise to stardom and subsequent decline.
+media: ITV
+post_description: Episode 4 had a short segment looked at Lena's rise to stardom and subsequent decline.
 image: /assets/images/
 categories: [ITV]
 ---

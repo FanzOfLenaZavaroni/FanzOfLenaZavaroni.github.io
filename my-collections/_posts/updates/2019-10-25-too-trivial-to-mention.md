@@ -2,8 +2,9 @@
 layout: post
 title: Referencing Lena Zavaroni
 maintitle: Referencing Lena Zavaroni
-subtitle: Too Trivial To Mention
-description: 25 October 2019
+description: Too Trivial To Mention
+media: Robcamstone Post
+post_description: Too Trivial To Mention
 categories: [Updates]
 ---
 

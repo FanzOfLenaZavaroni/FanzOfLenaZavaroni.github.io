@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Lena Zavaroni and Music
+title: Lena Zavaroni and Music &#124; Episode 4
 maintitle: Lena Zavaroni and Music
 subtitle: Episode 4
 description: Lena's guests this week are Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculeans.
+media: BBC One
+post_description: Lena's guests this week are Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculeans.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC One, Lena Zavaroni and Music]
 ---
@@ -22,30 +24,58 @@ categories: [BBC One, Lena Zavaroni and Music]
 </tr>
 </table>
 
-### BBC Publicity Photo
-> [![BBC Publicity Photo of Lena Zavaroni for her TV show Lena Zavaroni and Music](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg){: .full-width}{: .zoom-in}](/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg)
+<figure class="fig1" id="bbc-publicity-photo">
+<figcaption>
+<h3>BBC Publicity Photo</h3>
+</figcaption>
+<a href="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg"><img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width zoom-in"></a>
+</figure>
 
-### Set List
->
-* Music Was My First Love (Lena, shorter version)
-* Somebody Should Have Told Me (Lena)
-* Go to Rio (Lena and the Ace Eight)
-* Reach Out And Touch Somebody's Hand (Lena with Adrian Hedley)
-* Everything I've Got (Helen Gelzer)
-* Music by the New Sensations Steel Band
-* Razzle Dazzle [part 1] (Lena and the Ace Eight with Adrian Hedley)
-* Johnny Hutch and the Herculeans (comedy acrobatic troupe)
-* Razzle Dazzle [part 2] (Lena and the Ace Eight with Adrian Hedley)
-* The Carnival Is Over/Weekend (Lena)
+<figure class="fig2" id="set-list">
+<figcaption>
+<h3>Set List</h3>
+<ul>
+<li>Music Was My First Love (Lena, shorter version)</li>
+<li>Somebody Should Have Told Me (Lena)</li>
+<li>Go to Rio (Lena and the Ace Eight)</li>
+<li>Reach Out And Touch Somebody's Hand (Lena with Adrian Hedley)</li>
+<li>Everything I've Got (Helen Gelzer)</li>
+<li>Music by the New Sensations Steel Band</li>
+<li>Razzle Dazzle [part 1] (Lena and the Ace Eight with Adrian Hedley)</li>
+<li>Johnny Hutch and the Herculeans (comedy acrobatic troupe)</li>
+<li>Razzle Dazzle [part 2] (Lena and the Ace Eight with Adrian Hedley)</li>
+<li>The Carnival Is Over/Weekend (Lena)</li>
+</ul>
+</figcaption>
+</figure>
 
-<cite>Robcamstone</cite>
+{: .clear}
 
-### Cast
+<figure class="fig3" id="cast">
+<h3>Cast</h3>
 <table>
-<tr><th>Hostess and Signer:</th><td>Lena Zavaroni</td></tr>
+<tr><th style="width:50%;">Hostess and Signer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Special Guest:</th><td>Helen Gelzer</td></tr>
 <tr><th>Special Guest:</th><td>Adrian Hedley</td></tr>
 <tr><th>Special Guest:</th><td>Johnny Hutch and The Herculeans</td></tr>
 <tr><th>Dancers:</th><td>The Ace Eight</td></tr>
 </table>
+</figure>
+
+<br />{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+.fig3 {float:right; width:100%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
 

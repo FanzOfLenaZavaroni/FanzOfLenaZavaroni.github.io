@@ -4,6 +4,8 @@ title: Funeral Of Hughie Green
 maintitle: Funeral Of Hughie Green
 subtitle: News
 description: Lena Zavaroni was one of the many stars to attend the funeral of Hughie Green.
+media: News
+post_description: Lena Zavaroni was one of the many stars to attend the funeral of Hughie Green.
 image: /assets/images/funeral/lena-zavaroni-attending-the-funeral-of-hughie-green.jpg
 categories: [News]
 ---

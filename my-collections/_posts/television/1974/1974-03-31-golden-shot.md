@@ -4,6 +4,8 @@ title: Golden Shot &#124; 31 March 1974
 maintitle: Golden Shot 
 subtitle: Associated Television (ATV)
 description: Charlie Williams has a short chat with Lena Zavaroni and she preforms Swinging On A Star.
+media: Associated Television
+post_description: Charlie Williams has a short chat with Lena Zavaroni and she preforms Swinging On A Star.
 image: /assets/images/ITV/The-Golden-Shot.png
 categories: [Associated Television (ATV)]
 ---

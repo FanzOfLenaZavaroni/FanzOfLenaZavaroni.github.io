@@ -4,6 +4,8 @@ title: Opportunity Knocks &#124; 11 February 1974 &#124; Lena Zavaroni makes her
 maintitle: Opportunity Knocks
 subtitle: Episode 14.28
 description: Lena makes her sixth and final appearance as a contestant after winning the viewers votes for the fifth time.
+media: Thames Television
+post_description: Lena makes her sixth and final appearance as a contestant after winning the viewers votes for the fifth time.
 categories: [Thames Television, Opportunity Knocks]
 ---
 

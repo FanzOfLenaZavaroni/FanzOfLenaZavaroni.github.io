@@ -2,8 +2,9 @@
 layout: post
 title: The Evening Times
 maintitle: The Evening Times
-subtitle: Oh Ma They're Making Eyes At Me!
-description:
+description: Oh Ma They're Making Eyes At Me!
+media: Tumblr Embedded Content
+post_description: Oh Ma They're Making Eyes At Me!
 categories: [Newspapers]
 ---
 
@@ -12,3 +13,4 @@ categories: [Newspapers]
 <cite>[With Thanks to Loving Lena Zavaroni](https://s-molloy.tumblr.com/post/189258219567/24th-november-2019-on-friday-24th-november-1978)</cite>
 
 <script async src="https://assets.tumblr.com/post.js"></script>
+
