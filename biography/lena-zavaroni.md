@@ -188,7 +188,7 @@ Has four types of procedures:
 * anterior capsulotomy
 
 ### Anterior Capsulotomy
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="fullscreen" width="100%" height="800" src="https://prezi.com/embed/pbdgaesym8bb/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5N1RyYUJVbW14eERKdjF4UFV6eno1Sm93PT0&amp;landing_sign=juijYdbQVpgxzTUfJALKsHP55ihQua6fxURhOsJUID0"></iframe>
+[![](/assets/images/anterior-capsulotomy.png "Sorry! I have replaced embed content with link due to music continuously playing in the background")](https://prezi.com/embed/pbdgaesym8bb)
 
 ### The procedure carried out on Lena Zavaroni was anterior capsulotomy
 
