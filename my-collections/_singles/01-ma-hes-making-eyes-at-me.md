@@ -11,7 +11,7 @@ categories: [Discography, Singles]
 
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/DzqcGLl8rMg?playlist=Yc1h6cDkc8M&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 <br />
-Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.
+Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It was released shortly after her third appearance on Opportunity Knocks.
 
 It was released in various countries with various cover images and a version was released in Japan in which Lena sang it in Japanese, in interviews Lena confirmed that she had learned the song in Japanese phonetically. The B-side of the Japanese release was &quot;(You've Got) Personality&quot; which would become Lena's second international single.
 
