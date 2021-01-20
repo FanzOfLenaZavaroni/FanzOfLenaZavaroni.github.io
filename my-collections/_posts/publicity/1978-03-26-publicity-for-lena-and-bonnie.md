@@ -4,6 +4,8 @@ title: Lena and Bonnie
 maintitle: Lena and Bonnie
 subtitle: Publicity
 description: Publicity Photos for Publicity for Lena and Bonnie
+media: Publicity Photos
+post_description: 
 image: /assets/images/lena-and-bonnie/LZ-BL-01.jpg
 categories: [Publicity]
 ---
