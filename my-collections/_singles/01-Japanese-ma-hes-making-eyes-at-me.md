@@ -1,10 +1,12 @@
 ---
 layout: discography
 year: 1974
-title: Ma! (He's Making Eyes At Me) Japanese release
-maintitle: Ma! (He's Making Eyes At Me) Japanese release
+title: Ma! (He's Making Eyes At Me) Japanese Release
+maintitle: Ma! (He's Making Eyes At Me) Japanese Release
 subtitle: Single
 description: Lena Zavaroni learned to sing the song in Japanese phonetically.
+media: 7" Vinyl, 45 Single
+post_description: Lena Zavaroni learned to sing the song in Japanese phonetically.
 image: /assets/images/singles/musical-note.png
 categories: [Discography, Singles]
 ---
@@ -23,10 +25,8 @@ This version was released in Japan in which Lena sang it in Japanese, in intervi
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>Japan</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
+<tr><th>45Cat</th><td><a href="https://www.45cat.com/record/sfl1850">sfl1850</a></td></tr>
 </table>
-
-### Related Website
-* [45Cat](https://www.45cat.com/record/sfl1850)
 
 <style>
 .split {border-top: solid 5px #4B90B1;}
