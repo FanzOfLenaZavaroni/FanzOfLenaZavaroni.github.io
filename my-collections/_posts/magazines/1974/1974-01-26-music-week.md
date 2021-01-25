@@ -27,8 +27,12 @@ The magazine carried a full page advertisement for Lena's debut single <a href="
 
 .fig2 {float:right; width:49%;}
 
+figcaption {float:left; width:100%;}
+
 @media only screen and (max-width: 700px) {
 .fig1 {float:left; width:100%;}
 .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
+

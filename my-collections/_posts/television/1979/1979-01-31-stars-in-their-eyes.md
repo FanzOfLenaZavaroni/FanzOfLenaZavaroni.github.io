@@ -12,22 +12,54 @@ categories: [Tyne Tees Television]
 
 Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
 
-![](/assets/images/ITV/Stars-In-Their-Eyes.jpg)
+<figure class="fig1" id="Screenshot">
+<figcaption><h3>Screenshot</h3></figcaption>
+<img src="/assets/images/ITV/Stars-In-Their-Eyes.jpg" class="full-width"/>
+</figure>
 
-### Cast
-* Lena Zavaroni
-* Bonnie Langford
-* Ruth Davies
-* Royston Gregory
+<figure class="fig2" id="cast">
+<figcaption><h3>Cast</h3></figcaption>
+<table>
+<tr><th style="width:50%;">Cast Member</th><td style="width:50%;">Lena Zavaroni</td></tr>
+<tr><th>Cast Member</th><td>Bonnie Langford</td></tr>
+<tr><th>Cast Member</th><td>Ruth Davies</td></tr>
+<tr><th>Cast Member</th><td>Royston Gregory</td></tr>
+</table>
+</figure>
 
+{: .clear}
 
-### Crew
-* **Research:** Barbara Sinclair
-* **Film editor:** Barrie Crosser
-* **Producer:** Andrea Wonfor
-* **Director:** Tony Kysh
-* **Production Company:** Tyne Tees Television
+<figure class="fig1" id="crew">
+<figcaption><h3>Crew</h3></figcaption>
+<table>
+<tr><th style="width:50%;">Research</th><td style="width:50%;">Barbara Sinclair</td></tr>
+<tr><th>Film editor</th><td>Barrie Crosser</td></tr>
+<tr><th>Producer</th><td>Andrea Wonfor</td></tr>
+<tr><th>Director</th><td>Tony Kysh</td></tr>
+<tr><th>Production Company</th><td>Tyne Tees Television</td></tr>
+</table>
+</figure>
 
-### Related Website:
-* [BFI](http://www.bfi.org.uk/films-tv-people/4ce2b771f367a)
+<figure class="fig2" id="external-website">
+<figcaption><h3>External Website</h3></figcaption>
+<table>
+<tr><th style="width:50%;">BFI</th><td style="width:50%;"><a href="http://www.bfi.org.uk/films-tv-people/4ce2b771f367a">Stars In Their Eyes</a></td></tr>
+</table>
+</figure>
+
+<br />{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1 {float:left; width:100%;}
+.fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
 
