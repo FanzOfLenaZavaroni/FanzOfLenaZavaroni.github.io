@@ -119,7 +119,7 @@ It was released in various countries with various cover images and a version was
 
 <br />{: .clear}
 
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/DzqcGLl8rMg?playlist=Yc1h6cDkc8M&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <style>
 .fig1 {float:left; width:49%;}
