@@ -8,7 +8,7 @@ description: This is the 2nd single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/h4agufuuabE?playlist=7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 <br />
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>

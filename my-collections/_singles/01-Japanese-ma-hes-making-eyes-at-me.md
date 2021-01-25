@@ -11,7 +11,7 @@ image: /assets/images/singles/musical-note.png
 categories: [Discography, Singles]
 ---
 
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/yI_nqPZNpAQ?playlist=h4agufuuabE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=yI_nqPZNpAQ,h4agufuuabE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 <br />
 This version was released in Japan in which Lena sang it in Japanese, in interviews Lena confirmed that she had learned the song in Japanese phonetically. The B-side of the Japanese release was (You've Got) Personality which would become Lena's second international single.
 
