@@ -25,7 +25,8 @@ categories: [Theatre, Alexandra Theatre]
 <tr><th>Leslie Dwyer</th><td>Friar Tuck</td></tr>
 <tr><th>Director</th><td>Roger Redfarn</td></tr>
 <tr><th>production company</th><td>Triumph Productions</td></tr>
-<tr><th>Article</th><td><a href="http://www.jeffreyholland.co.uk/Jeffrey_Holland/Panto_Babes_In_The_Wood_1981.html">jeffreyholland.co.uk</a></td></tr>
+<tr><th>Article</th><td><a href="https://www.jeffreyholland.co.uk/babes-in-the-woods-1981">jeffreyholland.co.uk</a></td></tr>
+<tr><td colspan="2">Updated URL for Jeffrey Holland Website. Since the website has been updated it no longer shows the dates for the shows opening and closing nights and it is currently showing the wrong fly.</td></tr>
 </table>
 </figcaption>
 </figure>
@@ -39,7 +40,7 @@ categories: [Theatre, Alexandra Theatre]
 
 <style>
 .dt-published {display: none;}
-.post-meta:after {content: "23 December 1981 - 27 January 1982, daily shows at 2.30 and 7pm";}
+.post-meta:after {content: "Commencing 23rd Dec 1981";}
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 .fit1 {width:367.7px; height:498px; object-fit: cover; margin-bottom:5px;}
