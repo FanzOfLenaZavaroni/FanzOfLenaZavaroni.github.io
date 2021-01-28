@@ -4,6 +4,8 @@ title: Doodles in Depression &#124; 2 November 2009
 maintitle: Doodles in Depression
 subtitle: An Anecdotal Text
 description: Lorna Murray's book Doodles in Depression - An Anecdotal Text is published she makes referance to Lena Zavaroni.
+media: Book, eBook
+post_description: Lorna Murray's an anecdotal text is published she makes referance to Lena Zavaroni.
 image: /assets/images/booksISBN-1847471595-Doodles in Depression.jpeg/
 categories: [Books, Lorna Murray]
 ---

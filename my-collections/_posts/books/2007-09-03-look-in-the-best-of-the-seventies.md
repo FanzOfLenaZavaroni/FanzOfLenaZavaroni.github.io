@@ -4,6 +4,8 @@ title: Look-In
 maintitle: Look-In
 subtitle: The Best of the Seventies
 description: Contained the one-page article about Lena Zavaroni that was first published in Look-In Week Ending 30 July 1977.
+media: Book
+post_description: Contained the one-page article about Lena Zavaroni that was first published in Look-In Week Ending 30 July 1977.
 image: /assets/images/books/2007-09-03-look-in-the-best-of-the-seventies.jpg
 categories: [Books, Look-In]
 ---

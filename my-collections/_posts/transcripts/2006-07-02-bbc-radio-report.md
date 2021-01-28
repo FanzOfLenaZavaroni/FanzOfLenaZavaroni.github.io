@@ -3,7 +3,9 @@ layout: post
 title: Julian Worricker
 maintitle: Julian Worricker
 subtitle: Including after 11.00 the Five Live Report Mind Games - Scientology versus Psychiatry
-description: BRIAN DANIELS&#58; Okay, let me stop you there, Max, because in 1999, a high-profile case of Lena Zavaroni, who, at 35 years old had been under psychiatric care for a couple of, I mean, at least ten to fifteen years, and - um - she was found to have a - an eating problem, and then she was given psychiatric drugs, it didn't really go anywhere.
+description: This morning the Five Live Report goes undercover to investigate how, from the London bombings to Ground Zero, Volunteer Ministers from Scientology travel the world providing what they claim is effective help in times of peril. a reference is made to lobotomy performed on Lena Zavaroni.
+media: BBC Radio 5
+post_description: This morning the Five Live Report goes undercover to investigate how, from the London bombings to Ground Zero, Volunteer Ministers from Scientology travel the world providing what they claim is effective help in times of peril. a reference is made to lobotomy performed on Lena Zavaroni.
 categories: [BBC Radio 5, Transcripts, Deleted Online Articles]
 ---
 
@@ -76,12 +78,15 @@ not needed anymore.
 
 
 ### Avoiding The Truth
->
-* **DR. MAX PEMBERTON:** Lobotomies have not been done for decades. **BRIAN DANIELS:** Makes reference to Lena Zavaroni.
-    * **DR. MAX PEMBERTON:** DR. MAX PEMBERTON: Brian, you're giving me one example, which I - obviously I can't comment on because it's just one - one particular case that I'm not very familiar with.
-But certainly, from - from my experience, I have never, ever come across - um - someone who's been lobotomized. Um - it's just not done anymore because there's just no kinetic indication for it. We have pharmaceutical advances and psychotherapeutic advances which means it's not needed anymore.
-      * **ROBCAMSTONE:** Yes one example that shows that lobotomies are still being done when you had falsely claimed that none had been done and even when you have been informed of the case of Lena Zavaroni you still try to make the false claim that they are not done. The Scientologists may be lying but so are you or your not as well informed on your subject as you should be.
-* **DR. MAX PEMBERTON:** continues to avoiding the truth that lobotomies are still carried out all be it under the umbrella term of Neurosurgery for Mental Disorder (NMD).
+<blockquote>
+<ul>
+<li>——: <strong>DR. MAX PEMBERTON:</strong> Lobotomies have not been done for decades. <strong>BRIAN DANIELS:</strong> Makes reference to Lena Zavaroni.<ul>
+<li>——: <strong>DR. MAX PEMBERTON:</strong> Brian, you're giving me one example, which I - obviously I can't comment on because it's just one - one particular case that I'm not very familiar with.
+But certainly, from - from my experience, I have never, ever come across - um - someone who's been lobotomized. Um - it's just not done anymore because there's just no kinetic indication for it. We have pharmaceutical advances and psychotherapeutic advances which means it's not needed anymore.<ul>
+<li>——: <strong>ROBCAMSTONE:</strong> Yes one example that shows that lobotomies are still being done when you had falsely claimed that none had been done and even when you have been informed of the case of Lena Zavaroni you still try to make the false claim that they are not done. The Scientologists may be lying but so are you or your not as well informed on your subject as you should be.</li></ul></li></ul></li>
+<li>——: <strong>DR. MAX PEMBERTON:</strong> continues to avoiding the truth that lobotomies are still carried out all be it under the umbrella term of Neurosurgery for Mental Disorder (NMD).</li>
+</ul>
+</blockquote>
 
 <cite>Robcamstone</cite>
 
