@@ -12,6 +12,9 @@ categories: [Theatre, Alexandra Theatre]
 
 <figure class="fig1">
 <img src="/assets/images/theatres/1981-babes-in-the-wood-pantomime-flyer.jpg" class="full-width">
+<figcaption>
+  <p>Please read the comments section below concerning the closing night.</p>
+</figcaption>
 </figure>
 
 <figure class="fig2">
