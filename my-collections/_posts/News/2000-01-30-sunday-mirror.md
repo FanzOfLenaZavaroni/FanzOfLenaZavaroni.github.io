@@ -18,7 +18,7 @@ categories: [Newspapers]
 <cite>Sunday Mirror (London, England) 30 January 2000 via [The Free Library](http://bit.ly/TFL-LZ-2000-01-30)</cite>
 
 ### Notes
-> While we can never know the truth about Lena and Ray's relationship the idea that her "Will" proves anything is misleading there is photos of Lena and Ray together but I have yet to see them and if we did get to see them it's unlikely they would spread any light on their relationship.
+> While we can never know the truth about Lena and Ray's relationship the idea that her "Will" proves anything is misleading there are photos of Lena and Ray together but I have yet to see them and if we did get to see them it's unlikely they would spread any light on their relationship.
 >
 > As to a devoted father that is also open to question.
 >
