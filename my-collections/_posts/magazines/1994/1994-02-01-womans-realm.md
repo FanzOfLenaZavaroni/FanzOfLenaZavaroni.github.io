@@ -66,6 +66,7 @@ categories: [Magazines]
 figcaption {float:left; width:100%;}
 
 @media only screen and (max-width: 700px) {
+.height {width:100%; height:auto;}
 .fig1, .fig2 {float:left; width:100%;}
 figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
