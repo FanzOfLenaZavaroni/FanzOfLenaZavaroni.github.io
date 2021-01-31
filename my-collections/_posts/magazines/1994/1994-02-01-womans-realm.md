@@ -44,7 +44,7 @@ categories: [Magazines]
    <li>SHARE is an acronym for &quot;Share Happily and Reap Endlessly&quot; and it is a Hollywood charity that raises money for children with developmental disabilities</li></ul></li>
 <li>If the media was not at all interested in Lena's health problems as implied in this article why was it that every interviewer asked questions about her health‽ (if you don't like the answers don't ask the questions).</li>
 <li>You the MEDIA in all your forms created the version of Lena writen about so why then complain about it‽</li>
-<li>The real concern should be with so many in the media and the World at large knowing of Lena's problems, how come no one bothered to get Lena real help and support (The problem is people only ever listen to reply, not to understand).</li>
+<li>The real concern should be with so many in the media and the World at large knowing of Lena's problems, how come no one bothered to get Lena real help and support (The problem is people only ever listen to comment, not to understand).</li>
 <li>If all the psychologists were like Andrew Evans it's no wonder Lena never truly recovered (How much did he get paid for his comments‽).</li>
 <li>All this known about abuse and neglect, yet not a single inquiry into the life and death of an innocent.</li>
 <li>Guessing they all the same type of individuals that protected "Savile" letting Lena's abusers go free.</li>
