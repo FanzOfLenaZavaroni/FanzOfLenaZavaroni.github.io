@@ -13,8 +13,7 @@ categories: [Magazines]
 </figcaption>
 <a href="/assets/images/magazines/Womans-Realm-1994-02-01a.jpg"><img src="/assets/images/magazines/Womans-Realm-1994-02-01a.jpg" class="height zoom-in"></a>
 <figcaption>
-<p>Featuring Joan Collins on the cover and a one page article inside criticising Lena Zavaroni for being open about her problems and for seeking pity.</p>
-<p>Contains large colour photo of lena.</p>
+<p>Featuring Joan Collins on the cover and a two page article inside criticising Lena Zavaroni for being open about her problems and for seeking pity.</p>
 </figcaption>
 </figure>
 
