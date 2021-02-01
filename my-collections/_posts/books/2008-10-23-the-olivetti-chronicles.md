@@ -37,14 +37,14 @@ categories: [Books]
 ### Synopsis
 > John Peel is best known for his four decades of radio broadcasting. His Radio 1 shows shaped the taste of successive generations of music lovers. His Radio 4 show, Home Truths, became required listening for millions. But all the while, Peel was also tapping away on his beloved Olivetti typewriter, creating copy for an array of patient editors. He wrote articles, columns and reviews for newspapers and magazines as diverse as The Listener, Oz, Gandalf's Garden, Sounds, the Observer, the Independent and Radio Times. Now for the first time, the best of these writings have been brought together - selected by his wife, Sheila, and his four children. Music, of course, is a central and recurring theme, and he writes on music in all its forms, from Tubular Bells to Berlin punk to Madonna. Here you can read John Peel on everything from the perils of shaving to the embarrassments of virginity, and from the strange joy of Eurovision to the horror of being sick in trains. At every stage, the writing is laced with John's brilliantly acute observations on the minutiae of everyday life. This endlessly entertaining book is essential reading for Peel fans and a reminder of just why he remains a truly great Briton.
 
-<figure class="fig1" id="Page 322">
+<figure class="fig1" id="page-322">
 <figcaption>
 <h3>Page 322</h3>
 </figcaption>
 <a href="/assets/images/books/the-olivetti-chronicles-page-322.jpg"><img src="/assets/images/books/the-olivetti-chronicles-page-322.jpg" class="full-width zoom-in" /></a>
 </figure>
 
-<figure class="fig2" id="Page 350">
+<figure class="fig2" id="page-350">
 <figcaption>
 <h3>Page 350</h3>
 </figcaption>
@@ -53,14 +53,14 @@ categories: [Books]
 
 {: .clear}
 
-<figure class="fig1" id="Page 351">
+<figure class="fig1" id="page-351">
 <figcaption>
 <h3>Page 351</h3>
 </figcaption>
 <a href="/assets/images/books/the-olivetti-chronicles-page-351.jpg"><img src="/assets/images/books/the-olivetti-chronicles-page-351.jpg" class="full-width zoom-in" /></a>
 </figure>
 
-<figure class="fig2" id="Page 352">
+<figure class="fig2" id="page-352">
 <figcaption>
 <h3>Page 352</h3>
 </figcaption>
