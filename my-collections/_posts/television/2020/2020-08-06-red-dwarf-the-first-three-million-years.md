@@ -51,7 +51,7 @@ Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's 
 <figcaption>
 <h3 id="youtube-clip">YouTube Clip</h3>
 </figcaption>
-<a href="https://youtu.be/DljMPkYCuEw"><img src="https://img.youtube.com/vi/DljMPkYCuEw/mqdefault.jpg" class="full-width" title="Click to watch on YouTube"/></a>
+<a href="https://youtu.be/DljMPkYCuEw" title="Click to watch on YouTube"><img src="https://img.youtube.com/vi/DljMPkYCuEw/mqdefault.jpg" class="full-width" /></a>
 <figcaption>
 <cite>Clip of Danny John-Jules and Lena Zavaroni<br />&copy; believed to be BBC 1981</cite>
 </figcaption>
