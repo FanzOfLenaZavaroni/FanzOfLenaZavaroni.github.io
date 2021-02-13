@@ -20,24 +20,56 @@ categories: [Dave]
 </tr>
 </table>
 
-### Episode 1 - Boys From The Dwarf
+<figure class="fig1">
+<figcaption>
+<h3 id="episode-1---boys-from-the-dwarf">Episode 1 - Boys From The Dwarf</h3>
+<strong>Features:</strong> Chris Barrie, Craig Charles, Danny John-Jules and Robert Llewellyn
+<strong>Producers:</strong> Chris Hill and Richard Ward
+</figcaption>
+</figure>
 
-**Features:** Chris Barrie, Craig Charles, Danny John-Jules and Robert Llewellyn
+<figure class="fig2">
+<figcaption>
+<h3 id="details-related-to-lena-zavaroni">Details related to Lena Zavaroni</h3>
+Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's dancers and a short clip of Lena Zavaroni and Danny John-Jules is shown the clip is from <a href="/bbc%20one/lena%20-%20series%202/1981/04/29/lena.html">series 2, episode 4 of Lena</a>
+</figcaption>
+</figure>
 
-**Producers:** Chris Hill and Richard Ward
+{: .clear}
 
-### Details related to Lena Zavaroni
-Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's dancers and a short clip of Lena Zavaroni and Danny John-Jules is shown the clip is from [series 2, episode 4 of Lena](/bbc%20one/lena%20-%20series%202/1981/04/29/lena.html).
-
-### Screenshot
-> ![](/assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg)
-
+<figure class="fig1">
+<figcaption>
+<h3 id="screenshot">Screenshot</h3>
+</figcaption>
+<a href="/assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg"><img src="/assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg" class="full-width zoom-in"></a>
+<figcaption>
 <cite>Screenshot: From left to right; Craig Charles, Danny John-Jules, Chris Barrie and Robert Llewellyn &copy; Dave 2020</cite>
+</figcaption>
+</figure>
 
-### YouTube Clip
-> <div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/DljMPkYCuEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<figure class="fig2">
+<figcaption>
+<h3 id="youtube-clip">YouTube Clip</h3>
+</figcaption>
+<a href="https://youtu.be/DljMPkYCuEw"><img src="https://img.youtube.com/vi/DljMPkYCuEw/mqdefault.jpg" class="full-width"></a>
 
-<cite>Clip of Danny John-Jules and Lena Zavaroni &copy; believed to be BBC 1981</cite>
+<figcaption>
+<cite>Clip of Danny John-Jules and Lena Zavaroni<br />&copy; believed to be BBC 1981</cite>
+</figcaption>
+</figure>
 
+<br />{: .clear}
 
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
 
