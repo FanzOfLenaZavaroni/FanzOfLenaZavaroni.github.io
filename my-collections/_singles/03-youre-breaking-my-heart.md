@@ -8,7 +8,7 @@ description: This is the 11th single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/m8YQryTU7yA?playlist=KoviPL00AFY&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=m8YQryTU7yA,KoviPL00AFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br />
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>

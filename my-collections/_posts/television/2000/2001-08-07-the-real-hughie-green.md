@@ -1,17 +1,22 @@
 ---
 layout: post
-title: The Real... &#124; Lena Zavaroni &#124; 23 February 2000
-maintitle: The Real... Lena Zavaroni
+title: The Real... &#124; Hughie Green &#124; 7 August 2001
+maintitle: The Real... Hughie Green
 subtitle: Channel 4
-description: Channel 4 documentary charting Lena Zavaroni's career and subsequent illness.
-media: Lena Zavaroni
-post_description: Documentary charting Lena Zavaroni's career and subsequent illness.
+description: Channel 4 documentary charting Hughie Green's amazing double life.
+media: Hughie Green
+post_description: Documentary charting Hughie Green's amazing double life.
 categories: [Channel 4]
 ---
 
-Documentary charting Lena's career and subsequent illness.
+<h3 id="youtube-clip">YouTube Clip</h3>
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/MS2dZ-SplbM?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 
-Includes interviews with Victor Zavaroni, Carla Zavaroni, Dorothy Solomon and David &amp; Martha Fisher.
+<h3 id="summary">Summary</h3>
+<p>TV host Hughie Green had an unswerving belief in his own talent. But, although he prided himself on being a self-styled moral guardian, his private persona could not have been more different.</p>
+<p>He had a mercurial temper and, in spite of publicly upholding family values, he was a compulsive philanderer.</p>
+<p>At his funeral, a colleague let slip that one of his illegitimate children was a famous TV presenter; it turned out to be Paula Yates, whose 'father' Jess had been his sworn enemy.</p>
+<p>Green's amazing double life is chronicled in a documentary rich in archive footage and interviews.</p>
 
 <figure class="fig1">
 <figcaption>
@@ -31,7 +36,7 @@ Includes interviews with Victor Zavaroni, Carla Zavaroni, Dorothy Solomon and Da
 
 <figure class="fig2">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h3 id="crew">Crew</h3>
 <table>
 <tr><th>Production executive</th><td>Christine Mathisen</td></tr>
 <tr><th>Production secretary</th><td>Kate Finn</td></tr>
