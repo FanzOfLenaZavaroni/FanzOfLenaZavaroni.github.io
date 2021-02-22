@@ -4,32 +4,71 @@ title: The Bachelors Show  &#124; Epiosde 3
 maintitle: The Bachelors Show
 subtitle: Epiosde 3
 description:  2 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
+media: Epiosde 3
+post_description: with The Bachelors, The Vernons and Lena Zavaroni.
+image: /assets/images/BBC/The-Bachelors-Show-03.jpg
 categories: [BBC Two]
 ---
 
-![](/assets/images/BBC/The-Bachelors-Show-03.jpg)
+<figure class="fig1">
+<figcaption>
+<h3 id="screenshot">Screenshot</h3>
+</figcaption>
+<img src="/assets/images/BBC/The-Bachelors-Show-03.jpg" class="full-width">
+</figure>
 
-> Lena performs "Rock And Roll Waltz" wearing a Bugs Bunny t-shirt with her name on it, and the slogan Remember The 50s. She then accompanies the Bachelors on the piano, as they sing "Sweet Gypsy Rose".
->
-> Then she performs "Baby Face" as they play their instruments. Finally she sings a comedy version of "Ma! He's Making Eyes At Me" to a terrified looking boy.
+<figure class="fig2">
+<figcaption>
+<h3 id="summary">Summary</h3>
+<p>Lena performs "Rock And Roll Waltz" wearing a Bugs Bunny t-shirt with her name on it, and the slogan Remember The 50s. She then accompanies the Bachelors on the piano, as they sing "Sweet Gypsy Rose".</p>
+<p>Then she performs "Baby Face" as they play their instruments. Finally she sings a comedy version of "Ma! He's Making Eyes At Me" to a terrified looking boy.</p>
+<p><strong>External Website:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-02#at-20.15">BBC Genome</a></p>
+</figcaption>
+</figure>
 
-### Cast
-* **Hosts:** The Bachelors
-* **Singer:** Lena Zavaroni
-* **Singers:** The Vernons
+{: .clear}
 
-### Crew
-* **Orchestra conductor:** Norman Percival
-* **Choreography:** Lesley Brooks
-* **Production team:** Ann R Mann
-* **Production team:** Maurice Gallacher
-* **Lighting:** Ken McGregor
-* **Sound:** Hugh Barker
-* **Sound:** Peter Rose
-* **Design:** Lesley Bremness
-* **Producer:** Ernst Maxin
-* **Production company:** BBC Television
+<figure class="fig1">
+<figcaption>
+<h3 id="cast">Cast</h3>
+<table>
+<tr><th>Hosts</th><td>The Bachelors</td></tr>
+<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr><th>Singers</th><td>The Vernons</td></tr>
+</table>
+</figcaption>
+</figure>
 
-### Related Website
-* [BBC Genome](https://genome.ch.bbc.co.uk/c2dddc496b354c84ad9abaa301e8aabf)
+<figure class="fig2">
+<figcaption>
+<h3 id="cast">Cast</h3>
+<table>
+<tr><th>Orchestra conductor</th><td>Norman Percival</td></tr>
+<tr><th>Choreography</th><td>Lesley Brooks</td></tr>
+<tr><th>Production team</th><td>Ann R Mann</td></tr>
+<tr><th>Production team</th><td>Maurice Gallacher</td></tr>
+<tr><th>Lighting</th><td>Ken McGregor</td></tr>
+<tr><th>Sound</th><td>Hugh Barker</td></tr>
+<tr><th>Sound</th><td>Peter Rose</td></tr>
+<tr><th>Design</th><td>Lesley Bremness</td></tr>
+<tr><th>Producer</th><td>Ernst Maxin</td></tr>
+<tr><th>Production company</th><td>BBC Television</td></tr>
+</table>
+</figcaption>
+</figure>
+
+<br />{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
 

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Granada Reports
+title: Granada Reports &#124; 2 March 1992
 maintitle: Granada Reports
-subtitle: Granada Television
+subtitle: Local ITV newscast for the Granada North West region
 description: Lena appears as a guest on the main 30 minute evening bulletin.
+media: Local ITV newscast for the Granada North West region
+post_description: Lena appears as a guest on the main 30 minute evening bulletin.
 image: /assets/images/ITV/Granada-Reports.png
 categories: [Granada Television]
 ---

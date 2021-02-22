@@ -1,9 +1,11 @@
 ---
 layout: post
-title: This Morning
+title: This Morning &#124; 5 October 1999
 maintitle: This Morning
 subtitle: Granada Television
 description: The show contained a discussion on eating disorders following Lena Zavaroni's death a few days earlier.
+media: Granada Television
+post_description: The show contained a discussion on eating disorders following Lena Zavaroni's death a few days earlier.
 categories: [Granada Television]
 ---
 

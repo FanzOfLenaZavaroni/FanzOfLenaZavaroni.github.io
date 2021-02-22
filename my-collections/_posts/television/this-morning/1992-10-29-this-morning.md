@@ -1,9 +1,11 @@
 ---
 layout: post
-title: This Morning
+title: This Morning &#124; 29 October 1999
 maintitle: This Morning
 subtitle: Granada Television
 description: Lena talked about her previous anorexia and her clinical depression.
+media: Granada Television
+post_description: Lena talked about her previous anorexia and her clinical depression.
 image: /assets/images/ITV/1992-10-29-this-morning .png
 categories: [Granada Television]
 ---

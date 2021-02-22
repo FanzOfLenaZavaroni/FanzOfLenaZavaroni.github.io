@@ -8,9 +8,9 @@ images: /assets/images/theatres/personality-of-the-year.jpg
 categories: [Awards]
 ---
 
+<strong>Lena collected the &quot;personality of the year&quot; award at the ceremony in Glasgow.</strong>
+
 > ![](/assets/images/theatres/personality-of-the-year.jpg)
 
 <cite>Lena Zavaroni singer aged 16 with Personality of the Year Scotstar Award &copy; Daily Mirror 1980</cite>
-
-Lena collected the &quot;personality of the year&quot; award at the ceremony in Glasgow.
 
