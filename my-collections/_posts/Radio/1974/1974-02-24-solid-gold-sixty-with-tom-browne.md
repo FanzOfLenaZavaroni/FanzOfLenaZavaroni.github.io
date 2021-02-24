@@ -42,7 +42,7 @@ categories: [BBC Radio 1, BBC Radio 2]
 <br />{: .clear}
 
 ### Am - FM
-* At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on Medium Wave.
+> At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on Medium Wave.
 
 <cite>Robcamstone</cite>
 
