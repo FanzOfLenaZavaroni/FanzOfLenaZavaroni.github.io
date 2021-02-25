@@ -73,6 +73,11 @@ defaults:
       media: "Details for this link are coming Soon!"
       post_description: "Clicking on the above link will take you to the full article as normal."
 
+# Feed Settings: excerpt_only: true or false
+feed:
+  posts_limit: 10
+  
+
 # Build settings
 markdown: kramdown
 theme: minima
