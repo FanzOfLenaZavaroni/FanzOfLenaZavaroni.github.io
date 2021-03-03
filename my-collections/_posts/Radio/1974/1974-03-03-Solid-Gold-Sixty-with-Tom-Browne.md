@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solid Gold Sixty with Tom Browne &#124; 24 February 1974
+title: Solid Gold Sixty with Tom Browne &#124; 3 March 1974
 maintitle: Solid Gold Sixty with Tom Browne
 subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20)
 description: Playing Tracks By Stevie Wonder, T. Rex, Barry White, The Stylistics, Diana Ross, Lena Zavaroni and others.
@@ -11,13 +11,13 @@ categories: [BBC Radio 1, BBC Radio 2]
 
 <figure class="fig1">
 <h3 id="radio-1">BBC Radio 1</h3>
-<p><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-02-24#at-16.00">The 60 top records of today starts at 16:00hrs.</a></p>
+<p><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-03#at-16.00">The 60 top records of today starts at 16:00hrs.</a></p>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h3 id="radio-2">BBC Radio 2</h3>
-<p><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-02-24#at-18.00">The 20 top records of today starts at 18:00hrs.</a></p>
+<p><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-03-03#at-18.00">The 20 top records of today starts at 18:00hrs.</a></p>
 
 </figcaption>
 </figure>
@@ -25,7 +25,7 @@ categories: [BBC Radio 1, BBC Radio 2]
 {: .clear}
 
 ### Recording of the Top 20 section of the broadcast
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fandyboyd%2Ftom-browne-uk-top-20-24-2-1974%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeteseaton%2Fsolid-gold-sixty-with-tom-browne-030374%2F" frameborder="0" ></iframe>
 <br />
 ### Notes About BBC Radio 1 & 2
 
@@ -36,13 +36,13 @@ categories: [BBC Radio 1, BBC Radio 2]
 
 <figure class="fig2">
 <h3 id="note-2">Note 2</h3>
-<p>BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation.</P>
+<p>BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation in 1973 a subcarrier was added to the transmission which allowed the broadcasting of content in stereo.</P>
 </figure>
 
 <br />{: .clear}
 
 ### Am - FM
-> At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on Medium Wave.
+> At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound and if the receiver was a stereo one than could enjoy tracks that were made in stereo as they should have been heard.
 
 <cite>Robcamstone</cite>
 
