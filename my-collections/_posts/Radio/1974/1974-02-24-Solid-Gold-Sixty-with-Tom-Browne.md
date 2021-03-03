@@ -3,9 +3,9 @@ layout: post
 title: Solid Gold Sixty with Tom Browne &#124; 24 February 1974
 maintitle: Solid Gold Sixty with Tom Browne
 subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20)
-description: Playing Tracks By Stevie Wonder, T. Rex, Barry White, The Stylistics, Diana Ross, Lena Zavaroni and others.
+description: Lena Zavaroni moved up the charts from number 16 to number 13.
 media: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20)
-post_description: Playing Tracks By Stevie Wonder, T. Rex, Barry White, The Stylistics, Diana Ross, Lena Zavaroni and others.
+post_description: Lena Zavaroni moved up the charts from number 16 to number 13.
 categories: [BBC Radio 1, BBC Radio 2]
 ---
 
