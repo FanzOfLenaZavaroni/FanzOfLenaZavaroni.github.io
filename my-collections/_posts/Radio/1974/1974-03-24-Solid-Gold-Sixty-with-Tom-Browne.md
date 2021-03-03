@@ -11,13 +11,13 @@ categories: [BBC Radio 1, BBC Radio 2]
 
 <figure class="fig1">
 <h3 id="radio-1">BBC Radio 1</h3>
-<p><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-17#at-16.00">The 60 top records of today starts at 16:00hrs.</a></p>
+<p><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-24#at-16.00">The 60 top records of today starts at 16:00hrs.</a></p>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h3 id="radio-2">BBC Radio 2</h3>
-<p><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-03-17#at-18.00">The 20 top records of today starts at 18:00hrs.</a></p>
+<p><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-03-24#at-18.00">The 20 top records of today starts at 18:00hrs.</a></p>
 
 </figcaption>
 </figure>
