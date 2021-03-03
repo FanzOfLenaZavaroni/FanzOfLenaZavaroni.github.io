@@ -10,12 +10,7 @@ categories: [London Weekend Television, Theatre]
 
 Gala benefit at the National Theatre, sponsored by Princess Anne, in aid of the Save the Children Fund. Hosted by Jimmy Tarbuck, it includes singing, stand-up comedy, dance, comedy skits, and drama.
 
-> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/yQ0kqdG7fqg?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
->
-> Lena joins the rest of the cast for the finale, performing "There's No Business Like Showbusiness" and "That's Entertainment". She later joins the backstage line-up to shake hands with Princess Anne.
-
 ### Cast
-
 <table class="flow-text striped">
 <tr>
 <td>Russ Abbot</td>
@@ -80,3 +75,4 @@ Gala benefit at the National Theatre, sponsored by Princess Anne, in aid of the 
 .height-adjust2 {width:auto; height:307px;}
 .fit1 {width:367.7px; height:498px; object-fit: cover; margin-bottom:5px;}
 </style>
+
