@@ -4,26 +4,62 @@ title: Pebble Mill at One
 maintitle: Pebble Mill at One
 subtitle: BBC One
 description: Guests Lena Zavaroni, Dorothy Solomon, Gerry Cottle, Betty Cottle and Captain Universe.
+media: BBC One
+post_description: Guests Lena Zavaroni, Dorothy Solomon, Gerry Cottle, Betty Cottle and Captain Universe.
 image: /assets/images/BBC/Pebble-Mill-at-One-ID.jpg
 categories: [BBC One]
 ---
 
-![](/assets/images/BBC/Pebble-Mill-at-One-ID.jpg)
+<figure class="fig1">
+<figcaption>
+<h3 id="screenshot">Screenshot</h3>
+</figcaption>
+<img src="/assets/images/BBC/Pebble-Mill-at-One-ID.jpg" class="full-width">
+</figure>
 
-> Lena performs a live version of "Pinch Me Am I Dreaming".
->
-> Later on she is interviewed alongside her manager Dorothy Solomon, by Donny MacLeod, and then finishes the show with a live rendition of "Rock-A-Bye Your Baby With A Dixie Melody".
+<figure class="fig2">
+<figcaption>
+<h3 id="detail">Details</h3>
+<p>Lena performs a live version of "Pinch Me Am I Dreaming".</p>
+<p>Later on she is interviewed alongside her manager Dorothy Solomon, by Donny MacLeod, and then she finishes the show with a live rendition of "Rock-A-Bye Your Baby With A Dixie Melody".</p>
+<h3 id="external-websites">External Websites</h3>
+<p><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1977-03-11#at-13.00">BBC Genome</a></p>
+<p><a href="https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=52.45050000000002%2C-1.9132999999999356&z=19">Google Maps</a></p>
+</figcaption>
+</figure>
 
-### Contributors
-* **Presenter:** Donny MacLeod
-* **Presenter:** Marian Foster
-* **Presenter:** David Seymour
-* **Singer:** Lena Zavaroni
-* **Manager of Lena Zavaroni:** Dorothy Solomon
-* **Circus Owner:** Gerry Cottle
-* **Circus Owner:** Betty Cottle
-* **Captain Universe:** unknown
+{: .clear}
 
-### Related Websites
-* [BBC Genome](http://genome.ch.bbc.co.uk/e29e8853deae4f37a239e4fbc2cd7e80)
-* [View on Map](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=52.45050000000002%2C-1.9132999999999356&z=19)
+<figure class="fig3">
+<figcaption>
+<h3 id="contributors">Contributors</h3>
+<table>
+<tr><th>Presenter</th><td>Donny MacLeod</td></tr>
+<tr><th>Presenter</th><td>Marian Foster</td></tr>
+<tr><th>Presenter</th><td>David Seymour</td></tr>
+<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr><th>Manager of Lena Zavaroni</th><td>Dorothy Solomon</td></tr>
+<tr><th>Circus Owner</th><td>Gerry Cottle</td></tr>
+<tr><th>Circus Owner</th><td>Betty Cottle</td></tr>
+<tr><th>Captain Universe</th><td>unknown</td></tr>
+</table>
+</figcaption>
+</figure>
+
+<br />{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+.fig3 {float:right; width:100%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
+
