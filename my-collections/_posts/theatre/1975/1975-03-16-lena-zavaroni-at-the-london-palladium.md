@@ -15,5 +15,5 @@ categories: [Theatre]
 <div style="text-align:center;"><form action="/assets/pdf/1975-03-16 - Lena Zavaroni at the London Palladium.pdf" target="_blank"><input type="submit" value="Open PDF in new tab" /></form></div>
 
 **Note**
-* "Open PDF in new tab" is dependent on your own browser settings so may offer to download PDF instead of opening it or may open it in a new window.
+* "Open PDF in new tab" is dependent on your own browser settings so may offer to download the PDF instead of opening it or may open it in a new window.
 
