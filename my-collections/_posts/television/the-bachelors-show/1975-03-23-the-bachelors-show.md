@@ -33,7 +33,7 @@ categories: [BBC Two]
 <figcaption>
 <h3 id="cast">Cast</h3>
 <table>
-<tr><th>Hosts</th><td>The Bachelors</td></tr>
+<tr><th style="width:50%;">Hosts</th><td style="width:50%;">The Bachelors</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Singers</th><td>The Vernons</td></tr>
 <tr><th>English football professional</th><td><strong>*</strong> Jimmy Hill</td></tr>
@@ -47,7 +47,7 @@ categories: [BBC Two]
 <figcaption>
 <h3 id="cast">Cast</h3>
 <table>
-<tr><th>Orchestra conductor</th><td>Norman Percival</td></tr>
+<tr><th style="width:50%;">Orchestra conductor</th><td style="width:50%;">Norman Percival</td></tr>
 <tr><th>Choreography</th><td>Lesley Brooks</td></tr>
 <tr><th>Production team</th><td>Ann R Mann</td></tr>
 <tr><th>Production team</th><td>Maurice Gallacher</td></tr>
