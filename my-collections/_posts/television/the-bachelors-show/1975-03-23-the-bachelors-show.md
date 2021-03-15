@@ -29,7 +29,7 @@ categories: [BBC Two]
 
 {: .clear}
 
-<figure class="fig1">
+<figure class="fig3">
 <figcaption>
 <h3 id="cast">Cast</h3>
 <table>
@@ -43,7 +43,7 @@ categories: [BBC Two]
 </figcaption>
 </figure>
 
-<figure class="fig2">
+<figure class="fig3">
 <figcaption>
 <h3 id="cast">Cast</h3>
 <table>
@@ -67,6 +67,8 @@ categories: [BBC Two]
 .fig1 {float:left; width:49%;}
 
 .fig2 {float:right; width:49%;}
+
+.fig3 {float:right; width:100%;}
 
 figcaption {float:left; width:100%;}
 
