@@ -74,7 +74,7 @@ categories: [London Weekend Television]
 <figcaption id="interview-with-bonnie-langford">
 <h3>Interview With Bonnie Langford</h3>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/q5Dw571MQxg?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
-<p>Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie</p>
+<p>Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie.</p>
 </figcaption>
 </figure>
 
