@@ -122,8 +122,7 @@ What he manages brilliantly is allowing us only restricted access to Maria's min
 <cite>[The Mirror, 22 April 2003 via The Free Library](https://www.thefreelibrary.com/The+Scurra.-a0100434743)&#8592; follow the link to read the full article</cite>
 
 ### Logical Outcome of The Mirror's comparison
-
 > So as we can see from the comparison between Maria Tambini and Lena Zavaroni's life stories is the fact that the only fictional element of this work is the claim that it's not about Lena Zavaroni.
->
+
 <cite>Robcamstone</cite>
 
