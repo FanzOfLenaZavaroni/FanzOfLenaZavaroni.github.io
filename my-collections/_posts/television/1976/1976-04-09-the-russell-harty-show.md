@@ -32,15 +32,19 @@ Lena sang "Some Of These Days" before being interviewed.
 </div>
 
 ### Cast
-* **Host:** Russell Harty
-* **Guest:** Helen Mirren
-* **Guest:** Edna Everage
-* **Guest:** Lena Zavaroni
+<table>
+<tr><th>Host</th><td>Russell Harty</td></tr>
+<tr><th>Guest</th><td>Helen Mirren</td></tr>
+<tr><th>Guest</th><td>Edna Everage</td></tr>
+<tr><th>Guest</th><td>Lena Zavaroni</td></tr>
+</table>
 
 ### Crew
-* **Director:** Mike Mansfield
-* **Producer:** Nicholas Barrett
-* **Production Team:** Paul Flattery
-* **Production Team:** Janette Carn
-* **Production Company:** London Weekend Television (LWT)
+<table>
+<tr><th>Director</th><td>Mike Mansfield</td></tr>
+<tr><th>Producer</th><td>Nicholas Barrett</td></tr>
+<tr><th>Production Team</th><td>Paul Flattery</td></tr>
+<tr><th>Production Team</th><td>Janette Carn</td></tr>
+<tr><th>Production Company</th><td>London Weekend Television (LWT)</td></tr>
+</table>
 
