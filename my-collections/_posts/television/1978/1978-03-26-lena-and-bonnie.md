@@ -84,9 +84,8 @@ categories: [London Weekend Television]
 </figcaption>
 <img src="/assets/images/lena-and-bonnie/clapperboard-01.png" class="full-width">
 <figcaption>
-<p><strong>Note:</strong> When part 1 of the show was recorded the clapperboard information display the year 1977, When it was in fact 1978 on the recording of the show you can hear someone off screen confirm the year as 1978.</p>
-<p>The show opens with Lena and Bonnie performing the song Compatibility. Lena then perform a song and dance medley of disco music.</p>
-<p>Bonnie then performs a medley of show tunes, Lena and Bonnie then reprise the song Compatibility and it then goes to an advert break.</p>
+<p>Part 1 of the show opens with Lena & Bonnie performing the song Compatibility. Lena then perform a song and dance medley of disco music. Bonnie then performs a medley of show tunes, Lena and Bonnie then reprise the song Compatibility and it then goes to an advert break.</p>
+<p><strong>Note:</strong> When part 1 of the show was recorded the clapperboard information display the year 1977, When it was in fact 1978 on the studio recording of the show you can hear someone off screen confirm the year as 1978.</p>
 </figcaption>
 
 <figcaption  id="part-2">
@@ -94,8 +93,7 @@ categories: [London Weekend Television]
 </figcaption>
 <img src="/assets/images/lena-and-bonnie/clapperboard-02.png" class="full-width">
 <figcaption>
-<p>The show continues with Lena and Bonnie performing a reprise of the song Compatibility.</p>
-<p>They then perform a medley of Shirley Temple and Judy Garland Songs and Shout by Lulu.</p>
+<p>Part 2 of the show opens with Lena & Bonnie performing a reprise of the song Compatibility. Lena & Bonnie then perform a medley of Shirley Temple and Judy Garland Songs and Shout by Lulu. Lena then performs Speedy Gonzales, after which Bonnie performs the song I Can Do That. The song Boogie Woogie Bugle Boy is then performed by Lena & Bonnie as the Compatibility Sisters. It then goes to another advert break.</p>
 </figcaption>
 
 <figcaption id="part-3">
@@ -103,9 +101,7 @@ categories: [London Weekend Television]
 </figcaption>
 <img src="/assets/images/lena-and-bonnie/clapperboard-03.png" class="full-width">
 <figcaption>
-<p>The final part of the show opens with Lena and Bonnie performing a reprise of the song Compatibility.</p>
-<p>Bonnie then performs the songs New York, New York & Tomorrow, Lena then performs the songs The Air That I Breathe & Should've Listened To Mama.</p>
-<p>Lena and Bonnie then reprise the song Compatibility which leads into the final song of the show Razzle Dazzle.</p>
+<p>Part 3 of the show opens with Lena & Bonnie performing a reprise of the song Compatibility. Bonnie then performs the songs New York, New York & Tomorrow, Lena then performs the songs The Air That I Breathe & Should've Listened To Mama. Lena & Bonnie then reprise the song Compatibility which leads into the final song of the show Razzle Dazzle.</p>
 </figcaption>
 </figure>
 
