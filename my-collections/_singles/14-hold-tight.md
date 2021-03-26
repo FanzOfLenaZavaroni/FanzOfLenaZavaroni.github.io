@@ -1,64 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-<!--  Enabled DNS prefetching  -->
-<meta http-equiv="x-dns-prefetch-control" content="on">
-
-  <!-- Meta Tags properties  -->
-  <meta property="og:title" content="Hold Tight (Want Some Sea Food, Mama)" />
-  <meta property="og:description" content="Hold Tight (Want Some Sea Food, Mama) by Lena Zavaroni.">
-  <meta property="og:image" content="" />
-
-  <!-- Meta Tags names  -->
-  <meta name="description" content="Hold Tight (Want Some Sea Food, Mama) by Lena Zavaroni.">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-<!-- Twitter Card Meta Tags  -->
-<meta name="twitter:card" content="summary" />
-
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-  <!-- CSS-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-  <link href="/materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen" />
-  <link href="/materialize/css/style.css" type="text/css" rel="stylesheet" media="screen" />
-
-  <title>Hold Tight (Want Some Sea Food, Mama)</title>
-</head>
-
-<body>
-<div class="navbar-fixed">
-<nav>
-<div class="nav-wrapper">
-<a class="brand-logo truncate">Fanz of Lena Zavaroni</a>
-<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-<ul class="right hide-on-med-and-down">
-<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
-<li class="active"><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
-
-</ul>
-</div>
-</nav>
-</div>
-
-<ul class="sidenav" id="mobile-demo">
-<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li><a href="/television/television.html"><i class="fa fa-television"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fa fa-institution"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fa fa-microphone"></i> Radio</a></li>
-<li class="active"><a href="/discography/discography.html"><i class="fa fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fa fa-newspaper-o"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fa fa-photo"></i> Publicity</a></li>
-
-</ul>
+---
+layout: discography
+year: 
+title: Hold Tight (Want Some Sea Food, Mama)
+maintitle: Hold Tight (Want Some Sea Food, Mama)
+subtitle: Single
+description: This is the 14th single by Lena Zavaroni
+media: 7" Vinyl, 45 Single
+post_description: 
+image: /assets/images/singles/
+categories: [Discography, Singles]
+published: false
+---
 
 <main class="Main-Default">
 <article>

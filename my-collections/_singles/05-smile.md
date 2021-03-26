@@ -5,7 +5,7 @@ title: Smile
 maintitle: Smile
 subtitle: Lena Zavaroni
 b-side: Hey! Hey! What Do You Say
-description: This is the 6th single by Lena Zavaroni.
+description: This is the 5th single by Lena Zavaroni.
 image: /assets/images/singles/smile.png
 categories: [Discography, Singles]
 ---

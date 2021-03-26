@@ -5,7 +5,7 @@ title: Air Love
 maintitle: Air Love
 subtitle: Single
 b-side: Pinch Me Am I Dreaming
-description: This is the 8th single by Lena Zavaroni.
+description: This is the 7th single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 

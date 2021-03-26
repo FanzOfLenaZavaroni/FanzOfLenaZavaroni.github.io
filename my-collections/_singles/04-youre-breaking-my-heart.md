@@ -4,7 +4,7 @@ year: 28 February 1975
 title: You're Breaking My Heart
 maintitle: You're Breaking My Heart
 b-side: You're Never Too Old
-description: This is the 11th single by Lena Zavaroni.
+description: This is the 4th single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
