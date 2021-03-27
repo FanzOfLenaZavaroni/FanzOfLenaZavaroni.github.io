@@ -8,10 +8,6 @@ image: /assets/images/albums/Ma!-Norway-UK.jpg
 ---
 
 <main class="Main-Default">
-<!-- <ul class="sidenav right" id="Social-sidebar">
-<l></l>
-</ul> -->
-
 <article>
 <div class="row">
 <div class="col s12 m8 offset-m2 l6 offset-l3">
