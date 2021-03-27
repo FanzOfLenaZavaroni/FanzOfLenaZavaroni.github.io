@@ -1,6 +1,6 @@
 ---
 layout: discography
-year: 1974
+year: 1977
 title: Presenting Lena Zavaroni
 maintitle: Presenting Lena Zavaroni
 description: 
