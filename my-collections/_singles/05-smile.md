@@ -1,6 +1,6 @@
 ---
 layout: discography
-year: 1975
+year: 13 June 1975
 title: Smile
 maintitle: Smile
 subtitle: Lena Zavaroni
