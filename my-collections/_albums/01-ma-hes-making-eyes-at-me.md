@@ -3,8 +3,8 @@ layout: discography
 year: 1974
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
-description: 
-image: /assets/images/albums/
+description: Album
+image: /assets/images/albums/Ma!-Norway-UK.jpg
 ---
 
 <main class="Main-Default">
