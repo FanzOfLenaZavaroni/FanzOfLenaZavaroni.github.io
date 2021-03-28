@@ -19,7 +19,7 @@ categories: [Books]
 </tr>
 </table>
 
-<table class="striped">
+<table id="hardback" class="striped">
 <td rowspan="5" style="text-align: center;"><img src="/assets/images/books/2003-04-07-personality-hardback.jpg" width="150"></td>
 <tr>
 <th>Author:</th>
@@ -39,7 +39,7 @@ categories: [Books]
 </tr>
 </table>
 
-<table class="striped">
+<table id="paperback" class="striped">
 <td rowspan="5" style="text-align: center;"><img src="/assets/images/books/2003-04-07-personality-paperback.jpg" width="150"></td>
 <tr>
 <th>Author:</th>
@@ -59,7 +59,7 @@ categories: [Books]
 </tr>
 </table>
 
-<table class="striped">
+<table id="kindle-edition" class="striped">
 <td rowspan="5" style="text-align: center;"><img src="/assets/images/books/2003-04-07-personality-paperback.jpg" width="150"></td>
 <tr>
 <th>Author:</th>
