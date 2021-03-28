@@ -48,6 +48,9 @@ collections:
    albums:
       output: true
       permalink: /discography/albums/:name
+   compilation-albums:
+      output: true
+      permalink: /discography/compilation-albums/:name
    publicity:
       output: true
       permalink: /publicity/:name
