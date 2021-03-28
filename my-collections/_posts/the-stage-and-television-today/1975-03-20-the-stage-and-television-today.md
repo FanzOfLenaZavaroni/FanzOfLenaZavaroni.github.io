@@ -2,10 +2,10 @@
 layout: post
 title: The Stage and Television Today &#124; 20 March 1975
 maintitle: The Stage and Television Today
-subtitle: 
-description: 
-media: 
-post_description: 
+subtitle: Theatre Section
+description: Reported that Lena would be appearing at the Pavilion Theatre, Bournemouth.
+media: Theatre Section
+post_description: Reported that Lena would be appearing at the Pavilion Theatre, Bournemouth.
 categories: [The Stage and Television Today]
 ---
 
