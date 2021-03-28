@@ -1,6 +1,6 @@
 ---
 layout: discography
-year: 1977
+year: 18 February 1977
 title: Air Love
 maintitle: Air Love
 subtitle: Single

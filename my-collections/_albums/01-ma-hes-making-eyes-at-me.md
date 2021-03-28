@@ -1,71 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-<!--  Enabled DNS prefetching  -->
-<meta http-equiv="x-dns-prefetch-control" content="on">
-
-<!--  Open Graph Meta Tags  -->
-<meta property="og:title" content="Ma! He's Making Eyes At Me"/>
-<meta property="og:description" content="Ma! He's Making Eyes At Me is the debut album by Scottish singer Lena Zavaroni, released in 1974 on Philips Records.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://fanzoflenazavaroni.github.io/television/lena/lena-1980-05-21.html">
-<meta property="og:image" content="https://fanzoflenazavaroni.github.io/images/albums/Ma!-Norway-UK%20(small).jpg"/>
-<meta property="og:image:alt" content="Scan of record cover for the Norway and UK release of Lena Zavaroni's LP Ma!(He's Making Eyes At Me)" />
-<meta property="fb:admins" content="fanzoflenazavaroni"/>
-
-<!-- Twitter Card Meta Tags  -->
-<meta name="twitter:card" content="summary" />
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-<!-- CSS-->
-<link rel="stylesheet" href="https://fanzoflenazavaroni.github.io/fontawesome-free-5.8.2-web/css/all.css" />
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-<link href="/materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen" />
-<link href="/materialize/css/style.css" type="text/css" rel="stylesheet" media="screen" />
-
-<title>Ma! He's Making Eyes At Me</title>
-</head>
-
-<body>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.3"></script>
-
-<div class="navbar-fixed">
-<nav>
-<div class="nav-wrapper">
-<a class="brand-logo truncate">Fanz of Lena Zavaroni</a>
-<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-<ul class="right hide-on-med-and-down">
-<li><a href="/"><i class="fas fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li><a href="/television/television.html"><i class="fas fa-tv"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fas fa-theater-masks"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fas fa-broadcast-tower"></i> Radio</a></li>
-<li class="active"><a href="/discography/discography.html"><i class="fas fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fas fa-newspaper"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fas fa-ad"></i> Publicity</a></li>
-</ul>
-</div>
-</nav>
-</div>
-
-<ul class="sidenav" id="mobile-demo">
-<li><a href="/"><i class="fas fa-home"></i> Home</a></li>
-<li><a href="/biography/biography.html"><i class="fa fa-female"></i> Biography</a></li>
-<li><a href="/television/television.html"><i class="fas fa-tv"></i> Television</a></li>
-<li><a href="/theatre/theatre.html"><i class="fas fa-theater-masks"></i> Theatre</a></li>
-<li><a href="/radio/radio.html"><i class="fas fa-broadcast-tower"></i> Radio</a></li>
-<li class="active"><a href="/discography/discography.html"><i class="fas fa-music"></i> Discography</a></li>
-<li><a href="/publications/publications.html"><i class="fas fa-newspaper"></i> Publications</a></li>
-<li><a href="/publicity/publicity.html"><i class="fas fa-ad"></i> Publicity</a></li>
-</ul>
+---
+layout: discography
+year: 1974
+title: Ma! (He's Making Eyes At Me)
+maintitle: Ma! (He's Making Eyes At Me)
+description: Album
+image: /assets/images/albums/Ma!-Norway-UK.jpg
+---
 
 <main class="Main-Default">
-<!-- <ul class="sidenav right" id="Social-sidebar">
-<l></l>
-</ul> -->
-
 <article>
 <div class="row">
 <div class="col s12 m8 offset-m2 l6 offset-l3">
@@ -228,11 +170,3 @@ View: <a href="#" data-target="Social-sidebar" class="sidenav-trigger">Comments<
 </div></div></div></div></div>
 </article>
 </main>
-<!-- Scripts -->
-<script defer src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script defer src="/fontawesome-free-5.8.2-web/js/all.js"></script>
-<script defer src="/materialize/js/materialize.min.js"></script>
-<script defer src="/materialize/js/init.js"></script>
-<script defer src="/materialize/js/nav-right.js"></script>
-</body>
-</html>
