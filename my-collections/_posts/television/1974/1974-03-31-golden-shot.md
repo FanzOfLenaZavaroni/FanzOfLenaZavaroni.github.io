@@ -12,7 +12,7 @@ categories: [Associated Television (ATV)]
 
 ![](/assets/images/ITV/The-Golden-Shot.png)
 
-> Charlie Williams has a short chat with Lena Zavaroni and she preforms Swinging On A Star.
+<cite>Charlie Williams has a short chat with Lena Zavaroni and she preforms Swinging On A Star</cite>
 
 ### Contributors
 <table>
