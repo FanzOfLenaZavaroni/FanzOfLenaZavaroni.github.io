@@ -10,6 +10,8 @@ image: /assets/images/ITV/
 categories: [London Weekend Television, Theatre]
 ---
 
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/0uWfKUF2gNU?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+
 Gala benefit at the National Theatre, sponsored by Princess Anne, in aid of the Save the Children Fund. Hosted by Jimmy Tarbuck, it includes singing, stand-up comedy, dance, comedy skits, and drama.
 
 ### Cast
