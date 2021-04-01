@@ -20,9 +20,9 @@ categories: [Books]
 </table>
 
 <table id="hardback" class="striped">
-<td rowspan="5" style="text-align: center;"><img src="/assets/images/books/2003-04-07-personality-hardback.jpg" width="150"></td>
+<td rowspan="5" style="text-align: center; width:150px;"><a href="/assets/images/books/2003-04-07-personality-hardback.jpg"><img src="/assets/images/books/2003-04-07-personality-hardback.jpg" width="150" class="zoom-in"></a></td>
 <tr>
-<th>Author:</th>
+<th style="width:25%;">Author:</th>
 <td>Andrew O'Hagan</td>
 </tr>
 <tr>
@@ -40,9 +40,9 @@ categories: [Books]
 </table>
 
 <table id="paperback" class="striped">
-<td rowspan="5" style="text-align: center;"><img src="/assets/images/books/2003-04-07-personality-paperback.jpg" width="150"></td>
+<td rowspan="5" style="text-align: center; width:150px;"><a href="/assets/images/books/2003-04-07-personality-paperback.jpg"><img src="/assets/images/books/2003-04-07-personality-paperback.jpg" width="150" class="zoom-in"></a></td>
 <tr>
-<th>Author:</th>
+<th style="width:25%;">Author:</th>
 <td>Andrew O'Hagan</td>
 </tr>
 <tr>
@@ -60,9 +60,9 @@ categories: [Books]
 </table>
 
 <table id="kindle-edition" class="striped">
-<td rowspan="5" style="text-align: center;"><img src="/assets/images/books/2003-04-07-personality-paperback.jpg" width="150"></td>
+<td rowspan="5" style="text-align: center; width:150px;"><a href="/assets/images/books/2003-04-07-personality-paperback.jpg"><img src="/assets/images/books/2003-04-07-personality-paperback.jpg" width="150" class="zoom-in"></a></td>
 <tr>
-<th>Author:</th>
+<th style="width:25%;">Author:</th>
 <td>Andrew O'Hagan</td>
 </tr>
 <tr>
