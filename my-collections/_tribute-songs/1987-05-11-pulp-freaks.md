@@ -22,12 +22,36 @@ image: /assets/images/albums/1987-05-11-pulp-freaks-01.jpg
 </tr>
 </table>
 
-[![](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-01.jpg)
-[![](/assets/images/albums/1987-05-11-pulp-freaks-02.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-02.jpg)
-[![](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-03.jpg "Anorexic Beauty dedicated to Lena Zavaroni")
-[![](/assets/images/albums/1987-05-11-pulp-freaks-04.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-04.jpg)
-[![](/assets/images/albums/1987-05-11-pulp-freaks-05.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-05.jpg)
-[![](/assets/images/albums/1987-05-11-pulp-freaks-06.jpg){: .fit}{: .zoom-in}](/assets/images/albums/1987-05-11-pulp-freaks-06.jpg)
+<figure class="fig1">
+<a href="/assets/images/albums/1987-05-11-pulp-freaks-01.jpg"><img src="/assets/images/albums/1987-05-11-pulp-freaks-01.jpg" class="full-width zoom-in"></a>
+</figure>
+
+<figure class="fig2">
+<a href="/assets/images/albums/1987-05-11-pulp-freaks-02.jpg"><img src="/assets/images/albums/1987-05-11-pulp-freaks-02.jpg" class="full-width zoom-in"></a>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<a href="/assets/images/albums/1987-05-11-pulp-freaks-03.jpg"><img src="/assets/images/albums/1987-05-11-pulp-freaks-03.jpg" class="full-width zoom-in"></a>
+<figcaption><cite>Anorexic Beauty (dedicated to Lena Zavaroni)</cite></figcaption>
+</figure>
+
+<figure class="fig2">
+<a href="/assets/images/albums/1987-05-11-pulp-freaks-04.jpg"><img src="/assets/images/albums/1987-05-11-pulp-freaks-04.jpg" class="full-width zoom-in"></a>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<a href="/assets/images/albums/1987-05-11-pulp-freaks-03.jpg"><img src="/assets/images/albums/1987-05-11-pulp-freaks-05.jpg" class="full-width zoom-in"></a>
+</figure>
+
+<figure class="fig2">
+<a href="/assets/images/albums/1987-05-11-pulp-freaks-04.jpg"><img src="/assets/images/albums/1987-05-11-pulp-freaks-06.jpg" class="full-width zoom-in"></a>
+</figure>
+
+{: .clear}
 
 ### Anorexic Beauty
 
@@ -97,6 +121,15 @@ Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 <cite>Robcamstone</cite>
 
 <style>
-.fit {width: 119.64px; height:auto;}
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
 </style>
 
