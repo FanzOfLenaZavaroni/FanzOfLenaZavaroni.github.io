@@ -76,10 +76,21 @@ published: false
 </article>
 </main>
 
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="/materialize/js/materialize.min.js"></script>
-<script src="/materialize/js/init.js"></script>
-<script src="/audioplayer/js/single-13.js"></script>
-</body>
-</html>
+
+<style>
+.split {border-top: solid 5px #4B90B1;}
+
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+.fig3 {float:left; width:100%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
+

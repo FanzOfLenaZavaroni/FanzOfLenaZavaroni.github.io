@@ -46,20 +46,21 @@ Your browser does not support the audio element.
 </div></div>
 </article>
 </main>
+
 <style>
-audio {
-width: 100%;
-}
-.audio {
-width: 100%;
-background-color: #484848;
-color: #fff;
-text-align: center;
+.split {border-top: solid 5px #4B90B1;}
+
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+.fig3 {float:left; width:100%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="/materialize/js/materialize.min.js"></script>
-<script src="/materialize/js/init.js"></script>
-</body>
-</html>
+

@@ -29,7 +29,19 @@ categories: [Discography, Singles]
 ### Related Website
 * [45Cat](http://www.45cat.com/record/6006691)
 
-<style>.
-split {border-top: solid 5px #4B90B1;}
-</style>
+<style>
+.split {border-top: solid 5px #4B90B1;}
 
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+.fig3 {float:left; width:100%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>

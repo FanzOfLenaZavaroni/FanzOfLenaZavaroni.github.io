@@ -30,5 +30,18 @@ This version was released in Japan in which Lena sang it in Japanese, in intervi
 
 <style>
 .split {border-top: solid 5px #4B90B1;}
+
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+.fig3 {float:left; width:100%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
 </style>
 

@@ -55,7 +55,7 @@ Some Of These Days is the sixth single released by Lena Zavaroni
 
 .fig2 {float:right; width:49%;}
 
-.fig3 {float:right; width:100%;}
+.fig3 {float:left; width:100%;}
 
 figcaption {float:left; width:100%;}
 
@@ -64,4 +64,3 @@ figcaption {float:left; width:100%;}
 figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
-

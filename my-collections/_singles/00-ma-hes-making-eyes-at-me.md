@@ -122,6 +122,8 @@ It was released in various countries with various cover images and a version was
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <style>
+.split {border-top: solid 5px #4B90B1;}
+
 .fig1 {float:left; width:49%;}
 
 .fig2 {float:right; width:49%;}
@@ -133,4 +135,3 @@ figcaption {float:left; width:100%;}
 figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
-
