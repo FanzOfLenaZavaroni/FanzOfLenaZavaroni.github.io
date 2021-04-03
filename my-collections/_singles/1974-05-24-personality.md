@@ -3,13 +3,16 @@ layout: discography
 year: 24 May 1974
 title: (You've Got) Personality
 maintitle: (You've Got) Personality
+subtitle: Single
 b-side: Schools Out
 description: This is the 2nd single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
-<br />
+<figure class="fig3">
+<h3>UK</h3>
+<p><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div></p>
+<figcaption>
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
 <tr class="split"><th>A side:</th><td>(You've Got) Personality</td></tr>
@@ -24,10 +27,12 @@ categories: [Discography, Singles]
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>England</td></tr>
 <tr><th>Released:</th><td>24 May 1974</td></tr>
+<tr><th>45Cat</th><td><a href="http://www.45cat.com/record/6006691">6006 391</a></td></tr>
 </table>
+</figcaption>
+</figure>
 
-### Related Website
-* [45Cat](http://www.45cat.com/record/6006691)
+<br />{: .clear}
 
 <style>
 .split {border-top: solid 5px #4B90B1;}
@@ -45,3 +50,4 @@ figcaption {float:left; width:100%;}
 figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
+
