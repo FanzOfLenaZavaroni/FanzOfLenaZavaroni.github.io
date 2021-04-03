@@ -4,14 +4,14 @@ year: 3 April 1981
 title: Roses And Rainbows
 maintitle: 
 subtitle: Single
-description: This is the 11th single by Lena Zavaroni
+description: This is the 12th single by Lena Zavaroni
 media: 7" Vinyl, 45 Single
 post_description: 
 image: /assets/images/singles/lena-zavaroni-roses-and-rainbows-president.jpg
 categories: [Discography, Singles]
 ---
 
-Roses And Rainbows is the 11th single released by Lena Zavaroni.
+This is the 12th single by Lena Zavaroni
 
 <figure class="fig1">
 <img src="/assets/images/singles/lena-zavaroni-roses-and-rainbows-president.jpg" class="full-width">

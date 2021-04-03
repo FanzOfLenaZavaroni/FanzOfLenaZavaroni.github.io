@@ -4,7 +4,7 @@ year:
 title: Somewhere South Of Macon
 maintitle: Somewhere South Of Macon
 subtitle: Single
-description: This is the 12th single by Lena Zavaroni
+description: This is the 9th single by Lena Zavaroni
 media: 7" Vinyl, 45 Single
 post_description: 
 image: /assets/images/singles/

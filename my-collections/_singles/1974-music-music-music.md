@@ -4,7 +4,7 @@ year:
 title: Music Music Music
 maintitle: Music Music Music
 subtitle: Single
-description: This is the 3rd single by Lena Zavaroni
+description: This is the 4th single by Lena Zavaroni
 media: 7" Vinyl, 45 Single
 post_description: 
 image: /assets/images/singles/

@@ -4,7 +4,7 @@ year:
 title: Jump Down Jimmy
 maintitle: Jump Down Jimmy
 subtitle: Single
-description: This is the 9th single by Lena Zavaroni
+description: This is the 10th single by Lena Zavaroni
 media: 7" Vinyl, 45 Single
 post_description: 
 image: /assets/images/singles/
