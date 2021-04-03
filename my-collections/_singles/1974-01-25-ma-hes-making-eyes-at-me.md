@@ -13,8 +13,6 @@ categories: [Discography, Singles]
 
 Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It was released shortly after her third appearance on Opportunity Knocks.
 
-It was released in various countries with various cover images and a version was released in [Japan](/discography/singles/1974-japanese-ma-hes-making-eyes-at-me) in which Lena sang it in Japanese, in interviews Lena confirmed that she had learned the song in Japanese phonetically. The B-side of the Japanese release was &quot;[(You've Got) Personality](/discography/singles/1974-05-24-personality)&quot; which would become Lena's second international single.
-
 <figure class="fig1">
 <figcaption>
 <h3>UK</h3>
@@ -117,9 +115,35 @@ It was released in various countries with various cover images and a version was
 </figcaption>
 </figure>
 
-<br />{: .clear}
+{: .clear}
 
+<figure class="fig1">
+<figcaption>
+<h3>Japan</h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan.jpg" class="full-width">
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr class="split"><th>Label:</th><td>Philips - SFL-1850</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>Japan</td></tr>
+<tr><th>Released:</th><td>1974</td></tr>
+<tr><th>45Cat</th><td><a href="http://www.45cat.com/record/sfl1850">SFL-1850</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
+<figure class="fig2">
+<h3>Listen via YouTube</h3>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
+
+<br />{: .clear}
 
 <style>
 .split {border-top: solid 5px #4B90B1;}
