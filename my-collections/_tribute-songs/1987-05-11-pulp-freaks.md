@@ -1,8 +1,9 @@
 ---
 layout: discography
-year: 1987
+year: 11 May 1987
 title: Pulp - Freaks
 maintitle: Pulp - Freaks
+subtitle: 11 May 1987
 description: Pulp's album Freaks was released they dedicated Track No 7 - Anorexic Beauty to Lena Zavaroni.
 image: /assets/images/albums/1987-05-11-pulp-freaks-01.jpg
 ---

@@ -3,6 +3,7 @@ layout: discography
 year: November 1980
 title: Will He Kiss Me Tonight
 maintitle: Will He Kiss Me Tonight
+subtitle: Single
 b-side: Dream Come True
 description: This is the 11th single by Lena Zavaroni.
 categories: [Discography, Singles]

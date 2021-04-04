@@ -3,6 +3,7 @@ layout: discography
 year: 1974
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
+subtitle: April 1974
 description: Album
 image: /assets/images/albums/1974-lena-zavaroni-ma-hes-making-eyes-at-me-uk.jpg
 ---

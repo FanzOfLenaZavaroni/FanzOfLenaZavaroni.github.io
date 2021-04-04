@@ -1,8 +1,9 @@
 ---
 layout: discography
-year: 2008
+year: 2 September 2008
 title: Fujiya & Miyagi - Lightbulbs
 maintitle: Fujiya & Miyagi - Lightbulbs
+subtitle: 2 September 2008
 description: Track 1 - Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
 image: /assets/images/albums/2008-09-02-fujiya-and-miyagi-knickerbocker-album-cover.jpg
 ---

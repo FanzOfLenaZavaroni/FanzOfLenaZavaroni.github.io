@@ -3,7 +3,7 @@ layout: discography
 year: 1977
 title: O Profeta - Internacional
 maintitle: O Profeta - Internacional
-Subtitle: Compilation Album
+subtitle: 1977
 description: Original International Soundtrack from O profeta (Tupi TV, 1977/1978).
 image: /assets/images/albums/
 ---

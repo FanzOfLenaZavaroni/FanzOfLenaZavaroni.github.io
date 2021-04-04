@@ -3,6 +3,7 @@ layout: discography
 year: 27 June 2011
 title: The Lancashire Hotpots - Achtung Gravy
 maintitle: The Lancashire Hotpots - Achtung Gravy
+subtitle: 27 June 2011
 description: Track 12 - Lucy Meacock is the song that makes a reference to Lena Zavaroni's interview on Granada Reports.
 image: /assets/images/albums/The-Lancashire-Hotpots-Achtung-Gravy-small.jpg
 ---

@@ -3,6 +3,7 @@ layout: discography
 year: 2010
 title: John Hannam Archives Volume 1
 maintitle: John Hannam Archives Volume 1
+subtitle: Spoken Word
 image: /assets/images/spoken-words/John_hannam.jpg
 ---
 

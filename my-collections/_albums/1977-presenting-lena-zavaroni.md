@@ -3,6 +3,7 @@ layout: discography
 year: 1977
 title: Presenting Lena Zavaroni
 maintitle: Presenting Lena Zavaroni
+subtitle: 1977
 description: 
 image: /assets/images/albums/
 ---
