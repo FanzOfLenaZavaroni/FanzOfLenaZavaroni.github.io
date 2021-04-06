@@ -27,9 +27,9 @@ categories: [The Stage and Television Today]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-6-cropped">Page 6 - Cropped</h3>
+<h3 id="page-14">Page 14</h3>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6-cropped.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6-cropped.png" class="full-width zoom-in"></a>
+<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
@@ -40,6 +40,23 @@ categories: [The Stage and Television Today]
 <figcaption>
 <strong>Note:</strong> The above photo was taken at the same event but was not used in The Stage and Television Today article.
 </figcaption>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<figcaption>
+<h3 id="page-6-cropped">Page 6 - Cropped</h3>
+</figcaption>
+<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6-cropped.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6-cropped.png" class="full-width zoom-in"></a>
+</figure>
+
+
+<figure class="fig2">
+<figcaption>
+<h3 id="page-14-cropped">Page 14 - Cropped</h3>
+</figcaption>
+<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14-cropped.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}
