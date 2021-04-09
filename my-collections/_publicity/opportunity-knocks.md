@@ -1,25 +1,44 @@
 ---
 layout: publicity-photos
-title: Various Appearances by Lena on Opportunity Knocks
-maintitle: Various Appearances by Lena on Opportunity Knocks
-description: Publicity photos of Lena Zavaroni on various episodes of Opportunity Knocks.
-image: /assets/images/publicity/opportunity-knocks/3041013_orig.jpg
-categories: [Publicity Photos]
+title: Publicity &#124; Photo &#124; Various Appearances by Lena on Opportunity Knocks
+maintitle: Publicity
+subtitle:  "Photos: Various Appearances by Lena on Opportunity Knocks"
+description: Various Appearances by Lena on Opportunity Knocks
+media: Photos
+post_description: Various Appearances by Lena on Opportunity Knocks
+categories: [Publicity]
 ---
 
-[![](/assets/images/publicity/opportunity-knocks/6776833_orig.jpg){: .full-width}{: .gap}{: .zoom-in}](/assets/images/publicity/opportunity-knocks/6776833_orig.jpg)
-[![](/assets/images/publicity/opportunity-knocks/3041013_orig.jpg){: .full-width}{: .gap}{: .zoom-in}](/assets/images/publicity/opportunity-knocks/3041013_orig.jpg)
-[![](/assets/images/publicity/opportunity-knocks/5235593_orig.jpg){: .full-width}{: .gap}{: .zoom-in}](/assets/images/publicity/opportunity-knocks/5235593_orig.jpg)
-[![](/assets/images/publicity/opportunity-knocks/3221550_orig.jpg){: .full-width}{: .zoom-in}](/assets/images/publicity/opportunity-knocks/3221550_orig.jpg)
+<figure class="fig1">
+<a href="/assets/images/publicity/opportunity-knocks/3221550_orig.jpg"><img src="/assets/images/publicity/opportunity-knocks/3221550_orig.jpg" class="full-width zoom-in"></a>
+</figure>
+
+<figure class="fig2">
+<a href="/assets/images/publicity/opportunity-knocks/6776833_orig.jpg"><img src="/assets/images/publicity/opportunity-knocks/6776833_orig.jpg" class="full-width zoom-in"></a>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<a href="/assets/images/publicity/opportunity-knocks/3041013_orig.jpg"><img src="/assets/images/publicity/opportunity-knocks/3041013_orig.jpg" class="full-width zoom-in"></a>
+</figure>
+
+<figure class="fig2">
+<a href="/assets/images/publicity/opportunity-knocks/5235593_orig.jpg"><img src="/assets/images/publicity/opportunity-knocks/5235593_orig.jpg" class="full-width zoom-in"></a>
+</figure>
+
+<br />{: .clear}
 
 <style>
-.gap {margin-bottom:10px;}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: solid rgba(0,0,0,0.13) 1px;
-  padding: 3px;
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
 

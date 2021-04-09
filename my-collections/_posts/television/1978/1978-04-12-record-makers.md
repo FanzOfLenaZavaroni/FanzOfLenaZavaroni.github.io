@@ -24,50 +24,62 @@ categories: [Scottish Television]
 </tr>
 </table>
 
-![](/assets/images/ITV/the-record-makers-12-april-1978.jpg){: .full-width}
+<figure class="fig1">
+<img src="/assets/images/ITV/the-record-makers-12-april-1978.jpg" class="full-width" />
+<figcaption>
+<cite><strong id="note">Note:</strong> Lena Zavaroni never had an album released called Air Love, but the song was released on her album Presenting Lena Zavaroni and also as a single.</cite>
+</figcaption>
+</figure>
 
-### Note
-> Lena Zavaroni never had an album released called Air Love, but the song was released on her album Presenting Lena Zavaroni and also as a single.
->
-> ### So If Not That Then This
->
-> <div class="background color padding">
-> <h2 class="Rammetto-One">10.15 Record Makers</h2>
-> <h2 class="Black-900">LENA ZAVARONI</h2>
-> <div class="bold color size">
-> <p>Today's guest Lena Zavaroni sings all the songs from her album <a href="/discography/albums/03-presenting-lena-zavaroni">Presenting Lena Zavaroni</a> including her single <a href="/discography/singles/08-air-love">Air Love</a> which is also on the album.</p>
-> <p>The music director is Alyn Ainsworth.</p>
-> <p>DESIGNER: GEOFF NIXON</p>
-> <p>DIRECTOR: HALDANE DUNCAN</p>
-> <p>Scottish Television Production</p>
-> </div></div>
-> <br />
-> ### Or If Not That Then This
->
-> <div class="background color padding">
-> <h2 class="Rammetto-One">10.15 Record Makers</h2>
-> <h2 class="Black-900">LENA ZAVARONI</h2>
-> <div class="bold color size">
-> <p>Today's guest Lena Zavaroni sings both songs from her single Air Love.</p>
-> <p>The music director is Alyn Ainsworth.</p>
-> <p>DESIGNER: GEOFF NIXON</p>
-> <p>DIRECTOR: HALDANE DUNCAN</p>
-> <p>Scottish Television Production</p>
-> </div></div>
-> <br />
-> ### Information Request
->
-> If anyone has information on what was actually broadcast please let us know.
+{: .clear}
 
-<cite>Robcamstone</cite>
+<figure class="fig1">
+<figcaption>
+<h3 id="so">So If Not That Then This</h3>
+<div class="background color padding">
+<h2 class="Rammetto-One">10.15 Record Makers</h2>
+<h2 class="Black-900">LENA ZAVARONI</h2>
+<div class="bold color size">
+<p>Today's guest Lena Zavaroni sings all the songs from her album <a href="/discography/albums/1977-presenting-lena-zavaroni">Presenting Lena Zavaroni</a> including her single <a href="/discography/singles/1977-02-18-air-love">Air Love</a> which is also on the album.</p>
+<p>The music director is Alyn Ainsworth.</p>
+<p>DESIGNER: GEOFF NIXON</p>
+<p>DIRECTOR: HALDANE DUNCAN</p>
+<p>Scottish Television Production</p>
+</div></div>
+</figcaption>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<figcaption>
+<h3 id="or">Or If Not That Then This</h3>
+<div class="background color padding">
+<h2 class="Rammetto-One">10.15 Record Makers</h2>
+<h2 class="Black-900">LENA ZAVARONI</h2>
+<div class="bold color size">
+<p>Today's guest Lena Zavaroni sings both songs from her single Air Love.</p>
+<p>The music director is Alyn Ainsworth.</p>
+<p>DESIGNER: GEOFF NIXON</p>
+<p>DIRECTOR: HALDANE DUNCAN</p>
+<p>Scottish Television Production</p>
+</div></div>
+</figcaption>
+</figure>
+
+<br />{: .clear}
 
 <style>
+.fig1 {float:right; width:100%;}
+
+figcaption {float:left; width:100%;}
+
 .Rammetto-One {font-family: 'Rammetto One', cursive; color:#493C34;}
 .Black-900 {font-family: 'Catamaran', sans-serif; color:#493C34;}
 .size {font-size:25px;}
 .bold {font-weight:bold;}
 .color{color:#493C34;}
-.background {width:100%; background-color:#DDD7C9;}
+.background {background-color:#DDD7C9;}
 .padding {padding:20px;}
 </style>
 

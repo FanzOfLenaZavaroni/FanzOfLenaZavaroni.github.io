@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Lena and Bonnie
-maintitle: Lena and Bonnie
-subtitle: Publicity
-description: Publicity Photos for Publicity for Lena and Bonnie
-media: Publicity Photos
-post_description: 
+title: Publicity &#124; Photos &#124; 1978  &#124; Chris Moorhouse / LWT &#124; Lena and Bonnie
+maintitle: Publicity
+subtitle: Photos
+description: Publicity for Lena and Bonnie.
+media: Photos
+post_description: Lena and Bonnie.
 image: /assets/images/lena-and-bonnie/LZ-BL-01.jpg
 categories: [Publicity]
 ---

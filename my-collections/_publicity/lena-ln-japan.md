@@ -1,10 +1,12 @@
 ---
 layout: publicity-photos
-title: Lena's Visit To Japan in 1974
-maintitle: Lena's Visit To Japan in 1974
-description: Lena during her time in Japan.
-image: /assets/images/publicity/lena-ln-japan/273634_orig.jpg
-categories: [Publicity Photos]
+title: Publicity &#124; Photo &#124; Lena's Visit To Japan in 1974
+maintitle: Publicity
+subtitle:  Photos
+description: Lena's Visit To Japan in 1974
+media: Photos
+post_description: Lena's Visit To Japan in 1974
+categories: [Publicity]
 ---
 
 [![](/assets/images/publicity/lena-ln-japan/273634_orig.jpg){: .sq}{: .left-np}{: .margin-right}{: .margin-bottom}{: .zoom-in}](/assets/images/publicity/lena-ln-japan/273634_orig.jpg)

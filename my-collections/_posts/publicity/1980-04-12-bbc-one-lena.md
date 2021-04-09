@@ -1,14 +1,37 @@
 ---
 layout: post
-title: Publicity Photo
-maintitle: Publicity Photo
-subtitle: Lena - Episode 1.1
+title: Publicity &#124; Photo &#124; 12 April 1980 &#124; Lena Zavaroni
+maintitle: Publicity
+subtitle:  Photo
 description: Lena - Episode 1.1
-categories: [Publicity Photos]
+media: Photo
+post_description: Lena - Episode 1.1
+categories: [Publicity]
 ---
 
-[![](/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-front.jpg){: .half-width}{: .zoom-in}](/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-front.jpg)
-[![](/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-back.jpg){: .half-width}{: .zoom-in}](/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-back.jpg)
+<figure class="fig1">
+<a href="/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-front.jpg"><img src="/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-front.jpg" class="full-width zoom-in"></a>
+<figcaption>
+<cite><a href="/bbc%20one/lena%20-%20series%201/1980/04/23/lena.html">Lena - Episode 1.1</a></cite>
+</figcaption>
+</figure>
 
-<cite>[Lena - Episode 1.1](/bbc%20one/lena%20-%20series%201/1980/04/23/lena.html)</cite>
+<figure class="fig2">
+<a href="/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-back.jpg"><img src="/assets/images/publicity/1980-04-12-bbc-one-lena-zavaroni-back.jpg" class="full-width zoom-in"></a>
+</figure>
+
+<br />{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+figcaption {float:left; width:100%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+</style>
 
