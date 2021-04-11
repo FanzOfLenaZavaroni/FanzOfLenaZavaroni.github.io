@@ -3,7 +3,9 @@ layout: post
 title: Billboard &#124; 14 September 1974
 maintitle: Billboard
 subtitle: Newspaper
-description:
+description: Billboard Newspaper had a couple of articles that referenced Lena Zavaroni.
+media: Newspaper
+post_description: had a couple of articles that referenced Lena Zavaroni.
 image: /assets/images/magazines/1974-09-14-billboard-page-56.jpg
 categories: [Newspapers, Billboard]
 ---
