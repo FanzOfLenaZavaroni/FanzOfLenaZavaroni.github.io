@@ -3,9 +3,9 @@ layout: post
 title: The SHARE Show &#124; Broadcast live sometime in May 1974
 maintitle: The SHARE Show
 subtitle: (Broadcast live sometime in May 1974
-description: Annual children's charity benefit show in the US, held in Hollywood in May 1974.
+description: Annual children's charity benefit show in the US, held in Hollywood circa May 1974.
 media: US Television - Date of broadcast is unknown
-post_description: Annual children's charity benefit show in the US, held in Hollywood during May 1974.
+post_description: Annual children's charity benefit show in the US, held circa Hollywood during May 1974.
 image: /assets/images/US-TV/Frank-Sinatra-and-Lena-Zavaroni.jpg
 date: May 1974
 categories: [US Television]
@@ -13,7 +13,7 @@ categories: [US Television]
 
 <h1>The SHARE Show</h1>
 
-### Annual children's charity benefit show in the US, held in Hollywood during May 1974
+### Annual children's charity benefit show in the US, held in Hollywood circa May 1974
 
 <figure class="fig1" id="publicity-photo">
 <figcaption>
