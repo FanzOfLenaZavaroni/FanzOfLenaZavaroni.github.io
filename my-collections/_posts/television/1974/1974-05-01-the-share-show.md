@@ -52,8 +52,6 @@ categories: [US Television]
 
 .dt-published {display: none;}
 
-body > main > div > article > header > p:nth-child(2):after {content: 'May 1974'; color:#828282;}
-
 .fig1 {float:left; width:49%;}
 figcaption {float:left; width:100%;}
 
