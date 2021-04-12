@@ -34,7 +34,7 @@ categories: [Scottish Television]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="so">So If Not That Then This</h3>
+<h3 id="so-if-not-that-then-this">So If Not That Then This</h3>
 <div class="background color padding">
 <h2 class="Rammetto-One">10.15 Record Makers</h2>
 <h2 class="Black-900">LENA ZAVARONI</h2>
@@ -52,7 +52,7 @@ categories: [Scottish Television]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="or">Or If Not That Then This</h3>
+<h3 id="or-if-not-that-then-this">Or If Not That Then This</h3>
 <div class="background color padding">
 <h2 class="Rammetto-One">10.15 Record Makers</h2>
 <h2 class="Black-900">LENA ZAVARONI</h2>
