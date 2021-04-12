@@ -1,0 +1,50 @@
+{
+  "short_name": "Fanz of LZ",
+  "name": "Fanz of Lena Zavaroni",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/onthisday.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "Home Page",
+      "short_name": "Home",
+      "description": "Home page of the website that lists all content that has dates",
+      "url": "/",
+      "icons": [{ "src": "/favicon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "About Page",
+      "short_name": "About",
+      "description": "Gives a short intro to Lena Zavaroni and details about this website.",
+      "url": "/about.html",
+      "icons": [{ "src": "/favicon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Weather forecast information",
+  "screenshots": [
+    {
+      "src": "/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon-512.png",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ]
+}
