@@ -13,24 +13,24 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/onthisday.html",
+  "start_url": "/",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
   "theme_color": "#3367D6",
   "shortcuts": [
     {
-      "name": "Home Page",
-      "short_name": "Home",
-      "description": "Home page of the website that lists all content that has dates",
-      "url": "/",
+      "name": "About Page",
+      "short_name": "About",
+      "description": "Gives a short intro to Lena Zavaroni and this website.",
+      "url": "/about.html",
       "icons": [{ "src": "/favicon-192.png", "sizes": "192x192" }]
     },
     {
-      "name": "About Page",
-      "short_name": "About",
-      "description": "Gives a short intro to Lena Zavaroni and details about this website.",
-      "url": "/about.html",
+      "name": "On This Day",
+      "short_name": "Today",
+      "description": "Details related to Lena Zavaroni based on the day and month.",
+      "url": "/onthisday.html",
       "icons": [{ "src": "/favicon-192.png", "sizes": "192x192" }]
     }
   ],
