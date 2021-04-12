@@ -20,7 +20,6 @@ categories: [Scottish Television]
 <td><a href="#note">Note</a></td>
 <td><a href="#so-if-not-that-then-this">So If Not That Then This</a></td>
 <td><a href="#or-if-not-that-then-this">Or If Not That Then This</a></td>
-<td><a href="#information-request">Information Request</a></td>
 </tr>
 </table>
 
