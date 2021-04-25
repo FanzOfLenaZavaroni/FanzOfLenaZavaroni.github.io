@@ -52,6 +52,6 @@ image: https://img.youtube.com/vi/FqnZEbFiMos/sddefault.jpg
 
 ### Personal Appearances
 Lena made two personal appearances at Game Discount World, Durban, South Africa where she signed copies of the Album.
-* 28 April 1975 at 12.30 pm, at the Smith Street branch.
-* 29 April 1975 at 3.30pm, at the Brickhill Road branch.
+* 25 April 1975 at 12.30 pm, at the Smith Street branch.
+* 26 April 1975 at 3.30pm, at the Brickhill Road branch.
 
