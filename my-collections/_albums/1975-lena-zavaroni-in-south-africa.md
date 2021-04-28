@@ -51,6 +51,8 @@ image: https://img.youtube.com/vi/FqnZEbFiMos/sddefault.jpg
 11. What a Wonderful World
 
 ### Personal Appearances
+![](/assets/images/newspapers/natal-mercury.png){: .full-width}
+
 Lena made two personal appearances at Game Discount World, Durban, South Africa where she signed copies of the Album.
 * 28 April 1975 at 12.30 pm, at the Smith Street branch.
 * 29 April 1975 at 3.30pm, at the Brickhill Road branch.
