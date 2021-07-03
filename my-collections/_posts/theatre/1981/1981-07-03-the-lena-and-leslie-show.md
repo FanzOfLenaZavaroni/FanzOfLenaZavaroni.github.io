@@ -1,17 +1,16 @@
 ---
 layout: post
-title: The Lena Zavaroni Show
-maintitle: The Lena Zavaroni Show
+title: The Lena and Leslie Show
+maintitle: The Lena and Leslie Show
 subtitle: Fort Regent, St Helier, Jersey
-description: Note&#58; The title The Lena Zavaroni Show is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+description: Two nights of entertainment at Gloucester Hall in Fort Regent featuring the Lena and Leslie Show, with performances by Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
+media: Two nights of entertainment at Gloucester Hall in Fort Regent
+post_description: featuring Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 image: https://lh3.googleusercontent.com/p/AF1QipObFh5_rIyDRGxztmFpRV0-VTkNSMetvsFfbDfX=s1600-h1018
-categories: [Theatre, The Lena Zavaroni Show]
+categories: [Theatre, The Lena and Leslie Show]
 ---
 
-![Fort Regent, St Helier, Jersey](https://lh3.googleusercontent.com/p/AF1QipObFh5_rIyDRGxztmFpRV0-VTkNSMetvsFfbDfX=s1600-h1018){: .full-width}
-
-### Note
-> The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
+Two nights of entertainment at Gloucester Hall in Fort Regent featuring the Lena and Leslie Show, with performances by Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 
 ### Research
 > Research is on going and hopefully I will be able to add more details
