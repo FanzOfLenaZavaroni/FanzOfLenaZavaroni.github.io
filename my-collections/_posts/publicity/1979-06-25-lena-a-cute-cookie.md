@@ -20,7 +20,7 @@ categories: [Publicity]
 <h3>Related Events</h3>
 <ul>
 <li><a href="/bbc%20one/lena%20zavaroni%20and%20music/1979/06/27/lena-zavaroni-and-music.html">Lena Zavaroni and Music - Episode 6</a></li>
-<li><a href="/theatre/the%20lena%20zavaroni%20show/1979/07/05/the-lena-zavaroni-show.html">The Lena Zavaroni Show - Spa Theatre, Bridlington</a></li>
+<li><a href="/theatre/the%20lena%20zavaroni%20show/1979/07/06/the-lena-zavaroni-show.html">The Lena Zavaroni Show - Spa Theatre, Bridlington</a></li>
 </ul>
 </figcaption>
 </figure>
